@@ -1,0 +1,1504 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefwechsel Hugo von Hofmannsthals mit Yella, Felix und Mysa Oppenheimer</title>
+                <editor>Marthe Küster<email>marthe.kuester@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/hofmannsthal-oppenheimer.xml</idno>
+                <date when="2022-09-28T16:48:18.940-02:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="l65c55be-2c7d-44ac-9bf7-775e24bddf4d">Hugo
+von Hofmannsthal - Yella, Felix und Mysa Oppenheimer : Briefwechsel ; Teil II: 1906-1929.
+Herausgegeben von Nicoletta Giacon. In: Hofmannsthal. Jahrbuch zur europäischen Moderne 8 (2000), S. 7-155. <ref target="https://nbn-resolving.org/urn:nbn:de:hebis:30:3-481182">https://nbn-resolving.org/urn:nbn:de:hebis:30:3-481182</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                    <date evidence="conjecture" when="1906-08-02">2.8.1906</date>
+                    <placeName ref="http://www.geonames.org/2747599">Scheveningen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1906-08-28">28 VIII [1906]</date>
+                    <placeName cert="low" ref="http://www.geonames.org/3192555">Lueg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                    <date evidence="conjecture" when="1906-09-11">11.9.1906</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                    <date when="1906-10-22">22.10 [1906]</date>
+                    <placeName cert="low" ref="http://www.geonames.org/3173577">Meran</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                    <date when="1906-11-27">27.11. [1906]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                    <date evidence="conjecture" when="1907-03-25">25.3.1907</date>
+                    <placeName cert="low" ref="http://www.geonames.org/3169070">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1907-07-19">19 ten [Juli 1907]</date>
+                    <placeName cert="low" ref="http://www.geonames.org/3173140">Welsberg Tirol</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                    <date notAfter="1907-09-30" notBefore="1907-09-15">Mittwoch [Ende September 1907]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1908-08-15">15 VIII [190]8</date>
+                    <placeName ref="http://www.geonames.org/3165338">Trafoi</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1908-10-08">8 X. [1908]</date>
+                    <placeName ref="http://www.geonames.org/2765170" evidence="conjecture">Semmering</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                    <date evidence="conjecture" when="1908-11-30">30 XI 08</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1909-03">Montag abends. [März 1909]</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1909-08-02">2 August. [1909]</date>
+                    <placeName ref="http://www.geonames.org/2782070">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                    <date evidence="conjecture" when="1909-08-09">Montag früh umgehend in Eile [9. 8. 1909]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1909-08">[August 1909]</date>
+                    <placeName ref="http://www.geonames.org/2782070">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date when="1909-08">[August 1909]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1909-09-28">28 ten [September] 11 h [1909]</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date when="1909-10-17">17 X. [1909]</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2866175">Schloss Neubeuern a/Inn Oberbayern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1909-11-30">30 XI. [1909]</date>
+                    <placeName ref="http://www.geonames.org/2765170" evidence="conjecture">Semmering</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1910-07-13">13 ten Juli [1910]</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517" evidence="conjecture">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1910-08-10">10. VIII. [1910]</date>
+                    <placeName cert="low" ref="http://www.geonames.org/3180883">Canazei</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1910-10-29">29 X. [1910]</date>
+                    <placeName ref="http://www.geonames.org/3068927">Troppau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517" evidence="conjecture">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1911-09-26">26 IV. [1911]</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2866175" evidence="conjecture">Neubeuern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1911-06-01">1.VI. [1]911</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date when="1912-04-14">14 IV. [1912]</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1912-05-13">13 V [1912]</date>
+                    <placeName cert="low" ref="http://www.geonames.org/3171180">Perugia</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1912-10-09">9 X. [1912]</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517" evidence="conjecture">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1913-03-05">5 III 1913</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1913-03-17">17. III [1913]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date from="1913-07-11" evidence="conjecture" to="1913-07-23">[Zwischen dem 11. und 23. Juli 1913]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517" evidence="conjecture">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                    <date when="1913">Samstag Nacht [1913]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1913-09">[Mitte August/Anfang September 1913]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date notAfter="1913-09-15" notBefore="1913-09-01">[Anfang September 1913]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1913-09">vor dem Arbeiten. 9 h . [September 1913]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1913-09-08">8. IX. 1913</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1913-09">[September 1913]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1913-09-26">[26. September 1913] Freitag abends</date>
+                    <placeName ref="http://www.geonames.org/3164603">Venedig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                    <date evidence="conjecture" when="1913-10-06">6. 10 [1913]</date>
+                    <placeName ref="http://www.geonames.org/3181928">Bologna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1913-10-11">11 X. [1913]</date>
+                    <placeName ref="http://www.geonames.org/2829457" evidence="conjecture">Starnberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1913-10-13">Montag 13. [Oktober 1913]</date>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1914-01">Sonntag. [Januar 1914]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1914-03-30">Montag [30. März 1914]</date>
+                    <placeName ref="http://www.geonames.org/2765170" evidence="conjecture">Semmering</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517" evidence="conjecture">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1914-05-26">26 V. [1914]</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2953395">Bad Nauheim</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1914-06-19">19 VI. [1914]</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date from="1914-07-03" evidence="conjecture" to="1914-07-26">[Zwischen dem 3. und 26. Juli 1914]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1914-08-03">3 ten VIII. [1914]</date>
+                    <placeName ref="http://www.geonames.org/2782070">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date when="1914">Samstag abends. [1914]</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1916-06-25">25 VI. [1916]</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1916-08">[August 1916]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1916-08">[August 1916]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1916-09-08">8 IX. [1916]</date>
+                    <placeName ref="http://www.geonames.org/2782070">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1916-09-14">14. IX. [1916]</date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date when="1916-10-06">6. X. [1916]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1916-10-08">8 X. [1916]</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1916-10-22">22 X. [1916]</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1917-01-01">1. I 1917. abends.</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1917-07-06">6. VII. [1917]</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1917-10-22">22. X. [1917]</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date notAfter="1918" notBefore="1917">Mittwoch 9 h früh [1917/1918]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1918-05-08">Mittwoch früh. [8. Mai 1918]</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1918-06-03">Montag 3 Juni 18</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517" evidence="conjecture">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1918-07-20">20 VII 18</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517" evidence="conjecture">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1918-08">[August 1918]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517" evidence="conjecture">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1918-09-11">Mittwoch 11 IX. [1918]</date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517" evidence="conjecture">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                    <date evidence="conjecture" when="1918-09-19">19. September 1918</date>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1918-06-17">17 XI. [1918]</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1918-07-18">18 XII 18</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date when="1918">Sonntag abends, in Eile [1918]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date from="1918-12" evidence="conjecture" to="1919-01">[Dezember 1918/Januar 1919]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1919-08-02">2 August, 19</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2779638" evidence="conjecture">Ferleiten</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1919-08-10">10 ten VIII. [1919]</date>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1919-10-04">Samstag früh [4. Oktober 1919]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1919-10-12">Sonntag 12 X 19</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1919-10">[Oktober 1919]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517" evidence="conjecture">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1919-11-16">Sonntag 16 ten ; [November 1919] 4h 30</date>
+                    <placeName ref="http://www.geonames.org/2782052">Bad Ischl</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1919-11-21">21. XI. [1919]</date>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1919-11-23">Sonntag 23 XI. [1919]</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date from="1920-01" to="1920-02">[Ende Januar/Anfang Februar 1920]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date when="1920-02">Sontg. abends. [Mitte Februar 1920]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1920-08-09">9 VIII. [1920]</date>
+                    <placeName ref="http://www.geonames.org/2866175" evidence="conjecture">Schloss Neubeuern a/Inn Oberbayern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1920">Montag [1920]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1920-09">[September 1920]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1920-09">[September 1920]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517" evidence="conjecture">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1921-06-22">22 VI 21</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517" evidence="conjecture">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1921-07-13">13 Juli 1921</date>
+                    <placeName ref="http://www.geonames.org/2866175" evidence="conjecture">Neubeuern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517" evidence="conjecture">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1921-07-22">22 VII 21</date>
+                    <placeName ref="http://www.geonames.org/2866175" evidence="conjecture">Neubeuern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date when="1921-08-02">2 VIII 21</date>
+                    <placeName ref="http://www.geonames.org/2866175" evidence="conjecture">Neubeuern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1921-08-12">12 VIII 21</date>
+                    <placeName ref="http://www.geonames.org/2866175" evidence="conjecture">Neubeuern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1921-09">[September 1921]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1922-01-11">11 I 22</date>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1922-08-01">1 ten August 1922</date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1922-08-06">6 ten VIII. [1922]</date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1922-08">[August 1922]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517" evidence="conjecture">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1923-05">[Mai 1923]</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2659147">Schöneberg bei Pratteln Baselland</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1923-06-28">28 VI [1923]</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1923-07-26">26. 7. [23]</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2768006">Ramsau bei Schladming </placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1923-08-05">Sonntag den 5 ten VIII 1923</date>
+                    <placeName ref="http://www.geonames.org/2768006" evidence="conjecture">Ramsau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1923-09-29">29. IX. 1923</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1923-09-29">29. IX. 1923</date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1924-04-22">22 ten . [April 1924]</date>
+                    <placeName ref="http://www.geonames.org/3164603" evidence="conjecture">Venedig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1924-05-12">12 V 24</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1924-07-30">30 ten Juli. [1924]</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2659950">Lenzerheide</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1924-08-28">28. ten August, Goethes Geburtstag. [1924]</date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1924-11-17">17 XI 24</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1925-02-26">Donnerstag 26.ten II 25</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517" evidence="conjecture">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1925-03-12">12 III. [1925]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1925-03-17">17 III 25</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2538475">Rabat</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1925-03-22">22 III 25</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2548885">Fez</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1925-05-02">2 V 25</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1925-06-26">26 VI. 25</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1925-10-15">15 ten X 1925</date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1925-10-31">31. October 1925</date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1925-11-18">18 ten November abends. [1925]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1925-11-18">18 ten XI. 25</date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517" evidence="conjecture">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1926-07-28">28 VII 26</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1926-08-16">16ten VIII. [1926]</date>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1926-09-04">4 ten IX. [1926]</date>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517" evidence="conjecture">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1926-09-06">6 IX. [1926]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517" evidence="conjecture">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1926-10-05">5 X. 26</date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1926-10-05">5 X. 26</date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1926-10">[Oktober 1926]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1927-01-05">5 I 27</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517" evidence="conjecture">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1927-02-22">22 II 27</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2522975">Taormina</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1927-07-04">4 VII 27</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1927-07-14">14 VII. 27</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1927-08-03">3 VIII. 1927</date>
+                    <placeName cert="low" ref="http://www.geonames.org/3173577">Bozen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1927-09-23">23.9.27</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1927-09-29">29 ten IX 27</date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1927-09">[Sept. 1927]</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1927-10-15">15 X 27</date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1927-10-20">20 X 27</date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1927-11-09">9 XI 27</date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1928-07-31">31. Juli 1928</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                    <date evidence="conjecture" when="1928-09-04">4 IX [1928]</date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1928-09-23">23 IX 28</date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1928-09-26">26 IX. [1928]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1928-10-28">28 X. 28</date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1928-11-11">11.11.1928</date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1928-12-20">20 XII. [1928]</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1929-02-16">16 II 29</date>
+                    <placeName ref="http://www.geonames.org/2659147" evidence="conjecture">Schöneberg bei Pratteln Baselland</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1929-03-25">25 ten März, [1929]</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1929-05-16">16 ten [Mai] abends. [1929]</date>
+                    <placeName cert="low" ref="http://www.geonames.org/3169561">Ravenna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1929-05-21">[21.V.1929]</date>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1102402745">Yella Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date cert="low">9. I.</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138002" evidence="conjecture">Felix Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date cert="low">Sonntag</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517" evidence="conjecture">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date cert="low">18 ten</date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517" evidence="conjecture">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date cert="low">Mittwoch</date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517" evidence="conjecture">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date>Donnerstag</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517" evidence="conjecture">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date>2th</date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517" evidence="conjecture">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117138517" evidence="conjecture">Mysa Oppenheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#l65c55be-2c7d-44ac-9bf7-775e24bddf4d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1102402745" evidence="conjecture">Yella Oppenheimer</persName>
+                    <date>Samstag</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

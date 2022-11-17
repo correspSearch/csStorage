@@ -1,0 +1,1809 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <!-- Generated from table of letters with csv2cmi 2.1.0 as webservice at https://cmif.saw-leipzig.de-->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="title-d2ef-dc36-8a071e5bd2">Briefwechsel zwischen Richard Dedekind
+                    und Heinrich Weber</title>
+                <editor>Marthe Küster</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <idno type="url">https://correspsearch.net/storage/dedekind-weber.xml</idno>
+                <date when="2022-10-26T11:57:44.838607"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This file is
+                        licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="c8a7f985-c54e-4149-9878-75d8159947be">Der Briefwechsel Richard 
+                    Dedekind - Heinrich Weber. Herausgegeben von Katrin Scheel, Thomas Sonar, und Karin Reich. Abhandlungen der
+                    Akademie der Wissenschaften in Hamburg 5. Berlin München: De Gruyter, 2014.
+                    <ref target="https://doi.org/10.1515/9783110368048">https://doi.org/10.1515/9783110368048</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 1]" xml:id="letter-713e-8790-5c92def7ab">
+                <correspAction xml:id="sender-6a39-09f6-917c4ef50b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1874-11-01"/>
+                </correspAction>
+                <correspAction xml:id="addressee-ca84-3f9a-53b1d07682" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 1.a]" xml:id="letter-d378-7186-d82bf49a30">
+                <correspAction xml:id="sender-6f92-9862-76ef2c3d50" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date when="1874-11-05"/>
+                </correspAction>
+                <correspAction xml:id="addressee-cb39-b6dc-382f075c41" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 1.b]" xml:id="letter-725a-a531-fad4c09837">
+                <correspAction xml:id="sender-2756-1d0b-6e0d81c245" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/6295506">Fluntern bei Zürich</placeName>
+                    <date when="1874-11-05"/>
+                </correspAction>
+                <correspAction xml:id="addressee-4d09-70b2-d641972eb8" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 2]" xml:id="letter-0e5b-6f4c-a9e367b5c8">
+                <correspAction xml:id="sender-e501-fa34-1f742a5b6c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1874-11-11"/>
+                </correspAction>
+                <correspAction xml:id="addressee-e032-854f-4d9763fcb0" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 2]" xml:id="letter-248a-325a-a8dfb397c0">
+                <correspAction xml:id="sender-3d9f-736a-efb0318a49" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/6295506">Fluntern bei Zürich</placeName>
+                    <date when="1874-11-24"/>
+                </correspAction>
+                <correspAction xml:id="addressee-d3f6-64a3-238f9cdb16" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 3]" xml:id="letter-4f06-9e56-d0fc6a4183">
+                <correspAction xml:id="sender-0f78-e642-9cdbae40f6" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date when="1875-02-28"/>
+                </correspAction>
+                <correspAction xml:id="addressee-91d5-2c3d-5127c64f93" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 4]" xml:id="letter-159f-2a6c-bfa1835920">
+                <correspAction xml:id="sender-b842-68dc-091e247c35" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date when="1875-03-01"/>
+                </correspAction>
+                <correspAction xml:id="addressee-e8f4-c6d7-3afec4d952" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 3]" xml:id="letter-7026-23d5-d30b6e87a5">
+                <correspAction xml:id="sender-b021-87a3-30859a2b74" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1875-03-14"/>
+                </correspAction>
+                <correspAction xml:id="addressee-21c8-697e-fda3e69c74" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 5]" xml:id="letter-fdc5-e901-ab8cd2e0f3">
+                <correspAction xml:id="sender-7382-b268-21b6c4f759" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date when="1875-03-22"/>
+                </correspAction>
+                <correspAction xml:id="addressee-f1e6-2bde-a9f3e864b5" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 4]" xml:id="letter-6f25-9fea-6a237d94f8">
+                <correspAction xml:id="sender-4165-18ae-7ec3b68a0d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1875-03-26"/>
+                </correspAction>
+                <correspAction xml:id="addressee-ad1b-b6c3-3cf9467e05" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 6]" xml:id="letter-fa92-1452-c35814adb2">
+                <correspAction xml:id="sender-0e7a-0f62-8aec025974" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/6295506">Fluntern bei Zürich</placeName>
+                    <date when="1875-04-20"/>
+                </correspAction>
+                <correspAction xml:id="addressee-268f-649a-1298ce7bd6" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 7]" xml:id="letter-907d-0a8e-142e5c8f7b">
+                <correspAction xml:id="sender-89fd-8a2e-15ec2d790b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/6295506">Fluntern bei Zürich</placeName>
+                    <date when="1875-07-08"/>
+                </correspAction>
+                <correspAction xml:id="addressee-0e6a-170c-1b25c3ed86" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 8]" xml:id="letter-972d-ac37-d56871cf20">
+                <correspAction xml:id="sender-f106-2386-df6e5791c3" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/6295506">Fluntern bei Zürich</placeName>
+                    <date when="1875-08-02"/>
+                </correspAction>
+                <correspAction xml:id="addressee-928d-cd60-7adc84bf36" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 5]" xml:id="letter-637b-01ae-be4f238a07">
+                <correspAction xml:id="sender-0de2-364e-ed04c921ba" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2661450">Bönigen</placeName>
+                    <date when="1875-09-02"/>
+                </correspAction>
+                <correspAction xml:id="addressee-6530-8e0a-4e071bc68f" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 9]" xml:id="letter-540d-e012-273aecd8f1">
+                <correspAction xml:id="sender-c48a-bd2f-a350d29cf4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1875-09-03"/>
+                </correspAction>
+                <correspAction xml:id="addressee-b2f8-c4a2-0e2693cb15" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 10]" xml:id="letter-76bd-25e3-e4a78629d3">
+                <correspAction xml:id="sender-179c-d78a-e59f1473bd" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1875-10-06"/>
+                </correspAction>
+                <correspAction xml:id="addressee-81fd-0e4d-bf0163a7c5" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 11]" xml:id="letter-3ecf-c159-4f32b1685e">
+                <correspAction xml:id="sender-8ac4-ba0e-216ab53fdc" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1875-11-06"/>
+                </correspAction>
+                <correspAction xml:id="addressee-a203-02d8-7b1fd06549" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 6]" xml:id="letter-b638-a0db-05edb461a9">
+                <correspAction xml:id="sender-261e-5b61-7b4506c9e8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1875-11-10"/>
+                </correspAction>
+                <correspAction xml:id="addressee-e42b-c73a-ce68a51473" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 7]" xml:id="letter-f6d0-0379-68b1a92e30">
+                <correspAction xml:id="sender-39bc-fca6-c85ae7d3f6" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1875-11-13"/>
+                </correspAction>
+                <correspAction xml:id="addressee-308b-e48b-f3cd59b18a" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 12]" xml:id="letter-cebf-b6cd-2e4a61b5c7">
+                <correspAction xml:id="sender-6e02-0a65-6efb541928" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1875-11-14"/>
+                </correspAction>
+                <correspAction xml:id="addressee-1f03-cb40-a21d548367" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 13]" xml:id="letter-e8cf-46a9-0ac619d37e">
+                <correspAction xml:id="sender-a1d0-1a04-eb7f0152c6" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1875-11-14"/>
+                </correspAction>
+                <correspAction xml:id="addressee-3d79-0d7c-2018476b39" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 14]" xml:id="letter-daf9-26ac-e82c1d5f9a">
+                <correspAction xml:id="sender-c172-03f4-da642fc395" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1875-11-28"/>
+                </correspAction>
+                <correspAction xml:id="addressee-b5ea-24e7-e4f716d380" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 15]" xml:id="letter-0e2f-3965-0b514d396f">
+                <correspAction xml:id="sender-d546-9426-278a5196bf" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1875-12-01"/>
+                </correspAction>
+                <correspAction xml:id="addressee-adf4-7f29-869ca27b3e" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 16]" xml:id="letter-75f6-3a08-47ced69218">
+                <correspAction xml:id="sender-95c1-1a96-0bd39fac5e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1875-12-04"/>
+                </correspAction>
+                <correspAction xml:id="addressee-e63c-5d4e-157d23e40c" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 17]" xml:id="letter-b089-8feb-820cd39a65">
+                <correspAction xml:id="sender-059b-5041-8d0b162793" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1875-12-05"/>
+                </correspAction>
+                <correspAction xml:id="addressee-0bc7-6973-4689eca0f3" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 18]" xml:id="letter-6975-ec54-026a9f7ecd">
+                <correspAction xml:id="sender-e35c-2185-b279f8e65d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1875-12-10"/>
+                </correspAction>
+                <correspAction xml:id="addressee-c785-c4a6-6af53e7802" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 19]" xml:id="letter-465e-298f-34d512a7cf">
+                <correspAction xml:id="sender-95bc-5720-c74312af96" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1875-12-12"/>
+                </correspAction>
+                <correspAction xml:id="addressee-67a2-c491-31062945b8" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 20]" xml:id="letter-d563-9d03-1824ed7bf3">
+                <correspAction xml:id="sender-1954-57c9-b8a459cd67" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1875-12-13"/>
+                </correspAction>
+                <correspAction xml:id="addressee-a4de-c32d-d98ce15073" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 21]" xml:id="letter-3a0c-6827-014fdb62e9">
+                <correspAction xml:id="sender-51a4-b23c-92abed04f6" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1875-12-21"/>
+                </correspAction>
+                <correspAction xml:id="addressee-83bd-9182-31b25ef98c" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 22]" xml:id="letter-1a93-0873-7f56eac491">
+                <correspAction xml:id="sender-28cb-e6b2-d72ac0b854" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1875-12-22"/>
+                </correspAction>
+                <correspAction xml:id="addressee-c2df-2a8b-893b2ed675" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 23]" xml:id="letter-3126-58a0-c35ef28160">
+                <correspAction xml:id="sender-8a27-7ed6-09526bd7f4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1875-12-28"/>
+                </correspAction>
+                <correspAction xml:id="addressee-4ebc-bc63-ce750d2813" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 24]" xml:id="letter-d392-ef20-158f630dc2">
+                <correspAction xml:id="sender-4053-3756-da68407fe2" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-01-18"/>
+                </correspAction>
+                <correspAction xml:id="addressee-7df4-16c2-f9106b8de3" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 25]" xml:id="letter-6f4c-2a0f-497bd1a0f3">
+                <correspAction xml:id="sender-71c2-1629-43bcf97a25" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-02-03"/>
+                </correspAction>
+                <correspAction xml:id="addressee-70be-01d8-3a9651b80d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 26]" xml:id="letter-7c3f-7e46-031afcb849">
+                <correspAction xml:id="sender-bec6-c9b8-0e49cd5b8a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-02-08"/>
+                </correspAction>
+                <correspAction xml:id="addressee-9e0c-f096-9b17a3f4ec" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 8]" xml:id="letter-54ba-3947-d937ec6214">
+                <correspAction xml:id="sender-5f78-3784-1b93d67ef0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <date>undatiert</date>
+                </correspAction>
+                <correspAction xml:id="addressee-32c4-4d9c-3fc6b40952" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 9]" xml:id="letter-392c-5fc0-8d067b4cf9">
+                <correspAction xml:id="sender-1d52-43dc-f046acb7d2" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <date>undatiert</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8569-e0b9-2d7e0c4b15" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 27]" xml:id="letter-05fd-2f38-305a7fce12">
+                <correspAction xml:id="sender-307e-2be4-26f1e7dac3" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-02-12"/>
+                </correspAction>
+                <correspAction xml:id="addressee-dcfe-ed03-4d9782e56a" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 10]" xml:id="letter-40eb-f714-286f03ac15">
+                <correspAction xml:id="sender-4b5c-2380-647c81ae09" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <date>undatiert</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3da5-2c89-542af9dbc8" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 28]" xml:id="letter-9f07-4ab7-40271bcf3d">
+                <correspAction xml:id="sender-4802-0ead-8294c7bf35" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-02-19"/>
+                </correspAction>
+                <correspAction xml:id="addressee-e801-6125-ea24b5968d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 29]" xml:id="letter-4f29-15c0-b49a5fd312">
+                <correspAction xml:id="sender-4a27-9e45-04c3dae2b8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-02-20"/>
+                </correspAction>
+                <correspAction xml:id="addressee-1f24-14bc-71bfe60dc9" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 11]" xml:id="letter-92c0-b35e-f4bda69e10">
+                <correspAction xml:id="sender-4f83-5f08-f7a985204b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date>undatiert</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7f98-b834-7d362ea508" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 12]" xml:id="letter-67d8-ba39-7f6542ad30">
+                <correspAction xml:id="sender-0fba-cfd2-f2e0a3b8d6" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date>undatiert</date>
+                </correspAction>
+                <correspAction xml:id="addressee-afe5-94c7-1b28a5d79e" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 13]" xml:id="letter-1f59-6f4e-f4b5dc3067">
+                <correspAction xml:id="sender-0da8-a1b3-15209ac6b8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1876-02-25"/>
+                </correspAction>
+                <correspAction xml:id="addressee-4baf-f4c5-6ae27310cb" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 14]" xml:id="letter-1a43-5c9e-0e2853c164">
+                <correspAction xml:id="sender-f8b3-807a-07f94bd863" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1876-03-16"/>
+                </correspAction>
+                <correspAction xml:id="addressee-0579-6c37-b478ef10c9" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 30]" xml:id="letter-db68-7c3a-780baf4296">
+                <correspAction xml:id="sender-6adc-704c-92fd1c40b5" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <date when="1876-03-18"/>
+                </correspAction>
+                <correspAction xml:id="addressee-5b9a-345c-70613c84ad" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 31]" xml:id="letter-7380-ec71-6740dac8be">
+                <correspAction xml:id="sender-a2fe-f4b5-3609da8214" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-03-23"/>
+                </correspAction>
+                <correspAction xml:id="addressee-c9e4-7394-58921bc60d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 15]" xml:id="letter-8b91-649a-a4dbe1c829">
+                <correspAction xml:id="sender-3c8f-a2f1-28d063f497" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1876-04-02"/>
+                </correspAction>
+                <correspAction xml:id="addressee-4b37-5b4f-32b071c6e9" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 32]" xml:id="letter-fa60-40d5-f4851db630">
+                <correspAction xml:id="sender-7e6c-23c7-bda8602e3f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-04-04"/>
+                </correspAction>
+                <correspAction xml:id="addressee-ace9-4fca-6e8192df7b" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 16]" xml:id="letter-170d-7209-ae65b834c9">
+                <correspAction xml:id="sender-e32b-d53f-4db2a07961" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1876-04-06"/>
+                </correspAction>
+                <correspAction xml:id="addressee-d632-6b3d-5fb714c26d" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 33]" xml:id="letter-9a14-3fed-4b5f1e79a0">
+                <correspAction xml:id="sender-be0a-9b82-5c98f1207e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-04-10"/>
+                </correspAction>
+                <correspAction xml:id="addressee-8a63-83cb-4572981e63" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 34]" xml:id="letter-bd3a-4de0-48d25eb601">
+                <correspAction xml:id="sender-487d-fa29-5d1bce6280" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-04-11"/>
+                </correspAction>
+                <correspAction xml:id="addressee-016a-6f20-a0cbe31f76" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 17]" xml:id="letter-0cb8-18c2-5826ab34d0">
+                <correspAction xml:id="sender-79e3-a74d-0a926def5c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1876-04-12"/>
+                </correspAction>
+                <correspAction xml:id="addressee-541a-90a4-34ac5176bf" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 35]" xml:id="letter-eb41-81b0-5c69108d4f">
+                <correspAction xml:id="sender-2d13-397b-38b52ad1f4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-04-16"/>
+                </correspAction>
+                <correspAction xml:id="addressee-e48f-4059-c71824dea9" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 36]" xml:id="letter-f1db-3c76-79bf6a453d">
+                <correspAction xml:id="sender-4ec0-a186-01ad6b85ce" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-05-18"/>
+                </correspAction>
+                <correspAction xml:id="addressee-38b7-8fd5-0591cb8e34" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 37]" xml:id="letter-cab0-9a43-210b485aed">
+                <correspAction xml:id="sender-7b6f-827a-6e402b8a5c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-05-19"/>
+                </correspAction>
+                <correspAction xml:id="addressee-db49-a650-12cbd45ae3" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 38]" xml:id="letter-d9ab-f971-10cab379fd">
+                <correspAction xml:id="sender-94b2-bf3a-3dabef782c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-05-22"/>
+                </correspAction>
+                <correspAction xml:id="addressee-ec76-d975-ebf17d8c56" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 39]" xml:id="letter-4079-2940-9ea8f7b136">
+                <correspAction xml:id="sender-90c4-6583-59b648e2d7" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-06-05"/>
+                </correspAction>
+                <correspAction xml:id="addressee-839a-cf01-b7f5104a23" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 40]" xml:id="letter-4182-a8ce-839ca502b1">
+                <correspAction xml:id="sender-319a-5267-496b05dc13" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-06-05"/>
+                </correspAction>
+                <correspAction xml:id="addressee-a9c4-5d4e-80cab39f71" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 41]" xml:id="letter-a128-871b-b7056d4183">
+                <correspAction xml:id="sender-bfe7-48f6-1b47e2f93d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-06-14"/>
+                </correspAction>
+                <correspAction xml:id="addressee-ba2e-5cef-72e148abc9" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 42]" xml:id="letter-b594-1ed6-f721bc46da">
+                <correspAction xml:id="sender-2608-42a9-38102e946d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-06-15"/>
+                </correspAction>
+                <correspAction xml:id="addressee-6451-012f-f15a2783ce" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 43]" xml:id="letter-72b3-086a-f2b8ed6504">
+                <correspAction xml:id="sender-627a-8daf-3fe28956cd" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-06-20"/>
+                </correspAction>
+                <correspAction xml:id="addressee-6804-3248-7da15c9b63" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 44]" xml:id="letter-249c-13f9-5f20c168d4">
+                <correspAction xml:id="sender-c0f6-7042-d54b920a3f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-06-27"/>
+                </correspAction>
+                <correspAction xml:id="addressee-53b9-e20f-01ec8d7af5" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 45]" xml:id="letter-0c2e-4f7b-f865db74a2">
+                <correspAction xml:id="sender-d9a2-b4a1-8975c036d1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-07-04"/>
+                </correspAction>
+                <correspAction xml:id="addressee-45e7-a9de-5a8cd24613" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 46]" xml:id="letter-6f31-86e9-b0cae983f5">
+                <correspAction xml:id="sender-e8bd-c607-0c97856d2e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-07-10"/>
+                </correspAction>
+                <correspAction xml:id="addressee-5067-ae42-938c4ad21f" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 18]" xml:id="letter-501f-3d8a-bc3948e6d1">
+                <correspAction xml:id="sender-5d61-0f74-d6e4f92ba0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <date when="1876-07-26"/>
+                </correspAction>
+                <correspAction xml:id="addressee-2c97-71e6-c38f4d1a72" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 47]" xml:id="letter-f8e5-8362-61783df9a5">
+                <correspAction xml:id="sender-3915-b6fa-fd5794a306" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-07-28"/>
+                </correspAction>
+                <correspAction xml:id="addressee-f1eb-60b3-74ab302c69" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 48]" xml:id="letter-3d2c-5c61-7bf52801d4">
+                <correspAction xml:id="sender-dc9b-9bf8-85214ca76e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1876-08-01"/>
+                </correspAction>
+                <correspAction xml:id="addressee-3a71-26cb-876a0efd21" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 49]" xml:id="letter-f7b3-f813-192703fa8b">
+                <correspAction xml:id="sender-d137-607b-2390741fea" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1876-08-07"/>
+                </correspAction>
+                <correspAction xml:id="addressee-b68f-af67-9ba4e13f5d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 50]" xml:id="letter-12ca-2a98-0538f127b4">
+                <correspAction xml:id="sender-b5cd-bc39-93e275c84a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1876-08-10"/>
+                </correspAction>
+                <correspAction xml:id="addressee-076b-fc57-1645c0b7d3" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2953507">Bad Ems</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 51]" xml:id="letter-35c6-cb23-efa9c76b15">
+                <correspAction xml:id="sender-db3c-9168-5f61de80a4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1876-08-21"/>
+                </correspAction>
+                <correspAction xml:id="addressee-3d1f-bc82-3a6845c91b" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2953504">Baden Baden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 52]" xml:id="letter-7cdb-24d3-a85019fc36">
+                <correspAction xml:id="sender-c92a-cf38-2c5d4efb79" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-11-24"/>
+                </correspAction>
+                <correspAction xml:id="addressee-f3dc-a4e5-3ca4980efb" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 19]" xml:id="letter-5f92-4736-a1785df2b9">
+                <correspAction xml:id="sender-bd89-3912-5c6291d3fb" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1876-11-27"/>
+                </correspAction>
+                <correspAction xml:id="addressee-2160-b7c8-5ac4796b38" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 53]" xml:id="letter-2fb6-0641-b2c1e85304">
+                <correspAction xml:id="sender-687a-f537-7adc5f2903" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-12-10"/>
+                </correspAction>
+                <correspAction xml:id="addressee-29c0-0f15-f1b4cae657" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 54]" xml:id="letter-e42f-35a7-dbcf98e263">
+                <correspAction xml:id="sender-5fb4-d4b5-a5eb423196" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1876-12-27"/>
+                </correspAction>
+                <correspAction xml:id="addressee-cae6-60a3-e8c59bfa30" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 55]" xml:id="letter-1f65-420e-cf56a2e3d9">
+                <correspAction xml:id="sender-6ef5-0538-ba6efd7104" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1877-01-24"/>
+                </correspAction>
+                <correspAction xml:id="addressee-ce9b-3841-038194bf6d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 56]" xml:id="letter-68ba-e35c-706f81ca24">
+                <correspAction xml:id="sender-3b98-0b9a-c14fe29d35" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1877-01-30"/>
+                </correspAction>
+                <correspAction xml:id="addressee-2573-a7ce-19ab56d0c3" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 57]" xml:id="letter-74f9-8a5f-13f4a2790c">
+                <correspAction xml:id="sender-0b9e-f432-aef816b392" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1877-03-15"/>
+                </correspAction>
+                <correspAction xml:id="addressee-f659-19fb-6397c014e5" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 58]" xml:id="letter-0a91-fe20-c290d341f5">
+                <correspAction xml:id="sender-6e0b-d27c-f0356da8bc" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1877-03-18"/>
+                </correspAction>
+                <correspAction xml:id="addressee-910c-1739-3bd0f54a78" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 59]" xml:id="letter-b819-3bcd-05c82d47fa">
+                <correspAction xml:id="sender-562f-479c-48c7095efd" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1877-04-07"/>
+                </correspAction>
+                <correspAction xml:id="addressee-4ab3-6ab4-421ac359b8" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 60]" xml:id="letter-5930-8241-3f6abd7c92">
+                <correspAction xml:id="sender-5e1d-cf63-673254beda" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1877-05-29"/>
+                </correspAction>
+                <correspAction xml:id="addressee-4ca9-8b3a-65783e0bd4" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 61]" xml:id="letter-4280-adc9-dbc361879a">
+                <correspAction xml:id="sender-9627-b7d9-67fb18c405" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1877-06-16"/>
+                </correspAction>
+                <correspAction xml:id="addressee-1a4f-f83e-408165ca93" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 62]" xml:id="letter-6d94-7ab6-a78c605b41">
+                <correspAction xml:id="sender-db3e-b4e8-f29ed87631" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1877-07-07"/>
+                </correspAction>
+                <correspAction xml:id="addressee-eba7-3fce-1c7e25d963" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 63]" xml:id="letter-d780-b7da-96527f1da3">
+                <correspAction xml:id="sender-d198-0a26-a8163709fd" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1877-07-12"/>
+                </correspAction>
+                <correspAction xml:id="addressee-637a-e10d-ec57061bf9" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 64]" xml:id="letter-2706-02ab-bfc9740ade">
+                <correspAction xml:id="sender-19a0-ab40-dec915b260" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1877-07-23"/>
+                </correspAction>
+                <correspAction xml:id="addressee-d341-db21-b612a5e390" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 65]" xml:id="letter-95cd-f902-7d9f46bace">
+                <correspAction xml:id="sender-03f8-154d-c2bd5837e0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1877-08-27"/>
+                </correspAction>
+                <correspAction xml:id="addressee-6a5b-6743-9e73bf6da8" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2658434">Schweiz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 66]" xml:id="letter-c103-85de-b05f781ae9">
+                <correspAction xml:id="sender-23dc-b724-4bfe270a18" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1877-09-20"/>
+                </correspAction>
+                <correspAction xml:id="addressee-d8a4-cd80-df18267394" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2953449">Harzburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 67]" xml:id="letter-e31b-ca58-a8412de306">
+                <correspAction xml:id="sender-6a10-6495-b63e5ad74c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1877-10-11"/>
+                </correspAction>
+                <correspAction xml:id="addressee-b603-2195-bf198e624d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 68]" xml:id="letter-d08c-bd8e-bf6a82d15c">
+                <correspAction xml:id="sender-408e-78db-c93e8764ab" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1877-11-30"/>
+                </correspAction>
+                <correspAction xml:id="addressee-10ea-a901-5981cf4e60" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 69]" xml:id="letter-1e65-a4e2-bfe02da31c">
+                <correspAction xml:id="sender-c7a4-241e-fde51789c6" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1877-12-06"/>
+                </correspAction>
+                <correspAction xml:id="addressee-f0a3-a7e5-4a2d931f5e" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 70]" xml:id="letter-bca5-5b0c-cd92418753">
+                <correspAction xml:id="sender-d016-160b-39ce16d84f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1877-12-24"/>
+                </correspAction>
+                <correspAction xml:id="addressee-7b48-8e29-51b3f78a6d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 71]" xml:id="letter-3a12-28c7-304879fbda">
+                <correspAction xml:id="sender-2081-1f08-bc6d912ea0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1877-12-30"/>
+                </correspAction>
+                <correspAction xml:id="addressee-503e-706c-35a0146c78" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 72]" xml:id="letter-4756-c708-a271f3c890">
+                <correspAction xml:id="sender-a1b7-365b-6024e5b87c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1878-01-07"/>
+                </correspAction>
+                <correspAction xml:id="addressee-8cba-6943-c9fed83612" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 73]" xml:id="letter-f759-d219-5c4ed8f073">
+                <correspAction xml:id="sender-cd84-6e41-5b1fe230da" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1878-01-24"/>
+                </correspAction>
+                <correspAction xml:id="addressee-42a9-2f5c-83ac2e0754" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 74]" xml:id="letter-21a4-8d5f-5f4e01ba7d">
+                <correspAction xml:id="sender-c680-0635-e5a10bc749" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1878-02-06"/>
+                </correspAction>
+                <correspAction xml:id="addressee-edcb-f0e6-9f872cda43" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 75]" xml:id="letter-40ea-9681-ec84f71b52">
+                <correspAction xml:id="sender-3592-6095-a406ce27f8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1878-02-07"/>
+                </correspAction>
+                <correspAction xml:id="addressee-c2b3-b623-873fd169e2" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 76]" xml:id="letter-8ca9-62f3-ad1874035c">
+                <correspAction xml:id="sender-2e96-7946-710532c89b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1878-03-09"/>
+                </correspAction>
+                <correspAction xml:id="addressee-c69d-7b39-b914d50a2e" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 77]" xml:id="letter-7d38-4369-40cfea9532">
+                <correspAction xml:id="sender-6f2c-4a2b-4c586e213d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1878-03-17"/>
+                </correspAction>
+                <correspAction xml:id="addressee-7e53-2b87-ab41fd9c60" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 78]" xml:id="letter-a4fe-078f-8a69f7dc31">
+                <correspAction xml:id="sender-de71-1b70-5d4a92b3c8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1878-03-26"/>
+                </correspAction>
+                <correspAction xml:id="addressee-b561-4a3c-6e1fb03427" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 79]" xml:id="letter-8916-01e7-db27c931e8">
+                <correspAction xml:id="sender-a2dc-7ef4-ca9758f21d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1878-04-11"/>
+                </correspAction>
+                <correspAction xml:id="addressee-6508-ce35-d4e37c165a" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 80]" xml:id="letter-0bf2-60a8-3159a8d706">
+                <correspAction xml:id="sender-5214-40bf-f926a7c184" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1878-04-21"/>
+                </correspAction>
+                <correspAction xml:id="addressee-309a-b3f7-5d07af61e3" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 81]" xml:id="letter-f1e0-b8ae-f2359be146">
+                <correspAction xml:id="sender-2865-c95f-b72f5160ec" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1878-04-28"/>
+                </correspAction>
+                <correspAction xml:id="addressee-8f4d-a1d7-1da827f4e9" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 82]" xml:id="letter-b90a-f3a1-3a71024c6d">
+                <correspAction xml:id="sender-9cb1-a90c-a1f045b8d7" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1878-05-10"/>
+                </correspAction>
+                <correspAction xml:id="addressee-c681-e721-3af0419567" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 83]" xml:id="letter-3a52-b134-72dec6148b">
+                <correspAction xml:id="sender-61c9-324c-4c6f7b902e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1878-05-19"/>
+                </correspAction>
+                <correspAction xml:id="addressee-3af4-1c36-9f4b12a678" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 84]" xml:id="letter-38ca-d57b-3adb28e904">
+                <correspAction xml:id="sender-8e3b-9b1f-4efb6ca231" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1878-05-23"/>
+                </correspAction>
+                <correspAction xml:id="addressee-026f-3621-9c53107b8a" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 85]" xml:id="letter-5b92-205a-9852be17ca">
+                <correspAction xml:id="sender-c218-6e78-e9b6c37a40" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1878-06-09"/>
+                </correspAction>
+                <correspAction xml:id="addressee-71e3-c416-2b0d4138e7" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 86]" xml:id="letter-20c9-103b-587ec6d419">
+                <correspAction xml:id="sender-2a1f-53ac-e53cb482fa" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1878-06-19"/>
+                </correspAction>
+                <correspAction xml:id="addressee-d204-63d1-f6b7e85c01" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 87]" xml:id="letter-248a-4e0b-751bf926e4">
+                <correspAction xml:id="sender-afcb-fb03-2f6b9dca78" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1878-07-05"/>
+                </correspAction>
+                <correspAction xml:id="addressee-0e2f-2f1d-0f52e1a4b7" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 88]" xml:id="letter-e216-4819-7c924fd853">
+                <correspAction xml:id="sender-85f9-f7b3-0b3d48c57f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1878-07-21"/>
+                </correspAction>
+                <correspAction xml:id="addressee-7f8b-534c-758d2419ae" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 89]" xml:id="letter-715c-ab06-f853e9b041">
+                <correspAction xml:id="sender-b914-dfcb-d62e71b904" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1878-08-11"/>
+                </correspAction>
+                <correspAction xml:id="addressee-3a6d-ebcf-47c810e692" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 90]" xml:id="letter-304c-a3eb-0fd1a6cb72">
+                <correspAction xml:id="sender-b83d-c8f2-0186daf523" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1878-09-03"/>
+                </correspAction>
+                <correspAction xml:id="addressee-5eda-8b59-9daf642c38" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2953449">Harzburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 91]" xml:id="letter-ab2d-9a46-05a4c89bd1">
+                <correspAction xml:id="sender-15d4-8106-e1c276d340" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <date when="1878-09-12"/>
+                </correspAction>
+                <correspAction xml:id="addressee-1d29-0c36-91dbce345a" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2953449">Harzburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 92]" xml:id="letter-fd6e-79b6-10b2f5a367">
+                <correspAction xml:id="sender-3ec1-0bf1-3f4025d6b1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1878-09-16"/>
+                </correspAction>
+                <correspAction xml:id="addressee-64f3-9edc-32abd51c98" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 93]" xml:id="letter-f031-e427-f0b6529714">
+                <correspAction xml:id="sender-8b57-c532-75b4612a8e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1878-10-09"/>
+                </correspAction>
+                <correspAction xml:id="addressee-f5a8-25cb-d253b4ca8f" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 94]" xml:id="letter-8d75-9256-418fb36759">
+                <correspAction xml:id="sender-02de-8e6d-8c2d5340f7" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1878-10-20"/>
+                </correspAction>
+                <correspAction xml:id="addressee-cb86-ba9c-dc01b34e86" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 95]" xml:id="letter-62e7-a7c8-37fa524cd9">
+                <correspAction xml:id="sender-b910-179c-08915e7f32" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1878-10-29"/>
+                </correspAction>
+                <correspAction xml:id="addressee-1cf6-3801-9c71d6f345" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 96]" xml:id="letter-abc4-c1b2-c86f2da753">
+                <correspAction xml:id="sender-b85f-74d0-870bda4e36" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1878-11-02"/>
+                </correspAction>
+                <correspAction xml:id="addressee-85cb-c1e6-82a1fcd36b" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 20]" xml:id="letter-a4c5-386b-ba5ec314f0">
+                <correspAction xml:id="sender-2bc7-b73d-4e6d871fc2" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1878-11-08"/>
+                </correspAction>
+                <correspAction xml:id="addressee-5b37-9b45-352ad7964e" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 97]" xml:id="letter-d281-0219-ea8cf29546">
+                <correspAction xml:id="sender-ba6f-35ef-1a5f962edc" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1878-11-13"/>
+                </correspAction>
+                <correspAction xml:id="addressee-6c2f-189d-641c85bd30" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 21]" xml:id="letter-f3b6-217f-760189cb45">
+                <correspAction xml:id="sender-8075-2018-9314c02b6e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1878-11-19"/>
+                </correspAction>
+                <correspAction xml:id="addressee-e937-18f7-f6e195b72d" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 98]" xml:id="letter-9071-085b-14e965207a">
+                <correspAction xml:id="sender-a384-a802-5b49cdf826" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1878-11-28"/>
+                </correspAction>
+                <correspAction xml:id="addressee-b456-0bde-5d0961e7bc" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 99]" xml:id="letter-e9d7-6a1c-2d81ea3bf6">
+                <correspAction xml:id="sender-d37e-da72-67adb534e0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1878-12-30"/>
+                </correspAction>
+                <correspAction xml:id="addressee-2178-273a-3e27ac186f" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 100]" xml:id="letter-1948-d046-f7945b2e68">
+                <correspAction xml:id="sender-078c-821c-e3d091846c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1879-01-06"/>
+                </correspAction>
+                <correspAction xml:id="addressee-7294-e3c8-41865a70dc" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 101]" xml:id="letter-b84f-af39-23ab6890d4">
+                <correspAction xml:id="sender-e56c-df5e-7a1ef36b9d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1879-01-18"/>
+                </correspAction>
+                <correspAction xml:id="addressee-8321-a159-27d3f8451b" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 102]" xml:id="letter-9f1e-316c-e04678bd95">
+                <correspAction xml:id="sender-3742-9e35-ba7cd4e295" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1879-02-02"/>
+                </correspAction>
+                <correspAction xml:id="addressee-f2e5-9235-c02384a6fd" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 103]" xml:id="letter-89bf-abed-15ae03cfb4">
+                <correspAction xml:id="sender-14e7-ad60-a16b34e5f9" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1879-02-12"/>
+                </correspAction>
+                <correspAction xml:id="addressee-fe24-c92d-784e6a29d1" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 104]" xml:id="letter-8ae4-2d53-5c368ebf1d">
+                <correspAction xml:id="sender-8cf7-c15f-3cd76a124f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1879-02-21"/>
+                </correspAction>
+                <correspAction xml:id="addressee-789c-5f67-c15690b3d4" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 105]" xml:id="letter-6a27-e604-590f867ade">
+                <correspAction xml:id="sender-4fc8-2af0-3e29480cf5" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1879-03-05"/>
+                </correspAction>
+                <correspAction xml:id="addressee-09db-3a5c-f245c3d670" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 106]" xml:id="letter-0fe7-6bf3-a81f59d37e">
+                <correspAction xml:id="sender-ef35-c5a1-3851f749ed" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1879-03-22"/>
+                </correspAction>
+                <correspAction xml:id="addressee-5fcb-ac15-2e51afcb87" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 107]" xml:id="letter-5c06-47e5-3ce1df5a24">
+                <correspAction xml:id="sender-139f-9dbc-794305aebf" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1879-04-01"/>
+                </correspAction>
+                <correspAction xml:id="addressee-1459-f319-85307d9f1e" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 108]" xml:id="letter-7f09-a903-10b96ecf75">
+                <correspAction xml:id="sender-29c3-359e-d482a53fe6" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1879-04-04"/>
+                </correspAction>
+                <correspAction xml:id="addressee-629c-d1ac-fed1608ac9" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 109]" xml:id="letter-8903-572a-629a8f3e01">
+                <correspAction xml:id="sender-a2ce-756a-63147edb58" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1879-04-19"/>
+                </correspAction>
+                <correspAction xml:id="addressee-62d3-e058-b923f481e6" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 110]" xml:id="letter-591b-6532-cb1dea578f">
+                <correspAction xml:id="sender-48ce-cfde-26a4e83097" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1879-05-14"/>
+                </correspAction>
+                <correspAction xml:id="addressee-bc26-3ecb-5d461ca820" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 111]" xml:id="letter-4b6e-391a-d06f7e18b2">
+                <correspAction xml:id="sender-5be3-56f0-976014e3f2" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1879-06-02"/>
+                </correspAction>
+                <correspAction xml:id="addressee-d03f-860d-2839c0a47b" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 112]" xml:id="letter-af57-7b30-eb5d324f09">
+                <correspAction xml:id="sender-39ef-c80b-c5e78130db" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1879-06-07"/>
+                </correspAction>
+                <correspAction xml:id="addressee-9715-e78b-89fe4a56d0" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 113]" xml:id="letter-95c1-8401-4cfde062a1">
+                <correspAction xml:id="sender-9642-958d-30815db94c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1879-06-22"/>
+                </correspAction>
+                <correspAction xml:id="addressee-7ea2-e250-ab1357e09f" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 114]" xml:id="letter-67cd-a3e9-09bad85612">
+                <correspAction xml:id="sender-ab2c-d073-729081f5ec" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1879-07-05"/>
+                </correspAction>
+                <correspAction xml:id="addressee-2f1e-12c5-ca951e307d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 115]" xml:id="letter-4a5f-e250-7fcb068142">
+                <correspAction xml:id="sender-4a8f-b01d-2175f03bac" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1879-07-28"/>
+                </correspAction>
+                <correspAction xml:id="addressee-f15e-80eb-37a61b8402" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 116]" xml:id="letter-9b4d-fc6d-e6ba4518d9">
+                <correspAction xml:id="sender-5872-0e28-2159ad7b08" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1879-10-03"/>
+                </correspAction>
+                <correspAction xml:id="addressee-e0d7-e01c-2a749bfecd" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 117]" xml:id="letter-3d87-01f3-d0e56917b4">
+                <correspAction xml:id="sender-32de-893a-b63c502d4e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1879-10-18"/>
+                </correspAction>
+                <correspAction xml:id="addressee-b735-1e67-afbc194760" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 118]" xml:id="letter-ed46-e103-a1f07b862e">
+                <correspAction xml:id="sender-bf95-c16b-f460d9723b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1879-10-20"/>
+                </correspAction>
+                <correspAction xml:id="addressee-fca8-14d7-c290d7386f" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 119]" xml:id="letter-d826-c1bd-08ab2d15e9">
+                <correspAction xml:id="sender-0fae-7d46-c76f5ba0e8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1879-10-31"/>
+                </correspAction>
+                <correspAction xml:id="addressee-e018-ecfd-f0423e769b" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 22]" xml:id="letter-0af7-49c8-b4ef369507">
+                <correspAction xml:id="sender-2730-a682-9e1d24305c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <date>undatiert</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8fe7-23cd-d57a6942b1" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 120]" xml:id="letter-5a41-027e-d5e3296a0c">
+                <correspAction xml:id="sender-c387-ef46-5217c9e368" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1879-12-18"/>
+                </correspAction>
+                <correspAction xml:id="addressee-74c2-a2bf-e742b60915" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 121]" xml:id="letter-16f4-1d30-54f0193bae">
+                <correspAction xml:id="sender-a10b-2bc4-c1be3a6590" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1879-12-22"/>
+                </correspAction>
+                <correspAction xml:id="addressee-3287-518e-d0be845913" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 122]" xml:id="letter-b125-c08a-290b8c7af4">
+                <correspAction xml:id="sender-6d10-70af-81e9a6d0c4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1879-12-23"/>
+                </correspAction>
+                <correspAction xml:id="addressee-836e-fed6-07912dacb4" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 123]" xml:id="letter-294f-7a65-d69085b3a2">
+                <correspAction xml:id="sender-80f6-9b42-49f031a7be" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1879-12-26"/>
+                </correspAction>
+                <correspAction xml:id="addressee-e15b-721c-425bce38d7" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 23]" xml:id="letter-7a0f-4f80-83cfd06529">
+                <correspAction xml:id="sender-08ba-73df-d5b12a976f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <date when="1880-01-19"/>
+                </correspAction>
+                <correspAction xml:id="addressee-7ca1-2c0a-9d56f8bc13" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 24]" xml:id="letter-34f2-836e-45daf20e9c">
+                <correspAction xml:id="sender-495e-ab29-02198f5ae3" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <date when="1880-10-30"/>
+                </correspAction>
+                <correspAction xml:id="addressee-4d71-842f-2f607cd3b1" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 25]" xml:id="letter-8901-3d45-2a14e96870">
+                <correspAction xml:id="sender-d83a-10f7-485296afbc" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1887-02-20"/>
+                </correspAction>
+                <correspAction xml:id="addressee-a13f-9260-b6f71940d2" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/2873759">Marburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 26]" xml:id="letter-b175-8d37-7638a0f154">
+                <correspAction xml:id="sender-617a-d68b-4c2e95d38a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1888-01-24"/>
+                </correspAction>
+                <correspAction xml:id="addressee-502f-2e6c-4cad57801f" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 27]" xml:id="letter-f097-714d-76fa54de98">
+                <correspAction xml:id="sender-0e21-a892-4f378ae5c1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <date when="1888-11-06"/>
+                </correspAction>
+                <correspAction xml:id="addressee-e024-1a70-b21f076ced" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/2873759">Marburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 28]" xml:id="letter-dc95-24a3-072f1e64d8">
+                <correspAction xml:id="sender-74cb-4d8f-6c4df7a519" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2953449">Harzburg</placeName>
+                    <date when="1891-08-22"/>
+                </correspAction>
+                <correspAction xml:id="addressee-e37f-c634-6d7924ef5b" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 29]" xml:id="letter-37d4-0a47-d7ac1b3586">
+                <correspAction xml:id="sender-26b9-ebd1-e862c71b95" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <date when="1894-12-31"/>
+                </correspAction>
+                <correspAction xml:id="addressee-e53b-9da5-940c251ed3" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 30]" xml:id="letter-51b9-5e80-e2b98fd3c6">
+                <correspAction xml:id="sender-a1c3-73f9-78360cbef9" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1895-10-30"/>
+                </correspAction>
+                <correspAction xml:id="addressee-1fa9-5687-e53f24b917" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 31]" xml:id="letter-3895-95a3-32ae5c04f7">
+                <correspAction xml:id="sender-3e95-239d-507486c2af" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1898-09-30"/>
+                </correspAction>
+                <correspAction xml:id="addressee-0bd1-549c-4bd613207f" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 124]" xml:id="letter-9d2b-f4e0-0d12896745">
+                <correspAction xml:id="sender-e4d5-0b6d-5d02fc734b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/2973783">Strassburg</placeName>
+                    <date when="1899-10-04"/>
+                </correspAction>
+                <correspAction xml:id="addressee-14a8-6c0d-c816740ba2" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 125]" xml:id="letter-e597-9423-98ed01726f">
+                <correspAction xml:id="sender-6cef-f945-c0256bed9f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117157945">Emilie Weber</persName>
+                    <placeName ref="http://www.geonames.org/2973783">Strassburg</placeName>
+                    <date when="1899-10-05"/>
+                </correspAction>
+                <correspAction xml:id="addressee-28b0-6294-c9ab05e241" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 126]" xml:id="letter-ad36-1e3b-a38def12bc">
+                <correspAction xml:id="sender-84ea-ea83-2e8469fadb" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/2973783">Strassburg</placeName>
+                    <date when="1899-10-05"/>
+                </correspAction>
+                <correspAction xml:id="addressee-35c0-be0f-e760d1f53c" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 127]" xml:id="letter-829a-7d3b-1af45e82dc">
+                <correspAction xml:id="sender-e283-c084-539ef280bd" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/2973783">Strassburg</placeName>
+                    <date when="1899-10-09"/>
+                </correspAction>
+                <correspAction xml:id="addressee-e659-54b2-1843eba52d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 128]" xml:id="letter-e87d-4530-d79f54e328">
+                <correspAction xml:id="sender-54ab-5346-b6c70e5d28" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1899-10-13"/>
+                </correspAction>
+                <correspAction xml:id="addressee-56c8-d3f6-e641cb735a" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 32]" xml:id="letter-bda2-c0a6-1c43d728fb">
+                <correspAction xml:id="sender-5d20-8c7a-e74dc29386" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1900-03-09"/>
+                </correspAction>
+                <correspAction xml:id="addressee-d1c8-8a94-1f87264ce5" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 33]" xml:id="letter-26b5-253d-dfa34628b9">
+                <correspAction xml:id="sender-db4c-13ae-965a0be487" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1900-04-08"/>
+                </correspAction>
+                <correspAction xml:id="addressee-5603-f389-20c71d34fa" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 129]" xml:id="letter-463c-a074-5f90812ab7">
+                <correspAction xml:id="sender-026a-24c0-72f3d06ac5" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/2973783">Strassburg</placeName>
+                    <date when="1906-01-03"/>
+                </correspAction>
+                <correspAction xml:id="addressee-6c07-15d4-2ab14df0c6" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 34]" xml:id="letter-f791-a304-85dc2b04e7">
+                <correspAction xml:id="sender-7f4e-c40a-5671bde3cf" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <date when="1906-01-11"/>
+                </correspAction>
+                <correspAction xml:id="addressee-8bf6-4f87-b293f5c7d8" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 130]" xml:id="letter-9f83-b392-c972fb5ea3">
+                <correspAction xml:id="sender-5432-9623-9f52b46801" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/2973783">Strassburg</placeName>
+                    <date when="1908-06-05"/>
+                </correspAction>
+                <correspAction xml:id="addressee-7f32-3589-3240b7c195" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Web 131]" xml:id="letter-205a-e12f-0f6a3472cd">
+                <correspAction xml:id="sender-6209-95fa-683b27f9ae" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                    <placeName ref="http://www.geonames.org/2973783">Strassburg</placeName>
+                    <date when="1908-07-16"/>
+                </correspAction>
+                <correspAction xml:id="addressee-c7a6-4ea5-947e015b83" type="received">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c8a7f985-c54e-4149-9878-75d8159947be" key="[Ded 35]" xml:id="letter-3af9-3481-095428d67e">
+                <correspAction xml:id="sender-b7ef-edb0-6a3e0d9c82" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118524259">Richard Dedekind</persName>
+                    <date when="1912-12-17"/>
+                </correspAction>
+                <correspAction xml:id="addressee-139b-b873-9ba6237c4f" type="received">
+                    <persName ref="https://d-nb.info/gnd/1012808513">Heinrich Weber</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

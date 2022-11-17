@@ -1,0 +1,812 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefwechsel zwischen Bettine Brentano und Max Prokop von Freyberg</title>
+                <editor>Marthe Küster<email>marthe.kuester@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/bettine-brentano-prokop.xml</idno>
+                <date when="2022-09-30T17:36:47.153-02:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="j8a82433-54bd-411f-afda-90b418423431">Der Briefwechsel zwischen Bettine Brentano und Max Prokop von Freyberg.
+                    Hg. v. Sibylle von Steinsdorff. De Gruyter, 2019. <ref target="https://doi.org/10.1515/9783110865523">https://doi.org/10.1515/9783110865523</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1810-05-12">12 May 1810</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date evidence="conjecture" when="1810-05-16">16ten May [1810]</date>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date evidence="conjecture" when="1810-05-19">19. May 1810</date>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1810-05-23">23 May 1810</date>
+                    <placeName ref="http://www.geonames.org/2881485" evidence="conjecture">Landshut</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date evidence="conjecture" when="1810-05-23">23. May 1810</date>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1810-05-25">25. May 1810</date>
+                    <placeName ref="http://www.geonames.org/2881485" evidence="conjecture">Landshut</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1810-05-30">30t May 1810</date>
+                    <placeName ref="http://www.geonames.org/2881485" evidence="conjecture">Landshut</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="8">
+                <correspAction type="sent">
+                    <persName cert="low" ref="https://d-nb.info/gnd/118605909">Friedrich Carl von Savigny</persName>
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date evidence="conjecture" when="1810-01-08">8. Jun. 1810</date>
+                    <placeName ref="http://www.geonames.org/3067696" evidence="conjecture">Prag</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date evidence="conjecture" when="1810-06-08">8ten Juni [1810]</date>
+                    <placeName ref="http://www.geonames.org/3067696" evidence="conjecture">Prag</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date evidence="conjecture" when="1810-06-10">10. Juni 1810</date>
+                    <placeName ref="http://www.geonames.org/3078422" evidence="conjecture">Bukowan</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date evidence="conjecture" when="1810-06-11">11. Juni 1810</date>
+                    <placeName ref="http://www.geonames.org/3078422" evidence="conjecture">Bukowan</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date evidence="conjecture" when="1810-06-12">I2ten Juni [1810]</date>
+                    <placeName ref="http://www.geonames.org/3078422" evidence="conjecture">Bukowan</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1810-06-15">15 Juny [1810]</date>
+                    <placeName ref="http://www.geonames.org/2881485" evidence="conjecture">Landshut</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date evidence="conjecture" when="1810-06-16">16ten Juni. [1810]</date>
+                    <placeName ref="http://www.geonames.org/3078422">Bukowan</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1810-06-21">21t ]uny 1810</date>
+                    <placeName ref="http://www.geonames.org/2881485" evidence="conjecture">Landshut</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1810-06-25">25t Juny 1810 . Nachts</date>
+                    <placeName ref="http://www.geonames.org/2881485" evidence="conjecture">Landshut</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date evidence="conjecture" when="1810-06-29">29ten Juny [1810]</date>
+                    <placeName ref="http://www.geonames.org/3067696" evidence="conjecture">Prag</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1810-06-29">29t Juny [1810]</date>
+                    <placeName ref="http://www.geonames.org/2881485" evidence="conjecture">Landshut</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date evidence="conjecture" when="1810-07-03">3 July [1810]</date>
+                    <placeName ref="http://www.geonames.org/3078422" evidence="conjecture">Bukowan</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1810-07-06">6t [Juli 1810] Morgens</date>
+                    <placeName ref="http://www.geonames.org/2881485" evidence="conjecture">Landshut</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date evidence="conjecture" when="1810-07-06">6ten July [ 1810] Abends 11 Uhr</date>
+                    <placeName ref="http://www.geonames.org/3078422" evidence="conjecture">Bukowan</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1810-07-08">8 July 1810. Morgens</date>
+                    <placeName ref="http://www.geonames.org/2881485" evidence="conjecture">Landshut</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1810-07-12">12t July . [ 1810]</date>
+                    <placeName ref="http://www.geonames.org/2881485" evidence="conjecture">Landshut</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date evidence="conjecture" when="1810-07-20">20ten July [1810] 11 Uhr Abends</date>
+                    <placeName ref="http://www.geonames.org/3078422" evidence="conjecture">Bukowan</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1810-07-23">23t July [1810]</date>
+                    <placeName ref="http://www.geonames.org/2881485" evidence="conjecture">Landshut</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1810-07-24">24t July 1810</date>
+                    <placeName ref="http://www.geonames.org/2881485" evidence="conjecture">Landshut</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date evidence="conjecture" when="1810-07-28">28ten July [1810] Abends</date>
+                    <placeName ref="http://www.geonames.org/3078422" evidence="conjecture">Bukowan</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1810-07-30">30t July [1810]</date>
+                    <placeName ref="http://www.geonames.org/2881485" evidence="conjecture">Landshut</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date evidence="conjecture" when="1810-08-03">3ten August [1810]</date>
+                    <placeName ref="http://www.geonames.org/3078422" evidence="conjecture">Bukowan</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1810-08-05">5ten August [1810]</date>
+                    <placeName ref="http://www.geonames.org/2881485" evidence="conjecture">Landshut</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1810-08-06">6t August . [1810]</date>
+                    <placeName ref="http://www.geonames.org/2881485" evidence="conjecture">Landshut</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1810-08-14">14ten August [1810]</date>
+                    <placeName ref="http://www.geonames.org/2881485" evidence="conjecture">Landshut</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1810-08-15">15ten August . [1810]</date>
+                    <placeName ref="http://www.geonames.org/2881485" evidence="conjecture">Landshut</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1810-08-20">20t [August]. [1810]</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1810-08-25">25t [August 1810]</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="36">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date evidence="conjecture" when="1810-09-23">23 September [1810]</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date cert="low" notAfter="1810-10-05" evidence="conjecture">vor dem 5 . October 1810</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date notAfter="1810-10-09">vor dem 9. Oktober 1810</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1810-10-09">9t Oktober. 1810</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="40">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1810-10-10">10ten [Oktober 1810]</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="41">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date evidence="conjecture" when="1810-11-09">9ten November [1810]</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="42">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1810-11-19">vor dem 19. November 1810</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="43">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1810-11-20">20ten November. [1810]</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date evidence="conjecture" when="1810-12-03">3. December 1810</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date notAfter="1810-12-20" notBefore="1810-12-10">Mitte Dezember 1810</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1810-12-28">28 Dec . [1810]</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date evidence="conjecture" when="1811-01-27">27ten Jenner [1811]</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="48">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date notAfter="1811-02-20" notBefore="1811-02-10">Mitte Februar 1811</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="49">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date notAfter="1811-02-26">vor dem 26. Februar 1811</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="50">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date notAfter="1811-03-03">vor dem 3. März 1811</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="51">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date notAfter="1811-04-14">vor dem 14ten Aprill 1811</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="52">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date notAfter="1811-06-13">vor dem 13. Juni 1811</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="53">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date notAfter="1811-06-20" notBefore="1811-06-10">Mitte Juni 1811</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="54">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date evidence="conjecture" when="1811-06-22">22. Juny 1811</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="53">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date notAfter="1811-07-16">vor dem 16. Juli 1811</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="56">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date evidence="conjecture" when="1811-08-18">18. August 1811</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="57">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1811-12-31">31. Dezember 1811</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="58">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date notAfter="1812-01-12">vor dem oder am 12. Januar 1812</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="59">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1812-05-04">4ten May 1812</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="60">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date notAfter="1811-06-01"> vor dem 1. Juni 1811</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="61">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date notAfter="1812-07-20" notBefore="1812-07-10">Mitte Juli 1812</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="62">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date notAfter="1812-08-03">vor dem 3. August 1812</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="63">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                    <date notAfter="1813" notBefore="1812">1812 oder 1813</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="64">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1813-10-11">11 October 1813</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="65">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1813-11-17">17 Nov. [1813]</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="66">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1813-12-11">11 Dec 1813</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="67">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1814-01-09">9 Jän 1814</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="68">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1814-01-19">19 Jän 1814 Nachts</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="69">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date notAfter="1814-05-21">vor dem oder am 21. März oder Mai 1814</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="70">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1814-11-07">7 November 1814</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1814-12-14">14 Dec Nachts 1814</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="72">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1814-12-17">17 Dec. [1814]</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="73">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1815-01">Januar 1815</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="74">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date notAfter="1815-05" notBefore="1815-01">Frühjahr 1815</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="75">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date notAfter="1816-11-18">vor dem 18ten November 1816</date>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="76">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1820-11-19">19 Nov [18]20</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="77">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1845-11-19">19. November 1845</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j8a82433-54bd-411f-afda-90b418423431" key="78">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118693271" evidence="conjecture">Max Prokop</persName>
+                    <date evidence="conjecture" when="1850-11-19">19. November 1850</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118504185" evidence="conjecture">Bettine Brentano</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

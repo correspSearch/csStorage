@@ -1,0 +1,994 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <!-- Generated from table of letters with csv2cmi 2.1.0 as webservice at https://cmif.saw-leipzig.de-->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Korrespondenz zwischen Johann Balthasar
+                    Ehrhart und Christoph Jacob Trew</title>
+                <editor>Marthe Küster</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <idno type="url">https://correspsearch.net/storage/ehrhart-trew.xml</idno>
+                <date when="2022-10-19T13:17:02.598361"/>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="a1337b95-feab-4894-ac7c-ff49abbfe6b7">Johann Balthasar Ehrhart (1700-1756) und
+                    seine Korrespondenz mit Christoph Jacob Trew (1695-1769). Herausgegeben von Ruth
+                    Heinzelmann. Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), 2011.
+                    <ref target="https://nbn-resolving.org/urn:nbn:de:bvb:29-opus-26362">https://nbn-resolving.org/urn:nbn:de:bvb:29-opus-26362</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="1" xml:id="letter-f205-0fae-76f9430ed8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1731-01-17">17.01.1731</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="2" xml:id="letter-aeb5-068c-16f80ca593">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1731-01-18">18.01.1731</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="3" xml:id="letter-cad6-1eb7-087dc4ba6e">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1731-02-06">06.02.1731</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="4" xml:id="letter-1ac2-37b4-a16d7c94b8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1731-02-10">10.02.1731</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="5" xml:id="letter-2ab0-b054-8a63cbd427">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1731-02-23">23.02.1731</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="6" xml:id="letter-d46f-3be4-ec8bd651a0">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1731-03-14">14.03.1731</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="7" xml:id="letter-9721-c204-17df082c9a">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1731-03-19">19.03.1731</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="8" xml:id="letter-d570-49cf-3754219cde">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1731-03-22">22.03.1731</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="9" xml:id="letter-d053-f9d3-da9f6c2034">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1731-04-04">04.04.1731</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="10" xml:id="letter-32b6-1ac2-f174b8390c">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1731-04-13">13.04.1731</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="11" xml:id="letter-4fbd-ce89-37280691f4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1731-04-26">26.04.1731</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="12" xml:id="letter-f596-1dba-915b846ce2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1731-05-23">23.05.1731</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="13" xml:id="letter-af07-2594-1b58f964a0">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date>o. D.</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="14" xml:id="letter-17ca-4a8c-e3c4a8f70b">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1731-07-10">10.07.1731</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="15" xml:id="letter-8a41-8ab0-ca40637189">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1731-07-25">25.07.1731</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="16" xml:id="letter-a12b-96e1-634def8509">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1731-09-18">18.09.1731</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="17" xml:id="letter-b106-9d8e-13ce87b4ad">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1731-09-26">26.09.1731</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="18" xml:id="letter-df6b-a3f4-d3ba8e6427">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1731-09-28">28.09.1731</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="19" xml:id="letter-fc64-2046-59af2bdec3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1731-10-03">03.10.1731</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="20" xml:id="letter-9d3e-8fb7-421b3fe798">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1731-10-10">10.10.1731</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="21" xml:id="letter-07e6-0385-d95013842c">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1731-10-15">15.10.1731</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="22" xml:id="letter-62c8-ad3e-4a3e69b2d8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1731-10-20">20.10.1731</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="23" xml:id="letter-27fc-dec7-b214a3fd6c">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1731-10-31">31.10.1731</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="24" xml:id="letter-8ce5-4271-e1bd7483f2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1731-11-21">21.11.1731</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="25" xml:id="letter-e823-bcf0-761ed8b045">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date>o. D.</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="26" xml:id="letter-8a72-1cb2-3c4e92f57a">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1731-12-31">31.12.1731</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="27" xml:id="letter-6dce-a893-c3841e9b67">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1732-01-29">29.01.1732</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="28" xml:id="letter-0d1c-43cf-4935cf2a0d">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1732-03-29">29.03.1732</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="29" xml:id="letter-0bfc-08ca-4f367c908e">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1732-04-30">30.04.1732</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="30" xml:id="letter-308e-0129-ba3f6e8721">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1732-05-14">14.05.1732</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="31" xml:id="letter-1a54-4e3a-3d294e5f18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1732-06-07">07.06.1732</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="32" xml:id="letter-507f-8571-e6c4fdba85">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1732-06-21">21.06.1732</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="33" xml:id="letter-72ed-8a16-f358619e4c">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1732-07-14">14.07.1732</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="34" xml:id="letter-2f3c-e1f8-5781dfb409">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1732-08-30">30.08.1732</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="35" xml:id="letter-45e7-37f5-f269d40815">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1732-09-10">10.09.1732</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="36" xml:id="letter-8597-450f-ac54163f20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1732-12-03">03.12.1732</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="37" xml:id="letter-51cd-7d29-a5e1c907f2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1733-01-14">14.01.1733</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="38" xml:id="letter-1357-9703-1492dc56ea">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1733-02-12">12.02.1733</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="39" xml:id="letter-e7d9-e043-13fd5ea24c">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1733-02-16">16.02.1733</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="40" xml:id="letter-27c0-7a43-059e12dc43">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1733-04-23">23.04.1733</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="41" xml:id="letter-e0b8-b8c0-deb1794326">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1733-05-12">12.05.1733</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="42" xml:id="letter-948c-857a-56a4e23bc7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1733-05-20">20.05.1733</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="43" xml:id="letter-5960-5f8a-d903a54eb2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1734-05-04">04.05.1734</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="44" xml:id="letter-7df0-b1c4-317840fd62">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1734-05-14">14.05.1734</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="45" xml:id="letter-b523-72b1-c0b297e546">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1734-06-22">22.06.1734</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="46" xml:id="letter-c185-ebad-098543c162">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1734-06-23">23.06.1734</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="47" xml:id="letter-c5b4-6032-f640572e1d">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1734-07-13">13.07.1734</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="48" xml:id="letter-0123-05f1-cf512d403a">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1734-07-22">22.07.1734</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="49" xml:id="letter-7193-fe6c-d0f38e647b">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1735-03-05">05.03.1735</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="50" xml:id="letter-08d9-d7f1-c1746f05e2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1735-07-28">28.07.1735</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="51" xml:id="letter-026c-0e79-c07ae468bf">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1735-09">9.1735</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="52" xml:id="letter-5fa0-7bd0-5a139dc6bf">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1735-10-06">06.10.1735</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="53" xml:id="letter-4ef0-3f70-2d0461e5af">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1736-01-12">12.01.1736</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="54" xml:id="letter-40ea-b39c-91472decb6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1736-03-13">13.03.1736</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="55" xml:id="letter-e026-d0be-ae64182579">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1736-06-30">30.06.1736</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="56" xml:id="letter-826b-c9bf-2abc801fd6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1736-09-11">11.09.1736</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="57" xml:id="letter-07ea-5601-7d31e6bc89">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1737-03-27">27.03.1737</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="58" xml:id="letter-6bfc-24fa-417a0632d8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1737-10-24">24.10.1737</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="59" xml:id="letter-0e24-0acd-9f71b40d6e">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1738-02-10">10.02.1738</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="60" xml:id="letter-520f-b3c6-628badc1e0">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1738-03-23">23.03.1738</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="61" xml:id="letter-15fd-b784-7eb01f62c4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1738-06-02">02.06.1738</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="62" xml:id="letter-7d43-264b-680bdf952c">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1738-07-26">26.07.1738</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="63" xml:id="letter-a86c-8750-5372b861ad">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1738-09-10">10.09.1738</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="64" xml:id="letter-c1f8-4273-3d7e0f81c6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1738-12-02">02.12.1738</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="65" xml:id="letter-245f-32f4-edba423f9c">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1739-01-02">02.01.1739</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="66" xml:id="letter-27c3-b574-c7082a1bd3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date notAfter="1740-08">vor 08.1740</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="67" xml:id="letter-9e5d-3e96-b75c6129f3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1740-08-17">17.08.1740</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="68" xml:id="letter-c71b-6542-30168bea52">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1741-11-20">20.11.1741</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="69" xml:id="letter-52be-0a72-1a342d78fb">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1741-11-25">25.11.1741</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="70" xml:id="letter-a149-04fb-98741a6b5c">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1743-09-14">14.09.1743</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="71" xml:id="letter-07be-38e5-01afc4275d">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1745-03-30">30.03.1745</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="72" xml:id="letter-a256-9f46-1cefa09db6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1745-04-24">24.04.1745</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="73" xml:id="letter-daf5-03f9-3a8e0fbc95">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1745-06-14">14.06.1745</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="74" xml:id="letter-283b-a1c7-fd41e097cb">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1745-09-25">25.09.1745</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="75" xml:id="letter-2d6c-07bc-aed69cbf47">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1746-02-02">02.02.1746</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="76" xml:id="letter-d345-290d-34b9c7e560">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1746-06-02">02.06.1746</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="77" xml:id="letter-3b0d-4fd1-ab96c7e3f0">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1747-01-05">05.01.1747</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="78" xml:id="letter-f6d7-c8da-0af81b67dc">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1747-09-01">01.09.1747</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="79" xml:id="letter-6bde-f379-2b5ed6a893">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date when="1749-04-19">19.04.1749</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a1337b95-feab-4894-ac7c-ff49abbfe6b7" key="80" xml:id="letter-bdec-f7c2-106f2e3c87">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11640809X">Johann Balthasar
+                        Ehrhart</persName>
+                    <placeName ref="http://www.geonames.org/2871992">Memmingen</placeName>
+                    <date>o. D.</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

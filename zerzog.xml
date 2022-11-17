@@ -1,0 +1,1615 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefe von Adolf von Zerzog aus Frankfurter Nationalversammlung 1848/49</title>
+                <editor>Farhiya Hassan<email>farhiya.hassan@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/zerzog.xml</idno>
+                <date when="2022-11-15T17:45:20.309-01:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="wf8bad47-624e-4de6-b6e7-deee5c0d75ac">Chrobak, Werner/Emma Mages (Hg.). 1998. Ein Bayer in der Paulskirche. Die Briefe des Regenburger Abgeordneten Adolf von Zerzog aus der Frankfurter Nationalversammlung 1848/49. Regensburg: Verlag Schnell und Steiner GmbH.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-05-15"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116946989">Gustav von Lerchenfeld</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-06-10"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-06-14"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-06-18"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116946989">Gustav von Lerchenfeld</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-06-25"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X" evidence="conjecture">Adolf von Zerzog</persName>
+                    <date evidence="conjecture" when="1848-06-25"/>
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770" evidence="conjecture">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-06-26"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-06-28"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-06-28"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-06-29"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-06-29"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-06-30"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-06-30"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-07-10"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X" evidence="conjecture">Adolf von Zerzog</persName>
+                    <date evidence="conjecture" when="1848-07-11"/>
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770" evidence="conjecture">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date evidence="conjecture" when="1848-07-14"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-07-24"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt </placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt </placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-07-31"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116946989">Gustav von Lerchenfeld</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-08-11"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116946989">Gustav von Lerchenfeld</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-08-17"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date evidence="conjecture" when="1848-08-20"/>
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X" evidence="conjecture">Adolf von Zerzog</persName>
+                    <date evidence="conjecture" when="1848-08-27"/>
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770" evidence="conjecture">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-08-28"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-09-09"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-09-11"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116946989">Gustav von Lerchenfeld</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-09-12"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116946989">Gustav von Lerchenfeld</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-09-14"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-09-15"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-09-16"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-09-17"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116946989">Gustav von Lerchenfeld</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date evidence="conjecture" when="1848-09-17"/>
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-09-17"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-09-19"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="36">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-09-20"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-09-20"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-09-20"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-09-22"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="40">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-09-22"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116946989">Gustav von Lerchenfeld</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="41">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-09-23"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="42">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-09-25"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116946989">Gustav von Lerchenfeld</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="43">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date evidence="conjecture" when="1848-09-25"/>
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-09-26"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-09-28"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-10-02"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-10-05"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="48">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-10-06"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="49">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date evidence="conjecture" when="1848-10-08"/>
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="50">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-10-09"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="51">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-10-12"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="52">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-10-18"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="53">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date evidence="conjecture" when="1848-10-18"/>
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Karl von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="54">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date from="1848-10-19" to="1848-10-20"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="55">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-10-23"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="56">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-10-23"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="57">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-10-24"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="58">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-10-25"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="59">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-10-25"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116946989">Gustav von Lerchenfeld</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="60">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-10-26"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="61">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date from="1848-11-02" to="1848-11-03"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="62">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-11-05"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="63">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-11-05"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="64">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-11-08"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="65">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-11-09"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="66">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-11-11"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116946989">Gustav von Lerchenfeld</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="67">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-11-14"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="68">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-11-19"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="69">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-11-19"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="70">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-11-21"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-11-23"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="72">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-11-23"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="73">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-11-24"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="74">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-11-26"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="75">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-11-28"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="77">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-11-30"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="78">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-12-03"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="79">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-12-07"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="80">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-12-09"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="81">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-12-13"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="82">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-12-16"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116946989">Gustav von Lerchenfeld</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="83">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-12-16"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="84">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-12-16"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="85">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-12-16"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="86">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-12-17"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="87">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1848-12-19"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="88">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-01-03"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="89">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-01-07"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="90">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-01-12"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="91">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-01-14"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="92">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-01-22"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="93">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-01-26"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="94">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-01-29"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="95">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-01-30"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="96">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-02-01"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="97">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-02-02"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="98">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-02-08"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="99">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-02-08"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="100">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-02-12"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="101">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-02-22"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="102">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-02-26"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="103">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-03-02"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="104">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-03-03"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="105">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-03-09"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="106">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-03-11"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="107">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-03-12"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="108">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-03-15"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="109">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-03-15"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="110">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-03-16"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="111">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-03-17"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="112">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date notAfter="1849-03-20" notBefore="1849-03-18"/>
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="113">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-03-20"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="114">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-03-20"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="115">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-03-23"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="116">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-03-24"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-03-27"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="118">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-03-27"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="119">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date notAfter="1849-03-28" notBefore="1849-03-26"/>
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="120">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-04-13"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="121">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-04-18"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="122">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-04-19"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="123">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-04-24"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="125">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-04-25"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="126">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-04-26"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="127">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-04-30"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="128">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-04-30"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="129">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-05-03"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="130">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-05-04"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116983698">Julie von Zerzog</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="131">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-05-04"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="132">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-05-04"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="133">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-05-10"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116946989">Gustav von Lerchenfeld</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="134">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-05-13"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="135">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-05-15"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wf8bad47-624e-4de6-b6e7-deee5c0d75ac" key="136">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11698368X">Adolf von Zerzog</persName>
+                    <date when="1849-05-18"/>
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132395770">Karl Herrich</persName>
+                    
+                    <placeName ref="http://www.geonames.org/6946255">Paulskirche</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
