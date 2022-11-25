@@ -14,7 +14,7 @@
                     <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
                 </availability>
                 <idno type="url">https://correspsearch.net/storage/wieland/Band_11.xml</idno>
-                <date when="2022-10-31"/>
+                <date when="2022-11-23T21:00:00+01:00"/>
             </publicationStmt>
             <sourceDesc>
                 <bibl type="print" xml:id="tc7dca34-2a22-43c9-bdbf-132c596e781f">Wielands Briefwechsel. Hrsg. von der Akademie der Wissenschaften Berlin durch Siegfried Scheibe. Elfter Band (Januar 1791–Juni 1793). Erster und Zweiter Teil: Text und Anmerkungen. Bearbeitet von Uta Motschmann. Berlin: Akademie-Verlag 2001 bzw 2003</bibl>
@@ -1162,7 +1162,7 @@
             </correspDesc>
             <correspDesc source="#tc7dca34-2a22-43c9-bdbf-132c596e781f" key="[103]">
                 <correspAction type="sent">
-                    <persName cert="low" ref="http://d-nb.info/gnd/1089184204" evidence="conjecture">Anton Andreas Meyer (André Meyer?)</persName>
+                    <persName cert="low" ref="https://d-nb.info/gnd/117558559" evidence="conjecture">Anton Andreas Meyer (André Meyer)</persName>
                     <date notAfter="1791-06-13">vor 14. Juni 1791</date>
                     <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
                 </correspAction>
@@ -1178,13 +1178,13 @@
                     <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://d-nb.info/gnd/1089184204">Anton Andreas Meyer (André Meyer?)</persName>
+                    <persName ref="https://d-nb.info/gnd/117558559">Anton Andreas Meyer (André Meyer)</persName>
                     <placeName ref="http://www.geonames.org/2973783" evidence="conjecture">Straßburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#tc7dca34-2a22-43c9-bdbf-132c596e781f" key="105">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/1089184204">Anton Andreas Meyer (André Meyer?)</persName>
+                    <persName ref="https://d-nb.info/gnd/117558559">Anton Andreas Meyer (André Meyer)</persName>
                     <date from="1791-06-14" to="1791-06-16">14. und 16. Juni 1791</date>
                     <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
                 </correspAction>
@@ -1284,7 +1284,7 @@
             </correspDesc>
             <correspDesc source="#tc7dca34-2a22-43c9-bdbf-132c596e781f" key="114">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/1089184204">Anton Andreas Meyer (André Meyer?)</persName>
+                    <persName ref="https://d-nb.info/gnd/117558559">Anton Andreas Meyer (André Meyer)</persName>
                     <date when="1791-06-28">den 28sten Brachm[onat (i. e. Juni)] 1791 (...) Im 2ten / Jahre der Freyheit.</date>
                     <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
                 </correspAction>
