@@ -1,0 +1,2786 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ludwig Feuerbach Bd. 19: Briefwechsel III (1845-1852)</title>
+                <editor>Stefan Dumont<email>dumont@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/feuerbach-3.xml</idno>
+                <date when="2023-04-14T16:44:02.830-02:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="s45a64af-cae1-48dc-b173-b7d596fc3586">Gesammelte Werke: Ludwig Feuerbach. Hrsg. von der Berlin-Brandenburgischen Akademie der Wissenschaften durch Werner Schuffenhauer. Bd. 19: Briefwechsel III  (1845 - 1852). Bearb. von Werner Schuffenhauer und Edith Voigt. Berlin,  Akad.-Verl.: 1993.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="475">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1845-01-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="476">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1845-01-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="477">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1845-02-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="478">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date notBefore="1845-02-01" notAfter="1845-02-28">Februar 1845</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/120377330">Friedrich Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="479">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1845-02-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="480">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1845-02-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116483261">Elise Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="481">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1845-02-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="482">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date to="1845-03-02" from="1845-02-25">[25.Februar/]2.März[1845]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/120377330">Friedrich Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="483">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1845-03-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116053437">Christian Kapp</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="484">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1845-03-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="485">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1845-03-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116053437">Christian Kapp</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="486">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1845-03-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Emilie Kapp</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="487">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116536608">Hermann Kriege</persName>
+                    <placeName ref="http://www.geonames.org/2801858">Blankenberg</placeName>
+                    <date to="1845-04-19" from="1845-04-18">18./19.04.1845</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="488">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date to="1845-04-28" from="1845-04-25">25./28.04.1845</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Emilie Kapp</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="489">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1845-05-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Emilie Kapp</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="490">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1845-05-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="491">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1845-05-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Emilie Kapp</persName>
+                    <persName>Johanna Kapp</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="492">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Ansbach</placeName>
+                    <date when="1845-05-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/120377330">Friedrich Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="493">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2658377">Thun</placeName>
+                    <date when="1845-06-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="494">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2925177">Freiburg</placeName>
+                    <date notBefore="1845-06-01" notAfter="1845-06-30">Juni 1845</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116053437">Christian Kapp</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="495">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1845-07-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/100132170">Anselm Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="496">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1845-07-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Emilie Kapp</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="497">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1845-07-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="498">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date notBefore="1845-07-21" notAfter="1845-07-31">Ende Juli 1845</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116536608">Hermann Kriege</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="499">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1845-08-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117562424">Julius Meyer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="500">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date to="1845-08-02" from="1845-08-01">1./2.08.1845</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116053437">Christian Kapp</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="501">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1845-08-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="502">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1845-08-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="503">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1845-09-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116165367">Karl von Pfeufer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="504">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1845-09-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="505">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1845-09-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="506">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1845-09-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="507">
+                <correspAction type="sent">
+                    <persName>Adolphe de Ribbentrop</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1845-11-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="508">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1845-11-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116755679">Emma Herwegh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="509">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1845-11-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118550128">Georg Herwegh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="510">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116536608">Hermann Kriege</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1845-11-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="511">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1845-12-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="512">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1845-12-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Emilie Kapp</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="513">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1846-01-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="514">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1846-02-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Emilie Kapp</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="515">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1846-02-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="516">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1846-02-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="517">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1846-04-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="518">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1846-04-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/120377330">Friedrich Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="519">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date notBefore="1846-05-01" notAfter="1846-05-31">Mai 1846</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/120377330">Friedrich Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="520">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1846-06-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="521">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1846-06-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="522">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1846-06-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117034924">Ludwig Noack</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="523">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1846-06-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="524">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1846-07-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118550128">Georg Herwegh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="525">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1846-07-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118698389">Karl Grün</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="527">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2953482">Badenweiler</placeName>
+                    <date when="1846-07-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1221378376">Bertha Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="528">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2925177">Freiburg</placeName>
+                    <date when="1846-07-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116053437">Christian Kapp</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="529">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1846-08-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="530">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1846-08-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="531">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1846-09-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="532">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1846-09-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="533">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1846-10-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="534">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date notBefore="1846-09-01" notAfter="1846-11-30">Herbst 1846</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/120377330">Friedrich Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="535">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116730919">Emil Gottfried von Herder</persName>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                    <date when="1846-10-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="536">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1018108920">Friedrich Dorguth</persName>
+                    <placeName ref="http://www.geonames.org/2874545">Magdeburg</placeName>
+                    <date when="1846-10-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="537">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1846-11-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="538">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1846-11-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="539">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1846-11-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="540">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116730919">Emil Gottfried von Herder</persName>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                    <date when="1846-11-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="541">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date notBefore="1846-12-01" notAfter="1846-12-31">Dezember 1846</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/120377330">Friedrich Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="542">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1846-12-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="543">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1846-12-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="544">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1846-12-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="545">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1846-12-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="546">
+                <correspAction type="sent">
+                    <persName>O. Geiger</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1846-12-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="547">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1847-01-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="548">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1847-01-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/120377330">Friedrich Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="549">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date notBefore="1847-01-05">Nach dem 05.01.1847</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName> Archives historiques de la France et des pays étrangers</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="550">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date to="1847-01-15" from="1847-01-11">11./15.01.1847</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/100132170">Anselm Feuerbach</persName>
+                    <persName ref="https://d-nb.info/gnd/11853274X">Henriette Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="551">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1847-01-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="552">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1847-01-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="553">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1847-01-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="554">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1847-02-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="555">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116536608">Hermann Kriege</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date to="1847-02-17" from="1847-02-15">15.-17.02.1847</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="556">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1847-03-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/120377330">Friedrich Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="557">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date notBefore="1847-04-01" notAfter="1847-04-10">Anfang April 1847</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/120377330">Friedrich Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="558">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1847-04-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="559">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1847-05-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="560">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1847-05-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="561">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1847-05-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="562">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date notBefore="1847-05-31">Nach dem 31.05.1847</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/120377330">Friedrich Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="563">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1847-06-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="564">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1847-07-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="565">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1847-08-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="566">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1847-09-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="567">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1847-10-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="568">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1847-10-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="569">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1847-11-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="570">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date to="1847-11-16" from="1847-11-08">8./16.11.1847</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="571">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date notBefore="1847-11-01" notAfter="1847-11-30">November 1847</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/120377330">Friedrich Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="571a (154)">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2907488">Heilsbronn</placeName>
+                    <date notBefore="1847-11-01" notAfter="1847-11-30">November 1847</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/120377330">Friedrich Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="572">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1847-12-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="573">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1848-01-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="574">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1848-02-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="575">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1848-03-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="576">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1848-04-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1221378376">Bertha Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="577">
+                <correspAction type="sent">
+                    <persName>Heidelberger Studenten</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1848-04-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="578">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1848-04-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116730919">Emil Gottfried von Herder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="579">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1848-04-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://lccn.loc.gov/no2013112806">Karl Riedel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="580">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1848-04-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="581">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1848-05-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1221378376">Bertha Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="582">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1848-05-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="583">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1848-06-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="584">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1848-06-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1221378376">Bertha Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="585">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1848-06-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116483504">Wilhelmine Feuerbach</persName>
+                    <persName ref="https://d-nb.info/gnd/116483261">Elise Feuerbach</persName>
+                    <persName ref="https://d-nb.info/gnd/1221377701">Leonore Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="586">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1848-06-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117093475">Emil August von Schaden</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="587">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1848-06-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="588">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116605030">Friedrich Wilhelm Heidenreich</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Ansbach</placeName>
+                    <date when="1848-06-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="589">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1848-06-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="590">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1848-06-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1221378376">Bertha Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="591">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1848-07-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116755679">Emma Herwegh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="592">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1848-07-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1221378376">Bertha Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="593">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1848-08-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116053437">Christian Kapp</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="594">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1848-08-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="595">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1848-08-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1221378376">Bertha Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="596">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1848-08-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="597">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1848-08-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="598">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116143754">Louise Dittmar</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                    <date when="1848-08-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="599">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1848-09-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1221378376">Bertha Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="600">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1848-09-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="601">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date notBefore="1848-09-01" notAfter="1848-09-30">September 1848</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/120377330">Friedrich Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="602">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2938913">Darmstadt</placeName>
+                    <date when="1848-09-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="603">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1848-10-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1221378376">Bertha Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="604">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1848-10-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="605">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116143754">Louise Dittmar</persName>
+                    <placeName ref="http://www.geonames.org/2938913">Darmstadt</placeName>
+                    <date when="1848-10-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="606">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/120377330">Friedrich Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1848-10-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="607">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1848-10-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1221378376">Bertha Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="608">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1848-10-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1221378376">Bertha Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="609">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1848-10-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="610">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date to="1848-11-27" from="1848-11-26">26./27.11.1848</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1221378376">Bertha Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="611">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1848-12-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1221378376">Bertha Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="612">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1848-12-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="613">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1848-12-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="614">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1849-02-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1221378376">Bertha Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="615">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1849-03-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1221378376">Bertha Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="616">
+                <correspAction type="sent">
+                    <persName>Heidelberger Arbeiterbildungsverein</persName>
+                    <date when="1849-03-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="617">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1849-04-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="618">
+                <correspAction type="sent">
+                    <persName>Karl Theodor Pfautz</persName>
+                    <placeName ref="http://www.geonames.org/3083310">Thomaswaldau</placeName>
+                    <date when="1849-04-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="619">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1849-05-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116483261">Elise Feuerbach</persName>
+                    <persName ref="https://d-nb.info/gnd/1221377701">Leonore Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="620">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1157544878">Maximilian Droßbach</persName>
+                    <placeName ref="http://www.geonames.org/3064673">Mährisch Schönberg</placeName>
+                    <date when="1849-06-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="621">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1849-06-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118522396">Bernhard von Cotta</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="622">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1849-08-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="623">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1849-08-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/120377330">Friedrich Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="624">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2808318">Wimpfen a.B.</placeName>
+                    <date when="1849-09-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116483431">Eleonore Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="625">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1849-11-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="626">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date notBefore="1849-12-01" notAfter="1849-12-31">Dezember 1849</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/120377330">Friedrich Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="627">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1849-12-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116355832">Adolf Kolatschek</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="628">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1849-12-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="629">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1850-02-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="630">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1850-02-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="631">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1850-02-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/120377330">Friedrich Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="632">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1850-03-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118828738">Friedrich Kapp</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="633">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1850-03-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116355832">Adolf Kolatschek</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="634">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118734547">Jakob Moleschott</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1850-03-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="635">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1850-04-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/120377330">Friedrich Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="636">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1850-05-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="637">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1850-05-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118734547">Jakob Moleschott</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="638">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date notBefore="1850-05-01" notAfter="1850-05-31">Mai 1850</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/120377330">Friedrich Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="639">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1850-05-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="640">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1850-06-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116036257">Ferdinand Kampe</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="641">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1850-07-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1157544878">Maximilian Droßbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="642">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1850-07-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Karl Theodor Pfautz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="643">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1157544878">Maximilian Droßbach</persName>
+                    <placeName ref="http://www.geonames.org/3064673">Mährisch Schönberg</placeName>
+                    <date when="1850-07-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="644">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1850-09-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116483431">Eleonore Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="645">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1850-10-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118734547">Jakob Moleschott</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="646">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1850-10-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="647">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date notBefore="1850-10-01" notAfter="1850-10-31">Oktober 1850</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/120377330">Friedrich Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="648">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date to="1850-11-04" from="1850-11-01">1./4.11.1850</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="649">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1850-11-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="650">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118734547">Jakob Moleschott</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1850-11-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="651">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1850-11-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="652">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116552433">Heinrich Brockhaus</persName>
+                    <persName ref="https://d-nb.info/gnd/116552115">Eduard Brockhaus</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1850-11-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="653">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1850-12-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116355832">Adolf Kolatschek</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="654">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1850-12-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116552115">Eduard Brockhaus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="655">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1850-12-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="656">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date notBefore="1851-01-01" notAfter="1851-12-31">1851</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/120377330">Friedrich Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="657">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1851-01-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="658">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118828738">Friedrich Kapp</persName>
+                    <date when="1851-01-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="659">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1851-02-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="660">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1851-02-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/120377330">Friedrich Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="661">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1851-02-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="662">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1851-02-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="663">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1851-03-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="664">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1851-03-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/120377330">Friedrich Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="665">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1851-03-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118828738">Friedrich Kapp</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="666">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1851-03-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116483261">Elise Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="667">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1851-03-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="668">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1851-04-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="669">
+                <correspAction type="sent">
+                    <persName>Eduard Dedekind</persName>
+                    <placeName ref="http://www.geonames.org/4922554">Lake Township, Allen County</placeName>
+                    <date when="1851-04-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="670">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1851-05-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="671">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1851-05-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="672">
+                <correspAction type="sent">
+                    <persName>Scharlow</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1851-05-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="673">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118828738">Friedrich Kapp</persName>
+                    <date when="1851-05-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="674">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116730919">Emil Gottfried von Herder</persName>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                    <date when="1851-06-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="675">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1851-06-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>An einen Freund</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="676">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1851-06-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="677">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1851-08-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Joseph Schibich</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="678">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1851-08-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116552433">Heinrich Brockhaus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="679">
+                <correspAction type="sent">
+                    <persName>Joseph Schibich</persName>
+                    <placeName ref="http://www.geonames.org/3072248">Lechwitz</placeName>
+                    <date when="1851-08-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="680">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116552433">Heinrich Brockhaus</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1851-09-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="681">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1851-10-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Joseph Schibich</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="682">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1851-10-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="683">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1851-11-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="684">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1851-11-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116552433">Heinrich Brockhaus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="685">
+                <correspAction type="sent">
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <orgName ref="https://d-nb.info/gnd/65191-6">Brockhaus-Verlag</orgName>
+                    <date when="1851-11-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="686">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1851-12-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="687">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118550128">Georg Herwegh</persName>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date when="1851-12-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="688">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/ 118594117">Richard Wagner</persName>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date when="1851-12-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="689">
+                <correspAction type="sent">
+                    <persName>Joseph Schibich</persName>
+                    <placeName ref="http://www.geonames.org/3077533">Kuchelna</placeName>
+                    <date when="1851-12-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="690">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1851-12-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="691">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1851-12-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="692">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <date when="1851-12-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="693">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1852-01-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="694">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1852-01-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="695">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1852-01-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="696">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1852-01-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="697">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1852-01-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="698">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1852-01-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="699">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1852-01-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="700">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <placeName ref="http://www.geonames.org/6556836">Ansbach</placeName>
+                    <date to="1852-01-24" from="1852-01-23">23./24.01.1852</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="701">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1852-01-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="702">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1852-01-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Joseph Schibich</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="703">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1852-01-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="704">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1852-01-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="705">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <date when="1852-01-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="706">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1852-01-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="707">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1852-02-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="708">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1852-02-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="709">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1852-02-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="710">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1852-02-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="711">
+                <correspAction type="sent">
+                    <persName>V. Arnould</persName>
+                    <placeName ref="http://www.geonames.org/2800866">Brüssel</placeName>
+                    <date when="1852-02-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="712">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1852-02-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="713">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1852-02-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118828738">Friedrich Kapp</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="714">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1852-02-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="715">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1852-02-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="716">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/101484895">Eduard Wilhelm Sievers</persName>
+                    <placeName ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date when="1852-02-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="717">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date notBefore="1852-03-01" notAfter="1852-03-31">März 1852</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/101484895">Eduard Wilhelm Sievers</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="718">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1852-03-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="719">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1852-03-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="720">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1852-03-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="721">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116730919">Emil Gottfried von Herder</persName>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                    <date when="1852-03-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="722">
+                <correspAction type="sent">
+                    <persName>Alexander Loos</persName>
+                    <placeName ref="http://www.geonames.org/3084440">Striegau</placeName>
+                    <date when="1852-03-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="723">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date notBefore="1852-04-01" notAfter="1852-04-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="724">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116605030">Friedrich Wilhelm Heidenreich</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Ansbach</placeName>
+                    <date when="1852-04-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="725">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1852-04-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="726">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1852-04-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="727">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116730919">Emil Gottfried von Herder</persName>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                    <date when="1852-05-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="728">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116605030">Friedrich Wilhelm Heidenreich</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Ansbach</placeName>
+                    <date when="1852-05-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="729">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1852-05-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116605030">Friedrich Wilhelm Heidenreich</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="730">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118734547">Jakob Moleschott</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date notBefore="1852-06-01" notAfter="1852-06-30">Juni 1852</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="731">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1852-06-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116552433">Heinrich Brockhaus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="732">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1852-06-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116605030">Friedrich Wilhelm Heidenreich</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="733">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118734547">Jakob Moleschott</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1852-07-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="734">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date to="1852-07-16" from="1852-07-13">13./16.07.1852</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118734547">Jakob Moleschott</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="735">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date notBefore="1852-06-01" notAfter="1852-08-31">Sommer 1852</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116483431">Eleonore Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="736">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1852-08-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="737">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1852-08-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="738">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1852-08-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118734547">Jakob Moleschott</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="739">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date to="1852-08-28" from="1852-08-25">25./28.08.1852</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="740">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1852-09-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="741">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116036257">Ferdinand Kampe</persName>
+                    <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
+                    <date when="1852-09-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="742">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1852-09-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116483261">Elise Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="743">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116730919">Emil Gottfried von Herder</persName>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                    <date when="1852-09-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="744">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1852-10-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="745">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116036257">Ferdinand Kampe</persName>
+                    <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
+                    <date when="1852-10-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="746">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1852-11-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="747">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1852-11-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/125906557X">Katharina Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="748">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1852-11-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118734547">Jakob Moleschott</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="749">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118734547">Jakob Moleschott</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1852-11-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="750">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1852-11-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="751">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118828738">Friedrich Kapp</persName>
+                    <date when="1852-12-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="752">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/6556836">Bruckberg</placeName>
+                    <date when="1852-12-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="753">
+                <correspAction type="sent">
+                    <persName>Joseph Schibich</persName>
+                    <placeName ref="http://www.geonames.org/3072248">Lechwitz</placeName>
+                    <date when="1852-12-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s45a64af-cae1-48dc-b173-b7d596fc3586" key="754 (569a)">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date notBefore="1847-11-01" notAfter="1847-11-30">November 1847</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118536303">Julius Fröbel</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
