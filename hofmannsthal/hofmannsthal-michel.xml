@@ -1,0 +1,1357 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <!-- Generated from table of letters with csv2cmi 2.1.0 as webservice at https://cmif.saw-leipzig.de-->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefwechsel zwische Hugo von
+                    Hofmannsthal und Robert Michel</title>
+                <editor>Marthe Küster</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <idno type="url">https://correspsearch.net/storage/hofmannsthal/hofmannsthal-michel.xml</idno>
+                <date when="2023-01-18T11:09:54.578504"/>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="d57bf1c0-9440-4337-b64a-7087e8835004">Hugo von Hofmannsthal und Robert Michel : Briefe.
+                    Herausgegeben von Riccardo Concetti. In: Hofmannsthal. Jahrbuch zur europäischen Moderne, 13(2005). S. 11-167
+                    <ref target="https://nbn-resolving.org/urn:nbn:de:hebis:30:3-481769">urn:nbn:de:hebis:30:3-481769</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="1" xml:id="letter-c07f-1639-56a2971ef8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1898-05-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="2" xml:id="letter-5c98-b597-3f45a0ed1c">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/3194828">Mostar</placeName>
+                    <date when="1898-11-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="3" xml:id="letter-90fb-eab5-5b1c6afd80">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/3194828">Mostar</placeName>
+                    <date when="1899-02-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="4" xml:id="letter-dbce-8a54-d962e35104">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/3196324">Ljubuški</placeName>
+                    <date when="1899-03-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="5" xml:id="letter-73cd-0319-8176cf30b4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1899-06-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="6" xml:id="letter-54e2-4e60-69bd847320">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1901-02-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="7" xml:id="letter-25b1-3982-4e5267bc0d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1901-02-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="8" xml:id="letter-a4e7-3edc-90a68f2e4b">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1901-03-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="9" xml:id="letter-8f34-95d8-39682d7c4b">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1901-04-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="10" xml:id="letter-a170-95e3-651de90a24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1901-05-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="11" xml:id="letter-32ae-27ea-841f9062db">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1901-07-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="12" xml:id="letter-81ad-c475-ae42bd105c">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1901-10-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="13" xml:id="letter-c071-bdc3-56da9fb28e">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2775220">Innsbruck</placeName>
+                    <date when="1901-10-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="14" xml:id="letter-dcea-6ec0-2f03a4b587">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1901-11-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="15" xml:id="letter-0968-b57c-8b79653ac1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2775220">Innsbruck</placeName>
+                    <date when="1901-11-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="16" xml:id="letter-82a7-e23c-4c60ebd18f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1902-01-04">4. 1. 1902</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="17" xml:id="letter-91ad-2b87-e9540dca37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1902-01-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="18" xml:id="letter-6537-2308-b9d07a4f1c">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1902-03-06">6. März 1902</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="19" xml:id="letter-27fc-0a81-059632ea1c">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2775220">Innsbruck</placeName>
+                    <date when="1902-03-06">6. März 1902</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="20" xml:id="letter-54ac-0e48-183b2eca6f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1902-03-26">26. März 1902</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="21" xml:id="letter-580e-61ed-a4df21c0eb">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2775220">Innsbruck</placeName>
+                    <date when="1902-05-31">31. Mai 1902</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="22" xml:id="letter-a3cf-571b-5f496d7a1c">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1902-07-13">13. Juli 1902</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="23" xml:id="letter-4590-d931-8af73956e0">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <date notBefore="1902-07-13" notAfter="1902-07-27">zwischen dem 13. und dem
+                        27.7. 1902</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="24" xml:id="letter-01ce-1ad9-f8327961b0">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2775220">Innsbruck</placeName>
+                    <date when="1902-07-27">27. Juli 1902</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="25" xml:id="letter-c9b2-a140-73529d410b">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1902-09-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="26" xml:id="letter-0132-597a-e9273afc50">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1902-12-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="27" xml:id="letter-b862-53e0-8c2531bf79">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName>Ende 1902</placeName>
+                    <date>Ende 1902</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="28" xml:id="letter-f3ec-8e2a-85b27d9a3f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1903-01-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="29" xml:id="letter-8fc7-1c90-a9ed6cb510">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/3333788">Brenner</placeName>
+                    <date when="1903-07-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="30" xml:id="letter-71df-761a-5f876e9b21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1903-08-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="31" xml:id="letter-b8c6-0f61-f38d9607ce">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1903-08-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="32" xml:id="letter-16f2-89e4-4ba9d802e7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1903-09-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="33" xml:id="letter-c21e-7f53-250b3e9164">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1903-10-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="34" xml:id="letter-35b8-ad82-e486c0b91a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2775220">Innsbruck</placeName>
+                    <date when="1903-10-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="35" xml:id="letter-97f0-d93c-6ae4c981df">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1903-12-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="36" xml:id="letter-845d-b5f8-c376485df1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2775220">Innsbruck</placeName>
+                    <date when="1904-03-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="37" xml:id="letter-85b0-50e6-bc6f3a89e4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2887914">Klenau</placeName>
+                    <date when="1904-09-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="38" xml:id="letter-8abe-f583-327601ca54">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/3192555">Lueg</placeName>
+                    <date when="1904-09-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="39" xml:id="letter-da71-a78f-03d2964cef">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2887914">Klenau</placeName>
+                    <date when="1904-09-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="40" xml:id="letter-bd1e-9e27-7e5c6821a0">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1904-10-23">23. 10. 1904</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="41" xml:id="letter-36e5-561e-f61eca25b8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1904-11-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="42" xml:id="letter-b8ad-b427-8196fc0574">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1905-02-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="43" xml:id="letter-3195-584c-a04d687f93">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1905-08-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="44" xml:id="letter-782c-71c3-9863c420b7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2775220">Innsbruck</placeName>
+                    <date when="1905-12-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="45" xml:id="letter-8a96-297c-b70d52ae69">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1906-01-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="46" xml:id="letter-f7a5-fcb2-347b8d9e1a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+                    <date when="1906-01-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="47" xml:id="letter-03ca-72eb-0598b1f47c">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2775220">Innsbruck</placeName>
+                    <date when="1906-02-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="48" xml:id="letter-6f4c-d52e-45d3987a2f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1907-02-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="49" xml:id="letter-41d3-391a-26fa97bdce">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2775220">Innsbruck</placeName>
+                    <date when="1907-03-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="50" xml:id="letter-3129-47ea-3916874f2d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1907-03-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="51" xml:id="letter-efd6-61a3-a812f75de0">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2775220">Innsbruck</placeName>
+                    <date when="1907-03-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="52" xml:id="letter-cb98-9480-072ab3e9f8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <persName ref="https://d-nb.info/gnd/118691406">Samuel Fischer</persName>
+                    <date when="1907-03-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="53" xml:id="letter-c9f0-539f-f3578b61c4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2775220">Innsbruck</placeName>
+                    <date when="1907-05-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="54" xml:id="letter-6f72-86a2-f9e5d60c83">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116952199">Gerty von
+                        Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1907-06-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="55" xml:id="letter-c4d3-ead1-213ae5078f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName>zweite Hälfte des Juni 1907</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="56" xml:id="letter-2f5c-0542-df695c4217">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2887914">Klenau</placeName>
+                    <date when="1907-08-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="57" xml:id="letter-ad6e-8017-5def923678">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116952199">Gerty von
+                        Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1907-09-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="58" xml:id="letter-93fa-36c5-78b61d452f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2775220">Innsbruck</placeName>
+                    <date when="1907-10-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="59" xml:id="letter-58fc-c017-d7e03612fb">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1907-10-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="60" xml:id="letter-19ca-173e-5381f9ab2d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2775220">Innsbruck</placeName>
+                    <date notBefore="1907-10-20" notAfter="1907-10-21">20. u. 21.10.1907</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="61" xml:id="letter-2e9c-203c-7ca68453fb">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1907-12-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="62" xml:id="letter-c184-037e-5931fe7c4b">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116952199">Gerty von
+                        Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1907-12-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="63" xml:id="letter-ad3f-5e71-e271b4d936">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1908-04-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="64" xml:id="letter-d86f-e7b0-dab09453e7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2775220">Innsbruck</placeName>
+                    <date when="1908-11-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="65" xml:id="letter-90b1-5301-269c5381d7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1909-03-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="66" xml:id="letter-e461-970e-16358f9b4a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2775220">Innsbruck</placeName>
+                    <date when="1909-03-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="67" xml:id="letter-b648-e38c-0df935e82b">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2775220">Innsbruck</placeName>
+                    <date when="1909-07-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="68" xml:id="letter-3ac7-5f79-ade49678b3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116952199">Gerty von
+                        Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1909-11-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="69" xml:id="letter-dc38-1d5c-b56f2d1ae0">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1910-12-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="70" xml:id="letter-ca8e-ea53-74fc2e0d83">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2765170">Semmering</placeName>
+                    <date when="1910-12-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="71" xml:id="letter-d89e-6218-61df92bc34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date notAfter="1911-04-16">spätestens 16.4.1911</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="72" xml:id="letter-b9a4-b3a0-f1d40e685a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1911-12-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="73" xml:id="letter-e057-84cd-16857d4b32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1912-03-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="74" xml:id="letter-07e2-9a3e-9084e71356">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2765170">Semmering</placeName>
+                    <date when="1913-06-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="75" xml:id="letter-073e-48b3-2de38705b1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1913-06-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="76" xml:id="letter-e13c-8a45-59261eadbc">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+                    <date when="1913-07-15">15.7. 1913</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="77" xml:id="letter-4be5-8329-3f79a81c46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1913-09-27">27. 9.1913</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="78" xml:id="letter-389b-46f7-dfe568923c">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1913-09-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="79" xml:id="letter-804a-24ac-a0fce2571d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1913-10-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="80" xml:id="letter-4dc5-b86d-1b573a6f48">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1913-10-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="81" xml:id="letter-3629-9c13-63baec41d5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/772857">Dukla</placeName>
+                    <date when="1914-08-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="82" xml:id="letter-7158-70ae-d38a479ef5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/3056508">Sillein</placeName>
+                    <date when="1915-01-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="83" xml:id="letter-6ba4-fec5-8021fbd365">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1915-01-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="84" xml:id="letter-d048-a4d5-d257a93ebf">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/3056508">Sillein</placeName>
+                    <date when="1915-01-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="85" xml:id="letter-ba94-dfb7-c430fda5e8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/3094802">Krakau</placeName>
+                    <date when="1915-03-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="86" xml:id="letter-e78c-57eb-b96c547da0">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/3094802">Krakau</placeName>
+                    <date when="1915-03-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="87" xml:id="letter-25ae-f09a-cde27b4f90">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1915-04-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="88" xml:id="letter-71b8-e87c-3b62e08a9d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1915-04-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="89" xml:id="letter-7a3e-73ab-75e0bc84da">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1915-09-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="90" xml:id="letter-d925-92b8-0ebc76d21f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+                    <date when="1916-08-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="91" xml:id="letter-6d37-ad18-debc638a21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/756135">Warschau</placeName>
+                    <date when="1916-08-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="92" xml:id="letter-5c9a-c3a2-ca5089e3f7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+                    <date when="1916-09-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="93" xml:id="letter-3b28-402b-8c5be1692a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/756135">Warschau</placeName>
+                    <date when="1916-09-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="94" xml:id="letter-510c-3cda-8b4d3f2e57">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/756135">Warschau</placeName>
+                    <date when="1916-09-26">26. 9.1916</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="95" xml:id="letter-78e9-4f3a-de76c49201">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1916-10-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="96" xml:id="letter-da1c-60b2-8f27ed9b0a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1916-11-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="97" xml:id="letter-5914-a713-7064d92ce3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1916-11-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="98" xml:id="letter-b634-eabd-c934d2186a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1917-06-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="99" xml:id="letter-c945-5d9f-7c13e90a62">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName>Monte Pasubio</placeName>
+                    <date when="1917-06-27">27. 6.1917</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="100" xml:id="letter-b97f-fe3a-03ce641b98">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1917-07-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="101" xml:id="letter-2baf-c615-0723c985df">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName>Berg Pasubio</placeName>
+                    <date when="1917-07-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="102" xml:id="letter-e147-6f70-d423981ef5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName>Berg Pasubio</placeName>
+                    <date when="1917-07-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="103" xml:id="letter-12d3-d871-d9e168f053">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+                    <date when="1917-08-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="104" xml:id="letter-c692-85b4-47f1035eab">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+                    <date when="1917-09-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="105" xml:id="letter-2d7e-df89-a7802df36e">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1917-09-27">27.9.1917+</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="106" xml:id="letter-47b0-3089-15670bc498">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+                    <date when="1917-10-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="107" xml:id="letter-2174-0e51-72bd391fac">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1919-04-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="108" xml:id="letter-f496-231a-b051c68fde">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2779638">Ferleiten</placeName>
+                    <date when="1919-08-07">7. 8.1919</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="109" xml:id="letter-06e9-3e95-6731c9f025">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <date when="1919-08">August 1919</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="110" xml:id="letter-2b18-b70f-a03894b617">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <date when="1919-10-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="111" xml:id="letter-ec94-437c-258ca43eb7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1920-07-23">23. 7. 1920</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="112" xml:id="letter-476f-2bd1-975b14c30e">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1920-07-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="113" xml:id="letter-4365-36db-6f4cebd529">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2766824">Salzburg</placeName>
+                    <date when="1920-07-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="114" xml:id="letter-5f9d-9bcf-3cd61feb42">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+                    <date when="1920-09-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="115" xml:id="letter-79fb-f542-2491b5c07d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1923-06-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="116" xml:id="letter-b5af-6824-8527ab3ec1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116952199">Gerty von
+                        Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1925-06-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="117" xml:id="letter-4ed9-5673-d9cf17a358">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1925-06-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="118" xml:id="letter-35b8-89ba-d94623f7ae">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1926-02-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="119" xml:id="letter-58fb-8bd2-13f68a742c">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1926-03-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="120" xml:id="letter-bd40-0a8e-e06315294c">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1926-03-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="121" xml:id="letter-fe1d-2da1-685130297e">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date>Ende April 1926</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="122" xml:id="letter-5b62-875b-70491c5fd6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1926-04-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="123" xml:id="letter-d47e-3bfd-5a98e31fd4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1926-05-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="124" xml:id="letter-dc79-a0b6-4652c80ba1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+                    <date when="1927-10-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="125" xml:id="letter-397b-a81b-3bf87d69c5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+                    <date when="1927-11-25">25.11.1927+</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="126" xml:id="letter-3b1d-89fc-3a1476f0e8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1928-04-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="127" xml:id="letter-72da-d02f-ae48053b7f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1928-09-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="128" xml:id="letter-5d1a-7eab-983f5cb67d">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1929-01-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="129" xml:id="letter-4610-d2c7-d48b23ea7f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1929-01-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="130" xml:id="letter-cd68-2b1e-50c2dbf7e9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                    <date when="1929-05-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="131" xml:id="letter-dab7-28d7-4ac89725e1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                    <placeName>26.1.1935</placeName>
+                    <date when="1935-01-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116952199">Gerty von
+                        Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d57bf1c0-9440-4337-b64a-7087e8835004" key="132" xml:id="letter-6d12-2175-eb05942fc1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116952199">Gerty von
+                        Hofmannsthal</persName>
+                    <placeName ref="http://www.geonames.org/2640729">Oxford</placeName>
+                    <date when="1948-07-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118893297">Robert Michel</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

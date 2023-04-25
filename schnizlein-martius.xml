@@ -1,0 +1,981 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefwechsel zwischen Adalbert Carl Friedrich Hellwig Schnizlein und Carl Friedrich Philipp von Martius</title>
+                <editor>Marthe Küster<email>mkuester@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2022-12-13T15:16:33.506-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/schnizlein-martius.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="ed3ac2d3-f580-4c3c-913c-074c814e5c2c">Adalbert Carl Friedrich Hellwig Schnizlein (1814-1868) und seine Korrespondenz mit Carl Friedrich Philipp von Martius (1794-1868). Herausgegeben von Christoph Kißlinger. Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), 2019.<ref target="https://nbn-resolving.org/urn:nbn:de:bvb:29-opus4-108383">https://nbn-resolving.org/urn:nbn:de:bvb:29-opus4-108383</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="M1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <date when="1856-07-20"/>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="M2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <date when="1848-02">[Februar 1848]</date>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="M3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <date when="1863-12-20"/>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="M4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <date when="1864-01">[Januar 1864]</date>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1843-12-10"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1845-04-08"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1845-08-08"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1846-03-20">20. März 1846</date>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1846-09-20"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1848-01-22"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1848-03-12">12. März 1848</date>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1850-11-12"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1851-08-13"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1851-11-11"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1851-12-23"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1852-01-12"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1852-02-06"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1852-03-28">28. März 1852</date>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1853-12-31"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1854-02-11"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1854-06-07"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1854-07-30"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1854-10-16"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1854-11-21"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1854-12-20"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S22">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1855-09-30"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S23">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1855-12-26"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S24">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1856-01-10"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S25">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1856-11-02">d.2. []</date>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S26">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1856-12-28"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S27">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1857-04-03"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S28">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1858-01-26"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S29">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1858-07-05"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S30">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1858-08-26"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S31">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1858-10-25"/>
+                    <placeName>Ansbach</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName>Ansbach</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S32">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1858-12-20"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S33">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1859-02-22"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S34">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1859-08-17"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S35">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1859-12-04"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S36">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1860-01-19"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S37">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1860-04-17"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S38">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1860-05-05"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S39">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1861-05-12"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S40">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1863-01-19"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S41">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1863-02-16"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S42">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1863-10-04"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S43">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1863-10-24"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S44">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1863-12-28"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S45">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1864-02-13"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S46">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1864-04-17"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S47">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1864-04-22"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S48">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1864-05-09"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S49">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1864-05-27"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S50">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1864-06-16"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S51">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1864-08-05">5. August 1864</date>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S52">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1864-12-11"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S53">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1865-04-16"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S54">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1865-09-10"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S55">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1865-11-01"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S56">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1865-12-31"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S57">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1866-03-31">31. März 1866</date>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S58">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1866-06-11"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S59">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1866-08-21"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S60">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1867-02-07"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S61">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1867-04-11"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S62">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1867-05-28"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S63">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1867-09-21"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S64">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1868-02-01"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S65">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1868-02-14"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S66">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1868-03-18">18. März 1868</date>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S67">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1868-04-24"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S68">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1868-07-13"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ed3ac2d3-f580-4c3c-913c-074c814e5c2c" key="S69">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116848812">Adalbert Carl Friedrich Hellwig
+                        Schnizlein</persName>
+                    <date when="1868-08-26"/>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118731416">Carl Friedrich Philipp von
+                        Martius</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

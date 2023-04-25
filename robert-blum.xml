@@ -1,0 +1,763 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Robert Blum. Briefe und Dokumente</title>
+                <editor>Tom Liese<email>tom.liese@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2023-03-04T16:31:27.524-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/robert-blum.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="t6d2abf5-172b-4c3b-aacf-f1f6a686f79c">Robert Blum. Briefe und Dokumente. Hg. v. Siegfried Schmidt. Reclam: Leipzig 1981.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1839-05-14"/>
+                    <placeName ref="http://www.geonames.org/2879139" evidence="conjecture">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Eugenie Günther</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1839-11-03"/>
+                    <placeName ref="http://www.geonames.org/2879139" evidence="conjecture">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Eugenie Günther</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1840-10-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1842-01-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Margarete Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1842-01-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11863075X">Karl Theodor Welcker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1842-12-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552589">Hoffmann von Fallersleben</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1843-01-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Caspar Georg Schilder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1843-01-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552589">Hoffmann von Fallersleben</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1843-02-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11863075X">Karl Theodor Welcker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1843-06-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552589">Hoffmann von Fallersleben</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1843-10-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>L. Jachmann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1843-10-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118556436">Johann Jacoby</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date notAfter="1843-11-30" notBefore="1843-11-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117404667">Carl Todt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1843-12-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552589">Hoffmann von Fallersleben</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1844-11-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Margarete Selbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1844-11-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Meixner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1845-03-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119106868">Johannes Ronge</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1845-03-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1845-05-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552589">Hoffmann von Fallersleben</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1845-11-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118556436">Johann Jacoby</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1845-12-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117404667">Carl Todt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1845-12-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552589">Hoffmann von Fallersleben</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1846-03-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1847-03-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11863075X">Karl Theodor Welcker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1847-05-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Theaterdirektor Schmidt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1847-06-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118556436">Johann Jacoby</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date notAfter="1847-08-31" notBefore="1847-08-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118556436">Johann Jacoby</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1847-11-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Margarete Selbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-03-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-03-29"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Hermann Domrich</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-04-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-04-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="36">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-04-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116912839">Georg Günther</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-04-20"/>
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date notAfter="1848-04-22" notBefore="1848-04-21"/>
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-04-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="40">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-04-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Robert Friese</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="41">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-04-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118556436">Johann Jacoby</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="42">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-05-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="43">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-05-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Ludwig Schreck</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-05-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-05-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-05-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Robert Friese</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date cert="low" when="1848-05-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Robert Friese</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="48">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-05-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Robert Friese</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="49">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-05-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="50">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-05-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Robert Friese</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="51">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-05-19"/>
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="52">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-05-27"/>
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="53">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-06-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="54">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-06-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="56">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date notAfter="1848-06-27" notBefore="1848-06-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="57">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-06-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="58">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-07-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="59">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-07-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="60">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-06-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Margarete Selbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="61">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-08-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="63">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-08-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1055244697">E. T. Jäkel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="64">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-08-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="65">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-08-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="66">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-08-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="67">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-08-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Blum</persName>
+                    <persName>Margarete Selbach</persName>
+                    <persName>Schwager</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="68">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-10-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="69">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-10-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="70">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-10-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-10-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="72">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-10-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="73">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-10-17"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Parteifreunde Frankfurt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="74">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-10-17"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="75">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-10-20"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="76">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-10-23"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Unbekannt</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="77">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-10-23"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118769014">Karl Vogt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="78">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-10-23"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="81">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-10-30"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="82">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-11-02"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="83">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-11-06"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="84">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-11-09"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>C. Cramer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="85">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511947">Robert Blum</persName>
+                    <date when="1848-11-09"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116207442">Jenny Blum</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t6d2abf5-172b-4c3b-aacf-f1f6a686f79c" key="86">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118536303">Julius Fröbels</persName>
+                    <date when="1848-12-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Margarete Selbach</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

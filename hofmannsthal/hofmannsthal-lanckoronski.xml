@@ -1,0 +1,363 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hugo von Hofmannsthal und Karl Graf Lanckoroński</title>
+                <editor>Marthe Küster<email>marthe.kuester@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2023-02-14T10:39:30.163-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/hofmannsthal/hofmannsthal-lanckoronski.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="h354bcf9-c2e9-464f-b615-c4622f93647f">Hugo von Hofmannsthal und Karl Lanckoroński. Briefe und Zeugnisse. Herausgegeben und eingeleitet von Konrad Heumann. In: Hofmannsthal. Jahrbuch zur europäischen Moderne 12 (2018). S. 191–242.
+<ref target="https://nbn-resolving.org/urn:nbn:de:hebis:30:3-481672">https://nbn-resolving.org/urn:nbn:de:hebis:30:3-481672</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1901-06-07">7. Juni 1901</date>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/121927075" evidence="conjecture">Christiane Gräfin Thun-Salm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/121927075" evidence="conjecture">Christiane Gräfin Thun-Salm</persName>
+                    <date evidence="conjecture" when="1901-06-29">29. Juni 1901</date>
+                    <placeName ref="http://www.geonames.org/3067696" evidence="conjecture">Prag</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1901-07-12">12. Juli 1901</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115103848">Karl Graf Lanckoroński</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1901-07-22">22. Juli 1901</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116952202">Hugo August Peter von Hofmannsthal</persName>
+                    <persName ref="https://d-nb.info/gnd/116952156">Anna Maria Josefa Fohleutner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1901-07-23">23. Juli 1901</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/121927075" evidence="conjecture">Christiane Gräfin Thun-Salm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1901-10-19">19. Oktober 1901</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115103848" evidence="conjecture">Karl Graf Lanckoroński</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1901-11-25">25. November 1901</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115103848" evidence="conjecture">Karl Graf Lanckoroński</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1901-12-13">13. Dezember 1901</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/121927075" evidence="conjecture">Christiane Gräfin Thun-Salm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1902-02-06">6. Februar 1902</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/121927075" evidence="conjecture">Christiane Gräfin Thun-Salm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1902-04-23">23. April 1902</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115103848" evidence="conjecture">Karl Graf Lanckoroński</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1902-04-29">29. April 1902</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115103848" evidence="conjecture">Karl Graf Lanckoroński</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118514245" evidence="conjecture">Otto Brahm</persName>
+                    <date evidence="conjecture" when="1902-05-13">13. Mai 1902</date>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1902-05-14">14. Mai 1902</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115103848" evidence="conjecture">Karl Graf Lanckoroński</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115103848" evidence="conjecture">Karl Graf Lanckoroński</persName>
+                    <date evidence="conjecture" when="1902-05-16">16. Mai 1902</date>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1902-05-21">21. Mai 1902</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/121927075" evidence="conjecture">Christiane Gräfin Thun-Salm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date notAfter="1902-05" notBefore="1902-04">April/Mai 1902</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115103848" evidence="conjecture">Karl Graf Lanckoroński</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1902-08-13">13. August 1902</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115103848" evidence="conjecture">Karl Graf Lanckoroński</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1903-01-05">5. Januar 1903</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115103848" evidence="conjecture">Karl Graf Lanckoroński</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1903-01">Mitte Januar 1903</date>
+                    <placeName ref="http://www.geonames.org/2767332">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115103848" evidence="conjecture">Karl Graf Lanckoroński</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1903-02-13">13. Februar 1903</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115103848" evidence="conjecture">Karl Graf Lanckoroński</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1903-12-08">8. Dezember 1903</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/121927075" evidence="conjecture">Christiane Gräfin Thun-Salm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1904-01-25"> 25. Januar 1904</date>
+                    <placeName ref="http://www.geonames.org/3164603" evidence="conjecture">Venedig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/121927075" evidence="conjecture">Christiane Gräfin Thun-Salm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1904-03-18">18. März 1904</date>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/121927075" evidence="conjecture">Christiane Gräfin Thun-Salm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1906-12-21">21. Dezember 1906</date>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119543559" evidence="conjecture">Marie Herzfeld</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1909-11-26">26. November 1909</date>
+                    <placeName ref="http://www.geonames.org/2765170" evidence="conjecture">Semmering</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118588796" evidence="conjecture">Helene von Nostitz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115103848" evidence="conjecture">Karl Graf Lanckoroński</persName>
+                    <date evidence="conjecture" when="1919-11-02">2. November 1919</date>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/121927075" evidence="conjecture">Christiane Gräfin Thun-Salm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115103848" evidence="conjecture">Karl Graf Lanckoroński</persName>
+                    <date evidence="conjecture" when="1919-11-10">10. November 1919</date>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/121927075" evidence="conjecture">Christiane Gräfin Thun-Salm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1921-07-17"> 17. Juli 1921</date>
+                    <placeName ref="http://www.geonames.org/2866175" evidence="conjecture">Neubeuern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118517511" evidence="conjecture">Carl J. Burckhardt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115103848" evidence="conjecture">Karl Graf Lanckoroński</persName>
+                    <date evidence="conjecture" when="1922-02-27">27. Februar 1922</date>
+                    <placeName cert="low" ref="http://www.geonames.org/3094802">Krakau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/121927075" evidence="conjecture">Christiane Gräfin Thun-Salm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115103848" evidence="conjecture">Karl Graf Lanckoroński</persName>
+                    <date evidence="conjecture" when="1922-09-22">22. September 1922</date>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/121927075" evidence="conjecture">Christiane Gräfin Thun-Salm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115103848" evidence="conjecture">Karl Graf Lanckoroński</persName>
+                    <date evidence="conjecture" when="1923-06-27"> 27. Juni 1923</date>
+                    <placeName ref="http://www.geonames.org/2782058" evidence="conjecture">Badgastein</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/121927075" evidence="conjecture">Christiane Gräfin Thun-Salm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115103848" evidence="conjecture">Karl Graf Lanckoroński</persName>
+                    <date evidence="conjecture" when="1929-07-24">24. Juli 1929</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2661644">Ragaz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/121927075" evidence="conjecture">Christiane Gräfin Thun-Salm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h354bcf9-c2e9-464f-b615-c4622f93647f">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115103848" evidence="conjecture">Karl Graf Lanckoroński</persName>
+                    <date evidence="conjecture" when="1929-08-19">19. August 1929</date>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118517511" evidence="conjecture">Carl J. Burckhardt</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

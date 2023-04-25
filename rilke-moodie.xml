@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rilke und die Violinistin Alma Moodie </title>
+                <editor>Marthe Küster<email>marthe.kuester@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2023-02-10T15:33:11.621-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/rilke-moodie.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="i8dea2a1-70dc-4ca9-b829-3a4756dab180">Ein Briefwechsel zwischen Rilke und der Violinistin Alma Moodie. Herausgegeben und kommentiert von Florian Gelzer. In: Rilkes Paris 1920 - 1925. Neue Gedichte. Hrsg. im Auftrag der Rilke-Gesellschaft von Erich Unglaub und Jörg Paulus. Göttingen: Wallstein Verlag, 2010 (=  Blätter der Rilke-Gesellschaft 30). S. 360-402.<ref target="https://nbn-resolving.org/urn:nbn:de:hebis:30:3-572370">https://nbn-resolving.org/urn:nbn:de:hebis:30:3-572370</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#i8dea2a1-70dc-4ca9-b829-3a4756dab180" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118601024" evidence="conjecture">Rainer Maria Rilke</persName>
+                    <date evidence="conjecture" when="1923-04-03">3. April 1923</date>
+                    <placeName ref="http://www.geonames.org/2658606" evidence="conjecture">Sierre</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117134600">Alma Moodie</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i8dea2a1-70dc-4ca9-b829-3a4756dab180" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118601024" evidence="conjecture">Rainer Maria Rilke</persName>
+                    <date evidence="conjecture" when="1923-04-25">25. April 1923</date>
+                    <placeName ref="http://www.geonames.org/2658606" evidence="conjecture">Sierre</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117134600">Alma Moodie</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i8dea2a1-70dc-4ca9-b829-3a4756dab180" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118601024" evidence="conjecture">Rainer Maria Rilke</persName>
+                    <date evidence="conjecture" when="1923-06-17">17. Juni 1923</date>
+                    <placeName ref="http://www.geonames.org/2659720" evidence="conjecture">Maur am Greifensee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117134600" evidence="conjecture">Alma Moodie</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i8dea2a1-70dc-4ca9-b829-3a4756dab180" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117134600" evidence="conjecture">Alma Moodie</persName>
+                    <date evidence="conjecture" when="1923-07-13">13. Juli 1923</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118601024" evidence="conjecture">Rainer Maria Rilke</persName>
+                    <placeName ref="http://www.geonames.org/2658606" evidence="conjecture">Sierre</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i8dea2a1-70dc-4ca9-b829-3a4756dab180" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118601024" evidence="conjecture">Rainer Maria Rilke</persName>
+                    <date evidence="conjecture" when="1923-07-18">18. Juli 1923</date>
+                    <placeName ref="http://www.geonames.org/2658606" evidence="conjecture">Sierre</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117134600" evidence="conjecture">Alma Moodie</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i8dea2a1-70dc-4ca9-b829-3a4756dab180" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117134600" evidence="conjecture">Alma Moodie</persName>
+                    <date evidence="conjecture" when="1923-08-24">24.8.23</date>
+                    <placeName ref="http://www.geonames.org/2759951" evidence="conjecture">Aerdenhout</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118601024" evidence="conjecture">Rainer Maria Rilke</persName>
+                    <placeName ref="http://www.geonames.org/2661585" evidence="conjecture">Beckenried</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i8dea2a1-70dc-4ca9-b829-3a4756dab180" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118601024" evidence="conjecture">Rainer Maria Rilke</persName>
+                    <date evidence="conjecture" when="1923-08-28">28. August 1923</date>
+                    <placeName ref="http://www.geonames.org/2661585" evidence="conjecture">Beckenried</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117134600" evidence="conjecture">Alma Moodie</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i8dea2a1-70dc-4ca9-b829-3a4756dab180" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117134600" evidence="conjecture">Alma Moodie</persName>
+                    <date evidence="conjecture" when="1924-01-03">3.1.1924</date>
+                    <placeName ref="http://www.geonames.org/2925177" evidence="conjecture">Freiburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118601024" evidence="conjecture">Rainer Maria Rilke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i8dea2a1-70dc-4ca9-b829-3a4756dab180" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117134600" evidence="conjecture">Alma Moodie</persName>
+                    <date evidence="conjecture" when="1924-02-16">16.2.1924</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118601024" evidence="conjecture">Rainer Maria Rilke</persName>
+                    <placeName ref="http://www.geonames.org/2658606" evidence="conjecture">Sierre</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i8dea2a1-70dc-4ca9-b829-3a4756dab180" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117134600" evidence="conjecture">Alma Moodie</persName>
+                    <date evidence="conjecture" when="1924-08-05">5.8.1924</date>
+                    <placeName ref="http://www.geonames.org/2661218" evidence="conjecture">Chandolin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118601024" evidence="conjecture">Rainer Maria Rilke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i8dea2a1-70dc-4ca9-b829-3a4756dab180" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117134600" evidence="conjecture">Alma Moodie</persName>
+                    <date evidence="conjecture" when="1924-09-28">28.9.1924</date>
+                    <placeName ref="http://www.geonames.org/2657896" evidence="conjecture">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118601024" evidence="conjecture">Rainer Maria Rilke</persName>
+                    <placeName ref="http://www.geonames.org/2658606" evidence="conjecture">Sierre</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i8dea2a1-70dc-4ca9-b829-3a4756dab180" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117134600" evidence="conjecture">Alma Moodie</persName>
+                    <date evidence="conjecture" when="1924-12-29">29.12.1924</date>
+                    <placeName ref="http://www.geonames.org/2657896" evidence="conjecture">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118601024" evidence="conjecture">Rainer Maria Rilke</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

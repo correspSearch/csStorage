@@ -1,0 +1,1783 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefwechsel zwischen Theodor Mommsen und Wolfgang Helbig</title>
+                <editor>Marthe Küster<email>marthe.kuester@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2023-02-28T22:34:35.6-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/mommsen-helbig.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="e3d2762d-5878-47bf-a760-02626fb71dfd">Mommsen, Peter (Hg): Alte Geschichte und Archäologie im Gespräch. 34 Jahre Briefwechsel von
+Theodor Mommsen mit Wolfgang Helbig 1861–1895. Georg Olms Verlag, 2022.<ref target="https://directory.doabooks.org/handle/20.500.12854/95433">https://directory.doabooks.org/handle/20.500.12854/95433</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1861-08-27">27.8.61</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1862-10-28">28. October 1862</date>
+                    <placeName ref="http://www.geonames.org/3165524" evidence="conjecture">Turin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1864-11-23">23. Nov. 1864</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1864-12-10">10.12.1864</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1865-02-08"> 8. Febr 65</date>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1865-07-06">6. Juli 1865</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1868-08-10">10. Aug. 1868</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1871-10-07">7. October 1871</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1871-12-30">30. Dec. 1871</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1872-06-12">12. Juni 1872</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1872-07-07">7. Juli 1872</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1872-07-26">26. Juli 1872</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1873-06-30">30. Juni 1873</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1873-07-10">10. Juli 1873</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1873-07-18">18. Juli 1873</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1873-07-22">22.7.1873</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1873-07-26">26. Juli 1873</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date when="1873-07-27">27. 7. 1873</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1873-09-23">23.9.73</date>
+                    <placeName ref="http://www.geonames.org/2959686" evidence="conjecture">Achern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1873-09-27">27.9.1873</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1873-10-30">30.10.1873</date>
+                    <placeName ref="http://www.geonames.org/2959686" evidence="conjecture">Achern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1874-01-29">29.1.1874</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1874-02-10">10.2.1874</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1874-02-12">12.2.74</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1874-02-16">16. Febr. 1874</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1874-03-15">15. März 1874</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1874-03-21">21. März 1874</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1874-03-31">31.3.1874</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1874-04-06">6. April 1874</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1874-04-07">7.4.74</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1874-04-17">17. 4. 1874</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1874-04-20">20. April 1874</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1874-05-06">6. Mai 1874</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1874-05-09">9.5.1874</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="36">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1874-05-15">15. Mai 1874</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1874-06-02">2. Juni 1874</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1874-06-06">6.6.1874</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1874-07-01">1. Juli 1874</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="40">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1874-11-26">26. Nov. 1874</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="41">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1874-11-30">30. Nov. 1874</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="42">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1874-12-04">4. Dec. 1874</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="43">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1874-12-08">8.12.74</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1875-03-17">17. März 1875</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1875-10-08">8. Oct. 1875</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1875-10-18">18.10.1875</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1876-02-13">13. Febr. 1876</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="48">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1876-02-23">23. Febr. 1876</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="49">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1876-03-14">14. März 1876</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="50">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1876-03-28">28. März 1876</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="51">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1876-08-06">6. Ag. 1876</date>
+                    <placeName ref="http://www.geonames.org/3166548" evidence="conjecture">Siena</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="52">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1877-08-26">26. Ag. 1877</date>
+                    <placeName ref="http://www.geonames.org/3166548" evidence="conjecture">Siena</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="53">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1877-09-18">18. Sept. 1877</date>
+                    <placeName ref="http://www.geonames.org/3166548" evidence="conjecture">Siena</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="54">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1877-10-04">4.10.77</date>
+                    <placeName ref="http://www.geonames.org/2523920" evidence="conjecture">Palermo</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="55">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1877-12-20">20.12.1877</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="56">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1878-05-23">23.5 78</date>
+                    <placeName cert="low" ref="http://www.geonames.org/3169540">Recanati</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="57">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1879-03-02">2.3.1879</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="58">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1879-08-29">29.8.79</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="59">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1879-10-27">27.10.79</date>
+                    <placeName ref="http://www.geonames.org/3173435" evidence="conjecture">Mailand</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="60">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1879-11-24">24.11.79</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="61">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1879-12-13">13.12.1879</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="62">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1880-07-15">15. Juli 1880</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="63">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1880-07-27">27.7.80</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="64">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1880-11-09">9.11.80</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="65">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="66">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1880-12-08">8. Dec. 1880</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="67">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1880-12-17">17.12.80</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="67A">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1881-03-20">20. 3. 1881</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="68">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1881-07-22">22. Juli 1881</date>
+                    <placeName ref="http://www.geonames.org/3171180" evidence="conjecture">Perugia</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="69">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1881-07-26">26.7.81</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="70">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1881-08-02">2. Aug. 1881</date>
+                    <placeName ref="http://www.geonames.org/3171180" evidence="conjecture">Perugia</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1881-09-15">15.9.81</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="72">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1881-09-16">16. Sept. 1881</date>
+                    <placeName cert="low" ref="http://www.geonames.org/3166740">Sinigallia </placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="73">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="74">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1881-09-23">23.9.81</date>
+                    <placeName cert="low" ref="http://www.geonames.org/3166740">Sinigallia </placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="75">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1881-10-26">26.10.1881</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="76">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1881-11-19">19. Nov. 1881</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="76A">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1881-11-23">23. 11. 1881</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="77">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1881-12-03">3. Dec. 1881</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="78">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1881-12-10">10.12.1881</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="79">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1882-07-02">2.7.1882</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="80">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1882-07-03">3. Juli 1882</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="81">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1882-07-07">7.7.1882</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="82">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1882-10-01">1.10.82</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="83">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1882-12-13">13. Dec. 1882</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="84">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1882-12-23">23.12.82</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="85">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1883-09-23">23. Sept. 1883</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="86">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1883-10-09">9.10.1883</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="87">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1884-07-31">31. Juli 1884</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="88">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1884-10-04">4. Oct. 1884</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="89">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1885-06-17">17. Juni 1885</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="90">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1885-06-17">17.6.85</date>
+                    <placeName ref="http://www.geonames.org/3173435" evidence="conjecture">Mailand</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="91">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1885-11">Anf. Nov. 85</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="92">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1885-11-10">10. Nov. 1885</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="93">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1885-11-13">13.11.1885</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="94">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1885-11-16">16. Nov. 1885</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="95">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1885-11-26">26. Nov. 1885</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="96">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1885-12-05">5.12.85</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Nadejda Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="97">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1885-12-20">20.12.85</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="98">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1886-01-08">8. Januar 1886</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="99">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1886-01-18">18.1.1886</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="100">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1886-01-26">26. Jan. 1886</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="101">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1886-01-30">30. Januar 1886</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="102">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1887-01-01">1. Jan. 1887</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="103">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1887-01-17">17. Jan. 1887</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="104">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1887-02-19">19. 2. 87</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Nadejda Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="105">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1887-03-11">11. März 1887</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="106">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1887-09-29">29. Sept. 1887</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="107">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1887-10-14">14.10.87</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="108">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1887-11-11">11.11.87</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="109">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1887-12-10">10.12.87</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="110">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1887-12-14">14.12.87</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="111">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1887-12-16">16.12.87</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="112">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1887-12-28">28.12.87</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="113">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1888-01-05">5.1.88</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="114">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1888-02-14">14.2.88</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="115">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1888-04-30">30.4.88</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="116">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1888-05-02">2.5.88</date>
+                    <placeName ref="http://www.geonames.org/3176959" evidence="conjecture">Florenz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1888-05-03">3.5.88</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="118">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1888-05-21">21.5.88</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Nadejda Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="119">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1888-05-24">24.5.88</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Nadejda Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="120">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1888-06-07">7.6.88</date>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="121">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1888-07-11">11.7.88</date>
+                    <placeName ref="http://www.geonames.org/3176959" evidence="conjecture">Florenz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Nadejda Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="122">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1888-11-12">12.11.88</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="123">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1888-11-27">27.11.88</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="124">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1888-12-24">24.12.88</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="125">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1889-01-15">15.1.89</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="126">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1889-02-26">26.2.89</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="127">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1889-04-15">15.4.89</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="128">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1889-05-15">15.5.89</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="129">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1889-05-18">18.5.89</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="130">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1889-09-24">24.9.89</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="131">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1889-10-11">11.10.89</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="132">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1889-10-18">18.10.89</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="133">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1889-10-26">26. Oct. 1889</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="134">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1889-11-15">15.11.89</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="135">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1889-11-24">24.11.89</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="136">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1890-05-12">12.5.90</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="137">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1890-05-21">21.5.90</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="138">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1890-06-11">11.6.90</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="139">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1890-12-01">1.12.90</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="140">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1890-12-06">6.12.90</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="141">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1890-12-20">20.12.90</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="142">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1890-12-21">21.12.90</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="143">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1891-02-13">13.2.91</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="144">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1891-02-23">23.2.1891</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="145">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1891-02-24">24.2.91</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="146">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1891-03-03">3.3.91</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="147">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1891-03-14">14.3.91</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="148">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1891-05-06">6.5.91</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="149">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1891-05-09">9.5.91</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="150">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1891-05-10">10.5.91</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="151">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1893-07-24">24.7.93</date>
+                    <placeName ref="http://www.geonames.org/3166350" evidence="conjecture">Sorrento</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="152">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1893-08-11">11.8.93</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="153">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1894-05-03">3.5.94</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="154">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1893-05-06">6.5.94</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="155">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1894-09-24">24.9.94</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="156">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1894-10-05">5.10.94</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="157">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1894-10-13">13.10.94</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="158">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1894-10-16">16.10.94</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="159">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1894-10-30">30.10.94</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="160">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1894-11-09">9.11.94</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="161">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1894-12-17">17.12.94</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="162">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1895-05-27">27.5.95</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="163">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1895-05-28">28.5.95</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="164">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1895-06-01">1.6.95</date>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="165">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1895-06-07">7.6.95</date>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="166">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1895-07-05">5.7.95</date>
+                    <placeName ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="167">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1895-09-27">27.9.95</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="168">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1895-10-02">2.10.95</date>
+                    <placeName ref="http://www.geonames.org/3183356" evidence="conjecture">Albano</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="169">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1895-10-05">5.10.95</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="170">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                    <date evidence="conjecture" when="1895-10-11">11.10.95</date>
+                    <placeName ref="http://www.geonames.org/3027422" evidence="conjecture">Chambéry</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="171">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <date evidence="conjecture" when="1895-12-26">26.12.95</date>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="172">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="173">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3d2762d-5878-47bf-a760-02626fb71dfd" key="174">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118710036" evidence="conjecture">Wolfgang Helbig</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118583425" evidence="conjecture">Theodor Mommsen</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,1895 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <!-- Generated from table of letters with csv2cmi 2.1.0 as webservice at https://cmif.saw-leipzig.de-->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="title-f0e4-4fbc-8a76df034e">Briefwechsel zwischen Alexander
+                    Lernet-Holenia und Maria Charlotte Sweceny</title>
+                <editor>Marthe Küster<email>mkuester@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <date when="2022-10-20T09:13:03.885250"/>
+                <idno type="url">https://correspsearch.net/storage/lernet-holenia-swenceny.xml</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This file is
+                        licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="acfeec33-546e-427e-adeb-c53b22b66681">Alexander Lernet-Holenia und Maria
+                    Charlotte Sweceny : Briefe 1938-1945. Herausgegeben von Christopher Dietz. Wien
+                    Köln Weimar: Böhlau, 2013.<ref target="https://doi.org/10.26530/OAPEN_574653">https://doi.org/10.26530/OAPEN_574653</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="1" xml:id="letter-a6be-b02f-3dfc72b10a">
+                <correspAction xml:id="sender-ebc3-1f45-3baef7c96d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1938-07-15">15. 7. 1938</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1456-8d41-014f3cb5da" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="2" xml:id="letter-d14e-1f20-fd4523c76a">
+                <correspAction xml:id="sender-b346-05cf-539a86f10c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1938-07">Ende Juli 1938</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3a02-c0d7-6154c82fb9" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="3" xml:id="letter-205b-407d-4ef276ca01">
+                <correspAction xml:id="sender-acbd-613c-fbc5d7980a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1938-07">Ende Juli 1938</date>
+                </correspAction>
+                <correspAction xml:id="addressee-89e6-a42b-1a50e643b9" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="4" xml:id="letter-9fa0-a56d-560317bead">
+                <correspAction xml:id="sender-03f1-8c2d-d8bfa46592" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1938-08">Anfang August 1938</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fe62-d316-9308fcd5ab" type="received">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="5" xml:id="letter-e7a5-c307-0bd73fe1ca">
+                <correspAction xml:id="sender-2103-916e-a516bec934" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1938-08">Anfang August 1938</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7610-8e1a-31024ac6bf" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="6" xml:id="letter-542a-069a-5918e3cf24">
+                <correspAction xml:id="sender-d73f-35d6-2ca3085d79" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1938-08">Mitte August 1938</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f154-dc3e-4672bc5f8e" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="7" xml:id="letter-3a79-d059-b49017f65d">
+                <correspAction xml:id="sender-a79e-05ab-70124d9b53" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1938-09">Sept. 1938</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6597-d0c8-a0b21e7f39" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="8" xml:id="letter-a04f-b093-a285d4f631">
+                <correspAction xml:id="sender-51d6-47e6-fae9d457c6" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1938-09-21">21. 9. 1938</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a839-250d-9f7842ca3e" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="9" xml:id="letter-6b3e-5e1a-9f0e7453a8">
+                <correspAction xml:id="sender-41a9-0943-1673c9ef5a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1938-09">Ende Sept. 1938</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3bdc-6be2-69da3b705e" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="10" xml:id="letter-1276-71af-32e0cdb5a6">
+                <correspAction xml:id="sender-c58f-c297-b81453de20" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date notBefore="1938-09" notAfter="1938-10">Ende Sept./Anfang Okt. 1938</date>
+                </correspAction>
+                <correspAction xml:id="addressee-874b-0e68-de168fc475" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="11" xml:id="letter-271f-cfab-384cb71a9d">
+                <correspAction xml:id="sender-61d7-2d30-8d5c04a731" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1938-10">Anfang Okt. 1938</date>
+                </correspAction>
+                <correspAction xml:id="addressee-315d-1495-2eab86c7df" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="12" xml:id="letter-4ade-b57c-5eba013cd8">
+                <correspAction xml:id="sender-82d0-6852-b04fd9a5e8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1938-10">Anfang Okt. 1938</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ae3b-35eb-9273dfc60e" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="13" xml:id="letter-1a07-b745-ad4608e3b5">
+                <correspAction xml:id="sender-b691-d423-627a3c9efb" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1938-10">Anfang Okt. 1938</date>
+                </correspAction>
+                <correspAction xml:id="addressee-54ac-205d-e2405da386" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="14" xml:id="letter-7c58-d374-4378c0b59d">
+                <correspAction xml:id="sender-8ed2-f2ea-da0789fc2e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1939-04">April 1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-27ef-0b1d-ed9360b74c" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="15" xml:id="letter-acd8-6e73-25dbc073ef">
+                <correspAction xml:id="sender-650a-e84b-614fb23c97" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1939-04">April 1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-379f-36ba-fbe93d42ac" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="16" xml:id="letter-3eda-4ce0-821a06de45">
+                <correspAction xml:id="sender-b8c0-fae6-31d0b2c4af" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1939-04">April 1939?</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2da8-68fe-aefd53b1c6" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="17" xml:id="letter-10c8-912b-870c23ad45">
+                <correspAction xml:id="sender-2eb1-71d4-1a2e98bc6f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1939-07-18">&lt;18.&gt; 7. 1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-084b-5a7c-8af9e503d7" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="18" xml:id="letter-64de-e930-ad3792f10e">
+                <correspAction xml:id="sender-2e9b-9e85-420dc5186a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1939-07-21">21. 7. 1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a93d-a3c4-1cfba67382" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="19" xml:id="letter-b43e-a460-257901af3d">
+                <correspAction xml:id="sender-457a-250f-8f69ba02c1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1939-07-23">23. 7. 1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c59b-5d97-72c0314ae6" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="20" xml:id="letter-d14a-749c-593f6da78b">
+                <correspAction xml:id="sender-5ed6-f273-bd3485e720" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1939-07-24">24. 7. 1939?</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7289-f84c-7d35b98fa4" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="21" xml:id="letter-5e82-a602-a1930df57b">
+                <correspAction xml:id="sender-3860-3fa8-ebadf23c86" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1939-08-12">12. 8. 1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-937a-2b7f-57f230486b" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="22" xml:id="letter-037f-f176-ce1253964d">
+                <correspAction xml:id="sender-b2fe-967f-95e487f20b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1939-08-20">20. 8. 1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8dfb-913b-3f0e2c7865" type="received">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="23" xml:id="letter-2b91-d42e-d0961cf5ab">
+                <correspAction xml:id="sender-305d-26bd-726e58a041" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                    <placeName ref="http://www.geonames.org/729581">Lom Bulgarien</placeName>
+                    <date when="1939-08-24">24. 8. 1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e816-e2d7-dc86ef7523" type="received">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="24" xml:id="letter-890f-1e24-935feba7c8">
+                <correspAction xml:id="sender-0671-57b1-6ea42bd857" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/3083457">Tarnów</placeName>
+                    <date when="1938-09-14">14. 9. 1938</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7c31-2e03-5ac2e386b9" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte</persName>
+                    <persName>Otto C. Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="25" xml:id="letter-ca61-bfd8-8dc13e07a9">
+                <correspAction xml:id="sender-d634-29cb-f06c3e85a2" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/753866">Zamość</placeName>
+                    <date when="1939-09-17">17. 9. 1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-15ae-3806-50b8ea64d7" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="26" xml:id="letter-0fc6-7e8f-810fd69523">
+                <correspAction xml:id="sender-529f-68c3-b2c6104de8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/798544">Polen</placeName>
+                    <date when="1939-09-22">22. 9. 1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7384-fa90-41b7e5f9ca" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte</persName>
+                    <persName>Otto C. Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="27" xml:id="letter-4ae9-8d30-1d54feb376">
+                <correspAction xml:id="sender-0ae6-67b3-21e54d6b97" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/798544">Polen</placeName>
+                    <date when="1939-09-26">26. 9. 1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5b2a-b7cf-7d8250f1e3" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="28" xml:id="letter-f3e1-6842-180cd74feb">
+                <correspAction xml:id="sender-4f05-5603-b3f62a90d1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/798544">Polen</placeName>
+                    <date when="1939-09-28">28. 9. 1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7120-b04d-8251937bf4" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="29" xml:id="letter-a025-6307-ad65182fc3">
+                <correspAction xml:id="sender-9f14-b849-12b8639ead" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/798544">Polen</placeName>
+                    <date when="1939-09-30">30. 9. 1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a20f-cb78-2b57a13896" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="30" xml:id="letter-14ce-50ea-eba724f619">
+                <correspAction xml:id="sender-d4a0-7ea0-b710592f8c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/798544">Polen</placeName>
+                    <date notBefore="1939-09" notAfter="1939-10">Ende Sept./Anfang Okt. 1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6c7d-13f0-98f135ab7c" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="31" xml:id="letter-f9c7-7819-cd78f2695b">
+                <correspAction xml:id="sender-e26c-bd67-e901687ad4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/798544">Polen</placeName>
+                    <date notBefore="1939-09" notAfter="1939-10">Ende Sept./Anfang Okt. 1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e97f-f5a8-bc4f3892d0" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="32" xml:id="letter-1742-bced-4601dce5a9">
+                <correspAction xml:id="sender-21c8-8e20-904b1ae32c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/798544">Polen</placeName>
+                    <date when="1939-10">erste Oktoberhälfte 1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2ba9-243f-795e6134bd" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="33" xml:id="letter-6472-de05-743ea90d28">
+                <correspAction xml:id="sender-b8dc-d02b-8fcb4096ea" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/798544">Polen</placeName>
+                    <date when="1939-10-04">4. 10. 1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b42e-d5e9-a8bed347f6" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="34" xml:id="letter-07c4-52ab-a4e2916bfc">
+                <correspAction xml:id="sender-81f6-b76c-c76f9ba08e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/798544">Polen</placeName>
+                    <date when="1939-10-05">5. 10. 1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4e8b-ad62-3ae1cfd574" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="35" xml:id="letter-9c34-ea62-9a6e53271b">
+                <correspAction xml:id="sender-8def-e7cd-6c91af07e3" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/798544">Polen</placeName>
+                    <date when="1939-10-09">9. 10. 1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1e64-8940-b9f2d35780" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="36" xml:id="letter-2ca4-d68f-603172b58e">
+                <correspAction xml:id="sender-7fbd-0ace-ab8135fde9" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/798544">Polen</placeName>
+                    <date when="1939-10-10">10. 10. 1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-184b-2ec3-e982af607d" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="37" xml:id="letter-dac5-869b-76a18205bd">
+                <correspAction xml:id="sender-51d4-e25b-13ceb86f52" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/798544">Polen</placeName>
+                    <date when="1939-10-14">14. 10. 1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c687-ab18-0fe1d4cb39" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="38" xml:id="letter-691e-89a5-4fc712d685">
+                <correspAction xml:id="sender-7605-165d-139b8f6dea" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/798544">Polen</placeName>
+                    <date when="1939-10-16">16. 10. 1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-afe0-7813-2bf7c3de50" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="39" xml:id="letter-6d49-ca9d-d5420618ef">
+                <correspAction xml:id="sender-62e4-f50c-879e253cb4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/798544">Polen</placeName>
+                    <date when="1939-10-19">19. 10. 1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-bc74-f3bc-96f28a03ed" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="40" xml:id="letter-b728-0895-457f3edb69">
+                <correspAction xml:id="sender-ac58-c38a-b4ad029fe8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/798544">Polen</placeName>
+                    <date when="1939-10-21">21. 10. 1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-52ef-37a8-62da85f173" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="41" xml:id="letter-1e84-473e-b15ef3d847">
+                <correspAction xml:id="sender-a1c2-78c2-db8fac264e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1939-12-29">29. 12. 1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5b12-1395-b84e1630a2" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="42" xml:id="letter-d821-a0dc-9a72861dfb">
+                <correspAction xml:id="sender-739c-80e2-52ae14b730" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/3233832">Attnang-Puchheim</placeName>
+                    <date when="1940-06-20">20. 6. 1940</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8fd2-4c1a-c4fe90615b" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="43" xml:id="letter-85fb-4e3b-0358ebd19c">
+                <correspAction xml:id="sender-290e-2469-3062a479cf" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1940-06-22">22. 6. 1940</date>
+                </correspAction>
+                <correspAction xml:id="addressee-23ea-6428-958ba3e14c" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="44" xml:id="letter-239f-9412-fbc5379810">
+                <correspAction xml:id="sender-bd93-de79-8ad473650f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1940-06-26" cert="medium">ca. 26. 6. 1940</date>
+                </correspAction>
+                <correspAction xml:id="addressee-93e2-7ad4-fdbc83190e" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="45" xml:id="letter-13bf-bca7-63e1b5d208">
+                <correspAction xml:id="sender-c71b-750a-8f2d9160ca" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1940-06-26" cert="medium">ca. 28. 6. 1940</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6d0e-6de7-c7094bf5a8" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="46" xml:id="letter-8ea4-8eac-462170dfab">
+                <correspAction xml:id="sender-954f-5ca3-db57f6a938" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1940-07-01">1. 7. 1940?</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9da3-3159-43f81badc5" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="47" xml:id="letter-da41-872e-0d13ac6b8f">
+                <correspAction xml:id="sender-7896-30d9-79b4d2e150" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1940-07-02">2. 7. 1940</date>
+                </correspAction>
+                <correspAction xml:id="addressee-bd5a-9a5e-d542fb3ea7" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="48" xml:id="letter-d16a-ac03-ae31bd7290">
+                <correspAction xml:id="sender-e6f7-9780-a61bdf384c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1940-07-04" cert="medium">ca. 4. 7. 1940</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3bf1-fb26-4576813b0f" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="49" xml:id="letter-a68d-7a16-4c29e30af1">
+                <correspAction xml:id="sender-fabc-d1a9-908f3d1ce7" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1940-07-05">5. 7. 1940</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4db2-473b-9432d6ab7f" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="50" xml:id="letter-b581-ba4c-5cae8b4d31">
+                <correspAction xml:id="sender-7a90-f193-023b948c5d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1940-07-06" cert="medium">ca. 6. Juli 1940</date>
+                </correspAction>
+                <correspAction xml:id="addressee-38ec-b14f-d4b236c879" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="51" xml:id="letter-6854-7d15-8913abd745">
+                <correspAction xml:id="sender-5240-3f1c-9b2853fc46" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1940-08">Ende Aug. 1940</date>
+                </correspAction>
+                <correspAction xml:id="addressee-01b6-70db-137924ad05" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="52" xml:id="letter-0ea7-13df-410dac8256">
+                <correspAction xml:id="sender-921a-cea8-de438c0176" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2782052">Bad Ischl</placeName>
+                    <date when="1940-08">Aug. 1940</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7514-3c19-2ae3c80569" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="53" xml:id="letter-64e5-47a6-6b9803ad17">
+                <correspAction xml:id="sender-afe7-3dc2-21798f5ea3" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1940-09-04">4. 9. 1940</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ca3e-d142-9a76b81540" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="54" xml:id="letter-af12-9b45-30b569f7ce">
+                <correspAction xml:id="sender-d2a6-f94e-de285c406a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1940-09-13">13. 9. 1940</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8564-31ed-84b5273c9e" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="55" xml:id="letter-02e3-c409-853f1e4b29">
+                <correspAction xml:id="sender-e34c-87ec-5f92ea4db7" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1940-09-19">&lt;19.&gt; 9. 1940</date>
+                </correspAction>
+                <correspAction xml:id="addressee-82e3-9e83-fce409d628" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="56" xml:id="letter-3ce7-f8c3-d730ae1582">
+                <correspAction xml:id="sender-e94b-60eb-fc48a7e196" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1940-09-21">21. 9. 1940</date>
+                </correspAction>
+                <correspAction xml:id="addressee-df95-13a5-e3b1a50472" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="57" xml:id="letter-ed74-d35c-cd680fba32">
+                <correspAction xml:id="sender-8b13-9a5c-96c8f053ea" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1940-09-25">25. 9. 1940</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c527-0ad7-14cefb70d5" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="58" xml:id="letter-18b0-6f13-3e6b04d985">
+                <correspAction xml:id="sender-d04c-01fb-63cfbe7d82" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1940-09-30">30. 9. 1940</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3ce5-6fa4-4c18ea6529" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="59" xml:id="letter-e893-7e54-cbf523e0d4">
+                <correspAction xml:id="sender-b8de-f94a-572e9034bd" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1940-10-03">3. 10. 1940</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3f0a-b681-4bd798e362" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="60" xml:id="letter-7d16-c803-6e5ba7921d">
+                <correspAction xml:id="sender-8f45-50b7-a9b86e5df4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1940-10-29">29. 10. 1940</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5ecd-76d2-725adb63c1" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="61" xml:id="letter-712b-9865-657f8ae3b2">
+                <correspAction xml:id="sender-41eb-8d60-3e45f92b16" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1940-10-31">31. 10. 1940?</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7268-2741-687a1cb9d5" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="62" xml:id="letter-e84a-3416-257bf483a6">
+                <correspAction xml:id="sender-76e1-deb2-f87ae3b495" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1940-11-04">4. 11. 1940</date>
+                </correspAction>
+                <correspAction xml:id="addressee-61f8-4cb7-9314ce028b" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="63" xml:id="letter-d19c-f409-64c120eb3d">
+                <correspAction xml:id="sender-1472-04d7-a803e4c9b7" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1940-11-23">23. 11. 1940</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7af8-a2c7-8da13e9246" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="64" xml:id="letter-762c-5ba7-174ca20968">
+                <correspAction xml:id="sender-b6c1-b735-7c8bd9e2f5" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date notBefore="1941-01" notAfter="1941-02">Jan./Feb. 1941?</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8374-7a01-38650bf942" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="65" xml:id="letter-cf07-90a2-b3f19d5e26">
+                <correspAction xml:id="sender-b139-752c-63cb7fe1a5" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-04">Mitte April 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a654-38df-8c291b3a70" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="66" xml:id="letter-85da-facd-bf26794eac">
+                <correspAction xml:id="sender-efa4-219b-35e7c1da96" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/3233832">Attnang-Puchheim</placeName>
+                    <date when="1941-05-14">14. 5. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c75e-1923-3e8160f294" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="67" xml:id="letter-460e-1805-c602ba7149">
+                <correspAction xml:id="sender-d248-da58-d6309f2cb4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-05-16">16. 5. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-08bd-7b52-b0c2ea8f43" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="68" xml:id="letter-9083-6efb-e9d810467a">
+                <correspAction xml:id="sender-ef4b-b956-910f7a2b46" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-05-17">17. 5. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c87e-96fb-b14a0d7f35" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="69" xml:id="letter-0831-4571-5bd9620743">
+                <correspAction xml:id="sender-1532-e0cf-27c9ad0e5b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-05-18">18. 5. 1941?</date>
+                </correspAction>
+                <correspAction xml:id="addressee-870a-78bf-a5c9176f80" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="70" xml:id="letter-9e12-cb87-b1ade67058">
+                <correspAction xml:id="sender-c9d5-256b-9e20137acb" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-05-19">19. 5. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1c4b-689d-736afc8e50" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="71" xml:id="letter-58ae-90e4-8f3d5214b6">
+                <correspAction xml:id="sender-d032-f8e9-3810b6d4e9" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-05-20">20. 5. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1627-95e4-2a5d0eb41f" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="72" xml:id="letter-608d-0412-4d857f321a">
+                <correspAction xml:id="sender-6bf4-b9c2-97c28abdf0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-05-22">22. 5. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b2a9-ba95-b6d3c4e017" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="73" xml:id="letter-531e-bf30-42c3a9087d">
+                <correspAction xml:id="sender-ed84-cdaf-e02461a79d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-05">ca. Ende Mai 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-73f9-437a-17b4a6f32c" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="74" xml:id="letter-653a-2a0b-8150342cdf">
+                <correspAction xml:id="sender-4096-94f8-f5d9c86231" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-05-24">24. 5. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2cd9-a093-e0afcd5186" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="75" xml:id="letter-c79f-fe97-7e09f26dc4">
+                <correspAction xml:id="sender-1f5d-b40f-eb639fcd05" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-05-27">27. 5. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5278-3d8e-e74ad091b8" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="76" xml:id="letter-ed25-93f6-9ecad0618b">
+                <correspAction xml:id="sender-3f71-c49d-1c3bfa4058" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-05-30">30. 5. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5c9e-016c-dcafb86751" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="77" xml:id="letter-379c-629f-cf5342918b">
+                <correspAction xml:id="sender-40dc-4693-946c8d1ef3" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-06-03">3. 6. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f502-f0b3-0625384bae" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="78" xml:id="letter-28d1-8f4a-958ad47f3c">
+                <correspAction xml:id="sender-b2f0-96b5-bdc8f03716" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-06-03">3. 6. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d7cf-13d2-cdf7a91e48" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="79" xml:id="letter-c672-3ba8-593be20a48">
+                <correspAction xml:id="sender-83ab-0c62-2fc9743e8d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-06-04">4. 6. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-82be-b14a-b10268f57c" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="80" xml:id="letter-6908-a0d4-b349ad70e6">
+                <correspAction xml:id="sender-0cfd-01c5-83b2609471" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-06-05">5. 6. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5bd3-4f87-3b684e1f2d" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="81" xml:id="letter-97c8-63ab-1fd874b0c5">
+                <correspAction xml:id="sender-fed4-ef41-a9c1534b2d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-06-10">10. 6. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8d36-4903-6ae15bcd87" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="82" xml:id="letter-897d-6d5b-7dbc92301e">
+                <correspAction xml:id="sender-cbe2-de61-a62487bde1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-06-15">15. 6. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-cbe6-2135-fda251ce89" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="83" xml:id="letter-3f9b-85be-abef7d6152">
+                <correspAction xml:id="sender-71fd-906b-5e3cf09d81" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-06-16">16. 6. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b051-0aef-5e4c1239bf" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="84" xml:id="letter-be96-1f57-19d84720ea">
+                <correspAction xml:id="sender-3826-e725-df843579eb" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-08-08">8. 8. &lt;1941&gt;</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b743-bf65-74ba326c9e" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="85" xml:id="letter-b1d8-32e0-c51e9d206b">
+                <correspAction xml:id="sender-3f47-530d-b3df64a087" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-08-10" cert="medium">ca. 10. 8. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a154-9356-49ebda2c30" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="86" xml:id="letter-9dec-ce28-74cdae36b8">
+                <correspAction xml:id="sender-6503-659f-92873fc5e0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-08-12">12. 8. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8502-9a1c-bed43c8f19" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="87" xml:id="letter-6c20-c7f3-238bc167fe">
+                <correspAction xml:id="sender-5138-7df5-d9c6217b0a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-08-19">19. 8. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a3e6-4ade-52efd18a07" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="88" xml:id="letter-06bf-f153-d175bf49c6">
+                <correspAction xml:id="sender-ea15-614b-8f4b5293e7" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-08-23">23. 8. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a8c5-dc56-82de1904ac" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="89" xml:id="letter-e65b-c8a2-430e6c27a1">
+                <correspAction xml:id="sender-ca2e-9e36-2dfe1c6795" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1941-08-24" notAfter="1941-08-25">24. od. 25. 8. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1a2c-16c2-e81723c69f" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="90" xml:id="letter-0c39-4593-5cb2d18f94">
+                <correspAction xml:id="sender-0579-79bc-c90e157d42" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1941-08-26">26. 8. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ad03-50c1-0521f834be" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="91" xml:id="letter-58ca-79a5-a9d1b6807c">
+                <correspAction xml:id="sender-19c6-f142-e85fdc9b46" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2761524">Wels</placeName>
+                    <date when="1941-09-14">14. 9. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-52ea-d4e7-ef56c4087a" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="92" xml:id="letter-91fe-f5d1-8651cf9427">
+                <correspAction xml:id="sender-652a-34f5-d9780154bf" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1941-09-15">15. 9. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6597-a30f-1856e3c0b9" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="93" xml:id="letter-8590-3190-7264c358ab">
+                <correspAction xml:id="sender-e71a-6d43-615f283407" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1941-09-17">17. 9. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5c9d-e310-c7192086fb" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="94" xml:id="letter-65fb-0cb6-afb96cd807">
+                <correspAction xml:id="sender-af07-031f-f23eb9acd8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1941-09-19">19. 9. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-62c3-7ecf-6a9841b375" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="95" xml:id="letter-c43a-4c1a-f348ae7d0b">
+                <correspAction xml:id="sender-eb7f-f792-02a35167cf" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1941-09-22">22. 9. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7fd8-0d72-ef35a12cb8" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="96" xml:id="letter-2438-da14-d0e1ac86bf">
+                <correspAction xml:id="sender-20bf-d013-067b4f93c1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1941-09-24">24. 9. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c81b-7a89-a83647f01c" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="97" xml:id="letter-7f3a-6940-d6f02a5139">
+                <correspAction xml:id="sender-125a-42fc-81306a5b49" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1941-09-25">25. 9. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-bfac-d10e-a52b786309" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="98" xml:id="letter-fb03-761c-27a3d09516">
+                <correspAction xml:id="sender-df97-25f8-6f98bace72" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1941-09">Ende Sept. 1941?</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8fca-4d6f-a9c13be487" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="99" xml:id="letter-630d-3bd9-c721465a3f">
+                <correspAction xml:id="sender-c92e-51af-48b13adc60" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-09-29">29. 9. 1941?</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c529-e5f8-8e21f397bc" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="100" xml:id="letter-d485-ad74-b509e71c2a">
+                <correspAction xml:id="sender-0fa8-5198-0f2b15c843" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-09-30">30. 9. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1ef2-6e40-420cfe387a" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="101" xml:id="letter-12a4-c03a-b43617d92e">
+                <correspAction xml:id="sender-6c23-0c62-ce170a8d4b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-10">Anfang Okt. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-13a2-6312-ed2fcb61a5" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="102" xml:id="letter-645e-d20b-c1f63542a9">
+                <correspAction xml:id="sender-5abd-8937-1acef28654" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-10-02">2. 10. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9306-9831-931ea480bd" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="103" xml:id="letter-2fb1-fc96-72f59e1b40">
+                <correspAction xml:id="sender-1ce6-7ec2-0b72a9e631" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-10-04">4. 10. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-79c2-2b5c-4b793a5d0e" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="104" xml:id="letter-3b49-8c23-a7e605192c">
+                <correspAction xml:id="sender-e1a7-64ac-51a40c7392" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-10-29">29. 10. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3c09-63e9-de98463f72" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="105" xml:id="letter-cf03-602e-3d2168ab70">
+                <correspAction xml:id="sender-cfd7-7ef3-8146c5d93a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-12">Ende Dez. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-712a-29bc-1d9036bfe8" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="106" xml:id="letter-dc32-f718-7c96a3e421">
+                <correspAction xml:id="sender-0879-8391-e851b0df37" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-12-24">24. 12. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3726-7a5b-eacbd3127f" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="107" xml:id="letter-6875-0be6-21867fae5c">
+                <correspAction xml:id="sender-c23a-bfed-31dfe89b24" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-12-26">26. 12. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6d5c-320a-e62c3a9784" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="108" xml:id="letter-d02b-13dc-385fca6421">
+                <correspAction xml:id="sender-726b-b031-64d801a93f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-12-29">29. 12. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fbd7-35c8-ed6a8037c9" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="109" xml:id="letter-24ac-f4c2-e9f324b785">
+                <correspAction xml:id="sender-9bd8-25e1-f6a9530b7e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1941-12-30">30. 12. 1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9012-96af-a1f7bde82c" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="110" xml:id="letter-45cb-fc18-1f8ed6a057">
+                <correspAction xml:id="sender-1bfd-160b-926ed8a4cf" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1942-01-01">1. 1. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0378-6e18-236cb1a908" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="111" xml:id="letter-48fe-4db5-895d26f43c">
+                <correspAction xml:id="sender-87a6-e18c-74923b801c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1942-01-01">1. 1. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-78de-8f43-e562a3b170" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="112" xml:id="letter-054c-20a3-1b05f74adc">
+                <correspAction xml:id="sender-0457-2a5b-0cf75a29e8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1942-01-03">3. 1. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0b9f-f59e-8f3c12d5a9" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="113" xml:id="letter-537c-927c-8c5fd7e41a">
+                <correspAction xml:id="sender-0efc-9021-24a0b576f9" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-01-04">4. 1. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3dcf-7a0f-4ab21590fc" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="114" xml:id="letter-c395-8fc6-5b164faec2">
+                <correspAction xml:id="sender-6137-b2e5-8d4bc9e506" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-01-11">11. 1. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-de79-f2b0-8fc74ab193" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="115" xml:id="letter-0249-f835-e4781902bf">
+                <correspAction xml:id="sender-f570-32e4-4efa751c80" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-01-14" cert="medium">ca. 14. 1. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4efc-80f7-f7e68ba452" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="116" xml:id="letter-ec0b-39d1-2a6df8b430">
+                <correspAction xml:id="sender-e186-db54-7ca3df8591" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-03-15">15. 3. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0e1c-926f-4ebc8fd716" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="117" xml:id="letter-cf21-0956-1e2f47c69a">
+                <correspAction xml:id="sender-b9d8-fde1-f9861250be" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-03-19">19. 3. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-eabf-9032-e9c4361d75" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="118" xml:id="letter-1efa-b381-35a9e681b7">
+                <correspAction xml:id="sender-3257-69bc-0d9c3e86a4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-03-22">22. 3. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8f79-d190-20c456873d" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="119" xml:id="letter-a5ed-470d-b5687413a0">
+                <correspAction xml:id="sender-b48a-2014-3058debafc" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-03-24">24. 3. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-23ef-863e-cb10df9e63" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="120" xml:id="letter-276a-c73b-645d310fec">
+                <correspAction xml:id="sender-caf0-49f6-58feb02796" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-03-28">28. 3. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-310b-94c1-8d14b93fa0" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="121" xml:id="letter-892b-eb90-db025fc3e7">
+                <correspAction xml:id="sender-c069-ba89-e629b734df" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-03-29">29. 3. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c3fe-4fa8-c92d03f768" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="122" xml:id="letter-cf51-306c-914527f6de">
+                <correspAction xml:id="sender-4b63-b1d6-b0ef1235d6" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-04-16">16. 4. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b725-3156-e413bdcf05" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="123" xml:id="letter-cef4-2e86-c7508e6fb1">
+                <correspAction xml:id="sender-34e1-d187-76bf0da483" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-04-22">22. 4. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7cb4-8c4d-051d6924a7" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="124" xml:id="letter-7ae9-b68a-e8c9ab4617">
+                <correspAction xml:id="sender-4f3e-ac8f-342c0be59d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-04-23">23. 4. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5e16-0ea1-5079cd3e18" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="125" xml:id="letter-b4f0-edb9-9512e6cd3f">
+                <correspAction xml:id="sender-f7e2-e8b7-cfa06273b8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-04-28">28. 4. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6b8a-841a-2b61475ef9" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="126" xml:id="letter-1f76-be0a-96f451b02c">
+                <correspAction xml:id="sender-a581-6d09-04d1a6fb97" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-05" cert="medium">Anfang Mai 1942?</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4b9c-cd3b-abcd09f728" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="127" xml:id="letter-32df-2751-b682d9ea31">
+                <correspAction xml:id="sender-4703-7352-4de69f180c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-05-01">1. 5. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3ce2-d315-03b4859a72" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="128" xml:id="letter-b16f-6251-ef43069d25">
+                <correspAction xml:id="sender-f6a5-0356-702d913c45" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-05-03">3. 5. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-138f-0c46-c62e0a13d5" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="129" xml:id="letter-59c1-35c7-e39cd1420b">
+                <correspAction xml:id="sender-ec6d-f516-e5ca4d2086" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-05-06">6. 5. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-76b1-7d42-f8ab0d27e1" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="130" xml:id="letter-fb90-38af-cf2a8e5163">
+                <correspAction xml:id="sender-1f60-873e-d61b25c8f4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1942-05">zweite Maihälfte 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e0b7-841f-461539bd07" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="131" xml:id="letter-b64f-ea2c-48f25a01b6">
+                <correspAction xml:id="sender-1d52-0bf2-bc90318fe2" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766429">St. Pölten</placeName>
+                    <date when="1942-06-14">14. 6. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e415-8eba-9a5c12bd76" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="132" xml:id="letter-65a0-e627-c8a0f45de1">
+                <correspAction xml:id="sender-4fa8-8170-ce48d627b3" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-06-17">17. 6. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-df70-de12-d27f08e9c3" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="133" xml:id="letter-6f0a-e90a-9d7b5cf0a8">
+                <correspAction xml:id="sender-325d-afb9-a458f3db09" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-06-19">19. 6. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e60a-276e-3f0b67e942" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="134" xml:id="letter-e49c-0caf-16b74e2adc">
+                <correspAction xml:id="sender-7983-e1c9-51a0d46b2e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-06-25">25. 6. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-94f5-5d09-3c914bf58d" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="135" xml:id="letter-13e7-6e19-09d4a72fc5">
+                <correspAction xml:id="sender-4a81-c7d3-65d3f9c420" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-06-27">27. 6. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7de1-608c-7b46ed38a9" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="136" xml:id="letter-dae9-e401-ac0db7f651">
+                <correspAction xml:id="sender-9602-6bc5-e9a2f83106" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-06-29">29. 6. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e76a-6237-1284cb65ef" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="137" xml:id="letter-01b2-ba4c-7dbaf1c985">
+                <correspAction xml:id="sender-80d4-e745-f0d2856bec" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1942-07-17">17. 7. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-065e-0916-c7183efdb0" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="138" xml:id="letter-b721-ef14-9ad5f61374">
+                <correspAction xml:id="sender-519d-c71f-a569bcfe10" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-08-31">31. 8. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-abc0-a5ef-9370adb28c" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="139" xml:id="letter-eba0-a832-b63e2789d0">
+                <correspAction xml:id="sender-90d5-ba30-24b79d183f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-09-01">1. 9. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ed7a-cf83-08f31a479b" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="140" xml:id="letter-3682-5724-e1027d3afb">
+                <correspAction xml:id="sender-92fa-8d6c-e3268507b9" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-09-02">2. 9. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f03b-d8e3-5142f8d396" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="141" xml:id="letter-3e19-e21f-8743951e2f">
+                <correspAction xml:id="sender-f86d-5a97-45a098f123" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-09-03">3. 9. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8a2b-6852-d379182cea" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="142" xml:id="letter-6703-30f8-473cfe9d1b">
+                <correspAction xml:id="sender-648c-985d-c784dea30b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-09-06">6. 9. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b42c-b497-5df6037bc2" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="143" xml:id="letter-9be2-c923-07d1fe94a5">
+                <correspAction xml:id="sender-e216-3f42-20634a5fc7" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-09-08">8. 9. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9841-035b-b0f927ea16" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="144" xml:id="letter-4efa-05fd-4be1d56fc0">
+                <correspAction xml:id="sender-d9a8-b34c-5a48237fbc" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-09-11">11. 9. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-412e-ca27-5e210689ca" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="145" xml:id="letter-39fb-7c86-938fe1ca46">
+                <correspAction xml:id="sender-f7a9-25af-80652fa9e4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-09-15">15. 9. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d234-9da7-4ae63c0217" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="146" xml:id="letter-124d-59f2-075a26438b">
+                <correspAction xml:id="sender-812b-1d38-cab28d4f10" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-09-16">16. 9. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b6e8-7065-e39106f82c" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="147" xml:id="letter-b9a2-0d23-214cba6389">
+                <correspAction xml:id="sender-6241-42d0-4fa1b5de87" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-09-20">20. 9. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c236-9e4f-acd7491538" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="148" xml:id="letter-f1e8-c4e9-159d64bf8c">
+                <correspAction xml:id="sender-5a0d-5816-fc84e26179" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-09-21">21. 9. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fec2-9ae8-60d23b41f7" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="149" xml:id="letter-e5cf-830d-b8136f7ad4">
+                <correspAction xml:id="sender-47cb-780a-8c140af597" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-09-27">27. 9. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c538-1f04-d17c83fa09" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="150" xml:id="letter-f2b7-71d5-c74a35fd9e">
+                <correspAction xml:id="sender-c4b1-9a1b-8d90e713ca" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-09-29">29. 9. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-21f5-c90d-15ce38749b" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="151" xml:id="letter-e04c-3b01-2db931e8ac">
+                <correspAction xml:id="sender-d594-6784-f39e7b5ad8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-10-02">2. 10. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2e08-7eb6-db43f8c6ae" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="152" xml:id="letter-adf4-918c-8f630eb725">
+                <correspAction xml:id="sender-d796-0e52-42b80e39f5" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-10-06">6. 10. 1942</date>
+                </correspAction>
+                <correspAction xml:id="addressee-628e-3715-c70fead645" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="153" xml:id="letter-02f9-19d3-0e89432b67">
+                <correspAction xml:id="sender-a469-49bf-26731a05fe" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date when="1943-07-04">4. 7. 1943</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6d02-29cf-d374b6a0e8" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="154" xml:id="letter-892c-39e4-704659ba1d">
+                <correspAction xml:id="sender-923d-a21e-ce8b6471a5" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1945-07">Anfang Juli 1945</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ab5f-e164-da2bf90436" type="received">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#acfeec33-546e-427e-adeb-c53b22b66681" key="155" xml:id="letter-4719-3d0f-6a4be25f19">
+                <correspAction xml:id="sender-074b-d5ba-d18b274afe" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571990">Alexander
+                        Lernet-Holenia</persName>
+                    <placeName ref="http://www.geonames.org/2766340">St. Wolfgang</placeName>
+                    <date>o. D.</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1b29-4ef6-38ce5d7926" type="received">
+                    <persName ref="https://d-nb.info/gnd/1029114056">Maria Charlotte
+                        Sweceny</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

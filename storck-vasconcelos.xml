@@ -1,0 +1,844 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefwechsel zwischen Wilhelm Storck und Joaquim de Vasconcelos</title>
+                <editor>Marthe Küster<email>marthe.kuester@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <date when="2023-01-24T14:10:18.369-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/storck-vasconcelos.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="j1ceef56-7cb0-4260-b2e7-2e368511dc14">Wilhelm Storck und Joaquim de Vasconcelos. Briefwechsel. Herausgegeben von Philipp Kampschroer. University of Bamberg Press, 2022 (= Bamberger Editionen, Bd. 18). <ref target="https://doi.org/10.20378/irb-53718">https://doi.org/10.20378/irb-53718</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV01">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1874-08-29">29.08.1874</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1874-09-18">18.09.1874</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS01">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1874-09-20">20.09.1874</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV02">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1874-10-21">21.10.1874</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1874-10-29">29.10.1874</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS02">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1874-11-05">05.11.1874</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV04">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1875-01-20">20.01.1875</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1875-01-31">31.01.1875</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS03">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1875-02-09">09.02.1875</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS04">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1875-04-07">07.04.1875</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV05">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1875-04-07">07.04.1875</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1875-04-15">15.04.1875</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS05">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1875-05-02">02.05.1875</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS06">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1875-05-20">20.05.1875</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV06">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1875-05-27">27.05.1875</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1875-06-02">02.06.1875</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV07">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <persName ref="https://d-nb.info/gnd/119282585" evidence="conjecture">Caroline Michaëlis</persName>
+                    <date evidence="conjecture" when="1875-06">Juni 1875</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1875-06-21">21.06.1875</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV08">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1875-06-24">24.06.1875</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1875-06-25">25.06.1875</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS07">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1875-07-04">04.07.1875</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV09">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1875-07-25">25.07.1875</date>
+                    <placeName ref="http://www.geonames.org/3083677" evidence="conjecture">Schreiberhau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1875-07-27">27.07.1875</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS08">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1875-08-18">18.08.1875</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1875-11-11">11.11.1875</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1875-11-13">13.11.1875</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS09">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1875-12-10">10.12.1875</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1875-12-31">31.12.1875</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1876-01-16">16.01.1876</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1876-01-17">17.01.1876</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14">
+                <correspAction type="sent">
+                    <persName>Unknown</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Unknown</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1876-01-26">26.01.1876</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1876-03-10">10.03.1876</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1876-03-20">20.03.1876</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1876-03-22">22.03.1876</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1876-05-25">25.05.1876</date>
+                    <placeName ref="http://www.geonames.org/2911298" evidence="conjecture">Hamburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1876-10-29">29.10.1876</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1876-11-04">04.11.1876</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1876-12-06">06.12.1876</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1877-02-02">02.02.1877</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1877-01-11">11.01.1877</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1877-04-02">02.04.1877</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1877-04-09">09.04.1877</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1877-05-19">19.05.1877</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1877-09-06">06.09.1877</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1877-09-13">13.09.77</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1877-12-04">04.12.1877</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1878-01-08">08.01.1878</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1878-01-11">11.01.1878 </date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1878-01-11">11.01.78</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1878-01-31">31.01.1878</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1878-02-09">09.02.1878</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1878-04-23">23.04.1878</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1878-05-13">13.05.1878</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1878-05-19">19.05.1878</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1878-05-22">22.05.1878</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1878-05-29">29.05.1878</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date when="1878-06-10">10.06.1878</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1878-06-16">16.06.1878</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1878-07-08">08.07.1878</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1878-10-20">20.10.1878</date>
+                    <placeName ref="http://www.geonames.org/2738348" evidence="conjecture">Leça da Palmeira</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1878-10-25">25.10.1878</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1878-10-25">25.10.1878</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1879-01-07">07.01.1879</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1879-01-13">13.01.1879</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1879-01-17">17.01.1879</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1879-01-23">23.01.1879</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1879-01-27">27.01.1879</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1879-04-20">20.04.1879</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1879-07-03">03.07.1879</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1879-06-16">16.07.1879</date>
+                    <placeName ref="http://www.geonames.org/2268406" evidence="conjecture">Évora</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1879-07-22">22.07.1879</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1879-08-20">20.08.1879</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1879-09-22">22.09.1879</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1879-10-14">14.10.1879</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1879-10-22">22.10.1879</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date when="1879-10-24">24.10.1879</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1879-10-29">29.10.1879</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1879-11-05">05.11.1879</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1879-12-17">17.12.1879</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1880-01-18">18.01.1880</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1880-01-23">23.01.1880</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1880-03-09">09.03.1880</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1880-03-23">23.03.1880</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1880-03-29">29.03.1880</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1880-04-20">20.04.1880</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1880-04-26">26.04.1880</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1880-05-01">01.05.1880</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1880-05-09">09.05.1880</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1880-05-19">19.05.1880</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1880-05-24">24.05.1880</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1880-05-30">30.05.1880</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1880-06-05">05.06.1880</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1880-06-09">09.06.1880</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1880-07-17">17.07.1880</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1880-07-25">25.07.1880</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1880-08-21">21.08.1880</date>
+                    <placeName ref="http://www.geonames.org/2738108" evidence="conjecture">Luso</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV36">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1880-10-13">13.10.1880</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="WS35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1880-10-21">21.10.1880</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1881-02-28">28.02.1881</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1881-03-06">06.03.1881</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1881-12-06">06.12.1881</date>
+                    <placeName ref="http://www.geonames.org/2735943" evidence="conjecture">Porto</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14" key="JV39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117354538" evidence="conjecture">Joaquim de Vasconcelos</persName>
+                    <date evidence="conjecture" when="1889-10-10">10.10.1889</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1875-04-07">07.04.1875</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1073365794" evidence="conjecture">Wilhelm Peuser</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1ceef56-7cb0-4260-b2e7-2e368511dc14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119099969" evidence="conjecture">Wilhelm Storck</persName>
+                    <date evidence="conjecture" when="1880-07-06">06.07.1880</date>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119282585" evidence="conjecture"> Carolina Michaëlis de Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

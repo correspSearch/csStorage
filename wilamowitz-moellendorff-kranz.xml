@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefe von Ulrich von Wilamowitz-Moellendorff an Walther Kranz</title>
+                <editor>Marthe Küster<email>marthe.kuester@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <date when="2023-01-06T14:34:14.502-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/wilamowitz-moellendorff-kranz.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="o87ee415-e495-4c5f-8acb-61c58503e8a5">"Wenn die Jugend nur etwas taugt ..." Ulrich von Wilamowitz-Moellendorff an Walther Kranz. 39 Dokumente. Hg. v. Ernst Vogt. München [2016]. (= Sitzungsberichte 2016, Heft 1). <ref target="https://publikationen.badw.de/de/042942502">https://publikationen.badw.de/de/042942502</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#o87ee415-e495-4c5f-8acb-61c58503e8a5" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11877171X" evidence="conjecture">Ulrich von Wilamowitz-Moellendorff</persName>
+                    <date evidence="conjecture" when="1905-07-03">&lt;3. 7. 1905&gt;</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116381280" evidence="conjecture">Walther Kranz</persName>
+                    <placeName ref="http://www.geonames.org/2808473" evidence="conjecture">Wilmersdorf</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o87ee415-e495-4c5f-8acb-61c58503e8a5" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11877171X" evidence="conjecture">Ulrich von Wilamowitz-Moellendorff</persName>
+                    <date cert="low" from="1907-12" to="1910-07">&lt;Dezember 1907 oder Juli 1910?&gt;</date>
+                    <placeName ref="http://www.geonames.org/2810538" evidence="conjecture">Westend</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116381280" evidence="conjecture">Walther Kranz</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o87ee415-e495-4c5f-8acb-61c58503e8a5" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11877171X" evidence="conjecture">Ulrich von Wilamowitz-Moellendorff</persName>
+                    <date evidence="conjecture" when="1910-03-28">&lt;28. 3. 1910&gt;</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116381280" evidence="conjecture">Walther Kranz</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o87ee415-e495-4c5f-8acb-61c58503e8a5" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11877171X" evidence="conjecture">Ulrich von Wilamowitz-Moellendorff</persName>
+                    <date evidence="conjecture" when="1910-10-23">&lt;23. 10. 1910&gt;</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116381280" evidence="conjecture">Walther Kranz</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o87ee415-e495-4c5f-8acb-61c58503e8a5" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11877171X" evidence="conjecture">Ulrich von Wilamowitz-Moellendorff</persName>
+                    <date evidence="conjecture" when="1912-11-18">&lt;18. 11. 1912&gt;</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116381280" evidence="conjecture">Walther Kranz</persName>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o87ee415-e495-4c5f-8acb-61c58503e8a5" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11877171X" evidence="conjecture">Ulrich von Wilamowitz-Moellendorff</persName>
+                    <date evidence="conjecture" when="1912">&lt;Ende 1912?&gt;</date>
+                    <placeName ref="http://www.geonames.org/2810538" evidence="conjecture">Westend</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116381280" evidence="conjecture">Walther Kranz</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o87ee415-e495-4c5f-8acb-61c58503e8a5" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11877171X" evidence="conjecture">Ulrich von Wilamowitz-Moellendorff</persName>
+                    <date evidence="conjecture" when="1913-01-19">19 I 13</date>
+                    <placeName ref="http://www.geonames.org/2810538" evidence="conjecture">Westend</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116381280" evidence="conjecture">Walther Kranz</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o87ee415-e495-4c5f-8acb-61c58503e8a5" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11877171X" evidence="conjecture">Ulrich von Wilamowitz-Moellendorff</persName>
+                    <date cert="low" when="1913">&lt;2. Hälfte 1913?&gt;</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116381280" evidence="conjecture">Walther Kranz</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o87ee415-e495-4c5f-8acb-61c58503e8a5" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11877171X" evidence="conjecture">Ulrich von Wilamowitz-Moellendorff</persName>
+                    <date when="1914-10-28">28 X &lt;1914&gt;</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2810538" evidence="conjecture">Westend-Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116381280" evidence="conjecture">Walther Kranz</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o87ee415-e495-4c5f-8acb-61c58503e8a5" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11877171X" evidence="conjecture">Ulrich von Wilamowitz-Moellendorff</persName>
+                    <date cert="low" when="1915">&lt;Anfang bis Mitte 1915&gt;</date>
+                    <placeName ref="http://www.geonames.org/2810538" evidence="conjecture">Westend-Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116381280" evidence="conjecture">Walther Kranz</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o87ee415-e495-4c5f-8acb-61c58503e8a5" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11877171X" evidence="conjecture">Ulrich von Wilamowitz-Moellendorff</persName>
+                    <date cert="low" when="1915">&lt;wohl etwa Mitte 1915&gt;</date>
+                    <placeName ref="http://www.geonames.org/2810538" evidence="conjecture">Westend-Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116381280" evidence="conjecture">Walther Kranz</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o87ee415-e495-4c5f-8acb-61c58503e8a5" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11877171X" evidence="conjecture">Ulrich von Wilamowitz-Moellendorff</persName>
+                    <date evidence="conjecture" when="1916-04-18">18 IV &lt;1916&gt;</date>
+                    <placeName ref="http://www.geonames.org/2810538" evidence="conjecture">Westend-Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116381280" evidence="conjecture">Walther Kranz</persName>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o87ee415-e495-4c5f-8acb-61c58503e8a5" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11877171X" evidence="conjecture">Ulrich von Wilamowitz-Moellendorff</persName>
+                    <date evidence="conjecture" when="1916-09-30">30 &lt;I&gt;X &lt;1916&gt;</date>
+                    <placeName ref="http://www.geonames.org/2810538" evidence="conjecture">Westend-Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116381280" evidence="conjecture">Walther Kranz</persName>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o87ee415-e495-4c5f-8acb-61c58503e8a5" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11877171X" evidence="conjecture">Ulrich von Wilamowitz-Moellendorff</persName>
+                    <date evidence="conjecture" when="1916-07-01">1 XII 16</date>
+                    <placeName ref="http://www.geonames.org/2810538" evidence="conjecture">Westend-Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116381280" evidence="conjecture">Walther Kranz</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o87ee415-e495-4c5f-8acb-61c58503e8a5" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11877171X" evidence="conjecture">Ulrich von Wilamowitz-Moellendorff</persName>
+                    <date evidence="conjecture" when="1916-12-07">&lt;7. 12. 1916&gt;</date>
+                    <placeName ref="http://www.geonames.org/2810538" evidence="conjecture">Westend-Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116381280" evidence="conjecture">Walther Kranz</persName>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o87ee415-e495-4c5f-8acb-61c58503e8a5" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11877171X" evidence="conjecture">Ulrich von Wilamowitz-Moellendorff</persName>
+                    <date evidence="conjecture" when="1916-12-28">&lt;28. 12. 1916&gt;</date>
+                    <placeName ref="http://www.geonames.org/2810538" evidence="conjecture">Westend-Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116381280" evidence="conjecture">Walther Kranz</persName>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o87ee415-e495-4c5f-8acb-61c58503e8a5" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11877171X" evidence="conjecture">Ulrich von Wilamowitz-Moellendorff</persName>
+                    <date evidence="conjecture" when="1917-02-10">&lt;10. 2. 1917&gt;</date>
+                    <placeName ref="http://www.geonames.org/2810538" evidence="conjecture">Westend-Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116381280" evidence="conjecture">Walther Kranz</persName>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Charlottenburg</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

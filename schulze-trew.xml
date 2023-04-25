@@ -1,0 +1,860 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Die Briefe Johann Heinrich Schulzes an Christoph Jacob Trew</title>
+                <editor>Marthe Küster<email>mkuester@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2022-12-10T13:23:42.31-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/schulze-trew.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="b6f48a7f-778a-413c-a34c-581dd39f426d">Die Briefe Johann Heinrich Schulzes (1687-1744) an Christoph Jacob Trew. Herausgegeben von Heidrun Karin Mitzel-Kaoukhov. Friedrich-Alexander-Universität Erlangen Nürnberg (FAU), 2011.<ref target="https://nbn-resolving.org/urn:nbn:de:bvb:29-opus-26544">https://nbn-resolving.org/urn:nbn:de:bvb:29-opus-26544</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1722-06-28">28. 06.1722</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1722-07-23">23. 07. 1722</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1723-09-10">10. 09. 1723</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1725-12-09">09. 12. 1725</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1726-03-01">01. 03. 1726</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1726-04-05">05. 04. 1726</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1726-09-06">06. 09. 1726</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1726-09-19">19. 09. 1726</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1727-01-05">05. 01. 1727</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1727-01-26">26. 01. 1727</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1727-02-13">13. 02. 1727</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1727-02-27">27. 02. 1727</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1727-03-06">06. 03. 1727</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1727-03-20">20. 03. 1727</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1727-05-11">11. 05. 1727</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1727-05-14">14. 05. 1727</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1727-06-06">06. 06. 1727</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1727-07-15">15. 07. 1727</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1727-08-08">08. 08. 1727</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1727-08-07">07. 08. 1727</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1728-11-11">11. 11. 1728</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1728-11-14">14. 11. 1728</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1728-11-22">22. 11. 1728</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1729-02-21">21. 02. 1729</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1729-03-20">20. 03. 1729</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1730-05-25">25. 05. 1730</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1730-06-16">16. 06. 1730</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1730-10-16">16. 10. 1730</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1730-10-25">25. 10. 1730</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1730-10-31">31. 10. 1730</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1730-12-16">16. 12. 1730</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1730-12-21">21. 12. 1730</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1730-12-23">23. 12. 1730</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1731">x. x. 1731</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1731-01-04">04. 01. 1731</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="36">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1731-01-18">18. 01. 1731</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1731-03-04">04. 03. 1731</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1731-03-11">11. 03. 1731</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1731-04-04">04. 04. 1731</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="40">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1731-04-17">17. 04. 1731</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="41">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1731-04-20">20. 04. 1731</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="42">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1731-04-23">23. 04. 1731</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="43">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1731-05-29">29. 05. 1731</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1731-06-12">12. 06. 1731</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1731-06-21">21. 06. 1731</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1731-07-25">25. 07. 1731</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1731-07-26">26. 07. 1731</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="48">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date>Keine Datierung</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="49">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1732-01-06">06. 01. 1732</date>
+                    <placeName ref="http://www.geonames.org/2958024">Altdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="50">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1732-01-27">27. 01. 1732</date>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="51">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1732-02-10">10. 02. 1732</date>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="52">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1732-03-12">12. 03. 1732</date>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="53">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1732-10-22">22. 10. 1732</date>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="54">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1732-11-01">01. 11. 1732</date>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="55">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1733-05-05">05. 05. 1733</date>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="56">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1733-10-25">25. 10. 1733</date>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="57">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1733-10-27">27. 10. 1733</date>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="58">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1733-12-19">19. 12. 1733</date>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="59">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1734-01-28">28. 01. 1734</date>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="60">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1734-05-15">15. 05. 1734</date>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="61">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1734-05-29">29. 05. 1734</date>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="62">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1734-11-15">15. 11. 1734</date>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="63">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1735-04-24">24. 04. 1735</date>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="64">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1735-06-26">26. 06.1735</date>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="65">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1735-11-09">09. 11. 1735</date>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="66">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1737-10-20">20. 10. 1737</date>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="67">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1740-05-10">10. 05. 1740</date>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="68">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1740-05-28">28. 05. 1740</date>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b6f48a7f-778a-413c-a34c-581dd39f426d" key="69">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123165350">Johann Heinrich
+                        Schulze</persName>
+                    <date when="1742-11-20">20. 11. 1742</date>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118802712">Christoph Jacob Trew</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

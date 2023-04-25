@@ -1,0 +1,479 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Scofield Thayer und Hugo von Hofmannsthal</title>
+                <editor>Marthe Küster<email>marthe.kuester@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2023-02-11T14:33:31.999-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/hofmannsthal/thayer-hofmannsthal.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7">Hugo von Hofmannsthal und ‚The Dial‘ : Briefe 1922–1929. Herausgegeben
+und kommentiert von Alys X. George. In: Hofmannsthal. Jahrbuch zur europäischen Moderne 22 (2018): 7–68.<ref target="https://nbn-resolving.org/urn:nbn:de:hebis:30:3-482681">https://nbn-resolving.org/urn:nbn:de:hebis:30:3-482681</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                    <date evidence="conjecture" when="1922-02-05">5. Feber, 1922</date>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1922-02-08">8. II. 22</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118975803" evidence="conjecture">Christiane von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1922-02-12">12. II. 1922</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                    <date evidence="conjecture" when="1922-03-28">28. III. 1922</date>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1922-04-01">1. April 1922</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date notBefore="1922-03-28">nach dem 28. März 1922</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName cert="low" ref="https://d-nb.info/gnd/119282062">Scofield Thayer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date from="1922-04" to="1922-07">zwischen April und Juli 1922</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1922-05-02"> 2. Mai 1922</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date when="1922-05-02"> 3. Mai [1922 ]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1922-05-09">9. Mai 1922 </date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                    <date evidence="conjecture" when="1922-06-11">11. Juni 1922 </date>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1922-06-14"> 14. Juni [1922 ]</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1922-08-28">28. August 1922 </date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Bad Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                    <placeName ref="http://www.geonames.org/2865763" evidence="conjecture">Neuendorf</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                    <date evidence="conjecture" when="1922-10-05">5. Oktober 1922 </date>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1922-10-23"> 23. Oktober 1922</date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Bad Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                    <date evidence="conjecture" when="1922-10-31">31. Oktober 1922</date>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1922-11-15">15. November [1922 ]</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1922-12-12">12. Dezember [1922 ]</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1923-02-04"> 4. Februar 1923</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1923-02-06">6. Februar [1923 ]</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                    <date evidence="conjecture" when="1923-02-09"> 9. Februar 1923</date>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                    <date evidence="conjecture" when="1923-06-05">5. Juni 1923</date>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1923-06-21"> 21. Juni [1923]</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                    <date evidence="conjecture" when="1923-06-27">27. Juni 1923</date>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1923-10-11">11. Oktober 1923 </date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Bad Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                    <date evidence="conjecture" when="1923-10-29"> 29. Oktober 1923</date>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1923-11-23">23. November 1923</date>
+                    <placeName ref="http://www.geonames.org/2904096" evidence="conjecture">Hinterhör</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1923-12-15">15. Dezember 1923</date>
+                    <placeName ref="http://www.geonames.org/5128581" evidence="conjecture">New York</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119449471">Gilbert Seldes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                    <date evidence="conjecture" when="1924-02-11"> 11. Februar 1924</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                    <date notAfter="1924" notBefore="1924-02-11">nach dem 11. Februar 1924</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1136793291" evidence="conjecture">Alyse Gregory</persName>
+                    <date evidence="conjecture" when="1924-04-10"> 10. April 1924 </date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1136793291" evidence="conjecture">Alyse Gregory</persName>
+                    <date evidence="conjecture" when="1925-02-01"> 1. Februar 1925</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116952199" evidence="conjecture">Gerty von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1925-02-14">14. Februar 1925</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1136793291" evidence="conjecture">Alyse Gregory</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1925-10-16">16. Oktober 1925</date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Bad Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119282062" evidence="conjecture">Scofield Thayer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118784706" evidence="conjecture">Marianne Moore</persName>
+                    <date evidence="conjecture" when="1926-11-22">22. November 1926</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="36">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1927-02-07">7. Februar 1927</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118784706" evidence="conjecture">Marianne Moore</persName>
+                    <placeName ref="http://www.geonames.org/5128581" evidence="conjecture">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118784706" evidence="conjecture">Marianne Moore</persName>
+                    <date evidence="conjecture" when="1927-02-28"> 28. Februar 1927</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118784706" evidence="conjecture">Marianne Moore</persName>
+                    <date evidence="conjecture" when="1927-08-29"> 29. August 1927</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1927-10-04"> 4. Oktober 1927</date>
+                    <placeName ref="http://www.geonames.org/2782070" evidence="conjecture">Bad Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118784706" evidence="conjecture">Marianne Moore</persName>
+                    <placeName ref="http://www.geonames.org/5128581" evidence="conjecture">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="40">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118784706" evidence="conjecture">Marianne Moore</persName>
+                    <date evidence="conjecture" when="1927-11-24">24. November 1927</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="41">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                    <date evidence="conjecture" when="1928-04-18"> 18. April 1928</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118784706" evidence="conjecture">Marianne Moore</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="42">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1928-05-16"> 16. Mai 1928</date>
+                    <orgName>The Dial</orgName>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="43">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118784706" evidence="conjecture">Marianne Moore</persName>
+                    <date evidence="conjecture" when="1928-05-18"> 18. Mai 1928</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mb2870eb-bbb7-4cc2-9d2e-f5d1f2a18ab7" key="44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118784706" evidence="conjecture">Marianne Moore</persName>
+                    <date evidence="conjecture" when="1929-05-22">22. Mai 1929</date>
+                    <placeName ref="http://www.geonames.org/2767332" evidence="conjecture">Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

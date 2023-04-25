@@ -1,0 +1,503 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rudolf Alexander Schröder und Eberhard von Bodenhausen</title>
+                <editor>Marthe Küster<email>marthe.kuester@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2023-02-10T15:16:10.780-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/schroeder-von-bodenhausen.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="r496f22c-579c-4e70-9e1c-0f2d5087bf60">Rudolf Alexander Schröder und Eberhard von Bodenhausen: Briefwechsel 1909–1918. Hg. v. Till Matthias Zimmermann. In: Hofmannsthal. Jahrbuch zur europäischen Moderne 21 (2018). S. 7–175.<ref target="https://nbn-resolving.org/urn:nbn:de:hebis:30:3-482609">https://nbn-resolving.org/urn:nbn:de:hebis:30:3-482609</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <persName ref="https://d-nb.info/gnd/1243986298" evidence="conjecture">Dorothea von Bodenhausen</persName>
+                    <persName ref="https://d-nb.info/gnd/118815709" evidence="conjecture">Julie von Wendelstadt</persName>
+                    <persName ref="https://d-nb.info/gnd/118679163" evidence="conjecture">Ottonie von Degenfeld</persName>
+                    <date evidence="conjecture" when="1909-10-24">24.10.09</date>
+                    <placeName ref="http://www.geonames.org/2866175" evidence="conjecture">Neubeuern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                    <date evidence="conjecture" when="1909-10-25">25.10.09</date>
+                    <placeName ref="http://www.geonames.org/6940941" evidence="conjecture">Bremen-Horn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1909-10-28">28/10.09</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1910-01-11">25/1.11. [recte: 1910]</date>
+                    <placeName ref="http://www.geonames.org/2944900" evidence="conjecture">Bredeney</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1910-11-15">15/II.10</date>
+                    <placeName ref="http://www.geonames.org/3176959" evidence="conjecture">Florenz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                    <date evidence="conjecture" when="1912-06-23">23.6.1912</date>
+                    <placeName ref="http://www.geonames.org/2911298" evidence="conjecture">Hamburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                    <date when="1912"/>
+                    <placeName ref="http://www.geonames.org/2866175" evidence="conjecture">Neubeuern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <persName ref="https://d-nb.info/gnd/1243986298" evidence="conjecture">Dorothea von Bodenhausen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285">Eberhard von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1913-01-10">10. Januar 1913</date>
+                    <placeName ref="http://www.geonames.org/2944900" evidence="conjecture">Bredeney</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1913-09-14">14.9.13</date>
+                    <placeName ref="http://www.geonames.org/3181913" evidence="conjecture">Bozen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118513435" evidence="conjecture">Rudolf Borchardt</persName>
+                    <persName ref="https://d-nb.info/gnd/116246189" evidence="conjecture">Karoline Borchardt</persName>
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <persName ref="https://d-nb.info/gnd/1243986298" evidence="conjecture">Dorothea von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1914-01-09">9. Januar 1914</date>
+                    <placeName ref="http://www.geonames.org/2844988" evidence="conjecture">Rosenheim</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1914-01-25">25. Januar 1914</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                    <date evidence="conjecture" when="1914-01-30">30.1.1914</date>
+                    <placeName ref="http://www.geonames.org/2944388" evidence="conjecture">Bremen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="13">
+                <correspAction type="sent">
+                    <persName cert="low" ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1914-02-09">9.II.14</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1914-02-25">25. Februar 1914</date>
+                    <placeName ref="http://www.geonames.org/2928810" evidence="conjecture">Essen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                    <date evidence="conjecture" when="1914-05-13">13. Mai 1914</date>
+                    <placeName ref="http://www.geonames.org/2886242" evidence="conjecture">Köln</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1914-05-14">14. Mai 1914</date>
+                    <placeName ref="http://www.geonames.org/2944900" evidence="conjecture">Bredeney</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                    <date evidence="conjecture" when="1914-05-19">19. Mai 1914</date>
+                    <placeName ref="http://www.geonames.org/2944388" evidence="conjecture">Bremen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1914-05-20">20. Mai 1914</date>
+                    <placeName ref="http://www.geonames.org/2928810" evidence="conjecture">Essen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1243986298" evidence="conjecture">Dorothea von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1914-09-23">23. Sept. 1914</date>
+                    <placeName ref="http://www.geonames.org/2938566" evidence="conjecture">Degenershausen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1919-10-11">11.X.14</date>
+                    <placeName ref="http://www.geonames.org/2944900" evidence="conjecture">Bredeney</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                    <date evidence="conjecture" when="1914-10-19">19.10.1914</date>
+                    <placeName ref="http://www.geonames.org/2814266" evidence="conjecture">Wangerooge</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1243986298" evidence="conjecture">Dorothea von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1914-10-22">22. Oktober 1914</date>
+                    <placeName ref="http://www.geonames.org/2929377" evidence="conjecture">Ermsleben</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1914-10-24">24. Oktober 1914</date>
+                    <placeName ref="http://www.geonames.org/2944900" evidence="conjecture">Bredeney</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                    <date evidence="conjecture" when="1914-10-26">26.10.1914</date>
+                    <placeName ref="http://www.geonames.org/2814266" evidence="conjecture">Wangerooge</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                    <date evidence="conjecture" when="1914-10-29">26.10.1914</date>
+                    <placeName ref="http://www.geonames.org/2814266" evidence="conjecture">Wangerooge</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1243986298" evidence="conjecture">Dorothea von Bodenhausen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1914-10-29">29. Oktober 1914</date>
+                    <placeName ref="http://www.geonames.org/2944900" evidence="conjecture">Bredeney</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                    <date evidence="conjecture" when="1914-11-05">5.11.1914</date>
+                    <placeName ref="http://www.geonames.org/2814266" evidence="conjecture">Wangerooge</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                    <date evidence="conjecture" when="1914-11-06">6.11.1914 </date>
+                    <placeName ref="http://www.geonames.org/2944900" evidence="conjecture">Bredeney</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1914-12-09">9. Dezember 1914</date>
+                    <placeName ref="http://www.geonames.org/2928810" evidence="conjecture">Essen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <persName ref="https://d-nb.info/gnd/1243986298" evidence="conjecture">Dorothea von Bodenhausen</persName>
+                    <persName ref="https://d-nb.info/gnd/118513435" evidence="conjecture">Rudolf Borchardt</persName>
+                    <date evidence="conjecture" when="1914-12-28">28/XII.14</date>
+                    <placeName ref="http://www.geonames.org/2938566" evidence="conjecture">Degenershausen </placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1915-01-13">13/I.15</date>
+                    <placeName ref="http://www.geonames.org/2944900" evidence="conjecture">Bredeney</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1243986298" evidence="conjecture">Dorothea von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1915-02-28">28.II.15</date>
+                    <placeName ref="http://www.geonames.org/2944900" evidence="conjecture">Bredeney</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1915-07-12">12. Juli 1915</date>
+                    <placeName ref="http://www.geonames.org/2928810" evidence="conjecture">Essen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1915-07-24">24. Juli 1915</date>
+                    <placeName ref="http://www.geonames.org/2928810" evidence="conjecture">Essen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610880">Rudolf Alexander Schröder</persName>
+                    <date evidence="conjecture" when="1915-08-19">19.8.1915</date>
+                    <placeName ref="http://www.geonames.org/2800866" evidence="conjecture">Brüssel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="36">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1915-09-13">13.9.15</date>
+                    <placeName ref="http://www.geonames.org/2872235" evidence="conjecture">Meineweh</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118552759" evidence="conjecture">Hugo von Hofmannsthal </persName>
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <persName ref="https://d-nb.info/gnd/1243986298" evidence="conjecture">Dorothea von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1915-12-29">29 XII. [1915]</date>
+                    <placeName ref="http://www.geonames.org/2938566">Degenershausen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1917-01-07">7 Januar 1917</date>
+                    <placeName ref="http://www.geonames.org/2944900" evidence="conjecture">Bredeney</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1243986298" evidence="conjecture">Dorothea von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1917-01-12">12. Jan. 17</date>
+                    <placeName ref="http://www.geonames.org/2866175" evidence="conjecture">Neubeuern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="40">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1918-01-17">17/I.18</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="41">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <date when="1917-12"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="42">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1918-02-19">19.II.18</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="43">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1918-04-09">9. April 1918</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1918-04-12">12. April 1918</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <date evidence="conjecture" when="1918-05-01">1. Mai 1918</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#r496f22c-579c-4e70-9e1c-0f2d5087bf60" key="46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512285" evidence="conjecture">Eberhard von Bodenhausen</persName>
+                    <date cert="low" when="1918"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610880" evidence="conjecture">Rudolf Alexander Schröder</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

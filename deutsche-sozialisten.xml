@@ -1,0 +1,1522 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefe von deutschen Sozialisten 1945-1949</title>
+                <editor>Marthe Küster<email>marthe.kuester@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der
+                        Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2022-12-10T13:13:59.677-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/deutsche-sozialisten.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">Lehrstücke in
+                    Solidarität: Briefe und Biographien deutscher Sozialisten 1945-1949. Hg. v.
+                    Helga Grebing. München: Oldenbourg Wissenschaftsverlag, 1986. (= Quellen und
+                    Darstellungen zur Zeitgeschichte 23)<ref target="https://doi.org/10.1524/9783486707786">https://doi.org/10.1524/9783486707786</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118529188" evidence="conjecture">Adolf
+                        Ehlers</persName>
+                    <persName ref="https://d-nb.info/gnd/1065772807" evidence="conjecture">Ella
+                        Ehlers</persName>
+                    <date evidence="conjecture" when="1945-01-16">16.1. 1946</date>
+                    <placeName ref="http://www.geonames.org/2944388" evidence="conjecture">Bremen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                    <persName ref="https://d-nb.info/gnd/124728065" evidence="conjecture">Erna
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118529188" evidence="conjecture">Adolf
+                        Ehlers</persName>
+                    <persName ref="https://d-nb.info/gnd/1065772807" evidence="conjecture">Ella
+                        Ehlers</persName>
+                    <date evidence="conjecture" when="1946-09-22">22.9. 1946</date>
+                    <placeName ref="http://www.geonames.org/2944388" evidence="conjecture">Bremen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                    <persName ref="https://d-nb.info/gnd/124728065" evidence="conjecture">Erna
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1065772807" evidence="conjecture">Ella
+                        Ehlers</persName>
+                    <date evidence="conjecture" when="1947-05-01">1.5. 1947</date>
+                    <placeName ref="http://www.geonames.org/2944388" evidence="conjecture">Bremen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                    <persName ref="https://d-nb.info/gnd/124728065" evidence="conjecture">Erna
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118831356" evidence="conjecture">Ludwig A.
+                        Jacobsen</persName>
+                    <date evidence="conjecture" when="1946-09-18">18.9. 1946</date>
+                    <placeName ref="http://www.geonames.org/2886242" evidence="conjecture">Köln</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low"> Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118831356" evidence="conjecture">Ludwig A.
+                        Jacobsen</persName>
+                    <date evidence="conjecture" when="1946-10-29">29.10. 1946</date>
+                    <placeName ref="http://www.geonames.org/2886242" evidence="conjecture">Köln</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName cert="low" ref="https://d-nb.info/gnd/173435246">Hubert
+                        Pauli</persName>
+                    <date evidence="conjecture" when="1947-10-25">25.10. 1947</date>
+                    <placeName ref="http://www.geonames.org/2886242" evidence="conjecture">Köln</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName cert="low" ref="https://d-nb.info/gnd/173435246">Hubert
+                        Pauli</persName>
+                    <date evidence="conjecture" when="1947-12-28">28.12. 1947</date>
+                    <placeName ref="http://www.geonames.org/2886242" evidence="conjecture">Köln</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName cert="low" ref="https://d-nb.info/gnd/1029913560">Hermann
+                        Grzeski</persName>
+                    <date evidence="conjecture" when="1947-05-24">24.5. 1947</date>
+                    <placeName ref="http://www.geonames.org/2886242" evidence="conjecture">Köln</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118722123" evidence="conjecture">Irmgard
+                        Keun</persName>
+                    <date evidence="conjecture" when="1947-11-23">23 . 11 . 1947</date>
+                    <placeName ref="http://www.geonames.org/2886242" evidence="conjecture">Köln</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123490804" evidence="conjecture">August
+                        Enderle</persName>
+                    <persName ref="https://d-nb.info/gnd/123496101" evidence="conjecture">Irmgard
+                        Enderle</persName>
+                    <date evidence="conjecture" when="1948-01-13">13. 1. 1948</date>
+                    <placeName ref="http://www.geonames.org/2886242" evidence="conjecture">Köln</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                    <persName ref="https://d-nb.info/gnd/124728065" evidence="conjecture">Erna
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123496101" evidence="conjecture">Irmgard
+                        Enderle</persName>
+                    <date evidence="conjecture" when="1948-04-30">30.4. 1948</date>
+                    <placeName ref="http://www.geonames.org/2886242" evidence="conjecture">Köln</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                    <persName ref="https://d-nb.info/gnd/124728065" evidence="conjecture">Erna
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1947-07-09">9.7. 1947</date>
+                    <orgName evidence="conjecture">Oskar Triebel</orgName>
+                    <placeName ref="http://www.geonames.org/2934691" evidence="conjecture">Duisburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1947-11-10">10 . 11 . 1947</date>
+                    <orgName evidence="conjecture">Oskar Triebel</orgName>
+                    <placeName ref="http://www.geonames.org/2934691" evidence="conjecture">Duisburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1948-02-24">24.2. 1948</date>
+                    <orgName evidence="conjecture">Oskar Triebel</orgName>
+                    <placeName ref="http://www.geonames.org/2934691" evidence="conjecture">Duisburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1948-05-05">5 . 5. 1948</date>
+                    <orgName evidence="conjecture">Oskar Triebel</orgName>
+                    <placeName ref="http://www.geonames.org/2934691" evidence="conjecture">Duisburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1948-07-07">7.7. 1948</date>
+                    <orgName evidence="conjecture">Oskar Triebel</orgName>
+                    <placeName ref="http://www.geonames.org/2934691" evidence="conjecture">Duisburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1948-10-18">18.10. 1948</date>
+                    <orgName evidence="conjecture">Oskar Triebel</orgName>
+                    <placeName ref="http://www.geonames.org/2661863" evidence="conjecture">Adelboden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1949-08-12">12.8. 1949</date>
+                    <orgName evidence="conjecture">Oskar Triebel</orgName>
+                    <placeName ref="http://www.geonames.org/2934691" evidence="conjecture">Duisburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1947-08-05">5.8. 1947</date>
+                    <orgName evidence="conjecture">Emil Samorei</orgName>
+                    <placeName ref="http://www.geonames.org/2921466" evidence="conjecture">Gelsenkirchen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1947-08-14">14.8. 1947</date>
+                    <orgName evidence="conjecture">Emil Samorei</orgName>
+                    <placeName ref="http://www.geonames.org/2921466" evidence="conjecture">Gelsenkirchen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1947-08-15">15.8. 1947</date>
+                    <orgName evidence="conjecture">Emil Samorei</orgName>
+                    <placeName ref="http://www.geonames.org/2921466" evidence="conjecture">Gelsenkirchen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low" evidence="conjecture">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1947-08-24">24.8. 1947</date>
+                    <orgName evidence="conjecture">Emil Samorei</orgName>
+                    <placeName ref="http://www.geonames.org/2921466" evidence="conjecture">Gelsenkirchen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1947-12-25">25.12. 1947</date>
+                    <orgName cert="low">Albert Kornett</orgName>
+                    <placeName ref="http://www.geonames.org/2921466" evidence="conjecture">Gelsenkirchen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/189415118" evidence="conjecture">Josef
+                        Kappius</persName>
+                    <date evidence="conjecture" when="1946-10-04">4.10. 1946</date>
+                    <placeName ref="http://www.geonames.org/2935517" evidence="conjecture">Dortmund</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low" evidence="conjecture">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1947-08-22">22.8. 1947</date>
+                    <orgName cert="low">Maria Stockhaus</orgName>
+                    <placeName ref="http://www.geonames.org/2935517" evidence="conjecture">Dortmund</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/128547030" evidence="conjecture">Hertha
+                        Tüsfeld-Heine</persName>
+                    <date evidence="conjecture" when="1947-09-19">19.9. 1947</date>
+                    <placeName ref="http://www.geonames.org/2935517" evidence="conjecture">Dortmund</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/128547030" evidence="conjecture">Hertha
+                        Tüsfeld-Heine</persName>
+                    <date evidence="conjecture" when="1947-12-29">29.12. 1947</date>
+                    <placeName ref="http://www.geonames.org/2935517" evidence="conjecture">Dortmund</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1948-03-31">31 . 3 . 1948</date>
+                    <orgName cert="low">Emil Brune</orgName>
+                    <placeName ref="http://www.geonames.org/2935517" evidence="conjecture">Dortmund</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1948-04-26">26.4. 1948</date>
+                    <orgName cert="low">Emil Brune</orgName>
+                    <placeName ref="http://www.geonames.org/2935517" evidence="conjecture">Dortmund</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1948-08-10">10.8. 1948</date>
+                    <orgName cert="low">Emil Brune</orgName>
+                    <placeName ref="http://www.geonames.org/2935517" evidence="conjecture">Dortmund</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1949-02-16">16.2. 1949</date>
+                    <orgName evidence="conjecture">Emil Brune</orgName>
+                    <placeName ref="http://www.geonames.org/2935517" evidence="conjecture">Dortmund</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1947-02-05">5.2. 1947</date>
+                    <orgName cert="low">Bernhard Molz</orgName>
+                    <placeName ref="http://www.geonames.org/2834372" evidence="conjecture">Schwelm</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">Willi Beier</orgName>
+                    <placeName ref="http://www.geonames.org/6252001" evidence="conjecture">USA</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1947-04-05">5.4. 1947</date>
+                    <orgName cert="low">Willi Linder</orgName>
+                    <placeName ref="http://www.geonames.org/2831580" evidence="conjecture">Solingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1949-05-15">15.5. 1949</date>
+                    <orgName cert="low">Hugo Röhrig</orgName>
+                    <placeName ref="http://www.geonames.org/2831580" evidence="conjecture">Solingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/189434988" evidence="conjecture">Otto
+                        Hensel</persName>
+                    <date evidence="conjecture" when="1948-11-11">11 . 11 . 1948</date>
+                    <placeName ref="http://www.geonames.org/2947421" evidence="conjecture">Bocholt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1244728969" evidence="conjecture">Josef
+                        Schmitz</persName>
+                    <date evidence="conjecture" when="1948-10-26">26.10. 1948</date>
+                    <placeName ref="http://www.geonames.org/2947421" evidence="conjecture">Bocholt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118529188" evidence="conjecture">Adolf
+                        Ehlers</persName>
+                    <placeName ref="http://www.geonames.org/2944388" evidence="conjecture">Bremen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1948-04-21">21.4. 1948</date>
+                    <orgName cert="low">August Aßmus</orgName>
+                    <placeName ref="http://www.geonames.org/2810678" evidence="conjecture">Wesel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">Karl Völker</orgName>
+                    <placeName ref="http://www.geonames.org/2759794" evidence="conjecture">Amsterdam</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1948-01-19">19. 1. 1948</date>
+                    <orgName cert="low">Eberhard Dörfler</orgName>
+                    <placeName ref="http://www.geonames.org/2949186" evidence="conjecture">Bielefeld</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low" evidence="conjecture">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1946-11-15">15. 11. 1946</date>
+                    <orgName cert="low">Karl Grunert</orgName>
+                    <placeName ref="http://www.geonames.org/2911298" evidence="conjecture">Hamburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1947-02-18">18.2. 1947</date>
+                    <orgName cert="low">Fritz Ruhnau</orgName>
+                    <placeName ref="http://www.geonames.org/2911298" evidence="conjecture">Hamburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName cert="low" ref="https://d-nb.info/gnd/116937084">Dora
+                        Hoffmann</persName>
+                    <date evidence="conjecture" when="1947-04-15">15.4. 1947</date>
+                    <placeName ref="http://www.geonames.org/2911298" evidence="conjecture">Hamburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low" evidence="conjecture">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName cert="low" ref="https://d-nb.info/gnd/116937084">Dora
+                        Hoffmann</persName>
+                    <date evidence="conjecture" when="1948-01-11">11 .1.1948</date>
+                    <placeName ref="http://www.geonames.org/2911298" evidence="conjecture">Hamburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1947-11-07">7.11. 1947</date>
+                    <orgName cert="low">Karl Jahnke</orgName>
+                    <placeName ref="http://www.geonames.org/2911298" evidence="conjecture">Hamburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                    <persName ref="https://d-nb.info/gnd/124728065" evidence="conjecture">Erna
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1188644734" evidence="conjecture">Fritz
+                        Treu</persName>
+                    <date evidence="conjecture" when="1946-09-22">22.9. 1946</date>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low" evidence="conjecture">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1947-09-13">13.9. 1947</date>
+                    <orgName cert="low">Otto Halbach</orgName>
+                    <placeName ref="http://www.geonames.org/2953464" evidence="conjecture">Bad
+                        Essen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName evidence="conjecture">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118673807" evidence="conjecture">Otto
+                        Brenner</persName>
+                    <date evidence="conjecture" when="1947-02-12">12.2. 1947</date>
+                    <placeName ref="http://www.geonames.org/2910831" evidence="conjecture">Hannover</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118673807" evidence="conjecture">Otto
+                        Brenner</persName>
+                    <date evidence="conjecture" when="1947-08-15">15.8. 1947</date>
+                    <placeName ref="http://www.geonames.org/2910831" evidence="conjecture">Hannover</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118673807" evidence="conjecture">Otto
+                        Brenner</persName>
+                    <date evidence="conjecture" when="1947">Ende 1947</date>
+                    <placeName ref="http://www.geonames.org/2910831" evidence="conjecture">Hannover</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">alle Freunde in den USA</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118673807" evidence="conjecture">Otto
+                        Brenner</persName>
+                    <date evidence="conjecture" when="1948-06-16">16.6. 1948</date>
+                    <placeName ref="http://www.geonames.org/2910831" evidence="conjecture">Hannover</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                    <persName ref="https://d-nb.info/gnd/124728065" evidence="conjecture">Erna
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName cert="low" ref="https://d-nb.info/gnd/117272590">Adolf
+                        Stephan</persName>
+                    <date evidence="conjecture" when="1947-03-12">12.3. 1947</date>
+                    <placeName ref="http://www.geonames.org/2910831" evidence="conjecture">Hannover</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low" evidence="conjecture">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName cert="low" ref="https://d-nb.info/gnd/117272590">Adolf
+                        Stephan</persName>
+                    <date evidence="conjecture" when="1948-01-18">18. 1. 1948</date>
+                    <placeName ref="http://www.geonames.org/2910831" evidence="conjecture">Hannover</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                    <persName ref="https://d-nb.info/gnd/124728065" evidence="conjecture">Erna
+                        Lang</persName>
+                    <persName ref="https://d-nb.info/gnd/123562155" evidence="conjecture">Paul
+                        Frölich</persName>
+                    <persName ref="https://d-nb.info/gnd/119399016" evidence="conjecture">Rose
+                        Frölich</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1948-03-12">12.3. 1948</date>
+                    <orgName cert="low">Hans Ils</orgName>
+                    <placeName ref="http://www.geonames.org/2910831" evidence="conjecture">Hannover</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1948-09-19">19.9. 1948</date>
+                    <orgName cert="low">Günter Nelke</orgName>
+                    <placeName ref="http://www.geonames.org/2910831" evidence="conjecture">Hannover</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                    <persName ref="https://d-nb.info/gnd/124728065" evidence="conjecture">Erna
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1947-05-11">11.5. 1947</date>
+                    <orgName cert="low">Wilhelm Fingerle</orgName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                    <persName ref="https://d-nb.info/gnd/124728065" evidence="conjecture">Erna
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1947-09-25"> 25.9. 1947</date>
+                    <orgName cert="low">Wilhelm Fingerle</orgName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                    <persName ref="https://d-nb.info/gnd/124728065" evidence="conjecture">Erna
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1947-05-20">20.5.1947</date>
+                    <orgName cert="low">Fritz Winguth</orgName>
+                    <placeName ref="http://www.geonames.org/2948503" evidence="conjecture">Birkenwerder</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low" evidence="conjecture">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118576070" evidence="conjecture">Lu
+                        Märten</persName>
+                    <date evidence="conjecture" when="1947-09-03">3.9. 1947</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728065" evidence="conjecture">Erna
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118576070" evidence="conjecture">Lu
+                        Märten</persName>
+                    <date evidence="conjecture" when="1947-11-28">28.11. 1947</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728065" evidence="conjecture">Erna
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1947-11-24">24.11. 1947</date>
+                    <orgName cert="low">Franz Ostermann</orgName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1948-01-15">15.1.1948</date>
+                    <orgName cert="low">Karl Müller</orgName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1948-07-04">4.7. 1948</date>
+                    <orgName cert="low">Georg Kunz</orgName>
+                    <placeName ref="http://www.geonames.org/2940187">Berlin-Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low" evidence="conjecture">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1948-09-16">16.9. 1948</date>
+                    <orgName evidence="conjecture">Georg Kunz</orgName>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Berlin-Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low" evidence="conjecture">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1949-01-10">10.1. 1949</date>
+                    <orgName cert="low">Georg Kunz</orgName>
+                    <placeName ref="http://www.geonames.org/2940187" evidence="conjecture">Berlin-Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1947-12-20">20.12. 1947</date>
+                    <orgName cert="low">Max Schöneseiffen</orgName>
+                    <placeName ref="http://www.geonames.org/2939747" evidence="conjecture">Crimmitschau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/12403330X" evidence="conjecture">Franz
+                        Marx</persName>
+                    <date evidence="conjecture" when="1947-11-02">2.11. 1947</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/12403330X" evidence="conjecture">Franz
+                        Marx</persName>
+                    <date evidence="conjecture" when="1948-12-29">29.12. 1948</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116676736" evidence="conjecture">Walter
+                        Heist</persName>
+                    <date evidence="conjecture" when="1947-04-29">29.4.1947</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/101238490X" evidence="conjecture">Albert
+                        Schmidt</persName>
+                    <placeName ref="http://www.geonames.org/2825297" evidence="conjecture">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116676736" evidence="conjecture">Walter
+                        Heist</persName>
+                    <date evidence="conjecture" when="1948-06-17">17.6.1948</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2867613">Hannoversch-Münden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116676736" evidence="conjecture">Walter
+                        Heist</persName>
+                    <date evidence="conjecture" when="1949-01-29">29.1.1949</date>
+                    <placeName ref="http://www.geonames.org/2867613" evidence="conjecture">Hannoversch-Münden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116676736" evidence="conjecture">Walter
+                        Heist</persName>
+                    <date evidence="conjecture" when="1949-03-12">12.3.1949</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116676736" evidence="conjecture">Walter
+                        Heist</persName>
+                    <date evidence="conjecture" when="1948-11-20">20.11.1949</date>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1948-01-15">15.1.1948</date>
+                    <orgName cert="low">Karl Franz Theissen</orgName>
+                    <placeName cert="low" ref="http://www.geonames.org/2944783">Breitbrunn am
+                        Ammersee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low"> Emil Samorei</orgName>
+                    <placeName ref="http://www.geonames.org/2921466" evidence="conjecture">Gelsenkirchen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/129512311" evidence="conjecture">Karl
+                        Grönsfelder</persName>
+                    <date evidence="conjecture" when="1948-02-24">24.2.1948</date>
+                    <orgName cert="low">Emma Grönsfelder</orgName>
+                    <placeName ref="http://www.geonames.org/2861650" evidence="conjecture">Nürnberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low" evidence="conjecture">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118529781" evidence="conjecture">Paul
+                        Elflein</persName>
+                    <date evidence="conjecture" when="1949-02-17">17.2. 1949</date>
+                    <placeName ref="http://www.geonames.org/2861650" evidence="conjecture">Nürnberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728065" evidence="conjecture">Erna
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118529781" evidence="conjecture">Paul
+                        Elflein</persName>
+                    <date evidence="conjecture" when="1949-09-06">6.9. 1949</date>
+                    <placeName ref="http://www.geonames.org/2861650" evidence="conjecture">Nürnberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low" evidence="conjecture">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1948-01-06">6. 1. 1948</date>
+                    <orgName cert="low">Alfred Krüger</orgName>
+                    <orgName cert="low">Lotte Krüger</orgName>
+                    <placeName cert="low" ref="http://www.geonames.org/2849446" evidence="conjecture">Rehau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                    <persName ref="https://d-nb.info/gnd/124728065" evidence="conjecture">Erna
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1948-11-01">1.11.1948</date>
+                    <orgName cert="low">Emil Deutsch</orgName>
+                    <placeName cert="low" ref="http://www.geonames.org/2902768" evidence="conjecture">Hof</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1946-11-12">12.11.1946</date>
+                    <orgName cert="low">Fritz Nagel</orgName>
+                    <placeName ref="http://www.geonames.org/2952984" evidence="conjecture">Bamberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1947-02-05">5.2.1947</date>
+                    <orgName cert="low">Fritz Nagel</orgName>
+                    <placeName ref="http://www.geonames.org/2952984" evidence="conjecture">Bamberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                    <persName ref="https://d-nb.info/gnd/124728065" evidence="conjecture">Erna
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName>Fritz Nagel</persName>
+                    <date evidence="conjecture" when="1947-02-12">12.2. 1947</date>
+                    <placeName ref="http://www.geonames.org/2952984" evidence="conjecture">Bamberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low"> Konrad Reisner</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName>Fritz Nagel</persName>
+                    <date evidence="conjecture" when="1947-06">Ende Juni 1947</date>
+                    <placeName ref="http://www.geonames.org/2952984" evidence="conjecture">Bamberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName>Fritz Nagel</persName>
+                    <date evidence="conjecture" when="1947-10-19">19 .10.1947</date>
+                    <placeName ref="http://www.geonames.org/2952984" evidence="conjecture">Bamberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1948-03-20">20.3. 1948</date>
+                    <orgName cert="low">Fritz Nagel</orgName>
+                    <placeName ref="http://www.geonames.org/2952984" evidence="conjecture">Bamberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1948-02-05">5.2. 1948</date>
+                    <orgName cert="low">Otto Werner Mager</orgName>
+                    <placeName ref="http://www.geonames.org/2952984" evidence="conjecture">Bamberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low" evidence="conjecture">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1948-07-12">12.7. 1948</date>
+                    <orgName cert="low">Otto Werner Mager</orgName>
+                    <placeName ref="http://www.geonames.org/2952984" evidence="conjecture">Bamberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1949-08-15">15.8. 1949</date>
+                    <orgName cert="low">Otto Werner Mager</orgName>
+                    <placeName ref="http://www.geonames.org/2952984" evidence="conjecture">Bamberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124989861" evidence="conjecture">Herbert A.
+                        Tulatz</persName>
+                    <date evidence="conjecture" when="1948-07-17">17.7. 1948</date>
+                    <placeName ref="http://www.geonames.org/2871486">Metzingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1946-12-24">24.12.1946</date>
+                    <orgName cert="low">Wilhelm Kress</orgName>
+                    <placeName ref="http://www.geonames.org/2803756" evidence="conjecture">Stuttgart-Zuffenhausen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118759582" evidence="conjecture">Richard
+                        Schmid</persName>
+                    <date evidence="conjecture" when="1946-06-23">23.6. 1946</date>
+                    <placeName ref="http://www.geonames.org/2831198">Stuttgart-Sonnenberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118759582" evidence="conjecture">Richard
+                        Schmid</persName>
+                    <date evidence="conjecture" when="1946-12-30">30.12. 1946</date>
+                    <placeName ref="http://www.geonames.org/2831198" evidence="conjecture">Stuttgart-Sonnenberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118759582" evidence="conjecture">Richard
+                        Schmid</persName>
+                    <date evidence="conjecture" when="1947-10-19">19.10. 1947</date>
+                    <placeName ref="http://www.geonames.org/2831198" evidence="conjecture">Stuttgart-Sonnenberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118759582" evidence="conjecture">Richard
+                        Schmid</persName>
+                    <date evidence="conjecture" when="1948-02-21">21.2. 1948</date>
+                    <placeName ref="http://www.geonames.org/2831198" evidence="conjecture">Stuttgart-Sonnenberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118759582" evidence="conjecture">Richard
+                        Schmid</persName>
+                    <date evidence="conjecture" when="1948-07-22">22.7. 1948</date>
+                    <placeName ref="http://www.geonames.org/2831198" evidence="conjecture">Stuttgart-Sonnenberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118759582" evidence="conjecture">Richard
+                        Schmid</persName>
+                    <date evidence="conjecture" when="1949-06-02">2.6. 1949</date>
+                    <placeName ref="http://www.geonames.org/2831198" evidence="conjecture">Stuttgart-Sonnenberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1947-01-03">3. 1. 1947</date>
+                    <orgName cert="low">Louis Pilz</orgName>
+                    <placeName ref="http://www.geonames.org/2825297" evidence="conjecture">Stuttgart</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                    <persName ref="https://d-nb.info/gnd/124728065" evidence="conjecture">Erna
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1947-06-29">29.6. 1947</date>
+                    <orgName cert="low">Louis Pilz</orgName>
+                    <placeName ref="http://www.geonames.org/2825297" evidence="conjecture">Stuttgart</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1947-10-26">26.10. 1947</date>
+                    <orgName cert="low">Louis Pilz</orgName>
+                    <placeName ref="http://www.geonames.org/2825297" evidence="conjecture">Stuttgart</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                    <persName ref="https://d-nb.info/gnd/124728065" evidence="conjecture">Erna
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012377709" evidence="conjecture">Frida
+                        Euchner</persName>
+                    <date evidence="conjecture" when="1947-04-16">16.4. 1947</date>
+                    <placeName ref="http://www.geonames.org/2803756" evidence="conjecture">Stuttgart-Zuffenhausen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName evidence="conjecture">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1232630233" evidence="conjecture">Otto
+                        Palmer</persName>
+                    <date evidence="conjecture" when="1947-04-04">4.4.1947</date>
+                    <placeName ref="http://www.geonames.org/2825297" evidence="conjecture">Stuttgart</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012375919" evidence="conjecture">Wilhelm
+                        Blind</persName>
+                    <date evidence="conjecture" when="1947-04-10">10.4. 1947</date>
+                    <placeName ref="http://www.geonames.org/2825297" evidence="conjecture">Stuttgart</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012407063" evidence="conjecture">Stefie
+                        Restle</persName>
+                    <date evidence="conjecture" when="1947-04-13">13.4. 1947</date>
+                    <placeName ref="http://www.geonames.org/2825297" evidence="conjecture">Stuttgart</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012407063" evidence="conjecture">Stefie
+                        Restle</persName>
+                    <date evidence="conjecture" when="1948-04-18">18.4.1948</date>
+                    <placeName ref="http://www.geonames.org/2825297" evidence="conjecture">Stuttgart</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date>ohne Datum</date>
+                    <orgName cert="low" evidence="conjecture">Otto Hofgabe</orgName>
+                    <placeName ref="http://www.geonames.org/2825297" evidence="conjecture">Stuttgart</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1948-03-10">10.3. 1948</date>
+                    <orgName cert="low">Otto Hofgabe</orgName>
+                    <placeName ref="http://www.geonames.org/2825297" evidence="conjecture">Stuttgart</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1948-07-22">22.7. 1948</date>
+                    <orgName cert="low">Otto Hofgabe</orgName>
+                    <placeName ref="http://www.geonames.org/2825297" evidence="conjecture">Stuttgart</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1948-04-18">18.4. 1948</date>
+                    <orgName cert="low" evidence="conjecture">Günter Eckstein</orgName>
+                    <placeName ref="http://www.geonames.org/2825297" evidence="conjecture">Stuttgart</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1948-04">April 1948</date>
+                    <orgName cert="low">Erich Schumacher</orgName>
+                    <placeName ref="http://www.geonames.org/2825297" evidence="conjecture">Stuttgart</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date evidence="conjecture" when="1947-07-27">27.7. 1947</date>
+                    <orgName cert="low">Georg Regenbogen</orgName>
+                    <placeName ref="http://www.geonames.org/2825297" evidence="conjecture">Stuttgart</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012385957" evidence="conjecture">Georg
+                        Stetter</persName>
+                    <date evidence="conjecture" when="1947-04-03">3.4. 1947</date>
+                    <placeName ref="http://www.geonames.org/2825297" evidence="conjecture">Stuttgart</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012385957" evidence="conjecture">Georg
+                        Stetter</persName>
+                    <date evidence="conjecture" when="1948-04-20">20.4. 1948</date>
+                    <placeName ref="http://www.geonames.org/2825297" evidence="conjecture">Stuttgart</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <date when="1948-05-27">27.5. 1948</date>
+                    <orgName cert="low">Berta Schöttle-Thalheimer</orgName>
+                    <placeName ref="http://www.geonames.org/2825297" evidence="conjecture">Stuttgart</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728065" evidence="conjecture">Erna
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012384179" evidence="conjecture">Gustav
+                        Roos</persName>
+                    <date evidence="conjecture" when="1947-07-28">28.7. 1947</date>
+                    <placeName ref="http://www.geonames.org/2873891" evidence="conjecture">Mannheim</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012384179" evidence="conjecture">Gustav
+                        Roos</persName>
+                    <date evidence="conjecture" when="1948-03-11">11 . 3 . 1948</date>
+                    <placeName ref="http://www.geonames.org/2873891" evidence="conjecture">Mannheim</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012384179" evidence="conjecture">Gustav
+                        Roos</persName>
+                    <date evidence="conjecture" when="1948-12-11">11 . 12 . 1948</date>
+                    <placeName ref="http://www.geonames.org/2873891" evidence="conjecture">Mannheim</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118537385" evidence="conjecture">Heinrich
+                        Galm</persName>
+                    <date evidence="conjecture" when="1945-11-12">12 . 11 . 1945</date>
+                    <placeName ref="http://www.geonames.org/2857807" evidence="conjecture">Offenbach</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName cert="low">Karl Osner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118537385" evidence="conjecture">Heinrich
+                        Galm</persName>
+                    <date evidence="conjecture" when="1946-07-05">5.7. 1946</date>
+                    <placeName ref="http://www.geonames.org/2857807" evidence="conjecture">Offenbach</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                    <persName cert="low">Karl Osner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118537385" evidence="conjecture">Heinrich
+                        Galm</persName>
+                    <date evidence="conjecture" when="1947-01-19">19. 1. 1947</date>
+                    <placeName ref="http://www.geonames.org/2857807" evidence="conjecture">Offenbach</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                    <persName ref="https://d-nb.info/gnd/124728065" evidence="conjecture">Erna
+                        Lang</persName>
+                    <persName cert="low">Karl Osner</persName>
+                    <persName cert="low">Karola Osner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118537385" evidence="conjecture">Heinrich
+                        Galm</persName>
+                    <date evidence="conjecture" when="1947-11-01"> 1. 11 . 1947</date>
+                    <placeName ref="http://www.geonames.org/2857807" evidence="conjecture">Offenbach</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                    <persName cert="low">Karl Osner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName cert="low">Frida Rudolph</persName>
+                    <date evidence="conjecture" when="1947-04-06">6.4. 1947</date>
+                    <placeName ref="http://www.geonames.org/2857807" evidence="conjecture">Offenbach</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137698194" evidence="conjecture">Kurt
+                        Oppler</persName>
+                    <date evidence="conjecture" when="1946-02-01">1.2. 1946</date>
+                    <placeName ref="http://www.geonames.org/2790471" evidence="conjecture">Namur</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137698194" evidence="conjecture">Kurt
+                        Oppler</persName>
+                    <date evidence="conjecture" when="1946-07-16">16.7. 1946</date>
+                    <placeName ref="http://www.geonames.org/2809346" evidence="conjecture">Wiesbaden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137698194" evidence="conjecture">Kurt
+                        Oppler</persName>
+                    <date evidence="conjecture" when="1946-09-07">7.9. 1946</date>
+                    <placeName ref="http://www.geonames.org/2809346" evidence="conjecture">Wiesbaden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137698194" evidence="conjecture">Kurt
+                        Oppler</persName>
+                    <date evidence="conjecture" when="1947-03-31">31 . 3 . 1947</date>
+                    <placeName ref="http://www.geonames.org/2809346" evidence="conjecture">Wiesbaden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName cert="low">Franz Pfaffenhäuser</persName>
+                    <date evidence="conjecture" when="1948-05-15">Pfingsten [ = 16. 5 . ]
+                        1948</date>
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                    <persName ref="https://d-nb.info/gnd/124728065" evidence="conjecture">Erna
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName cert="low">Johann Georg Schlott</persName>
+                    <date evidence="conjecture" when="1947-09-01">1.9. 1947</date>
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName cert="low">Johann Georg Schlott</persName>
+                    <date evidence="conjecture" when="1948-03-21">21 . 3 . 1948</date>
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName cert="low">Lina Heise</persName>
+                    <date evidence="conjecture" when="1947-11-10">10. 11 . 1947</date>
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low">Solidaritäts-Fonds</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v9e2b2f7-b0b4-43c2-bbf3-005724a5e117">
+                <correspAction type="sent">
+                    <persName cert="low">Lina Heise</persName>
+                    <date evidence="conjecture" when="1948-09-22"> 22.9. 1948</date>
+                    <placeName ref="http://www.geonames.org/2925533" evidence="conjecture">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124728022" evidence="conjecture">Joseph
+                        Lang</persName>
+                    <persName ref="https://d-nb.info/gnd/124728065" evidence="conjecture">Erna
+                        Lang</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,587 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lorenz von Pansners Korrespondenzen</title>
+                <editor>Marthe Küster<email>mkuester@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2023-01-13T13:22:09.434-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/pansner.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="f35569e8-9175-45c7-a222-bb2a2e30ac47">Lorenz von Pansner (1777–1851). Sein Wirken als Mineraloge in Russland im
+                    Zeitraum von 1800 bis 1836, seine wissenschaftlichen Arbeiten und seine
+                    Briefkorrespondenzen. Herausgegeben von Lidia Stokratskaya. Freiberg: TU
+                    Bergakademie Freiberg, 2017.
+                    <ref target="https://nbn-resolving.org/urn:nbn:de:bsz:105-qucosa-223512">https://nbn-resolving.org/urn:nbn:de:bsz:105-qucosa-223512</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1800-11-04">4 November 1800</date>
+                    <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118607987">Karl Wilhelm Friedrich Schlegel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1802-06-04">4. Juni 1802</date>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1802-06-10">10. Juni 1802</date>
+                    <placeName ref="http://www.geonames.org/2875601">Lübeck</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date notAfter="1802-09-30" notBefore="1802-09-18">18./30. September 1802</date>
+                    <placeName ref="http://www.geonames.org/589709">Weißenstein (Paide)</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date notAfter="1803-04-14" notBefore="1803-04-02">2./14. April 1803</date>
+                    <placeName ref="http://www.geonames.org/588409">Reval</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date notAfter="1803-07-05" notBefore="1803-06-23">23. Juni/5. Juli 1803</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date notAfter="1803-10-29" notBefore="1803-10-17">17./29. Oktober 1803</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date notAfter="1804-05-18" notBefore="1804-05-06">6./18. Mai 1804</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1805-03-20">20. März 1805</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date>???</date>
+                    <placeName ref="http://www.geonames.org/524901">Moskau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1805-11-14">14. November 1805</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg (?)</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date notAfter="1806" notBefore="1805">1805 bzw. 1806</date>
+                    <placeName>unbekannt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date notAfter="1807-09-16" notBefore="1807-09-04">4./16. September 1807</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1808-02-01">1. Februar 1808</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date notAfter="1809-08-30" notBefore="1809-08-18">18./30. August 1809</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1810-03-02">2. März 1810</date>
+                    <placeName>Herspuck</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date notAfter="1810-03-30" notBefore="1810-03-18">18/30. März 1810</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1810-05-10">10. Mai 1810</date>
+                    <placeName ref="http://www.geonames.org/2955439">Arnstadt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1813-10-19">19. Oktober 1813</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1813-11-20">20. November 1813</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1815-02-27">27. Februar 1815</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1815-09-18">18. September 1815</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1815-09-22">22. September 1815</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1816-01-20">20. Januar 1816</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date notAfter="1816-12-31" notBefore="1816-12-19">19/31. Dezember 1816</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1817-07-13">13. Juli 1817</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1817-10-17">17. Oktober 1817</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1817-10-04">4. Oktober 1817</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1818-01-16">16. Januar 1818</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1818-03-27">27. März 1818</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1818-08-08">8. August 1818</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1818-08-09">9. August 1818</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1818-08-09">9. August 1818</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <date when="1818-09-22">22. September 1818</date>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1818-11-10">10. November 1818</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1818-12-06">6. Dezember 1818</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116091738">Christian Keferstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1819-01-23">23. Januar 1819</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1819-02-21">21. Februar 1819</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <date when="1819-06-20">20. Juni 1819</date>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1819-06-23">23. Juni 1819</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1819-09-12">12. September 1819</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1819-09-12">12. September 1819</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1819-09-26">26. September 1819</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <date when="1819-11-29">29. November 1819</date>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1820-04-15">15. April 1820</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date notAfter="1820-08" notBefore="1820-07">Juli–August 1820</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1820-08-10">10. August 1820</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116911484">Johann Georg Lenz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1824-02-06">6. Februar 1824</date>
+                    <placeName ref="http://www.geonames.org/4171563">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1193554888">Alexander Hassing</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1836-12-12">12. Dezember 1836</date>
+                    <placeName ref="http://www.geonames.org/3100168">Dorotheenthal bei
+                        Arnstadt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1845-11-10">10. November 1845</date>
+                    <placeName ref="http://www.geonames.org/2955439">Arnstadt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/101042159">Heinrich Christian Gottfried von Struve</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1846-02-03">3. Februar 1846</date>
+                    <placeName ref="http://www.geonames.org/2955439">Arnstadt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/101042159">Heinrich Christian Gottfried von Struve</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1846-02-06">6. Februar 1846</date>
+                    <placeName ref="http://www.geonames.org/2955439">Arnstadt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/101042159">Heinrich Christian Gottfried von Struve</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1846-04-16">16. April 1846</date>
+                    <placeName ref="http://www.geonames.org/2955439">Arnstadt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/101042159">Heinrich Christian Gottfried von Struve</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1846-05-10">10. Mai 1846</date>
+                    <placeName ref="http://www.geonames.org/2955439">Arnstadt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/101042159">Heinrich Christian Gottfried von Struve</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f35569e8-9175-45c7-a222-bb2a2e30ac47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117684511">Lorenz von Pansner</persName>
+                    <date when="1846-08-10">10. August 1846</date>
+                    <placeName ref="http://www.geonames.org/2955439">Arnstadt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/101042159">Heinrich Christian Gottfried von Struve</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
