@@ -69,6 +69,8 @@ Ossietzky, 2001.<ref target="https://nbn-resolving.org/urn:nbn:de:gbv:18-4050">h
             <correspDesc source="#e39c4e86-929b-4ccc-aa19-1105ec40f16c">
                 <correspAction type="sent">
                     <persName evidence="conjecture" ref="https://d-nb.info/gnd/118572695">Max Liebermann</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"  cert="low">Berlin</placeName>
+                    <date evidence="conjecture" when="1890">1890</date>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118572652">Alfred Lichtwark</persName>
