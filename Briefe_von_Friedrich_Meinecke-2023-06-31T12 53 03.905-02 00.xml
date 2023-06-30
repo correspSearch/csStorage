@@ -1,0 +1,1829 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefe von Friedrich Meinecke</title>
+                <editor>Marthe Küster<email>marthe.kuester@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2023-06-31T12:53:03.905-02:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="k283cb3a-ebd4-4de1-9159-a4d3d83c1538">Friedrich Meinecke. Akademischer Lehrer und emigrierte Schüler. Briefe und
+Aufzeichnungen 1910-1977. herausgegeben von Gerhard A. Ritter,
+Oldenbourg Wissenschaftsverlag, 2006. correspSearch<ref target="https://doi.org/10.1524/9783486707816">https://doi.org/10.1524/9783486707816</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="I. 2">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118749943">Hans Rothfels</persName>
+                    <placeName ref="http://www.geonames.org/2974389" cert="low">Soissons</placeName>
+                    <date evidence="conjecture" when="1914-11-06">6. November 1914</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="I. 3">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118749943">Hans Rothfels</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date evidence="conjecture" when="1917-02-24">24. Februar 1917</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="I. 4">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118749943">Hans Rothfels</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date evidence="conjecture" when="1927-10-29">29. Oktober 1927</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="I. 5">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118749943">Hans Rothfels</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date evidence="conjecture" when="1927-12-13">13. Dezember 1927</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="I. 6">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118749943">Hans Rothfels</persName>
+                    <placeName ref="http://www.geonames.org/554234" cert="low">Königsberg</placeName>
+                    <date evidence="conjecture" when="1930-03-03">3. März 1930</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/119127199">Siegfried A. Kaehler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="I. 7">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118749943">Hans Rothfels</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date evidence="conjecture" when="1930-06-03">3. Juni 1930</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/119127199">Siegfried A. Kaehler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="I. 8">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118749943">Hans Rothfels</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date evidence="conjecture" when="1930-12-21">21. Dezember 1930</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/119127199">Siegfried A. Kaehler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="I. 9">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118749943">Hans Rothfels</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date evidence="conjecture" when="1932-03-02">2. März 1932</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118572415"> Theodor Lewald</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="I. 10">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118749943">Hans Rothfels</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date evidence="conjecture" when="1933-04-23"> 23. April 1933</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/119127199">Siegfried A. Kaehler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="I. 11">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118749943">Hans Rothfels</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2609903">Neuhäuser</placeName>
+                    <date evidence="conjecture" when="1934-08-05">5. August [1934]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118659715">Albert Brackmann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="I. 12">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118749943">Hans Rothfels</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4887398">Chicago</placeName>
+                    <date evidence="conjecture" when="1946-10-12">12. Oktober 1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="I. 13">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116863080"> Antonie Meinecke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1947-04-30">30. April 1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118749943">Hans Rothfels</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="I. 14">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118749943">Hans Rothfels</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4887398">Chicago</placeName>
+                    <date evidence="conjecture" when="1947-11-14">14. November 1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="I. 15">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118749943">Hans Rothfels</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4887398">Chicago</placeName>
+                    <date evidence="conjecture" when="1948-06-04">4. Juni 1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="I. 16">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118749943">Hans Rothfels</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4887398">Chicago</placeName>
+                    <date evidence="conjecture" when="1948-09-24">24. September 1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="I. 17">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118749943">Hans Rothfels</persName>
+                    <placeName ref="http://www.geonames.org/4887398" cert="low">Chicago</placeName>
+                    <date evidence="conjecture" when="1949-01-04">4. Januar 1949</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="II. 1">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116566604">Dietrich Gerhard</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1914-08-09">9. August 1914</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="II. 2">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116566604">Dietrich Gerhard</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1914-12-31">31. Dezember 1914</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="II. 3">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116566604">Dietrich Gerhard</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1915-06-16">16. Juni 1915</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="II. 4">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116566604">Dietrich Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/2950159" cert="low">Berlin</placeName>
+                    <date evidence="conjecture" when="1923-09-08">8. September 1923</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="II. 5">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116566604">Dietrich Gerhard</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1923-10-29">29. Oktober 1923</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="II. 6">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1925-05-29">29. Mai 1925</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116566604">Dietrich Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="II. 7">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116566604">Dietrich Gerhard</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4931972">Cambridge</placeName>
+                    <date evidence="conjecture" when="1935-11-19">19. November 1935</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118919598">Gerhard Masur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="II. 8">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116566604">Dietrich Gerhard</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5239319">Norwich</placeName>
+                    <date evidence="conjecture" when="1936-08-27">27. August 1936</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="II. 9">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1947-03-05">5. März 1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116566604">Dietrich Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="II. 10">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1948-01-11">11. Januar 1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116566604">Dietrich Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="II. 11">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1948-08-05">5. August 1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116566604">Dietrich Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="II. 12">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116566604">Dietrich Gerhard</persName>
+                    <placeName cert="low">Lindenbrook Farms</placeName>
+                    <date evidence="conjecture" when="1948-08-30">30. August 1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="II. 13">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116566604">Dietrich Gerhard</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4407066">St. Louis</placeName>
+                    <date evidence="conjecture" when="1950-05-31">31. Mai 1950</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118919598">Gerhard Masur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="II. 14">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116566604">Dietrich Gerhard</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4407066">St. Louis</placeName>
+                    <date evidence="conjecture" when="1953-09-09">9. September 1953</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116863080"> Antonie Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="II. 15">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116566604">Dietrich Gerhard</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4407066">St. Louis</placeName>
+                    <date evidence="conjecture" when="1954-03-21">21. März 1954</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118919598">Gerhard Masur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="II. 16">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116566604">Dietrich Gerhard</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3411923" cert="low">Auf hoher See (Atlantic)</placeName>
+                    <date evidence="conjecture" when="1954-09-18">18. September 1954</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116863080"> Antonie Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="II. 17">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116566604">Dietrich Gerhard</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5102922">Princeton</placeName>
+                    <date evidence="conjecture" when="1955-03-24">24. März 1955</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116863080"> Antonie Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="III. 1">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118919598">Gerhard Masur</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1927-01-24">24. Januar 1927</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="III. 2">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118919598">Gerhard Masur</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1927-04-20">20. April 1927</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="III. 3">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118919598">Gerhard Masur</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1927-04-26"> 26. April 1927</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="III. 4">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118919598">Gerhard Masur</persName>
+                    <placeName ref="http://www.geonames.org/2950159" cert="low">Berlin</placeName>
+                    <date evidence="conjecture" when="1934-02-12">12. Februar 1934</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116427582">August Wilhelm Fehling</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="III. 5">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1936-02-04">4. Februar 1936</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118919598">Gerhard Masur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="III. 6">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118919598">Gerhard Masur</persName>
+                    <placeName ref="http://www.geonames.org/4788542" cert="low">Sweet Briar</placeName>
+                    <date evidence="conjecture" when="1947-01-03">3. Januar 1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="III. 7">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1947-02-07">7. Februar 1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118919598">Gerhard Masur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="III. 8">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1948-07-27">27. Juli 1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118919598">Gerhard Masur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="III. 9">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118919598">Gerhard Masur</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5130831">Peekskill</placeName>
+                    <date evidence="conjecture" when="1948-08-18">18. August 1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="III. 10">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118919598">Gerhard Masur</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4788542" cert="low">Sweet Briar</placeName>
+                    <date evidence="conjecture" when="1948-10-11">11. Oktober 1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="III. 11">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1950-08-15">15. August 1950</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118919598">Gerhard Masur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="III. 12">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118919598">Gerhard Masur</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4788542" cert="low">Sweet Briar</placeName>
+                    <date evidence="conjecture" when="1950-09-03">3. September 1950</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="III. 13">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <date evidence="conjecture" when="1952-03-05">5. März 1952</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118919598">Gerhard Masur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="III. 14">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116863080"> Antonie Meinecke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1954-04-05"> 5. April 1954</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118919598">Gerhard Masur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="III. 15">
+                <correspAction type="sent">
+                    <placeName ref="http://www.geonames.org/2946447" cert="low">Bonn</placeName>
+                    <orgName evidence="conjecture" ref="https://d-nb.info/gnd/16293461-0">Der Bundesminister des Innern</orgName>
+                    <date evidence="conjecture" when="1956-07-30">30. Juli 1956</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118919598">Gerhard Masur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="III. 16">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118919598">Gerhard Masur</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4788542" cert="low">Sweet Briar</placeName>
+                    <date evidence="conjecture" when="1957-03-29">29. März 1957</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116863080"> Antonie Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="III. 17">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118749943">Hans Rothfels</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2820860">Tübingen</placeName>
+                    <date evidence="conjecture" when="1961-01-25">25. Januar 1961</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118919598">Gerhard Masur</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4771075">Lynchburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="III. 18">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118919598">Gerhard Masur</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4771075">Lynchburg</placeName>
+                    <date evidence="conjecture" when="1961-02-12">12. Februar 1961</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118749943">Hans Rothfels</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2820860">Tübingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="III. 19">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118919598">Gerhard Masur</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5091636">Raymond</placeName>
+                    <date evidence="conjecture" when="1961-08-27">27. August 1961</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116863080"> Antonie Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="III. 20">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118919598">Gerhard Masur</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4771075">Lynchburg</placeName>
+                    <date evidence="conjecture" when="1961-10-14">14. Oktober 1961</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116863080"> Antonie Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IV. 1">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116959991"> Hajo Holborn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1924-10-14">14. Oktober 1924</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116566604">Dietrich Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IV. 2">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116959991"> Hajo Holborn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date evidence="conjecture" when="1925-06-09">9. Juni 1925</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IV. 3">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116959991"> Hajo Holborn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date evidence="conjecture" when="1926-03-01">1. März 1926</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IV. 4">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116959991"> Hajo Holborn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date evidence="conjecture" when="1926-04-28">28. April 1926</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IV. 5">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116959991"> Hajo Holborn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date evidence="conjecture" when="1929-01-07">7. Januar 1929</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IV. 6">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116959991"> Hajo Holborn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/7670401" cert="low">Sils-Baselgia, Engadin</placeName>
+                    <date evidence="conjecture" when="1929-08-26">26. August 1929</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IV. 7">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1930-02-02">2. Februar 1930</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116959991"> Hajo Holborn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IV. 8">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116959991"> Hajo Holborn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1932">1932</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="https://d-nb.info/gnd/1016783-3">Humboldt-Universität Berlin</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IV. 9">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116959991"> Hajo Holborn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1933-04-14">14. April 1933</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116566604">Dietrich Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IV. 10">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116959991"> Hajo Holborn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date evidence="conjecture" when="1933-09-11">11. September 1933</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116566604">Dietrich Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IV. 11">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116959991"> Hajo Holborn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3411923">Auf hoher See (Atlantic)</placeName>
+                    <date evidence="conjecture" when="1934-05-28">28. Mai 1934</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116566604">Dietrich Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IV. 12">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116959991"> Hajo Holborn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4839366">New Haven</placeName>
+                    <date evidence="conjecture" when="1935-02-07">7. Februar 1935</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IV. 13">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116959991"> Hajo Holborn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4839366">New Haven</placeName>
+                    <date evidence="conjecture" when="1935-02-22">22. Februar 1935</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IV. 14">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116959991"> Hajo Holborn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4835654">Hamden</placeName>
+                    <date evidence="conjecture" when="1945-09-27">27. September 1945</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IV. 15">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116959991"> Hajo Holborn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5087149">Hancock</placeName>
+                    <date evidence="conjecture" when="1946-06-28">28 Juni 1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118919598">Gerhard Masur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IV. 16">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116959991"> Hajo Holborn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4839366">New Haven, Ct.</placeName>
+                    <date evidence="conjecture" when="1946-09-23">23. September 1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IV. 17">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116959991"> Hajo Holborn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4839366">New Haven, Ct.</placeName>
+                    <date evidence="conjecture" when="1948-10-30">30. Oktober 1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IV. 18">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116959991"> Hajo Holborn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4839366">New Haven, Ct.</placeName>
+                    <date evidence="conjecture" when="1949-04-09">9. April 1949</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IV. 19">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116959991"> Hajo Holborn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4839366">New Haven, Ct.</placeName>
+                    <date evidence="conjecture" when="1951-10-23">23. Oktober 1951</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IV. 20">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116959991"> Hajo Holborn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4839366">New Haven, Ct.</placeName>
+                    <date evidence="conjecture" when="1954-04-03">3. April 1954</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116566604">Dietrich Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IV. 21">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1123987637"> Annemarie Holborn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1969-07-23">23. Juli 1969</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118919598">Gerhard Masur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="V. 1">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118717421"> Felix Gilbert</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1929-03-29">29. März 1929</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="V. 2">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118717421"> Felix Gilbert</persName>
+                    <placeName ref="http://www.geonames.org/3177019" cert="low">Fiesole da Firenze</placeName>
+                    <date evidence="conjecture" when="1930-05-17">17. Mai 1930</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="V. 3">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1930-07-25">25. Juli 1930</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118717421"> Felix Gilbert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="V. 4">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118717421"> Felix Gilbert</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3176959">Florenz</placeName>
+                    <date evidence="conjecture" when="1932-04-28">28. April 1932</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="V. 5">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118717421"> Felix Gilbert</persName>
+                    <placeName ref="http://www.geonames.org/5182064" cert="low">Bryn Mawr</placeName>
+                    <date evidence="conjecture" when="1947-06-14">14. Juni 1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="V. 6">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118717421"> Felix Gilbert</persName>
+                    <placeName ref="http://www.geonames.org/5182064" cert="low">Bryn Mawr</placeName>
+                    <date evidence="conjecture" when="1948-11-25">25. November 1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="V. 7">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118717421"> Felix Gilbert</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5182064">Bryn Mawr</placeName>
+                    <date evidence="conjecture" when="1951-05-25">25. Mai 1951</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="V. 8">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118717421"> Felix Gilbert</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5182064">Bryn Mawr</placeName>
+                    <date evidence="conjecture" when="1958-10-25">25. Oktober 1958</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VI. 1">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116059397">Hans Baron</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1924-10-05">5. Oktober 1924</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VI. 2">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116059397">Hans Baron</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1924-10-16">16. Oktober 1924</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VI. 3">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116059397">Hans Baron</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1925-01-18">18. Januar 1925</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118717944">Walter Goetz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VI. 4">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116059397">Hans Baron</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3169070">Rom</placeName>
+                    <date evidence="conjecture" when="1925-07-02">2. Juli 1925</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118717944">Walter Goetz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VI. 5">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116059397">Hans Baron</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1927-06-27">27. Juni 1927</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118717944">Walter Goetz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VI. 6">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116059397">Hans Baron</persName>
+                    <placeName ref="http://www.geonames.org/2950159" cert="low">Berlin</placeName>
+                    <date evidence="conjecture" when="1928-06-05">5. Juni 1928</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118717944">Walter Goetz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VI. 7">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116059397">Hans Baron</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1933-03-23">23. März 1933</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118717944">Walter Goetz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VI. 8">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116059397">Hans Baron</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2643743">London</placeName>
+                    <date evidence="conjecture" when="1937-11-09">9. November 1937</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118717944">Walter Goetz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VI. 9">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116059397">Hans Baron</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2643743">London</placeName>
+                    <date evidence="conjecture" when="1938-05-17">17. Mai 1938</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118717944">Walter Goetz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VI. 10">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116059397">Hans Baron</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4887398">Chicago</placeName>
+                    <date evidence="conjecture" when="1954-04-04">4. April 1954</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118717944">Walter Goetz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VI. 11">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116059397">Hans Baron</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4887398">Chicago</placeName>
+                    <date evidence="conjecture" when="1954-10-15">15. Oktober 1954</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118717944">Walter Goetz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VI. 12">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116059397">Hans Baron</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4887398">Chicago</placeName>
+                    <date evidence="conjecture" when="1956-08-15">15. August 1956</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118717944">Walter Goetz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VII. 1">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/117366234">Helene Wieruszowski</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date cert="low" when="1926-11-03">3. November [1926]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VII. 2">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/117366234"> Helene Wieruszowski</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date evidence="conjecture" when="1933-10-22">22. Oktober [1933]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118659715">Albert Brackmann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VII. 3">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118659715">Albert Brackmann</persName>
+                    <date evidence="conjecture" when="1933-10-25">25. Oktober 1933</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/117366234">Helene Wieruszowski</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VII. 4">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/117366234">Helene Wieruszowski</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date evidence="conjecture" when="1933-11-04">4. November 1933</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118659715">Albert Brackmann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VII. 5">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/117366234">Helene Wieruszowski</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5110302">Brooklyn</placeName>
+                    <date evidence="conjecture" when="1946-08-11">11. August [1946]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VII. 6">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/117366234">Helene Wieruszowski</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5110302">Brooklyn</placeName>
+                    <date evidence="conjecture" when="1947-02-16">16. Februar [1947]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VII. 7">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/117366234">Helene Wieruszowski</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5110302">Brooklyn</placeName>
+                    <date evidence="conjecture" when="1948-10-09">9. Oktober 1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VII. 8">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date evidence="conjecture" when="1924-04-23">23. April 1924</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 1">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date evidence="conjecture" when="1924-04-23">23. April 1924</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 2">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2891621">Kempten</placeName>
+                    <date evidence="conjecture" when="1925-09-02">2. September 1925</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 3">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1927-04-15">15. April 1927</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 4">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1929-02-13">13. Februar 1929</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName> Mutter und Geschwister von Hans Rosenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 5">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1931-12-08">8. Dezember 1931</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName cert="low">Leni Rosenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 6">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1932-07-23">23. Juli 1932</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Leni Rosenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 7">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1932-09-02">2. September 1932</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121196240">Eugene N. Anderson</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 8">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date evidence="conjecture" when="1933-04-21">21. April 1933</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121196240">Eugene N. Anderson</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 9">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1933-05-02">2. Mai 1933</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 10">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1933-05-22">22. Mai 1933</date>
+                </correspAction>
+                <correspAction type="received">
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <orgName evidence="conjecture" ref="https://d-nb.info/gnd/10005795-0">Oldenbourg-Verlag</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 11">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date evidence="conjecture" when="1933-06-09">9. Juni 1933</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121196240">Eugene N. Anderson</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 12">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1933-09-05">5. September 1933</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Leni Rosenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 13">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <date evidence="conjecture" when="1933-11-18">18. November 1933</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="https://d-nb.info/gnd/1015546-6" cert="low">International Institute of Education</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 14">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/10104036">Carshalton Beeches</placeName>
+                    <date evidence="conjecture" when="1933-11-20">20. November 1933</date>
+                </correspAction>
+                <correspAction type="received">
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <orgName evidence="conjecture" ref="https://d-nb.info/gnd/10005795-0">Oldenbourg-Verlag</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 15">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <date evidence="conjecture" when="1933-12-05">5. Dezember 1933</date>
+                </correspAction>
+                <correspAction type="received">
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2643743">London</placeName>
+                    <orgName evidence="conjecture" ref="https://d-nb.info/gnd/5009837-8">Academic Assistance Council</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 16">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <date evidence="conjecture" when="1934-01-29">29. Januar 1934</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 17">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/10104036">Carshalton Beeches</placeName>
+                    <date evidence="conjecture" when="1934-04-17">17. April 1934</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 18">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/10104036">Carshalton Beeches</placeName>
+                    <date evidence="conjecture" when="1934-06-30">30. Juni 1934</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 19">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <date evidence="conjecture" when="1934-08">August 1934</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 20">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/10104036">Carshalton Beeches</placeName>
+                    <date evidence="conjecture" when="1934-08-21">21. August 1934</date>
+                </correspAction>
+                <correspAction type="received">
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <orgName evidence="conjecture" ref="https://d-nb.info/gnd/10005795-0">Oldenbourg-Verlag</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 21">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1934-09-09">9. September 1934</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 22">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1934-11-19">19. November 1934</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 23">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/139962328">William L. Langer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4929110">Annisquam</placeName>
+                    <date evidence="conjecture" when="1935-08-27">27. August 1935</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 24">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <date evidence="conjecture" when="1944-07-24">24. Juli 1944</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Leni Rosenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 25">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5110302">Brooklyn</placeName>
+                    <date evidence="conjecture" when="1946-05-06">6. Mai 1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 27">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date evidence="conjecture" when="1946-06-12">12. Juni 1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5110302">Brooklyn</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 28">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1946-11-28">28. November 1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 29">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date evidence="conjecture" when="1947-01-05">5. Januar 1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 30">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5110302">Brooklyn</placeName>
+                    <date evidence="conjecture" when="1947-01-31">31. Januar 1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1237866316">Harry D. Gideonse</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5110302">Brooklyn</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 31">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1947-02-12">12. Februar 1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 32">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1947-06-11">11. Juni 1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 33">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date evidence="conjecture" when="1947-06-29">29. Juni 1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 34">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116863080"> Antonie Meinecke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1947-11-27">27. November 1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture">Leni Rosenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 35">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5110302">Brooklyn</placeName>
+                    <date evidence="conjecture" when="1947-12-04">4. Dezember 1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 36">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1948-01-12">12. Januar 1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 37">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5110302">Brooklyn</placeName>
+                    <date evidence="conjecture" when="1948-05-02">2. Mai 1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 38">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <date evidence="conjecture" when="1948-09-10">10. September 1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Leni Rosenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 39">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1948-09-11">11. September 1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 40">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5110302">Brooklyn</placeName>
+                    <date evidence="conjecture" when="1948-10-06">6. Oktober 1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 41">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116863080"> Antonie Meinecke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1948-11-17">17. November 1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <persName>Leni Rosenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 42">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5110302">Brooklyn</placeName>
+                    <date evidence="conjecture" when="1949-04-09">9. April 1949</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 43">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <date evidence="conjecture" when="1950-11-11">11. November 1950</date>
+                </correspAction>
+                <correspAction type="received">
+                    <placeName ref="http://www.geonames.org/4140963">Washington D.C.</placeName>
+                    <orgName evidence="conjecture" ref="https://d-nb.info/gnd/16119740-1">Department of State</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 49">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5327684">Berkeley</placeName>
+                    <date evidence="conjecture" when="1965-04-25">25. April 1965</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Leni Rosenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 50">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5327684">Berkeley</placeName>
+                    <date evidence="conjecture" when="1967-12-21">21. Dezember 1967</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/119166232">Gerhard A. Ritter</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 51">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5327684">Berkeley</placeName>
+                    <date evidence="conjecture" when="1969-03-08">8. März 1969</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/119166232">Gerhard A. Ritter</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 52">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5327684">Berkeley</placeName>
+                    <date evidence="conjecture" when="1969-09-30">30. September 1969</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/119166232">Gerhard A. Ritter</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 53">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5327684">Berkeley</placeName>
+                    <date evidence="conjecture" when="1970-07-06">6. Juli 1970</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121877981">Rudolf Braun</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 54">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5327684">Berkeley</placeName>
+                    <date evidence="conjecture" when="1970-11-10">10. November 1970</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121877981">Rudolf Braun</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 55">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5327684">Berkeley</placeName>
+                    <date evidence="conjecture" when="1974-05-08">8. Mai 1974</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture">Leni Rosenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 56">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5327684">Berkeley</placeName>
+                    <date evidence="conjecture" when="1975-12-12">12. Dezember 1975</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121877981">Rudolf Braun</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="VIII. 57">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2925177">Freiburg</placeName>
+                    <date evidence="conjecture" when="1977-11-09">9. November 1977</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121877981">Rudolf Braun</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IX. 1">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/119368196">Hedwig Hintze</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1920-02-07">7. Februar 1920</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116863080"> Antonie Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IX. 2">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/119368196">Hedwig Hintze</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2837085">Schönau bei Berchtesgaden</placeName>
+                    <date evidence="conjecture" when="1921-08-30">30. August 1921</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116863080"> Antonie Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IX. 3">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/119368196" cert="low">Hedwig Hintze</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1923-12-10">10. Dezember 1923</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Dekan der Philosophischen Fakultät der Universität Berlin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IX. 4">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/119368196">Hedwig Hintze</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1924-07-06">6. Juli 1924</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118659715">Albert Brackmann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IX. 5">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/119368196">Hedwig Hintze</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1924-10-09">9. Oktober 1924</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IX. 6">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/119368196">Hedwig Hintze</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1927-04-07">7. April 1927</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118659715">Albert Brackmann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IX. 7">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118659715">Albert Brackmann</persName>
+                    <date evidence="conjecture" when="1933-05-20">20. Mai 1933</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/119368196">Hedwig Hintze</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IX. 8">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118551329">Otto Hintze</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1933-05-21">21. Mai 1933</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IX. 9">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118551329">Otto Hintze</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1933-11-18">18. November 1933</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="IX. 10">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/104511412X">Konrad Hintze</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3087630">Pyritz</placeName>
+                    <date evidence="conjecture" when="1942-05-08">8. Mai 1942</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="X. 1">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11609284X">Eckart Kehr</persName>
+                    <date evidence="conjecture" when="1929-02-28">28. Februar 1929</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="X. 3">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118697811">Adolf Grimme</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1932-01-18">18. Jaunar 1932</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="X. 4">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11609284X">Eckart Kehr</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1932-11-13">13. November 1932</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="X. 5">
+                <correspAction type="sent">
+                    <persName>Hanna Kehr </persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2945358">Brandenburg</placeName>
+                    <date evidence="conjecture" when="1933-08-11">11. August 1933</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11939085X">Hans Rosenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="XI. 1">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1077626797">Hanns Günther Reissner</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5109718">Bombay</placeName>
+                    <date evidence="conjecture" when="1947-07-18">18. Juli 1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="XII. 1">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118782746">Gustav Mayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date evidence="conjecture" when="1910-12-28">28. Dezember 1910</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="XII. 2">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118782746">Gustav Mayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1918-01-10">10. Januar 1918</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/117630-4">Philosophischen Fakultät der Universität Berlin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="XII. 4">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118782746">Gustav Mayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2640729">Oxford</placeName>
+                    <date evidence="conjecture" when="1946-01-03">3. Januar 1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="XII. 5">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118782746">Gustav Mayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2640729">Oxford</placeName>
+                    <date evidence="conjecture" when="1946-03-30">30. März 1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="XII. 6">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118782746">Gustav Mayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2640729">Oxford</placeName>
+                    <date evidence="conjecture" when="1946-05-12">12. Mai 1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="XII. 7">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118782746">Gustav Mayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2643743">London</placeName>
+                    <date evidence="conjecture" when="1946-07-13"> 13. Juli 1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="XII. 8">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118782746">Gustav Mayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2643743">London</placeName>
+                    <date evidence="conjecture" when="1946-10-03">3. Oktober 1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="XII. 9">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118782746">Gustav Mayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2643743">London</placeName>
+                    <date evidence="conjecture" when="1946-11-09">9. November 1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="XII. 10">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118782746">Gustav Mayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2643743">London</placeName>
+                    <date evidence="conjecture" when="1947-01-23">23. Januar 1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="XII. 11">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118782746">Gustav Mayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2643743">London</placeName>
+                    <date evidence="conjecture" when="1947-07-17">17. Juli 1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k283cb3a-ebd4-4de1-9159-a4d3d83c1538" key="XII. 12">
+                <correspAction type="sent">
+                    <persName>Flora Mayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2643743">London</placeName>
+                    <date evidence="conjecture" when="1948-03-21">21. März 1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118580140"> Friedrich Meinecke</persName>
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116863080"> Antonie Meinecke</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
