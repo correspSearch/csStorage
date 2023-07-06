@@ -4,17 +4,18 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:id="title-1f6d-b90a-a280e7314b">Briefwechsel von Christian Gottfried Nees
-                    von Esenbeck</title>
+                <title xml:id="title-ef65-6ab8-2e19680abd">Christian Gottfried Nees von
+                    Esenbeck</title>
                 <editor>Marthe Küster</editor>
             </titleStmt>
             <publicationStmt>
-                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <publisher>Berlin-Brandenburgischen Akademie der Wissenschaften</publisher>
                 <idno type="url"
-                    >https://correspsearch.net/storage/nees.xml</idno>
-                <date when="2023-07-06T11:48:09.735268"/>
+                    >https://cmif.saw-leipzig.de/api/2023-07-06T12:23:15.250__Nees(2)/xml</idno>
+                <date when="2023-07-06T12:23:15.621013"/>
                 <availability>
-                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This file is
+                        licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
@@ -32,7 +33,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2832771">Sickershausen</placeName>
-                    <date>16. 8. 1816</date>
+                    <date when="1816-08-16">16. 8. 1816</date>
                 </correspAction>
                 <correspAction xml:id="addressee-16c0-e6c1-3c214f9a7b" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -45,7 +46,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2832771">Sickershausen</placeName>
-                    <date>21. 11. 1816</date>
+                    <date when="1816-11-21">21. 11. 1816</date>
                 </correspAction>
                 <correspAction xml:id="addressee-2fdb-1df4-69e7c5b02d" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -58,7 +59,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2832771">Sickershausen</placeName>
-                    <date>5. 3. 1817</date>
+                    <date when="1817-03-05">5. 3. 1817</date>
                 </correspAction>
                 <correspAction xml:id="addressee-59de-7a25-c72e6d3184" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -70,7 +71,7 @@
                 <correspAction xml:id="sender-abe9-967a-87f39045ed" type="sent">
                     <persName ref="https://d-nb.info/gnd/118883712">Therese Huber</persName>
                     <placeName>o. O.</placeName>
-                    <date>29. 4. 1817</date>
+                    <date when="1817-04-29">29. 4. 1817</date>
                 </correspAction>
                 <correspAction xml:id="addressee-cb17-f846-8d743905ca" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -83,7 +84,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2832771">Sickershausen</placeName>
-                    <date>11. 6. 1817</date>
+                    <date when="1817-06-11">11. 6. 1817</date>
                 </correspAction>
                 <correspAction xml:id="addressee-4720-0b54-c37e2db6f1" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -96,7 +97,7 @@
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
                         Cotta</persName>
                     <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
-                    <date>25. 6. 1817</date>
+                    <date when="1817-06-25">25. 6. 1817</date>
                 </correspAction>
                 <correspAction xml:id="addressee-5f7e-e06d-2a87eb60c3" type="received">
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
@@ -109,7 +110,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2832771">Sickershausen</placeName>
-                    <date>4. 12. 1817</date>
+                    <date when="1817-12-04">4. 12. 1817</date>
                 </correspAction>
                 <correspAction xml:id="addressee-fba4-49ad-10823e4cdb" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -121,7 +122,7 @@
                 <correspAction xml:id="sender-ca58-a064-38c7be1a4d" type="sent">
                     <persName ref="https://d-nb.info/gnd/118883712">Therese Huber</persName>
                     <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
-                    <date>18. 12. 1817</date>
+                    <date when="1817-12-18">18. 12. 1817</date>
                 </correspAction>
                 <correspAction xml:id="addressee-b572-a2eb-3f0e26d41a" type="received">
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
@@ -134,7 +135,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2832771">Sickershausen</placeName>
-                    <date>20. 12. 1817</date>
+                    <date when="1817-12-20">20. 12. 1817</date>
                 </correspAction>
                 <correspAction xml:id="addressee-7635-1d80-7081a3f5b6" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -146,7 +147,7 @@
                 <correspAction xml:id="sender-6125-ec16-f2c3974d81" type="sent">
                     <persName ref="https://d-nb.info/gnd/118883712">Therese Huber</persName>
                     <placeName>o. O.</placeName>
-                    <date>[ca. 21. 12. 1817]</date>
+                    <date when="1817-12-21">[ca. 21. 12. 1817]</date>
                 </correspAction>
                 <correspAction xml:id="addressee-f268-8d39-3bfd46708c" type="received">
                     <orgName ref="https://d-nb.info/gnd/5056474-2">Cottasche Buchhandlung</orgName>
@@ -158,7 +159,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2832771">Sickershausen</placeName>
-                    <date>27. 12. 1817</date>
+                    <date when="1817-12-27">27. 12. 1817</date>
                 </correspAction>
                 <correspAction xml:id="addressee-52d7-d54c-180c2976bf" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -170,7 +171,7 @@
                 <correspAction xml:id="sender-4f73-35a4-57fc2eb06d" type="sent">
                     <persName ref="https://d-nb.info/gnd/118883712">Therese Huber</persName>
                     <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
-                    <date>[29. 12. 1817]</date>
+                    <date when="1817-12-29">[29. 12. 1817]</date>
                 </correspAction>
                 <correspAction xml:id="addressee-3e41-7cd9-e57b140ac2" type="received">
                     <orgName ref="https://d-nb.info/gnd/5056474-2">Cottasche Buchhandlung</orgName>
@@ -181,7 +182,7 @@
                 <correspAction xml:id="sender-e35d-8d30-085df3b961" type="sent">
                     <persName ref="https://d-nb.info/gnd/118883712">Therese Huber</persName>
                     <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
-                    <date>30. 12. 1817</date>
+                    <date when="1817-12-30">30. 12. 1817</date>
                 </correspAction>
                 <correspAction xml:id="addressee-c23e-4b6f-b35ad81f2e" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -193,7 +194,7 @@
                 <correspAction xml:id="sender-613b-5974-3c092e6f41" type="sent">
                     <persName ref="https://d-nb.info/gnd/118883712">Therese Huber</persName>
                     <placeName>o. O.</placeName>
-                    <date>[?]. 1. 1818</date>
+                    <date when="1818-01">[?]. 1. 1818</date>
                 </correspAction>
                 <correspAction xml:id="addressee-5d4e-cfa9-d7ab85c160" type="received">
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
@@ -205,7 +206,7 @@
                 <correspAction xml:id="sender-9f23-dfe0-b52d36e187" type="sent">
                     <persName ref="https://d-nb.info/gnd/118883712">Therese Huber</persName>
                     <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
-                    <date>4. 1. 1818</date>
+                    <date when="1818-01-04">4. 1. 1818</date>
                 </correspAction>
                 <correspAction xml:id="addressee-bde8-360f-3b694012fa" type="received">
                     <orgName ref="https://d-nb.info/gnd/5056474-2">Cottasche Buchhandlung</orgName>
@@ -216,7 +217,7 @@
                 <correspAction xml:id="sender-c0a6-fd76-d1b0f8c452" type="sent">
                     <persName ref="https://d-nb.info/gnd/118883712">Therese Huber</persName>
                     <placeName>o. O.</placeName>
-                    <date>4. 1. 1818</date>
+                    <date when="1818-01-04">4. 1. 1818</date>
                 </correspAction>
                 <correspAction xml:id="addressee-d63a-41a5-30195da2ec" type="received">
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
@@ -229,7 +230,7 @@
                     <persName ref="https://d-nb.info/gnd/118883712">Therese Huber</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/2825297"
                         >Stuttgart</placeName>
-                    <date>5. 1. 1818</date>
+                    <date when="1818-01-05">5. 1. 1818</date>
                 </correspAction>
                 <correspAction xml:id="addressee-ace5-e3d9-97b42a061e" type="received">
                     <orgName ref="https://d-nb.info/gnd/5056474-2">Cottasche Buchhandlung</orgName>
@@ -240,7 +241,7 @@
                 <correspAction xml:id="sender-ce34-ab1f-fe0ab87236" type="sent">
                     <persName ref="https://d-nb.info/gnd/118883712">Therese Huber</persName>
                     <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
-                    <date>19. 1. 1818</date>
+                    <date when="1818-01-19">19. 1. 1818</date>
                 </correspAction>
                 <correspAction xml:id="addressee-da42-4159-09a65731fd" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -252,7 +253,7 @@
                 <correspAction xml:id="sender-7bad-e602-354e1972ba" type="sent">
                     <persName ref="https://d-nb.info/gnd/118883712">Therese Huber</persName>
                     <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
-                    <date>31. 1. 1818</date>
+                    <date when="1818-01-31">31. 1. 1818</date>
                 </correspAction>
                 <correspAction xml:id="addressee-4ba6-c64b-bc97fe615d" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -265,7 +266,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2832771">Sickershausen</placeName>
-                    <date>9. 2. 1818</date>
+                    <date when="1818-02-09">9. 2. 1818</date>
                 </correspAction>
                 <correspAction xml:id="addressee-c65b-850c-b0ef62531c" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -277,7 +278,7 @@
                 <correspAction xml:id="sender-38a9-8d71-d2fe7c01a4" type="sent">
                     <persName ref="https://d-nb.info/gnd/118883712">Therese Huber</persName>
                     <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
-                    <date>19. 2. 1818</date>
+                    <date when="1818-02-19">19. 2. 1818</date>
                 </correspAction>
                 <correspAction xml:id="addressee-b46c-e41d-4d3fa0e61b" type="received">
                     <orgName ref="https://d-nb.info/gnd/5056474-2">Cottasche Buchhandlung</orgName>
@@ -288,7 +289,7 @@
                 <correspAction xml:id="sender-0ceb-de57-4d093e5a8c" type="sent">
                     <persName ref="https://d-nb.info/gnd/118883712">Therese Huber</persName>
                     <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
-                    <date>20. 2. 1818</date>
+                    <date when="1818-02-20">20. 2. 1818</date>
                 </correspAction>
                 <correspAction xml:id="addressee-830d-2bc1-25c9f6ab18" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -300,7 +301,7 @@
                 <correspAction xml:id="sender-8b92-ab83-f37509468e" type="sent">
                     <persName ref="https://d-nb.info/gnd/118883712">Therese Huber</persName>
                     <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
-                    <date>20. 2. 1818</date>
+                    <date when="1818-02-20">20. 2. 1818</date>
                 </correspAction>
                 <correspAction xml:id="addressee-bd31-fe16-c56d4729f1" type="received">
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
@@ -313,7 +314,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2832771">Sickershausen</placeName>
-                    <date>1. 3. 1818</date>
+                    <date when="1818-03-01">1. 3. 1818</date>
                 </correspAction>
                 <correspAction xml:id="addressee-b395-e35a-945fd860c1" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -326,7 +327,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2832771">Sickershausen</placeName>
-                    <date>3. 3. 1818</date>
+                    <date when="1818-03-03">3. 3. 1818</date>
                 </correspAction>
                 <correspAction xml:id="addressee-d702-94e7-a61f37c2b8" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -338,7 +339,7 @@
                 <correspAction xml:id="sender-c6db-e39c-49583aec27" type="sent">
                     <persName ref="https://d-nb.info/gnd/118883712">Therese Huber</persName>
                     <placeName>o. O.</placeName>
-                    <date>8. 3. 1818</date>
+                    <date when="1818-03-08">8. 3. 1818</date>
                 </correspAction>
                 <correspAction xml:id="addressee-f723-849f-a1b69c4f27" type="received">
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
@@ -350,7 +351,7 @@
                 <correspAction xml:id="sender-cd1f-02d8-7ba32c9d5e" type="sent">
                     <persName ref="https://d-nb.info/gnd/118883712">Therese Huber</persName>
                     <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
-                    <date>13. 3. 1818</date>
+                    <date when="1818-03-13">13. 3. 1818</date>
                 </correspAction>
                 <correspAction xml:id="addressee-9165-e6f1-c6d32f78a1" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -363,7 +364,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2832771">Sickershausen</placeName>
-                    <date>16. 3. 1818</date>
+                    <date when="1818-03-16">16. 3. 1818</date>
                 </correspAction>
                 <correspAction xml:id="addressee-0a3f-47fa-e7806dcf45" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -376,7 +377,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2832771">Sickershausen</placeName>
-                    <date>18. 3. 1818</date>
+                    <date when="1818-03-18">18. 3. 1818</date>
                 </correspAction>
                 <correspAction xml:id="addressee-6e8a-5721-db9a481e27" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -388,7 +389,7 @@
                 <correspAction xml:id="sender-945e-d5cb-4daf3c590e" type="sent">
                     <orgName ref="https://d-nb.info/gnd/6146444-2">Treuttel und Würtz</orgName>
                     <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
-                    <date>29. 3. 1818</date>
+                    <date when="1818-03-29">29. 3. 1818</date>
                 </correspAction>
                 <correspAction xml:id="addressee-b6cd-e725-de95a0f8cb" type="received">
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
@@ -401,7 +402,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2832771">Sickershausen</placeName>
-                    <date>17. 4. 1818</date>
+                    <date when="1818-04-17">17. 4. 1818</date>
                 </correspAction>
                 <correspAction xml:id="addressee-8e2b-b617-6aec7f0584" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -413,7 +414,7 @@
                 <correspAction xml:id="sender-ec51-e278-26fcb87351" type="sent">
                     <persName ref="https://d-nb.info/gnd/118883712">Therese Huber</persName>
                     <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
-                    <date>28. 4. 1818</date>
+                    <date when="1818-04-28">28. 4. 1818</date>
                 </correspAction>
                 <correspAction xml:id="addressee-89ea-ae28-6cb3a97410" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -426,7 +427,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
-                    <date>6. 5. 1818</date>
+                    <date when="1818-05-06">6. 5. 1818</date>
                 </correspAction>
                 <correspAction xml:id="addressee-eab0-d639-7a2319d46e" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -439,7 +440,7 @@
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
                         Cotta</persName>
                     <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
-                    <date>10. 5. 1818</date>
+                    <date when="1818-05-10">10. 5. 1818</date>
                 </correspAction>
                 <correspAction xml:id="addressee-d97a-aeb2-0ad81e6f7c" type="received">
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
@@ -451,7 +452,7 @@
                 <correspAction xml:id="sender-0723-013e-48176bda92" type="sent">
                     <persName ref="https://d-nb.info/gnd/100151310">Georg August Goldfuss</persName>
                     <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
-                    <date>16. 8. 1818</date>
+                    <date when="1818-08-16">16. 8. 1818</date>
                 </correspAction>
                 <correspAction xml:id="addressee-da67-92d1-62bc51ead3" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -463,7 +464,7 @@
                 <correspAction xml:id="sender-db5a-c805-70528961e4" type="sent">
                     <persName ref="https://d-nb.info/gnd/118883712">Therese Huber</persName>
                     <placeName>o. O.</placeName>
-                    <date>25. 8. 1818</date>
+                    <date when="1818-08-25">25. 8. 1818</date>
                 </correspAction>
                 <correspAction xml:id="addressee-13af-6bc9-ce6183254d" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -476,7 +477,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
-                    <date>24. 1. 1828</date>
+                    <date when="1828-01-24">24. 1. 1828</date>
                 </correspAction>
                 <correspAction xml:id="addressee-ba8e-a4bd-3f27b0d9c4" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -489,7 +490,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
-                    <date>7. 4. 1828</date>
+                    <date when="1828-04-07">7. 4. 1828</date>
                 </correspAction>
                 <correspAction xml:id="addressee-16a4-310e-b48a27efd9" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -502,7 +503,7 @@
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
                         Cotta</persName>
                     <placeName ref="http://www.geonames.org/2867714">München</placeName>
-                    <date>5. 5. 1828</date>
+                    <date when="1828-05-05">5. 5. 1828</date>
                 </correspAction>
                 <correspAction xml:id="addressee-2c1f-a762-a280bf61ec" type="received">
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
@@ -515,7 +516,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
-                    <date>14. 5. 1828</date>
+                    <date when="1828-05-14">14. 5. 1828</date>
                 </correspAction>
                 <correspAction xml:id="addressee-9c58-7b58-ba3149d72e" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -527,7 +528,7 @@
                 <correspAction xml:id="sender-f82e-7a31-e69a1bf784" type="sent">
                     <persName ref="https://d-nb.info/gnd/1037549023">Thormann</persName>
                     <placeName>o. O.</placeName>
-                    <date>14. 5. 1828</date>
+                    <date when="1828-05-14">14. 5. 1828</date>
                 </correspAction>
                 <correspAction xml:id="addressee-372c-7a23-8391c4a27e" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -540,7 +541,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
-                    <date>23. 7. 1828</date>
+                    <date when="1828-07-23">23. 7. 1828</date>
                 </correspAction>
                 <correspAction xml:id="addressee-4fea-b0d5-46fb29ade8" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -553,7 +554,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
-                    <date>23. 7. 1828</date>
+                    <date when="1828-07-23">23. 7. 1828</date>
                 </correspAction>
                 <correspAction xml:id="addressee-fe1c-f9b7-f95dc3714a" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -566,7 +567,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
-                    <date>18. 7. 1829</date>
+                    <date when="1829-07-18">18. 7. 1829</date>
                 </correspAction>
                 <correspAction xml:id="addressee-9146-9308-4fcbde251a" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -579,7 +580,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
-                    <date>31 . 7 . 1829</date>
+                    <date when="1829-07-31">31 . 7 . 1829</date>
                 </correspAction>
                 <correspAction xml:id="addressee-207b-cb86-34d79bc58a" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -592,7 +593,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
-                    <date>1. 8. 1829</date>
+                    <date when="1829-08-01">1. 8. 1829</date>
                 </correspAction>
                 <correspAction xml:id="addressee-58dc-13a2-40b362a7f9" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -605,7 +606,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
-                    <date>26. 8. 1829</date>
+                    <date when="1829-08-26">26. 8. 1829</date>
                 </correspAction>
                 <correspAction xml:id="addressee-69bd-a5d0-834d5e0f6c" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -618,7 +619,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2892794">Karlsruhe</placeName>
-                    <date>16. 10. 1829</date>
+                    <date when="1829-10-16">16. 10. 1829</date>
                 </correspAction>
                 <correspAction xml:id="addressee-de19-4a89-f084d93a56" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -631,7 +632,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2892794">Karlsruhe</placeName>
-                    <date>18. 1. 1830</date>
+                    <date when="1830-01-18">18. 1. 1830</date>
                 </correspAction>
                 <correspAction xml:id="addressee-0afd-b7f6-837f15ecd0" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -644,7 +645,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2892794">Karlsruhe</placeName>
-                    <date>19. 1. 1830</date>
+                    <date when="1830-01-19">19. 1. 1830</date>
                 </correspAction>
                 <correspAction xml:id="addressee-b473-cefd-0afc369824" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -657,7 +658,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2892794">Karlsruhe</placeName>
-                    <date>6. 3. 1830</date>
+                    <date when="1830-03-06">6. 3. 1830</date>
                 </correspAction>
                 <correspAction xml:id="addressee-d25a-9f8d-ae259b043f" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -670,7 +671,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2892794">Karlsruhe</placeName>
-                    <date>24. 3. 1830</date>
+                    <date when="1830-03-24">24. 3. 1830</date>
                 </correspAction>
                 <correspAction xml:id="addressee-de17-5da0-0148eb5632" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -683,7 +684,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2892794">Karlsruhe</placeName>
-                    <date>24. 3. 1830</date>
+                    <date when="1830-03-24">24. 3. 1830</date>
                 </correspAction>
                 <correspAction xml:id="addressee-ec82-c3eb-83e954106c" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -696,7 +697,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>23. 7. 1831</date>
+                    <date when="1831-07-23">23. 7. 1831</date>
                 </correspAction>
                 <correspAction xml:id="addressee-5e91-ec32-b84d37ec20" type="received">
                     <persName ref="https://d-nb.info/gnd/11852240X">Johann Friedrich von
@@ -709,7 +710,7 @@
                     <persName ref="https://d-nb.info/gnd/11879972X">Johann Georg von
                         Cotta</persName>
                     <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
-                    <date>20. 8. 1831</date>
+                    <date when="1831-08-20">20. 8. 1831</date>
                 </correspAction>
                 <correspAction xml:id="addressee-c6bf-b346-89d2e3a7bf" type="received">
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
@@ -722,7 +723,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>15. 7. 1833</date>
+                    <date when="1833-07-15">15. 7. 1833</date>
                 </correspAction>
                 <correspAction xml:id="addressee-465e-6851-c32705918e" type="received">
                     <persName ref="https://d-nb.info/gnd/11879972X">Johann Georg von
@@ -735,7 +736,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>14. 9. 1833</date>
+                    <date when="1833-09-14">14. 9. 1833</date>
                 </correspAction>
                 <correspAction xml:id="addressee-2b83-456f-495b7aefc0" type="received">
                     <persName ref="https://d-nb.info/gnd/11879972X">Johann Georg von
@@ -748,7 +749,7 @@
                     <persName ref="https://d-nb.info/gnd/11879972X">Johann Georg von
                         Cotta</persName>
                     <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
-                    <date>23. 9. 1833</date>
+                    <date when="1833-09-23">23. 9. 1833</date>
                 </correspAction>
                 <correspAction xml:id="addressee-c8d2-2a35-4ce1a37605" type="received">
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
@@ -761,7 +762,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>18. 10. 1833</date>
+                    <date when="1833-10-18">18. 10. 1833</date>
                 </correspAction>
                 <correspAction xml:id="addressee-96a3-6fda-f85b7c3d14" type="received">
                     <persName ref="https://d-nb.info/gnd/11879972X">Johann Georg von
@@ -774,7 +775,7 @@
                     <persName ref="https://d-nb.info/gnd/11879972X">Johann Georg von
                         Cotta</persName>
                     <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
-                    <date>30. 10. 1833</date>
+                    <date when="1833-10-30">30. 10. 1833</date>
                 </correspAction>
                 <correspAction xml:id="addressee-a85b-a1d2-07d8fa3b91" type="received">
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
@@ -787,7 +788,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>13. 11. 1833</date>
+                    <date when="1833-11-13">13. 11. 1833</date>
                 </correspAction>
                 <correspAction xml:id="addressee-0eb8-a946-7d39415be8" type="received">
                     <persName ref="https://d-nb.info/gnd/11879972X">Johann Georg von
@@ -800,7 +801,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>8. 1. 1834</date>
+                    <date when="1834-01-08">8. 1. 1834</date>
                 </correspAction>
                 <correspAction xml:id="addressee-4bef-625c-9106a852e7" type="received">
                     <persName ref="https://d-nb.info/gnd/11879972X">Johann Georg von
@@ -813,7 +814,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>27. 4. 1834</date>
+                    <date when="1834-04-27">27. 4. 1834</date>
                 </correspAction>
                 <correspAction xml:id="addressee-2c9d-fa63-d460738b9c" type="received">
                     <persName ref="https://d-nb.info/gnd/11879972X">Johann Georg von
@@ -826,7 +827,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>21. 5. 1834</date>
+                    <date when="1834-05-21">21. 5. 1834</date>
                 </correspAction>
                 <correspAction xml:id="addressee-b3de-c327-4ea56c3d90" type="received">
                     <persName ref="https://d-nb.info/gnd/11879972X">Johann Georg von
@@ -839,7 +840,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
-                    <date>29. 9. 1834</date>
+                    <date when="1834-09-29">29. 9. 1834</date>
                 </correspAction>
                 <correspAction xml:id="addressee-5290-c572-257681da3f" type="received">
                     <persName ref="https://d-nb.info/gnd/11879972X">Johann Georg von
@@ -852,7 +853,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>27. 4. 1835</date>
+                    <date when="1835-04-27">27. 4. 1835</date>
                 </correspAction>
                 <correspAction xml:id="addressee-41e9-cf42-d94ef67b0c" type="received">
                     <persName ref="https://d-nb.info/gnd/11879972X">Johann Georg von
@@ -865,7 +866,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>3. 5. 1841</date>
+                    <date when="1841-05-03">3. 5. 1841</date>
                 </correspAction>
                 <correspAction xml:id="addressee-aec7-3abe-0e584ac236" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -877,7 +878,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>1. 11. 1842</date>
+                    <date when="1842-11-01">1. 11. 1842</date>
                 </correspAction>
                 <correspAction xml:id="addressee-4fe0-c029-ed09467cf2" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -889,7 +890,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName>o. O.</placeName>
-                    <date>1. 12. 18[42]</date>
+                    <date when="1842-11-29">1. 12. 18[42]</date>
                 </correspAction>
                 <correspAction xml:id="addressee-1b68-c37f-8a947563c0" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E.O. Lindner</persName>
@@ -902,7 +903,7 @@
                         von Esenbeck</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/3081368"
                         >Breslau</placeName>
-                    <date>2. 1. 1843</date>
+                    <date when="1843-01-02">2. 1. 1843</date>
                 </correspAction>
                 <correspAction xml:id="addressee-e5d3-780e-e571326049" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -915,7 +916,7 @@
                         von Esenbeck</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/3081368"
                         >Breslau</placeName>
-                    <date>23. 1. [1843]</date>
+                    <date when="1843-01-23">23. 1. [1843]</date>
                 </correspAction>
                 <correspAction xml:id="addressee-93cd-fd97-7f1eb86d59" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -927,7 +928,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>21. 3. 1843</date>
+                    <date when="1843-03-21">21. 3. 1843</date>
                 </correspAction>
                 <correspAction xml:id="addressee-6b75-530b-9de0b4f685" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -939,7 +940,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>7. 7. 1843</date>
+                    <date when="1843-07-07">7. 7. 1843</date>
                 </correspAction>
                 <correspAction xml:id="addressee-41f5-c8f4-92e7d8a6b4" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -951,7 +952,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>18. 8. 1843</date>
+                    <date when="1843-08-18">18. 8. 1843</date>
                 </correspAction>
                 <correspAction xml:id="addressee-87cb-4a73-6ed8f3029b" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -963,7 +964,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>19. 8. 18[43]</date>
+                    <date when="1843-08-17">19. 8. 18[43]</date>
                 </correspAction>
                 <correspAction xml:id="addressee-07bf-327b-17850d3a92" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -975,7 +976,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>5. 9. 1843</date>
+                    <date when="1843-09-05">5. 9. 1843</date>
                 </correspAction>
                 <correspAction xml:id="addressee-4d32-81c4-240fac7d61" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -987,7 +988,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>8. 9. 1843</date>
+                    <date when="1843-09-08">8. 9. 1843</date>
                 </correspAction>
                 <correspAction xml:id="addressee-368c-fc32-a810cd543e" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -998,7 +999,7 @@
                 <correspAction xml:id="sender-19c0-9d83-ed1f45c9a7" type="sent">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
                     <placeName ref="http://www.geonames.org/3081368">o. O. (Breslau)</placeName>
-                    <date>16. 9. 1843</date>
+                    <date when="1843-09-16">16. 9. 1843</date>
                 </correspAction>
                 <correspAction xml:id="addressee-c97a-fc03-85210bea3c" type="received">
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
@@ -1011,7 +1012,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>17. 9. 1843</date>
+                    <date when="1843-09-17">17. 9. 1843</date>
                 </correspAction>
                 <correspAction xml:id="addressee-a7db-13c2-f54623c7a8" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1023,7 +1024,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>19. 9. 1843</date>
+                    <date when="1843-09-19">19. 9. 1843</date>
                 </correspAction>
                 <correspAction xml:id="addressee-5a4e-4b56-9e70dfb518" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1035,7 +1036,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>29. 9. 1843</date>
+                    <date when="1843-09-29">29. 9. 1843</date>
                 </correspAction>
                 <correspAction xml:id="addressee-30d5-e7cd-2d83bf6e41" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1047,7 +1048,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>1. 10. 1843</date>
+                    <date when="1843-10-01">1. 10. 1843</date>
                 </correspAction>
                 <correspAction xml:id="addressee-3cb1-e34b-896ec24351" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1059,7 +1060,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>6. 10. 1843</date>
+                    <date when="1843-10-06">6. 10. 1843</date>
                 </correspAction>
                 <correspAction xml:id="addressee-42f5-739c-0bc3f867e1" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1071,7 +1072,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>21. 10. 1843</date>
+                    <date when="1843-10-21">21. 10. 1843</date>
                 </correspAction>
                 <correspAction xml:id="addressee-4cfe-a7fb-18e590b372" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1083,7 +1084,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>31. 10. 1843</date>
+                    <date when="1843-10-31">31. 10. 1843</date>
                 </correspAction>
                 <correspAction xml:id="addressee-9a6c-ad1f-60a1d23b9c" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1095,7 +1096,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>28. 11. 1843</date>
+                    <date when="1843-11-28">28. 11. 1843</date>
                 </correspAction>
                 <correspAction xml:id="addressee-4a96-4b18-a2e0b7c541" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1106,7 +1107,7 @@
                 <correspAction xml:id="sender-704d-2967-9ed803c6f4" type="sent">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>22. 12. 1843</date>
+                    <date when="1843-12-22">22. 12. 1843</date>
                 </correspAction>
                 <correspAction xml:id="addressee-a712-630b-92a41768eb" type="received">
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
@@ -1119,7 +1120,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>23. 12. 1843</date>
+                    <date when="1843-12-23">23. 12. 1843</date>
                 </correspAction>
                 <correspAction xml:id="addressee-fb42-b895-950786ab4f" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1131,7 +1132,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName>o. O.</placeName>
-                    <date>o. D. [1844]</date>
+                    <date when="1844">o. D. [1844]</date>
                 </correspAction>
                 <correspAction xml:id="addressee-a5b3-790c-20c498f1e3" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1143,7 +1144,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>2. 1. 1844</date>
+                    <date when="1844-01-02">2. 1. 1844</date>
                 </correspAction>
                 <correspAction xml:id="addressee-4927-26e1-c6b319df08" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1155,7 +1156,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>5. 1. 1844</date>
+                    <date when="1844-01-05">5. 1. 1844</date>
                 </correspAction>
                 <correspAction xml:id="addressee-05c6-b187-107854c32f" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1168,7 +1169,7 @@
                         von Esenbeck</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/3081368"
                         >Breslau</placeName>
-                    <date>18. 1. 18[44]</date>
+                    <date when="0018-01-16">18. 1. 18[44]</date>
                 </correspAction>
                 <correspAction xml:id="addressee-0abc-2716-d08e4fc7a1" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1180,7 +1181,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>27. 2. 1844</date>
+                    <date when="1844-02-27">27. 2. 1844</date>
                 </correspAction>
                 <correspAction xml:id="addressee-c827-fdb5-ad5f84c092" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1192,7 +1193,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>2. 6. 1844</date>
+                    <date when="1844-06-02">2. 6. 1844</date>
                 </correspAction>
                 <correspAction xml:id="addressee-c4ed-f3e2-98ed470afb" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1204,7 +1205,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>29. 7. 1844</date>
+                    <date when="1844-07-29">29. 7. 1844</date>
                 </correspAction>
                 <correspAction xml:id="addressee-6179-5f17-71f98b0c2e" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1216,7 +1217,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>19. [9?]. 1844</date>
+                    <date when="1844-09-19">19. [9?]. 1844</date>
                 </correspAction>
                 <correspAction xml:id="addressee-b438-f73e-82064713a5" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1228,7 +1229,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName>o. O.</placeName>
-                    <date>19. 10. 18[44]</date>
+                    <date when="0018-10-17">19. 10. 18[44]</date>
                 </correspAction>
                 <correspAction xml:id="addressee-5607-78c0-b5f710e238" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1241,7 +1242,7 @@
                         von Esenbeck</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/3081368"
                         >Breslau</placeName>
-                    <date>21. 10. 1844</date>
+                    <date when="1844-10-21">21. 10. 1844</date>
                 </correspAction>
                 <correspAction xml:id="addressee-4087-94e1-5edb176af0" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1254,7 +1255,7 @@
                         von Esenbeck</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/3081368"
                         >Breslau</placeName>
-                    <date>25. 11. 1844</date>
+                    <date when="1844-11-25">25. 11. 1844</date>
                 </correspAction>
                 <correspAction xml:id="addressee-7902-ba8d-af7c5620b8" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1266,7 +1267,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>22. 12. 1844</date>
+                    <date when="1844-12-22">22. 12. 1844</date>
                 </correspAction>
                 <correspAction xml:id="addressee-5f38-0d15-751b3c4e86" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1278,7 +1279,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>1. 3. 1845</date>
+                    <date when="1845-03-01">1. 3. 1845</date>
                 </correspAction>
                 <correspAction xml:id="addressee-f7c9-7c8f-768421fcea" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1290,7 +1291,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>8. 3. 1845</date>
+                    <date when="1845-03-08">8. 3. 1845</date>
                 </correspAction>
                 <correspAction xml:id="addressee-4e35-7dba-06c28d1e4b" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1302,7 +1303,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>10. 3. 1845</date>
+                    <date when="1845-03-10">10. 3. 1845</date>
                 </correspAction>
                 <correspAction xml:id="addressee-02dc-5cf0-06183d4ecf" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1314,7 +1315,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>31. 3. 1845</date>
+                    <date when="1845-03-31">31. 3. 1845</date>
                 </correspAction>
                 <correspAction xml:id="addressee-74db-fd06-75023baf94" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1326,7 +1327,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>3. 4. 1845</date>
+                    <date when="1845-04-03">3. 4. 1845</date>
                 </correspAction>
                 <correspAction xml:id="addressee-a068-6491-4be75c619a" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1338,7 +1339,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>11. 4. 1845</date>
+                    <date when="1845-04-11">11. 4. 1845</date>
                 </correspAction>
                 <correspAction xml:id="addressee-1806-96fd-1f5ce3b826" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1350,7 +1351,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>6. 5. 1845</date>
+                    <date when="1845-05-06">6. 5. 1845</date>
                 </correspAction>
                 <correspAction xml:id="addressee-c307-fb5c-fc13206b74" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1363,7 +1364,7 @@
                         von Esenbeck</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/3081368"
                         >Breslau</placeName>
-                    <date>9. 5. 1845</date>
+                    <date when="1845-05-09">9. 5. 1845</date>
                 </correspAction>
                 <correspAction xml:id="addressee-5a32-4fc5-e2f0913a56" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1375,7 +1376,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>13. 7. 1845</date>
+                    <date when="1845-07-13">13. 7. 1845</date>
                 </correspAction>
                 <correspAction xml:id="addressee-cafe-3752-38d26cabe1" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1387,7 +1388,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>17. 8. 1845</date>
+                    <date when="1845-08-17">17. 8. 1845</date>
                 </correspAction>
                 <correspAction xml:id="addressee-ea23-19eb-b162cfe47d" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1399,7 +1400,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>30. 8. 1845</date>
+                    <date when="1845-08-30">30. 8. 1845</date>
                 </correspAction>
                 <correspAction xml:id="addressee-4f1e-ec20-ca5f7d0321" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1411,7 +1412,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>30. 8. [1845]</date>
+                    <date when="1845-08-30">30. 8. [1845]</date>
                 </correspAction>
                 <correspAction xml:id="addressee-a8db-1643-17f4b682ea" type="received">
                     <persName>Laura [Treuttel]</persName>
@@ -1423,7 +1424,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>16. 9. 1845</date>
+                    <date when="1845-09-16">16. 9. 1845</date>
                 </correspAction>
                 <correspAction xml:id="addressee-86f9-b7c6-27e938d1cb" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1435,7 +1436,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>17. 10. 1845</date>
+                    <date when="1845-10-17">17. 10. 1845</date>
                 </correspAction>
                 <correspAction xml:id="addressee-b9fa-24eb-a48f502d7b" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1447,7 +1448,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>7. 11. 1845</date>
+                    <date when="1845-11-07">7. 11. 1845</date>
                 </correspAction>
                 <correspAction xml:id="addressee-2efa-e3db-b063aed152" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1459,7 +1460,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>9. 11. 18[45]</date>
+                    <date when="0018-11-07">9. 11. 18[45]</date>
                 </correspAction>
                 <correspAction xml:id="addressee-97a8-710f-6a74c2d5fe" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1473,7 +1474,7 @@
                         Braniß</persName>
                     <persName ref="https://d-nb.info/gnd/10016806X">Karl August Kahlert</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>17. 11. 1845</date>
+                    <date when="1845-11-17">17. 11. 1845</date>
                 </correspAction>
                 <correspAction xml:id="addressee-e28d-62b0-1cd765e9fb" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1485,7 +1486,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>19. 11. 1845</date>
+                    <date when="1845-11-19">19. 11. 1845</date>
                 </correspAction>
                 <correspAction xml:id="addressee-b384-b298-57cea12803" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1498,7 +1499,7 @@
                         von Esenbeck</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/3081368"
                         >Breslau</placeName>
-                    <date>10. 1. 1846</date>
+                    <date when="1846-01-10">10. 1. 1846</date>
                 </correspAction>
                 <correspAction xml:id="addressee-e26f-6012-e954d6c810" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1510,7 +1511,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>7. 5. 1846</date>
+                    <date when="1846-05-07">7. 5. 1846</date>
                 </correspAction>
                 <correspAction xml:id="addressee-92f7-3d84-10b39f7d85" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1522,7 +1523,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>6. 7. 1846</date>
+                    <date when="1846-07-06">6. 7. 1846</date>
                 </correspAction>
                 <correspAction xml:id="addressee-2efa-b546-2971edb563" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1534,7 +1535,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>17. 8. 1846</date>
+                    <date when="1846-08-17">17. 8. 1846</date>
                 </correspAction>
                 <correspAction xml:id="addressee-f56c-03bf-5e8d41a9fc" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1547,7 +1548,7 @@
                         von Esenbeck</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/3081368"
                         >Breslau</placeName>
-                    <date>29. 9. 1846</date>
+                    <date when="1846-09-29">29. 9. 1846</date>
                 </correspAction>
                 <correspAction xml:id="addressee-623d-4ec3-0b39cde85f" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1560,7 +1561,7 @@
                         von Esenbeck</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/3081368"
                         >Breslau</placeName>
-                    <date>18. 12. [1846]</date>
+                    <date when="1846-12-18">18. 12. [1846]</date>
                 </correspAction>
                 <correspAction xml:id="addressee-46e3-f856-5b80f1e6a2" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1572,7 +1573,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>29. 1. 1847</date>
+                    <date when="1847-01-29">29. 1. 1847</date>
                 </correspAction>
                 <correspAction xml:id="addressee-7e94-2b36-ca95e27dbf" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1583,7 +1584,7 @@
                 <correspAction xml:id="sender-b4ca-fb79-65cdf82b9a" type="sent">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-                    <date>14. 2. 1847</date>
+                    <date when="1847-02-14">14. 2. 1847</date>
                 </correspAction>
                 <correspAction xml:id="addressee-4c31-47f5-c18903f647" type="received">
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
@@ -1596,7 +1597,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>12. 11. 1847</date>
+                    <date when="1847-11-12">12. 11. 1847</date>
                 </correspAction>
                 <correspAction xml:id="addressee-e496-ac8e-dc8503a941" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1608,7 +1609,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>18. 12. 1847</date>
+                    <date when="1847-12-18">18. 12. 1847</date>
                 </correspAction>
                 <correspAction xml:id="addressee-8e9b-312f-9af35416e0" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1621,7 +1622,7 @@
                         von Esenbeck</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/3081368"
                         >Breslau</placeName>
-                    <date>27. 12. 1847</date>
+                    <date when="1847-12-27">27. 12. 1847</date>
                 </correspAction>
                 <correspAction xml:id="addressee-0b34-1748-2f5bd6ae81" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1633,7 +1634,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>4. 4. 1848</date>
+                    <date when="1848-04-04">4. 4. 1848</date>
                 </correspAction>
                 <correspAction xml:id="addressee-c0b1-c5d8-cfd713e250" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1646,7 +1647,7 @@
                         von Esenbeck</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
                         >Berlin</placeName>
-                    <date>22. 5. 1848</date>
+                    <date when="1848-05-22">22. 5. 1848</date>
                 </correspAction>
                 <correspAction xml:id="addressee-570b-037e-3fd015a679" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1658,7 +1659,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-                    <date>28. 5. 1848</date>
+                    <date when="1848-05-28">28. 5. 1848</date>
                 </correspAction>
                 <correspAction xml:id="addressee-e35b-a917-75603b4cd8" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1670,7 +1671,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>13. 4. 1852</date>
+                    <date when="1852-04-13">13. 4. 1852</date>
                 </correspAction>
                 <correspAction xml:id="addressee-d16e-74da-49c1a208ef" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1682,7 +1683,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>17. 8. 1852</date>
+                    <date when="1852-08-17">17. 8. 1852</date>
                 </correspAction>
                 <correspAction xml:id="addressee-d7b3-4529-c15b2e7349" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1694,7 +1695,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>29. 9. 1852</date>
+                    <date when="1852-09-29">29. 9. 1852</date>
                 </correspAction>
                 <correspAction xml:id="addressee-0239-e143-04e23c8915" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1706,7 +1707,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>13. 10. 1852</date>
+                    <date when="1852-10-13">13. 10. 1852</date>
                 </correspAction>
                 <correspAction xml:id="addressee-9fe8-0c1b-40e3fb9127" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1718,7 +1719,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>20. 10. 1852</date>
+                    <date when="1852-10-20">20. 10. 1852</date>
                 </correspAction>
                 <correspAction xml:id="addressee-de8c-2715-46e9c1f8ba" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1730,7 +1731,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>25. 10. 1852</date>
+                    <date when="1852-10-25">25. 10. 1852</date>
                 </correspAction>
                 <correspAction xml:id="addressee-1890-2be0-4c1b80a396" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1742,7 +1743,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>19. 4. 1853</date>
+                    <date when="1853-04-19">19. 4. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-620b-c2eb-94e1b0ad23" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1754,7 +1755,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>23. 5. 1853</date>
+                    <date when="1853-05-23">23. 5. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-0e8a-6f38-e69bd05fc8" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1766,7 +1767,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>4. 8. 1853</date>
+                    <date when="1853-08-04">4. 8. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-b417-bf8d-b41768dea2" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1778,7 +1779,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>9. 8. 1853</date>
+                    <date when="1853-08-09">9. 8. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-f974-c145-02b45e1f69" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1790,7 +1791,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>9. 9. 1853</date>
+                    <date when="1853-09-09">9. 9. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-b820-0ea3-7c03695f14" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1801,7 +1802,7 @@
                 <correspAction xml:id="sender-bdec-bd01-3c27f1954b" type="sent">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-                    <date>16. 9. 1853</date>
+                    <date when="1853-09-16">16. 9. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-05fa-3e79-a4c680f923" type="received">
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
@@ -1814,7 +1815,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>18. 9. 1853</date>
+                    <date when="1853-09-18">18. 9. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-ce3b-adc7-f097a683c5" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1826,7 +1827,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>6. 1. 1854</date>
+                    <date when="1854-01-06">6. 1. 1854</date>
                 </correspAction>
                 <correspAction xml:id="addressee-189b-af21-03d4b9a2f5" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1838,7 +1839,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>7. 2. 1855</date>
+                    <date when="1855-02-07">7. 2. 1855</date>
                 </correspAction>
                 <correspAction xml:id="addressee-c2e9-903d-1af234e98c" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1849,7 +1850,7 @@
                 <correspAction xml:id="sender-2508-d7ab-86f7c9d5eb" type="sent">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-                    <date>[zum 14.] 2. 1855</date>
+                    <date when="1855-02-14">[zum 14.] 2. 1855</date>
                 </correspAction>
                 <correspAction xml:id="addressee-4378-2e05-4f0839b762" type="received">
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
@@ -1862,7 +1863,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>17. 2. 1855</date>
+                    <date when="1855-02-17">17. 2. 1855</date>
                 </correspAction>
                 <correspAction xml:id="addressee-2015-21d9-46512af7b8" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1874,7 +1875,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>9. 4. 1855</date>
+                    <date when="1855-04-09">9. 4. 1855</date>
                 </correspAction>
                 <correspAction xml:id="addressee-b513-80b2-ef87c0635a" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1886,7 +1887,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>8. 8. 1855</date>
+                    <date when="1855-08-08">8. 8. 1855</date>
                 </correspAction>
                 <correspAction xml:id="addressee-8379-b253-17b58f029c" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1898,7 +1899,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>1. 9. 1855</date>
+                    <date when="1855-09-01">1. 9. 1855</date>
                 </correspAction>
                 <correspAction xml:id="addressee-92c5-1b20-b489e3ca12" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1910,7 +1911,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>15. 9. 1855</date>
+                    <date when="1855-09-15">15. 9. 1855</date>
                 </correspAction>
                 <correspAction xml:id="addressee-e51b-5c18-78fae451dc" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1922,7 +1923,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>1. 11. 1855</date>
+                    <date when="1855-11-01">1. 11. 1855</date>
                 </correspAction>
                 <correspAction xml:id="addressee-fb91-2807-bd765ae832" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1934,7 +1935,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>20. 2. 1856</date>
+                    <date when="1856-02-20">20. 2. 1856</date>
                 </correspAction>
                 <correspAction xml:id="addressee-b279-c203-f2c0ba1659" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1946,7 +1947,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>11.6. 1856</date>
+                    <date when="1856-06-11">11.6. 1856</date>
                 </correspAction>
                 <correspAction xml:id="addressee-0fcd-1de5-2609fa81cd" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1958,7 +1959,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>2. 1. 1857</date>
+                    <date when="1857-01-02">2. 1. 1857</date>
                 </correspAction>
                 <correspAction xml:id="addressee-075d-ec98-4e7d02b95c" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1969,7 +1970,7 @@
                 <correspAction xml:id="sender-f164-dc0b-7c364a8e9b" type="sent">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-                    <date>[zum 14.] 2. 1857</date>
+                    <date when="1857-02-14">[zum 14.] 2. 1857</date>
                 </correspAction>
                 <correspAction xml:id="addressee-f024-d039-1f0dc5e4ba" type="received">
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
@@ -1982,7 +1983,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>23. 2. 1857</date>
+                    <date when="1857-02-23">23. 2. 1857</date>
                 </correspAction>
                 <correspAction xml:id="addressee-7b3c-d0fc-dc18e2a59f" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -1994,7 +1995,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>6. 3. 1857</date>
+                    <date when="1857-03-06">6. 3. 1857</date>
                 </correspAction>
                 <correspAction xml:id="addressee-bd83-165d-b4510f8dac" type="received">
                     <persName ref="https://d-nb.info/gnd/104222867">E. O. Lindner</persName>
@@ -2006,7 +2007,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">o. O. [Breslau]</placeName>
-                    <date>o. D. [August 1850]</date>
+                    <date when="1850-08">o. D. [August 1850]</date>
                 </correspAction>
                 <correspAction xml:id="addressee-ec9f-6385-27ab4d0fc5" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2018,7 +2019,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>14. 8. 1850</date>
+                    <date when="1850-08-14">14. 8. 1850</date>
                 </correspAction>
                 <correspAction xml:id="addressee-2c97-ad31-16278940ae" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2030,7 +2031,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>17. 8. 1850</date>
+                    <date when="1850-08-17">17. 8. 1850</date>
                 </correspAction>
                 <correspAction xml:id="addressee-e1b4-4d0b-54df769bae" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2042,7 +2043,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>17. 2. 1851</date>
+                    <date when="1851-02-17">17. 2. 1851</date>
                 </correspAction>
                 <correspAction xml:id="addressee-8a65-2847-cd341275e6" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2054,7 +2055,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>1. 5. 1851</date>
+                    <date when="1851-05-01">1. 5. 1851</date>
                 </correspAction>
                 <correspAction xml:id="addressee-27e1-d9c4-21e58fdac6" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2066,7 +2067,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>7. 9. 1851</date>
+                    <date when="1851-09-07">7. 9. 1851</date>
                 </correspAction>
                 <correspAction xml:id="addressee-af52-c046-a8e905b76f" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2078,7 +2079,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>16. 2. 1852</date>
+                    <date when="1852-02-16">16. 2. 1852</date>
                 </correspAction>
                 <correspAction xml:id="addressee-8da4-034e-ec7fba3169" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2090,7 +2091,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>25. 8. 1852</date>
+                    <date when="1852-08-25">25. 8. 1852</date>
                 </correspAction>
                 <correspAction xml:id="addressee-2c1f-7e1b-b5c0a86d1f" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2102,7 +2103,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>5. 11. 1852</date>
+                    <date when="1852-11-05">5. 11. 1852</date>
                 </correspAction>
                 <correspAction xml:id="addressee-ac70-6d0e-a07281c69f" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2114,7 +2115,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>7. 11. 1852</date>
+                    <date when="1852-11-07">7. 11. 1852</date>
                 </correspAction>
                 <correspAction xml:id="addressee-feb4-6f2d-34eb501a67" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2126,7 +2127,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>12. 11. 1852</date>
+                    <date when="1852-11-12">12. 11. 1852</date>
                 </correspAction>
                 <correspAction xml:id="addressee-bd34-e893-5081fad734" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2138,7 +2139,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>22. 11. 1852</date>
+                    <date when="1852-11-22">22. 11. 1852</date>
                 </correspAction>
                 <correspAction xml:id="addressee-68cf-2ec9-b6de143580" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2150,7 +2151,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>22. 11. 1852</date>
+                    <date when="1852-11-22">22. 11. 1852</date>
                 </correspAction>
                 <correspAction xml:id="addressee-eb73-8c43-0652ef39d7" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2162,7 +2163,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>23. 11. 1852</date>
+                    <date when="1852-11-23">23. 11. 1852</date>
                 </correspAction>
                 <correspAction xml:id="addressee-49c6-6245-87205c13ef" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2174,7 +2175,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>29. 11. 1852</date>
+                    <date when="1852-11-29">29. 11. 1852</date>
                 </correspAction>
                 <correspAction xml:id="addressee-9b70-24cf-db2957f180" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2186,7 +2187,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>16. 12. 1852</date>
+                    <date when="1852-12-16">16. 12. 1852</date>
                 </correspAction>
                 <correspAction xml:id="addressee-1a6b-20e9-1329e4fcd8" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2198,7 +2199,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>16. 12. 1852</date>
+                    <date when="1852-12-16">16. 12. 1852</date>
                 </correspAction>
                 <correspAction xml:id="addressee-0c3b-b678-7dafcb3180" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2210,7 +2211,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>24. 12. 1852</date>
+                    <date when="1852-12-24">24. 12. 1852</date>
                 </correspAction>
                 <correspAction xml:id="addressee-2c10-a358-c0a1243f58" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473" evidence="conjecture">Friederike
@@ -2223,7 +2224,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>3. 1. 1853</date>
+                    <date when="1853-01-03">3. 1. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-5cf9-6e1c-7aef32c490" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2235,7 +2236,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>16. 2. 1853</date>
+                    <date when="1853-02-16">16. 2. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-2784-def8-12bd4a83e5" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2247,7 +2248,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>5. 4. 1853</date>
+                    <date when="1853-04-05">5. 4. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-13bc-6c8e-d081acbf5e" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2259,7 +2260,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>17. 4. 1853</date>
+                    <date when="1853-04-17">17. 4. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-54a3-efb4-a95681d74c" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2271,7 +2272,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>19. 4. 1853</date>
+                    <date when="1853-04-19">19. 4. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-18c4-8bf3-56c8d7b1f9" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2283,7 +2284,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>22. 4. 1853</date>
+                    <date when="1853-04-22">22. 4. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-0a9b-68d0-61e0ca784b" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2295,7 +2296,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>9. 5. 1853</date>
+                    <date when="1853-05-09">9. 5. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-5f9a-1b0d-17a28ec4f6" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2307,7 +2308,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>9. 5. 1853</date>
+                    <date when="1853-05-09">9. 5. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-d36b-c716-34179c2e58" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2319,7 +2320,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>22. 5. 1853</date>
+                    <date when="1853-05-22">22. 5. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-5b96-9625-9a4ed15fb6" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2331,7 +2332,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>20. 6. 1853</date>
+                    <date when="1853-06-20">20. 6. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-0c13-b607-df2649e851" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2343,7 +2344,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>12[?]. 7. 1853</date>
+                    <date when="1853-07-12">12[?]. 7. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-ae65-74a5-90f5d38ba2" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2355,7 +2356,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>13. 7. 1853</date>
+                    <date when="1853-07-13">13. 7. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-c6b4-12f4-f091eb35c7" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2367,7 +2368,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>25. 7. 1853</date>
+                    <date when="1853-07-25">25. 7. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-83e5-2d3c-09cf327851" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2379,7 +2380,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>4. 8. 1853</date>
+                    <date when="1853-08-04">4. 8. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-3074-e31c-0d7cb21859" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2391,7 +2392,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>15. 8. 1853</date>
+                    <date when="1853-08-15">15. 8. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-5160-c753-36071b4fdc" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2403,7 +2404,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>30. 8. 1853</date>
+                    <date when="1853-08-30">30. 8. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-0fe9-c7e3-74e3dfc021" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2415,7 +2416,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>6. 9.1853</date>
+                    <date when="1853-09-06">6. 9.1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-8627-2b95-e4f79ab8c1" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2427,7 +2428,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>11. 9. 1853</date>
+                    <date when="1853-09-11">11. 9. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-0c25-bad2-abe3d60275" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2439,7 +2440,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>19. 9. 1853</date>
+                    <date when="1853-09-19">19. 9. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-42f6-8ef9-5f7b341e09" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2451,7 +2452,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>22. 9. 1853</date>
+                    <date when="1853-09-22">22. 9. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-a8b9-9821-0153cfa4de" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2463,7 +2464,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>2. 10. 1853</date>
+                    <date when="1853-10-02">2. 10. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-6ed1-47bf-8423179dec" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2475,7 +2476,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>7. 10. 1853</date>
+                    <date when="1853-10-07">7. 10. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-4671-dfac-db132980a5" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2487,7 +2488,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>10. 10. 1853</date>
+                    <date when="1853-10-10">10. 10. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-a8bd-69e7-d35fc4e76b" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2499,7 +2500,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>30. 10. 1853</date>
+                    <date when="1853-10-30">30. 10. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-5290-470b-57be619a38" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2511,7 +2512,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>11. 11. 1853</date>
+                    <date when="1853-11-11">11. 11. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-a7c8-3af6-7614239dae" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2523,7 +2524,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>12. 12. 1853</date>
+                    <date when="1853-12-12">12. 12. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-581d-c5a9-04a312d8e6" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2535,7 +2536,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>7. 12. 1853</date>
+                    <date when="1853-12-07">7. 12. 1853</date>
                 </correspAction>
                 <correspAction xml:id="addressee-7e1f-26a9-6852b7f0e3" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2547,7 +2548,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>5. 1. 1854</date>
+                    <date when="1854-01-05">5. 1. 1854</date>
                 </correspAction>
                 <correspAction xml:id="addressee-125e-5e06-6fc127b035" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2559,7 +2560,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>8. 1. 1854</date>
+                    <date when="1854-01-08">8. 1. 1854</date>
                 </correspAction>
                 <correspAction xml:id="addressee-32be-05c8-32157f0c68" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2571,7 +2572,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>13. 1. 1854</date>
+                    <date when="1854-01-13">13. 1. 1854</date>
                 </correspAction>
                 <correspAction xml:id="addressee-2ab0-e27f-683297faeb" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2583,7 +2584,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>17. 2. 1854</date>
+                    <date when="1854-02-17">17. 2. 1854</date>
                 </correspAction>
                 <correspAction xml:id="addressee-ec41-8cf3-6e7bf209c5" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2595,7 +2596,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>25. 2. 1854</date>
+                    <date when="1854-02-25">25. 2. 1854</date>
                 </correspAction>
                 <correspAction xml:id="addressee-fc2b-72dc-7e850c12ba" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2607,7 +2608,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>8. 3. 1854</date>
+                    <date when="1854-03-08">8. 3. 1854</date>
                 </correspAction>
                 <correspAction xml:id="addressee-8f0d-234d-70bd96cef1" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2619,7 +2620,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>1. 4. 1854</date>
+                    <date when="1854-04-01">1. 4. 1854</date>
                 </correspAction>
                 <correspAction xml:id="addressee-dc9e-62e9-2b369ca854" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2631,7 +2632,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>13. 4. 1854</date>
+                    <date when="1854-04-13">13. 4. 1854</date>
                 </correspAction>
                 <correspAction xml:id="addressee-1f2a-6ca2-285e31bf90" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2643,7 +2644,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>24. 4. 1854</date>
+                    <date when="1854-04-24">24. 4. 1854</date>
                 </correspAction>
                 <correspAction xml:id="addressee-c82f-98d6-7085de3f4b" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2655,7 +2656,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>10. 7. 1854</date>
+                    <date when="1854-07-10">10. 7. 1854</date>
                 </correspAction>
                 <correspAction xml:id="addressee-8df6-8b90-bf487d5069" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2667,7 +2668,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>7. 9. 1854</date>
+                    <date when="1854-09-07">7. 9. 1854</date>
                 </correspAction>
                 <correspAction xml:id="addressee-9658-748c-da6129e74c" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2679,7 +2680,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>14. 12. 1854</date>
+                    <date when="1854-12-14">14. 12. 1854</date>
                 </correspAction>
                 <correspAction xml:id="addressee-f40a-feca-7c6fd1082b" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2691,7 +2692,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>25. 12. 1854</date>
+                    <date when="1854-12-25">25. 12. 1854</date>
                 </correspAction>
                 <correspAction xml:id="addressee-a89b-cf70-b02159f847" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2703,7 +2704,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>8. 1. 1855</date>
+                    <date when="1855-01-08">8. 1. 1855</date>
                 </correspAction>
                 <correspAction xml:id="addressee-2f6d-d9a6-ba067f4dc8" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2715,7 +2716,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>17. 2. 1855</date>
+                    <date when="1855-02-17">17. 2. 1855</date>
                 </correspAction>
                 <correspAction xml:id="addressee-c92a-156c-2e7915f0b6" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2727,7 +2728,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>8. 5. 1855</date>
+                    <date when="1855-05-08">8. 5. 1855</date>
                 </correspAction>
                 <correspAction xml:id="addressee-bd02-8efd-02a9d5cfe1" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2739,7 +2740,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>7. 7. 1855</date>
+                    <date when="1855-07-07">7. 7. 1855</date>
                 </correspAction>
                 <correspAction xml:id="addressee-02a4-69bf-7cf2eb38ad" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2751,7 +2752,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>13. 10. 1855</date>
+                    <date when="1855-10-13">13. 10. 1855</date>
                 </correspAction>
                 <correspAction xml:id="addressee-f689-1394-4d062f8b37" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2763,7 +2764,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>13. 12. 1855</date>
+                    <date when="1855-12-13">13. 12. 1855</date>
                 </correspAction>
                 <correspAction xml:id="addressee-2c3d-2196-d943e6b75a" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2775,7 +2776,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>28. 12. 1855</date>
+                    <date when="1855-12-28">28. 12. 1855</date>
                 </correspAction>
                 <correspAction xml:id="addressee-168b-7aeb-9561ab0ef2" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2787,7 +2788,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>3. 1. 1856</date>
+                    <date when="1856-01-03">3. 1. 1856</date>
                 </correspAction>
                 <correspAction xml:id="addressee-fa30-6e05-a2538ce0d1" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2799,7 +2800,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>31. 1. 1856</date>
+                    <date when="1856-01-31">31. 1. 1856</date>
                 </correspAction>
                 <correspAction xml:id="addressee-4951-3216-895e4cabf6" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2811,7 +2812,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>11.2. 1856</date>
+                    <date when="1856-02-11">11.2. 1856</date>
                 </correspAction>
                 <correspAction xml:id="addressee-0a96-091a-3479ea1028" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2823,7 +2824,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>18. 2. 1856</date>
+                    <date when="1856-02-18">18. 2. 1856</date>
                 </correspAction>
                 <correspAction xml:id="addressee-b82a-5176-890d64eb5a" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2835,7 +2836,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>2. 3. 1856</date>
+                    <date when="1856-03-02">2. 3. 1856</date>
                 </correspAction>
                 <correspAction xml:id="addressee-c2b0-7295-ba895026f1" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2847,7 +2848,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>9. 3. 1856</date>
+                    <date when="1856-03-09">9. 3. 1856</date>
                 </correspAction>
                 <correspAction xml:id="addressee-d294-e519-058e94fab7" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2859,7 +2860,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>10. 5. 1856</date>
+                    <date when="1856-05-10">10. 5. 1856</date>
                 </correspAction>
                 <correspAction xml:id="addressee-96ba-6fa4-0ae6fb57d9" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2871,7 +2872,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>19. 5. 1856</date>
+                    <date when="1856-05-19">19. 5. 1856</date>
                 </correspAction>
                 <correspAction xml:id="addressee-83ea-8d0f-ed983ca412" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2883,7 +2884,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>4. 8. 1856</date>
+                    <date when="1856-08-04">4. 8. 1856</date>
                 </correspAction>
                 <correspAction xml:id="addressee-19c3-d675-832546b0e9" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2895,7 +2896,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>25. 8. 1856</date>
+                    <date when="1856-08-25">25. 8. 1856</date>
                 </correspAction>
                 <correspAction xml:id="addressee-e469-f064-c98d42bf6a" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2907,7 +2908,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>6. 9. 1856</date>
+                    <date when="1856-09-06">6. 9. 1856</date>
                 </correspAction>
                 <correspAction xml:id="addressee-b583-35dc-e520c1fab3" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2919,7 +2920,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>29. 11. 1856</date>
+                    <date when="1856-11-29">29. 11. 1856</date>
                 </correspAction>
                 <correspAction xml:id="addressee-72a4-a70e-41b7a5d836" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2931,7 +2932,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>16. 12. 1856</date>
+                    <date when="1856-12-16">16. 12. 1856</date>
                 </correspAction>
                 <correspAction xml:id="addressee-436d-b219-dae831092c" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2943,7 +2944,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>27. 12. 1856</date>
+                    <date when="1856-12-27">27. 12. 1856</date>
                 </correspAction>
                 <correspAction xml:id="addressee-389d-76ae-64b08ace71" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2955,7 +2956,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>7. 2. 1857</date>
+                    <date when="1857-02-07">7. 2. 1857</date>
                 </correspAction>
                 <correspAction xml:id="addressee-92b0-052e-bc5f6938a4" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2967,7 +2968,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>25. 2. 1857</date>
+                    <date when="1857-02-25">25. 2. 1857</date>
                 </correspAction>
                 <correspAction xml:id="addressee-a54b-619c-a7d6f82b0c" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2979,7 +2980,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>12. 3. 1857</date>
+                    <date when="1857-03-12">12. 3. 1857</date>
                 </correspAction>
                 <correspAction xml:id="addressee-8274-52a6-fd0eb89567" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -2991,7 +2992,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>18. 3. 1857</date>
+                    <date when="1857-03-18">18. 3. 1857</date>
                 </correspAction>
                 <correspAction xml:id="addressee-03a1-67f9-ab413d5f26" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -3003,7 +3004,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>29. 5. 1857</date>
+                    <date when="1857-05-29">29. 5. 1857</date>
                 </correspAction>
                 <correspAction xml:id="addressee-928f-b374-d3fa284b67" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -3015,7 +3016,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>7. 8. 1857</date>
+                    <date when="1857-08-07">7. 8. 1857</date>
                 </correspAction>
                 <correspAction xml:id="addressee-ed3b-a1b8-42efc861d9" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -3027,7 +3028,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>15. 9. 1857</date>
+                    <date when="1857-09-15">15. 9. 1857</date>
                 </correspAction>
                 <correspAction xml:id="addressee-af70-2945-d08173f6ac" type="received">
                     <persName>Marie Kempner</persName>
@@ -3039,7 +3040,7 @@
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
                     <persName>Marie Kempner</persName>
                     <placeName ref="http://www.geonames.org/3100104">Droschkau</placeName>
-                    <date>17. 9. 1857</date>
+                    <date when="1857-09-17">17. 9. 1857</date>
                 </correspAction>
                 <correspAction xml:id="addressee-e402-9406-cf735be084" type="received">
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
@@ -3052,7 +3053,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>20. 9. 1857</date>
+                    <date when="1857-09-20">20. 9. 1857</date>
                 </correspAction>
                 <correspAction xml:id="addressee-71e3-4d7e-b1d5674932" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -3064,7 +3065,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>24. 9. 1857</date>
+                    <date when="1857-09-24">24. 9. 1857</date>
                 </correspAction>
                 <correspAction xml:id="addressee-3f86-7291-cb0243a86f" type="received">
                     <persName>Marie Kempner</persName>
@@ -3076,7 +3077,7 @@
                 <correspAction xml:id="sender-db42-20df-6b3d2950ac" type="sent">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
                     <placeName ref="http://www.geonames.org/3100104">Droschkau</placeName>
-                    <date>2. 10. 1857</date>
+                    <date when="1857-10-02">2. 10. 1857</date>
                 </correspAction>
                 <correspAction xml:id="addressee-fc64-08ca-e9d1a5c6fb" type="received">
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
@@ -3089,7 +3090,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>6. 10. 1857</date>
+                    <date when="1857-10-06">6. 10. 1857</date>
                 </correspAction>
                 <correspAction xml:id="addressee-78fa-1e3a-781f029ea3" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -3101,7 +3102,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>27. 12. 1857</date>
+                    <date when="1857-12-27">27. 12. 1857</date>
                 </correspAction>
                 <correspAction xml:id="addressee-6cf5-c0ba-e3d40f65c2" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -3113,7 +3114,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>25. 1. 1858</date>
+                    <date when="1858-01-25">25. 1. 1858</date>
                 </correspAction>
                 <correspAction xml:id="addressee-41e2-5e18-ce0945fb82" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -3125,7 +3126,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>29. 1. 1858</date>
+                    <date when="1858-01-29">29. 1. 1858</date>
                 </correspAction>
                 <correspAction xml:id="addressee-ea1b-b615-093d87c642" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -3136,7 +3137,7 @@
                 <correspAction xml:id="sender-193d-fec3-ec8923d176" type="sent">
                     <persName>Johanna Christiane Kambach</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>29. 1. 1858</date>
+                    <date when="1858-01-29">29. 1. 1858</date>
                 </correspAction>
                 <correspAction xml:id="addressee-dc82-bf69-c3561ba248" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -3148,7 +3149,7 @@
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
                         von Esenbeck</persName>
                     <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-                    <date>18. 2. 1858</date>
+                    <date when="1858-02-18">18. 2. 1858</date>
                 </correspAction>
                 <correspAction xml:id="addressee-d8b3-37d4-718cdef50a" type="received">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
@@ -3159,7 +3160,7 @@
                 <correspAction xml:id="sender-abd3-30c4-78695fed40" type="sent">
                     <persName ref="https://d-nb.info/gnd/116127473">Friederike Kempner</persName>
                     <placeName ref="http://www.geonames.org/3100104">Droschkau</placeName>
-                    <date>2. 3. 1858</date>
+                    <date when="1858-03-02">2. 3. 1858</date>
                 </correspAction>
                 <correspAction xml:id="addressee-c239-c0fe-d3ec1f826a" type="received">
                     <persName ref="https://d-nb.info/gnd/119263297">Christian Gottfried Daniel Nees
