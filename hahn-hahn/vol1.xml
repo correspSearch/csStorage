@@ -1,0 +1,1001 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gräfin Hahn-Hahn mit Königin M. von Sachsen, Königin A. v. Sachsen und Erzherzogin S. v. Österreich </title>
+                <editor>Tom Liese<email>tom.liese@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2023-08-19T14:49:30.772-02:00"/>
+                <idno type="url">https://correspsearch.net/storage/hahn-hahn/vol1.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="tbd1175b-d90c-41a9-9f95-242b9725de37">Hinkel, Helmut (Hg.): Ida Gräfin Hahn-Hahn, Königliche Post. Briefwechsel mit Königin Marie von Sachsen, Königin Amalie von Sachsen und Erzherzogin Sophie von Österreich. Nünnerich-Asmus Verlag: Mainz am Rhein 2016.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 1. S. 85">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Gräfin Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1844-07-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 2. S. 90">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1850-11-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 3. S. 94">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1852-08-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 4. S. 100">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1852-10-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 5. S. 106">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/3037656">Angers</placeName>
+                    <date when="1852-11-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 6. 109">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/3037656">Angers</placeName>
+                    <date when="1853-01-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 7. S. 112">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date evidence="conjecture" when="1853-11-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 8. S. 117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1854-04-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 9. S. 124">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date notBefore="1854-12-01" notAfter="1854-12-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 10. S. 129">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2920634">Neuhaus</placeName>
+                    <date when="1858-09-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 11. S. 133">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <date notBefore="1858-09-20" notAfter="1858-10-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 12. S. 137">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <date notBefore="1858-11" notAfter="1859-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 13. S. 140">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2775220">Innsbruck</placeName>
+                    <date when="1859-02-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 14 S. 142">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1859-02-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 15. S. 145">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2775220">Innsbruck</placeName>
+                    <date when="1859-03-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 16. S. 147">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1859-04-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 17. S. 151">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1859-05-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 18. S. 154">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1859-05-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 19. S. 159">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1859-06-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 20. S. 161">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1859-06-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 21. S. 165">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119131382">Sophie, Erzherzogin von Österreich</persName>
+                    <placeName ref="http://www.geonames.org/6354998">Schönbrunn</placeName>
+                    <date when="1859-06-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 22. S. 169">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1859-06-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 23. S. 171">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1859-07-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 24. S. 174">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1859-08-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 25. S. 176">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1860-04-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 26. S. 179">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1860-05-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 27. S. 183">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/3247449">Aachen</placeName>
+                    <date when="1860-07-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 28 . S. 190">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1860-07-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 29. S. 192">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1860-11-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 30. S. 196">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1860-11-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 31. S. 198">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1860-12-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 32. S. 202">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <date notBefore="1861-01-02" evidence="conjecture" notAfter="1862-01" cert="low"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 33. S. 204">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1861-02-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 34. S. 207">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1861-02-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 35. S. 209">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1861-04-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 36. S. 214">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1861-05-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 37.  S. 217">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1861-10-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 38. S. 220">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1861-11-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 39. S. 222">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/10041544X">Amalie, Königin von Sachsen</persName>
+                    <date notBefore="1861-11" notAfter="1862-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 40. S. 224">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                    <date when="1862-02-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 41. S. 228">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1862-03-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 42. S. 230">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                    <date when="1862-04-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 43.  S. 232">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date evidence="conjecture" when="1863-03-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 44. S. 235">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1863-04-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 45. S. 237">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1863-05-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 46. S. 241">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1863-05-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 47. S. 243">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119131382">Sophie, Erzherzogin von Österreich</persName>
+                    <placeName ref="http://www.geonames.org/2766824">Salzburg</placeName>
+                    <date when="1863-11-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 48. S. 246">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1863-11-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119131382">Sophie, Erzherzogin von Österreich</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 49. S. 252">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1864-03-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 50. S. 254">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119131382">Sophie, Erzherzogin von Österreich</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1864-03-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 51. S. 256">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1864-07-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 52. S. 258">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1864-11-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 53. S. 263">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1865-01-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 54. S. 266">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1865-06-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 55. S. 267">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1865-06-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 56. S. 269">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1866-02-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 57. S. 271">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1866-05-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 58. S. 274">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1866-08-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 59. S. 280">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1866-08-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 60. S. 282">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1866-10-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 61. S. 284">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1866-10-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 62 S. 286">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1866-12-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 63 S. 292">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1867-01-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 64. S. 294">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1867-03-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 65. S. 296">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <date evidence="conjecture" when="1867"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 66. S. 298">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date evidence="conjecture" when="1867-05-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 67. S. 300">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1867-06-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 68. S. 301">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1867-06-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 69. S. 302">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1867-07-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 70. S. 305">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1867-07-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 71. S. 307">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1867-10-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 72. S. 309">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1867-11-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 73. S. 311">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1868-12-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 74. S. 315">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1869-10-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 75. S. 320">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/10041544X">Amalie, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2853707">Pillnitz</placeName>
+                    <date when="1870-06-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 76. S. 322">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1870-07-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 77. S. 325">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/10041544X">Amalie, Königin von Sachsen</persName>
+                    <date notBefore="1871-07-06" evidence="conjecture" notAfter="1972" cert="low"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 78. S. 327">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1871-10-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 79. S. 333">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1871-10-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 80. S. 334">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1872-01-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 81. S. 336">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <date notBefore="1872-05-28" evidence="conjecture" notAfter="1873" cert="low"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 82. S. 338">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1872-10-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 83. S. 342">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <date evidence="conjecture" when="1872-11-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 84. S. 344">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1873-01-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 85. S. 346">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                    <date when="1873-02-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 86. S. 348">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1873-02-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 87. S. 350">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                    <date when="1873-03-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 88. S. 353">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1873-03-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 89. S. 355">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1873-05-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 90. S. 358">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2815625">Wachwitz</placeName>
+                    <date when="1873-10-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 91. S. 360">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1873-11-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 92. S. 362">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <date notBefore="1873-12-14" evidence="conjecture" notAfter="1974" cert="low"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 93. S. 364">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/10041544X">Amalie, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1874-03-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 94. S. 365">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <date notBefore="1874-10-12" evidence="conjecture" notAfter="1875" cert="low"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 95. S. 366">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1874-11-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 96. S. 369">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1875-11-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 97. S. 373">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/10041544X">Amalie, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1876-04-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#tbd1175b-d90c-41a9-9f95-242b9725de37" key="Nr. 98. S. 374">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104177144">Maria, Königin von Sachsen</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1877-01-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

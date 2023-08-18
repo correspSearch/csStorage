@@ -1,0 +1,569 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mainzer Briefe von Ida Gräfin Hahn-Hahn an Christoph Moufang</title>
+                <editor>Tom Liese<email>tom.liese@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2023-08-19T14:50:36.162-02:00"/>
+                <idno type="url">https://correspsearch.net/hahn-hahn/vol2.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="ge8ce46f-16f1-4410-a522-5cf57ec8d785">Hinkel, Helmut (Hg.): Ida Hahn Hahn. "... ich hätte große Lust mit Ihnen zu zanken...". Mainzer Briefe an Christoph Moufang. Nünnerich-Asmus Verlag und Media: Mainz am Rhein 2014</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 1 (1, BL. 1-2) S. 170">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1861-09-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 2 (27, BL. 51) S. 172">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date evidence="conjecture" when="1863"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 3 (51, BL. 99-100) S. 175">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date evidence="conjecture" when="1864-07-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 4 (3, BL. 7-8) S. 178">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1864-07-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 5 (4, BL. 9-10) S. 180">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2920634">Neuhaus</placeName>
+                    <date when="1864-09-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 6 (47, BL. 93-94)">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date evidence="conjecture" when="1865"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Regens Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 7 (45, BL. 89-90) S. 187">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date evidence="conjecture" when="1865-06-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr.8 (46, BL. 91-92) S. 189">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date evidence="conjecture" when="1865-06-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 9 (5, BL 11-12) S. 192">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1865-07-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 10 (52, BL 101) S. 194">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date evidence="conjecture" when="1865-07-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 11 (54, BL. 104) S. 197 ">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date evidence="conjecture" when="1865"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 12 (6, BL. 13-14) S.200">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1865-12-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 13 (7, BL. 15-16) 202">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1866-03-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 14 (8, BL. 17-18) S. 205">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1867-02-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 15 (9, BL. 19) S. 207">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1867-02-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 16 (10, BL. 20-21) S. 208 ">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1867-03-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 17 (11, BL. 22-23) S. 211">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1867-05-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 18 (12, BL. 24) S. 214">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1867-05-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 19 (13, BL. 25-26) ">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1867-06-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 20 (49, BL. 97) ">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date evidence="conjecture" when="1867-07-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 21 (50, BL. 98) S. 219">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date evidence="conjecture" when="1867-07-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 22 (14, BL. 27-28 Einlage BL. 30) S. 221 ">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date evidence="conjecture" when="1867-07-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 23 (15, BL. 29) S. 223">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1867-11-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 24 (16, BL. 31-32) S. 225">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date evidence="conjecture" when="1867-11-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 25 (17, BL. 33-34) S. 227 ">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1867-11-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 26 (18, BL. 35) S. 230 ">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1868-01-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 27 (19, BL. 36) S. 231">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1868-01-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 28 (20, BL. 37-38) S. 232">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1868-02-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 29 (21, BL. 39-40) S. 236">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date evidence="conjecture" when="1868-08-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 30 (48, BL. 95-96) S.238">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date evidence="conjecture" when="1868-10-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 31 (22, BL. 41) S. 240">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1868-12-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 32 (23, BL. 42 44 Einlage BL. 43) S. 242 ">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1869-02-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Einlage (BL. 43) S. 244">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <date cert="low" when="1869-02-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 33 (25, BL. 47-48) S. 247">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1869-03-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 34 (24, BL. 45-46) S. 249 ">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1869-05-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 35 (26, BL. 49-50) S. 253 ">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date evidence="conjecture" when="1869"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 36 (28, BL. 52-53) S. 255">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1869-07-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 37 (29, BL. 54-55) 257">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1869-07-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 38 (30, BL. 56-57) S. 259 ">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2920634">Neuhaus</placeName>
+                    <date when="1869-09-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 39 (31, BL. 58-59) S. 261 ">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                    <date when="1870-01-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 40 (32, BL. 60-61) S. 266">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                    <date when="1870-02-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 41 (33, BL. 62) S. 269">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                    <date when="1870-02-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 42 (34, BL. 63) S. 270 ">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                    <date when="1870-03-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 43 (36, BL. 66-67) 272">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1870-05-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 44 (37, BL. 68) S. 273">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1870-05-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 45 (38, BL. 69) S. 274 ">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1870-06-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 46 (53, BL. 102-103) S. 275 ">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date evidence="conjecture" when="1870"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 47 (39, BL. 70-71) ">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1871-11-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 48 (40, BL. 72-73) S. 280 ">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1871-12-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 49 (41, BL. 74 76; Einlage BL. 75 von fremder Hand) S. 282">
+                <correspAction type="sent">
+                    <persName>Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1872-03-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Einlage zu Brief Nr. 49 (BL. 75) S. 283">
+                <correspAction type="sent">
+                    <persName>Louise Plater</persName>
+                    <date evidence="conjecture" when="1872-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Ida Hahn-Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 50 (42, BL. 77-78) S. 286">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1874-02-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 51 (43, BL. 79-83) S. 288">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918" cert="low">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1878-01-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ge8ce46f-16f1-4410-a522-5cf57ec8d785" key="Nr. 52 (44, BL. 84-88) S. 291">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118544918">Ida Hahn-Hahn</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1879-01-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117144320">Christoph Moufang</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
