@@ -1,0 +1,702 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefwechsel zwischen Rainer Maria Rilke und Agnes Therese Brumof</title>
+                <editor>Marthe Küster<email>correspSearch@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2023-07-21T15:14:24.827-02:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="s81ca2df-0684-4cae-ba01-ff24dce43326">Rilke, Rainer Maria, und Agnes Therese Brumof. Soll man es wagen? Briefwechsel zwischen Rainer
+Maria Rilke und Agnes Therese Brumof (1918-1926). Herausgegeben von Achim Aurnhammer und
+Hans-Jochen Schiewer, Schwabe, 2022.<ref target="http://doi.org/10.24894/978-3-7965-4681-5 ">http://doi.org/10.24894/978-3-7965-4681-5 </ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="01">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <date evidence="conjecture" when="1918-02-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="02">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <date evidence="conjecture" when="1918-02-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="03">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <date evidence="conjecture" when="1918-02-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="04">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <date to="1918-04" evidence="conjecture" from="1918-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="05">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <date evidence="conjecture" when="1918-05-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="06">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <date evidence="conjecture" when="1918-08-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="07">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <date evidence="conjecture" when="1918-08-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="08">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <date evidence="conjecture" when="1918-08-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="09">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <date evidence="conjecture" when="1918-09-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="10">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <date evidence="conjecture" when="1918-09-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="11">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <date evidence="conjecture" when="1918-09-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="12">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <date evidence="conjecture" when="1918-10-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="13">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <date evidence="conjecture" when="1918-11-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="14">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <date evidence="conjecture" when="1918-12-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="15">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <date evidence="conjecture" when="1919-01-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="16">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <date evidence="conjecture" when="1919-06-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="17">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date evidence="conjecture" when="1919-07-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="18">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date evidence="conjecture" when="1919-07-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2658567">Soglio</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="19">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1919-07-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="20">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date evidence="conjecture" when="1919-07-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2658567">Soglio</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="21">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2878018">Berlin-Lichterfelde</placeName>
+                    <date evidence="conjecture" when="1919-08-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="22">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2658567">Soglio</placeName>
+                    <date evidence="conjecture" when="1919-09-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2878018">Lichterfelde</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="23">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date evidence="conjecture" when="1919-09-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2659422">Nyon</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="24">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date evidence="conjecture" when="1919-10-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="25">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date evidence="conjecture" when="1919-11-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="26">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date evidence="conjecture" when="1919-11-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="27">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date evidence="conjecture" when="1919-12-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="28">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date evidence="conjecture" when="1920-01-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="29">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2659869">Locarno</placeName>
+                    <date evidence="conjecture" when="1920-01-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="30">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date evidence="conjecture" when="1920-02-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2659869">Locarno</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="31">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date evidence="conjecture" when="1920-02-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2659869">Locarno</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="32">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date evidence="conjecture" when="1920-02-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2659147">Schöneberg/Pratteln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="33">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2659147">Schöneberg/Pratteln</placeName>
+                    <date evidence="conjecture" when="1920-04-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="34">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date evidence="conjecture" when="1920-04-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2659147">Schöneberg/Pratteln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="35">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date evidence="conjecture" when="1920-04-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2659147">Schöneberg/Pratteln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="36">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date evidence="conjecture" when="1920-05-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2659147">Schöneberg/Pratteln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="37">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date evidence="conjecture" when="1920-05-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2659147">Schöneberg/Pratteln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="38">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date evidence="conjecture" when="1920-07-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3164603">Venedig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="39">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2659147">Schöneberg/Pratteln</placeName>
+                    <date evidence="conjecture" when="1920-07-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="40">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date evidence="conjecture" when="1920-08-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2660646">Genf</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="41">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date evidence="conjecture" when="1921-02-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/7285202">Berg am Irchel</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="42">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date evidence="conjecture" when="1921-06-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/7285202">Berg am Irchel</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="43">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911296">Altona</placeName>
+                    <date evidence="conjecture" when="1923-11-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/10396603">Muzot/Sierre</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="44">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/10396603">Muzot</placeName>
+                    <date evidence="conjecture" when="1923-11-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="45">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911296">Altona</placeName>
+                    <date evidence="conjecture" when="1923-11-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/10396603">Muzot/Sierre</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="46">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911296">Altona</placeName>
+                    <date when="1923-12-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/10396603">Muzot/Sierre</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="47">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911296">Altona</placeName>
+                    <date evidence="conjecture" when="1923-12-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/10396603">Muzot/Sierre</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="48">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/10396603">Muzot/Sierre</placeName>
+                    <date evidence="conjecture" when="1923-12-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="49">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName ref="http://www.geonames.org/554234" cert="low">auf der Reise nach Königsberg</placeName>
+                    <date evidence="conjecture" when="1923-12-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/10396603">Muzot/Sierre</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="50">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date evidence="conjecture" when="1924-02-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/10396603">Muzot/Sierre</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="51">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <date evidence="conjecture" when="1924-02-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/10396603">Muzot/Sierre</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="52">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <date to="1924-04-17" evidence="conjecture" from="1924-04-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/10396603">Muzot/Sierre</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="53">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <date evidence="conjecture" when="1924-05-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/10396603">Muzot/Sierre</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="54">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2953420">Bad Kohlgrub</placeName>
+                    <date evidence="conjecture" when="1924-06-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/10396603">Muzot/Sierre</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="55">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/10396603">Muzot/Sierre</placeName>
+                    <date evidence="conjecture" when="1924-06-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2953420">Bad Kohlgrub</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="56">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2953420">Bad Kohlgrub</placeName>
+                    <date evidence="conjecture" when="1924-06-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/10396603">Muzot/Sierre</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="57">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2953420">Bad Kohlgrub</placeName>
+                    <date evidence="conjecture" when="1924-07-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/10396603">Muzot/Sierre</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="58">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date evidence="conjecture" when="1924-08-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/10396603">Muzot/Sierre</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="59">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date evidence="conjecture" when="1924-12-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/10396603">Muzot/Sierre</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="60">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2940187">Berlin-Charlottenburg</placeName>
+                    <date evidence="conjecture" when="1925-09-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/10396603">Muzot/Sierre</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s81ca2df-0684-4cae-ba01-ff24dce43326" key="61">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1273637682">Agnes Therese Brumof</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1926-04-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/10396603">Muzot/Sierre</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
