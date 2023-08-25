@@ -1,0 +1,1021 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefwechsel zwischen Gertrud von le Fort und Friedrich Gogarten</title>
+                <editor>Marthe Küster<email>correspSearch@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://bibliothek.bbaw.de/"> Berlin-Brandenburgischen Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2023-07-21T11:32:23.245-02:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0">Gertrud von le Fort – Friedrich Gogarten: Briefwechsel 1911–1927, herausgegeben von Horst Renz. Berlin, Boston: De Gruyter, 2022.<ref target="https://doi.org/10.1515/9783110254518">https://doi.org/10.1515/9783110254518</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="1">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2844056">Rothenburg</placeName>
+                    <date evidence="conjecture" when="1911-08-11">11.8.11</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="2">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3169272">Riva</placeName>
+                    <date evidence="conjecture" when="1913-04-17"> 17.4.13</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2875343">Ludwigslust</placeName>
+                    <date evidence="conjecture" when="1915-03-20">20. März 15</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="4">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2944388">Bremen</placeName>
+                    <date evidence="conjecture" when="1915-05-16">16. Mai 1915</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="5">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2944388">Bremen</placeName>
+                    <date evidence="conjecture" when="1915-05-16">16. Mai 1915</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="6">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2947059">Bök am Müritzsee</placeName>
+                    <date evidence="conjecture" when="1915-09-27">27. Sept. 15</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="7">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2947059">Bök am Müritzsee</placeName>
+                    <date evidence="conjecture" when="1915-10-01">1. Okt. 15</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="8">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2944388">Bremen</placeName>
+                    <date evidence="conjecture" when="1915-10-17">17. Oktober 1915</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="9">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2810538">Berlin-Westend</placeName>
+                    <date evidence="conjecture" when="1916-02-06">6. 2. 1916</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="10">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <date evidence="conjecture" when="1916-02">ca. Mitte Febr. 1916</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="11">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1916-02-26">26. 2. 16</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="12">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2944388">Bremen</placeName>
+                    <date evidence="conjecture" when="1916-03-10">10. März 1916</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="13">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2947059">Bök am Müritzsee</placeName>
+                    <date evidence="conjecture" when="1916-06-18"> 18. Juni 16</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="14">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2944388">Bremen</placeName>
+                    <date evidence="conjecture" when="1916-07-02"> 2. Juli 1916</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="15">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2810538">Berlin-Westend</placeName>
+                    <date evidence="conjecture" when="1916-07-31">31. Juli 16</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="16">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2947059">Bök am Müritzsee</placeName>
+                    <date evidence="conjecture" when="1916-08-27">27. Aug. 16</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="17">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2947059">Bök am Müritzsee</placeName>
+                    <date evidence="conjecture" when="1916-10-08">8. Okt. 1916</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="18">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2944388">Bremen</placeName>
+                    <date evidence="conjecture" when="1916-10-10">10. Oktober 1916</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="19">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2947059">Bök am Müritzsee</placeName>
+                    <date evidence="conjecture" when="1917-01-02">2. Jan 1916[17]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="20">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2944388">Bremen</placeName>
+                    <date evidence="conjecture" when="1917-02-09">9. Februar 1917</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="21">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2947059">Bök am Müritzsee</placeName>
+                    <date evidence="conjecture" when="1917-03-23">23. März 17</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="22">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2944388">Bremen</placeName>
+                    <date evidence="conjecture" when="1917-04-26">26. April 1917</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="23">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2947059">Bök am Müritzsee</placeName>
+                    <date evidence="conjecture" when="1917-05-07"> 7. Mai 17</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="24">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2947059">Bök am Müritzsee</placeName>
+                    <date evidence="conjecture" when="1917-05-07">7. Mai 17</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture">Grete Kirchhoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="25">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2944388">Bremen</placeName>
+                    <date evidence="conjecture" when="1917-05-12">12. Mai 1917</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="26">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2947059">Bök am Müritzsee</placeName>
+                    <date evidence="conjecture" when="1917-06-06">6. Juni 17</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Grete Kirchhoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="27">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2947059">Bök am Müritzsee</placeName>
+                    <date evidence="conjecture" when="1917-06-24">24. Juni 17</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="28">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2947059">Bök am Müritzsee</placeName>
+                    <date evidence="conjecture" when="1917-06-30">30. Juni 17</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="29">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2944388">Bremen</placeName>
+                    <date evidence="conjecture" when="1917-07-09"> 9. Juli 1917</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="30">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2944388">Bremen</placeName>
+                    <date evidence="conjecture" when="1917-08-22">22. August 1917</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="31">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2947059">Bök am Müritzsee</placeName>
+                    <date evidence="conjecture" when="1918-01-03">3. Jan. 18</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="32">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2827526">Stelzendorf</placeName>
+                    <date evidence="conjecture" when="1918-01-12">12. Januar 1918</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="33">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2947059">Bök am Müritzsee</placeName>
+                    <date evidence="conjecture" when="1918-03-02">2. 2. [3.] 18</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="34">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2827526">Stelzendorf</placeName>
+                    <date evidence="conjecture" when="1918-03-25">25. März 1918</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="35">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2947059">Bök am Müritzsee</placeName>
+                    <date evidence="conjecture" when="1918-04-22">22. April 18</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="36">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2827526">Stelzendorf</placeName>
+                    <date evidence="conjecture" when="1918-04-26">26. April 1918</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="37">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2895044">Jena</placeName>
+                    <date evidence="conjecture" when="1918-05-05">5. Mai 18</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="38">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2827526">Stelzendorf</placeName>
+                    <date evidence="conjecture" when="1918-05-27">27. Mai 1918</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="39">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2827526">Stelzendorf</placeName>
+                    <date evidence="conjecture" when="1918-05-31">31. Mai 1918</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="40">
+                <correspAction type="sent">
+                    <persName>Grete Gorgarten</persName>
+                    <placeName ref="http://www.geonames.org/2895044" cert="low">Jena</placeName>
+                    <date evidence="conjecture" when="1918-06-28">[28. 6.] 1918</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="41">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2947059">Bök am Müritzsee</placeName>
+                    <date evidence="conjecture" when="1918-06-01"> 1. Juni 18</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="42">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2827526">Stelzendorf</placeName>
+                    <date evidence="conjecture" when="1918-07-20">20. Juli 1918</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="43">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3096576">Krummhübel</placeName>
+                    <date evidence="conjecture" when="1918-09-04">4. Sept. 18</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="44">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2827526">Stelzendorf</placeName>
+                    <date evidence="conjecture" when="1918-09-25">25. Sept. 1918</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="45">
+                <correspAction type="sent">
+                    <persName evidence="conjecture">Grete Gorgarten</persName>
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <date evidence="conjecture" when="1919-01-04"> 4. 1. 1919</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="46">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2947059">Bök b. Granzin</placeName>
+                    <date evidence="conjecture" when="1919-01-08"> 8. Jan. 19</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Grete Gorgarten</persName>
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="47">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2827526">Stelzendorf</placeName>
+                    <date evidence="conjecture" when="1919-01-23">23. Januar 1919</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="48">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <date evidence="conjecture" when="1919-02-08">8. II. 19</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="49">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2947059">Bök</placeName>
+                    <date evidence="conjecture" when="1919-03-19">19. 3. 19</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="50">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2924656">Friedrichroda</placeName>
+                    <date evidence="conjecture" when="1919-09-10">10. Sept. 19</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="51">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2924656">Friedrichroda</placeName>
+                    <date evidence="conjecture" when="1919-09-18">18. Sept. 19</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture">Grete Gorgarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="52">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <date evidence="conjecture" when="1919-09-23">23. 9. 19</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture">Grete Gorgarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="53">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2924656">Friedrichroda</placeName>
+                    <date evidence="conjecture" when="1919-10-09">9. Okt. 19</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <persName evidence="conjecture">Grete Gorgarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="54">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date evidence="conjecture" when="1919-12-06">6. Dez 19</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="55">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date evidence="conjecture" when="1919-12-20">20. Dez. 19</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="56">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2947059">Bök b. Granzin</placeName>
+                    <date evidence="conjecture" when="1920-04-29">29. 4. 20</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="57">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date evidence="conjecture" when="1920-08-03">3. August 20</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="58">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date evidence="conjecture" when="1920-08-15">15. August 20</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="59">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date evidence="conjecture" when="1920-08-27">27. Aug. 20</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="60">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <date evidence="conjecture" when="1920-09-03">3. Sept. 20</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="61">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <date evidence="conjecture" when="1920-09-11">11. Sept. 20</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture">Grete Gorgarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="62">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <date evidence="conjecture" when="1920-09-14">14. September 20</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture">Grete Gorgarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="63">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date evidence="conjecture" when="1920-09-21">21. Sept. 20</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="64">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date evidence="conjecture" when="1920-09-21">21. Sept. 20</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Grete Gorgarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="65">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date evidence="conjecture" when="1921-01-01">1. Jan. 21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="66">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date evidence="conjecture" when="1921-02-19">19. Febr. 21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="67">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date evidence="conjecture" when="1921-04-08">8. 4. 1921</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="68">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2820692">Tutzing</placeName>
+                    <date evidence="conjecture" when="1921-05-25">25. 5. 21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture">Grete Gorgarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="69">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2820692">Tutzing</placeName>
+                    <date evidence="conjecture" when="1921-06-26">26. Juni 21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="70">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <date when="1921"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="71">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2820692">Tutzing</placeName>
+                    <date evidence="conjecture" when="1921-09-02">2. Sept. 21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="72">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2820692">Tutzing</placeName>
+                    <date evidence="conjecture" when="1921-09-17">17. Sept. 21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="73">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2820692">Tutzing</placeName>
+                    <date evidence="conjecture" when="1921-11-04">4. 11. 21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="74">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2827526">Stelzendorf</placeName>
+                    <date evidence="conjecture" when="1921-11-05">5. November 1921</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="75">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2927464">Feldafing</placeName>
+                    <date evidence="conjecture" when="1921-12-19">19. Dez. 21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="76">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2927464">Feldafing</placeName>
+                    <date evidence="conjecture" when="1922-06-17">17. Juni 22</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="77">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2827526">Stelzendorf</placeName>
+                    <date evidence="conjecture" when="1922-06-24">24. Juni 1922</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="78">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2953213">Baierbrunn</placeName>
+                    <date evidence="conjecture" when="1923-02-25">25. 2. 23</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="79">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2827526">Stelzendorf</placeName>
+                    <date evidence="conjecture" when="1923-04-11">11. April 1923</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="80">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2658038">Weggis</placeName>
+                    <date notBefore="1923-04-11" notAfter="1923-06-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="81">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2953213">Baierbrunn</placeName>
+                    <date evidence="conjecture" when="1923-06-29">29. Juni [23]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="82">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2953213">Baierbrunn</placeName>
+                    <date evidence="conjecture" when="1924-12-31">31. Dez. 24</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="83">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2827526">Stelzendorf</placeName>
+                    <date evidence="conjecture" when="1925-01-03">3. Januar 1924 [1925!]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="84">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <date evidence="conjecture" when="1925-01-07">7. 1. 1925</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="85">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <date evidence="conjecture" when="1925-01">ca. Jan. 25</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="86">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2885689">Konradshöhe</placeName>
+                    <date evidence="conjecture" when="1925-03-29">29. 3. 25</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="87">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2885689">Konradshöhe</placeName>
+                    <date evidence="conjecture" when="1925-12-21">21. Dez. 25</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="88">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2885689">Konradshöhe</placeName>
+                    <date evidence="conjecture" when="1926-12-18">18. 12. 26</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="89">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2935728">Dorndorf</placeName>
+                    <date evidence="conjecture" when="1927-02-02">2. Februar 27</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="90">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName ref="http://www.geonames.org/2935728">Dorndorf</placeName>
+                    <date evidence="conjecture" when="1927-02-23">23. Februar 1927</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="91">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2885689">Konradshöhe</placeName>
+                    <date evidence="conjecture" when="1927-12-17">17. Dez. 27</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="1*">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <date notBefore="1956" notAfter="1966">zwischen 1956–66</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="2*">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date evidence="conjecture" when="1956-10-22">22. 10. 56</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="3*">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <date evidence="conjecture" when="1956-10">Oktober 1956</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="4*">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2858964">Oberstdorf</placeName>
+                    <date evidence="conjecture" when="1957-01-13">13. 1. 1957</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="5*">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2858964">Oberstdorf</placeName>
+                    <date evidence="conjecture" when="1966-01-07">7. 1. 66</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="6*">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4762888">Hampden-Sydney</placeName>
+                    <date evidence="conjecture" when="1966-12-26">26. 12. 1966</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="1**">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2858964">Oberstdorf</placeName>
+                    <date evidence="conjecture" when="1968-02-09">9. Febr. 1967[68]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117154733">Marianne Bultmann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="2**">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2858964">Oberstdorf</placeName>
+                    <date notBefore="1967" notAfter="1968"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/117154733">Marianne Bultmann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mbb8c4f8-3e40-45d8-9e21-5f3a11aebfc0" key="3**">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118570951">Gertrud von le Fort</persName>
+                    <date cert="low" when="1971"> vermutlich 1971</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/117154733">Marianne Bultmann</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
