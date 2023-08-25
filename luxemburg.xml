@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Einige Briefe Rosa Luxemburgs</title>
+                <editor>Marthe Küster<email>correspSearch@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <date when="2023-07-21T15:51:45.319-02:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="w1b19235-efb7-494f-b599-cf4097c977a8">Blumenberg, W. (1963). Einige Briefe Rosa Luxemburgs. International Review of Social History, 8(1), 94-108.<ref target="http://doi.org/10.1017/S002085900000225X">http://doi.org/10.1017/S002085900000225X</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#w1b19235-efb7-494f-b599-cf4097c977a8" key="1">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118575503">Rosa Luxemburg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2924770">Friedenau</placeName>
+                    <date evidence="conjecture" when="1900-12-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119317745">Minna Kautsky</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w1b19235-efb7-494f-b599-cf4097c977a8" key="2">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118575503">Rosa Luxemburg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3174793">Levanto</placeName>
+                    <date evidence="conjecture" when="1909-06-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118560816">Luise Kautsky</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w1b19235-efb7-494f-b599-cf4097c977a8" key="3">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118575503">Rosa Luxemburg</persName>
+                    <placeName ref="http://www.geonames.org/6692189" cert="low">Clarens</placeName>
+                    <date evidence="conjecture" when="1913-04-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116078898">Hans Kautsky</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911559">Berlin-Halensee</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w1b19235-efb7-494f-b599-cf4097c977a8" key="4">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118575503">Rosa Luxemburg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1915-01-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/128644176">Fanny Jezierska</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w1b19235-efb7-494f-b599-cf4097c977a8" key="5">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118712276">Leo  Jogiches</persName>
+                    <date evidence="conjecture" when="1915-04-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118556290">Mathilde Jacob</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w1b19235-efb7-494f-b599-cf4097c977a8" key="6">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118575503">Rosa Luxemburg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date cert="low" when="1915-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/128644176">Fanny Jezierska</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w1b19235-efb7-494f-b599-cf4097c977a8" key="6.1">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11857275X">Karl Liebknecht</persName>
+                    <date evidence="conjecture" when="1915-10-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/128644176">Fanny Jezierska</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w1b19235-efb7-494f-b599-cf4097c977a8" key="7">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118575503">Rosa Luxemburg</persName>
+                    <date evidence="conjecture" when="1916-03-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/128644176">Fanny Jezierska</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w1b19235-efb7-494f-b599-cf4097c977a8" key="8">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118575503">Rosa Luxemburg</persName>
+                    <date notBefore="1916-03" notAfter="1916-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/128644176">Fanny Jezierska</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w1b19235-efb7-494f-b599-cf4097c977a8" key="9">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118575503">Rosa Luxemburg</persName>
+                    <placeName ref="http://www.geonames.org/3081350" cert="low">Wronke</placeName>
+                    <date evidence="conjecture" when="1917-04-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118560816">Luise Kautsky</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w1b19235-efb7-494f-b599-cf4097c977a8" key="10">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118575503">Rosa Luxemburg</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3081368">Breslau</placeName>
+                    <date evidence="conjecture" when="1918-05-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118560816">Luise Kautsky</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
