@@ -1,0 +1,872 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefe der Juliane Franziska von Buchwald an Christoph Dietrich von Keller</title>
+                <editor>Marthe Küster<email>marthe.kuester@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften </ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2023-07-19T12:03:42.964-02:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="dd116fe1-9ff1-4e14-97d0-6da721c92bd5">Raschke, Bärbel. Briefe der Juliane Franziska von Buchwald an Christoph Dietrich von Keller 1738 bis
+1750. 1 Auflage 2023, Böhlau Verlag Köln, 2023<ref target="https://doi.org/10.7788/9783412525781">https://doi.org/10.7788/9783412525781</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="1">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2924437">Friedrichswerth</placeName>
+                    <date evidence="conjecture" when="1738-07-15"> 15. Juli 1738</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="2">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1738-08-14"> 14. August 1738</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="3">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date to="1738-08-18" evidence="conjecture" from="1738-08-17">zwischen dem 17. und 18. August 1738</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="4">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1738-10-14"> 14. Oktober 1738</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="5">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1738-11-05">5. November 1738</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="6">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName ref="http://www.geonames.org/2918752" cert="low">Gotha</placeName>
+                    <date to="1738-12-06" evidence="conjecture" from="1738-11-16">vermutlich zwischen dem 16. November und Brief 7 als Beilage zu Letzterem</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="7">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1738-12-06">6. Dezember 1738</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="8">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1738-12-16">16. Dezember 1738</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="9">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1738-12-27">27. Dezember 1738</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="10">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1739-01-06">6. Januar 1739</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="11">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName ref="http://www.geonames.org/2918752" cert="low">Gotha</placeName>
+                    <date to="1739-02-07" evidence="conjecture" from="1739-01-10"> vermutlich zwischen dem 10. Januar und 7. Februar 1739</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="12">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1739-02-07">7. Februar 1739</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="13">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1739-02-21">21. Februar 1739</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="14">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName ref="http://www.geonames.org/2918752" cert="low">Gotha</placeName>
+                    <date to="1739-05-02" evidence="conjecture" from="1739-03-19">vermutlich zwischen dem 19. März und 2. Mai 1739.</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="15">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1739-05-02">2. Mai 1739</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="16">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1739-06-30">30. Juni 1739</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="17">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1739-07-21">21. Juli 1739</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="18">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName ref="http://www.geonames.org/2918752" cert="low">Gotha</placeName>
+                    <date notBefore="1739-07-21" notAfter="1740-01-02">vermutlich nach dem 21. Juli 1739.</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="19">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1740-01-02">2. Januar 1740</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="20">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1740-04-02">2. April 1740</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="21">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName ref="http://www.geonames.org/2918752" cert="low">Gotha</placeName>
+                    <date notBefore="1740-04-03" notAfter="1740-07-02"> vermutlich vor dem 2. Juli 1740</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="22">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1740-07-02">2. Juli 1740</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="23">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" cert="low" when="1740-10-24">Vermutlich 24. Oktober 1740</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="24">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date cert="low" when="1741-06-13"> vermutlich um den 13. Juni 1741</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="25">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1741-07-13"> 13. Juli 1741</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="26">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1741-08-18"> 18. August 1741</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="27">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1741-12-06">6. Dezember 1741</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="28">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1741-12-29">29. Dezember 1741</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365" cert="low">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="29">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1742-05-07">7. Mai 1742</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="30">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName ref="http://www.geonames.org/2918752" cert="low">Gotha</placeName>
+                    <date notBefore="1742-05-12" notAfter="1742-06-20">vermutlich nach dem 12. Mai 1742</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="31">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1742-06-20">20. Juni 1742</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="32">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2809346">Wiesbaden</placeName>
+                    <date evidence="conjecture" when="1742-09-20">20. September 1742</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="33">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1742-12-18"> 18. Dezember 1742</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="34">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1743-02-11">11. Februar 1743</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="35">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName ref="http://www.geonames.org/2918752" cert="low">Gotha</placeName>
+                    <date evidence="conjecture" when="1743-03-31">31. März 1743</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="36">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date notBefore="1743-03-31" notAfter="1743-12-31">vermutlich zwischen dem 31. März und 31. Dezember 1743</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="37">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1743-12-31">31. Dezember 1743</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="38">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1744-01-04">4. Januar 1744</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="39">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date when="1744-01-18"> 18. Januar 1744</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="40">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1744-04-21">21. April 1744</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="41">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName ref="http://www.geonames.org/2918752" cert="low">Gotha</placeName>
+                    <date evidence="conjecture" when="1744-05-19">19. Mai 1744</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="42">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1744-06-03">3. Juni 1744</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="43">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1744-06-06">6. Juni 1744</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="44">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName ref="http://www.geonames.org/2918752" cert="low">Gotha</placeName>
+                    <date evidence="conjecture" when="1744-06-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="45">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1744-08-22">22. August 1744</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="46">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2896768">Ichtershausen</placeName>
+                    <date evidence="conjecture" when="1744-09-05">5. September 1744</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="47">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1744-11-07">7. November 1744</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="48">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1744-12-05">5. Dezember 1744</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="49">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1744-12-19">19. Dezember 1744</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="50">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1744-12-31">31. Dezember 1744</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="51">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1745-01-05">5. Januar 1745</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="52">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1745-01-30">30. Januar 1745</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="53">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1745-03-18">18. März 1745</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="54">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1745-03-27">27. März 1745</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="55">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1745-04-27">27. April 1745</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="56">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName ref="http://www.geonames.org/2918752" cert="low">Gotha</placeName>
+                    <date notBefore="1745-05-08" notAfter="1745-05-26">vermutlich zwischen dem 8. und 26. Mai 1745</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="57">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1745-06-05">5. Juni 1745</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="58">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName ref="http://www.geonames.org/2918752" cert="low">Gotha</placeName>
+                    <date notBefore="1745-06-05" notAfter="1745-06-12"> vermutlich zwischen dem 5. und 12. Juni 1745</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="59">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1745-06-12">12. Juni 1745</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="60">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1745-07-07">7. Juli 1745</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="61">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1745-08-04">4. August 1745</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="62">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1745-11-20">20. November 1745</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="63">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1745-12-04">4. Dezember 1745</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="64">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1745-12-11"> 11. Dezember 1745</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="65">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1745-12-25"> 25. Dezember 1745</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="66">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date when="1746-01-06">5. Januar 1746</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="67">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1746-02-12"> 12. Februar 1746</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="68">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1746-04-11">11. April 1746</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="69">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1747-12-12">12. Dezember 1747</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="70">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1748-01-20">20. Januar 1748</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="71">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date evidence="conjecture" when="1748-07-08">8. Juli 1748</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="72">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1748-10-02"> 2. Oktober 1748</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="73">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1748-10-09">9. Oktober 1748</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="74">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName ref="http://www.geonames.org/2918752" cert="low">Gotha</placeName>
+                    <date to="1748-10-11" evidence="conjecture" from="1748-10-10"> vermutlich am 10. oder 11. Oktober 1748</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="75">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1748-10-15"> 15. Oktober 1748</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="76">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1748-10-16">16. Oktober 1748</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="77">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1748-10-17">17. Oktober 1748</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="78">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date to="1748-12-12" evidence="conjecture" from="1748-12-05">vermutlich 5. oder 12. Dezember 1748</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="79">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1749-01-16">16. Januar 1749</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="80">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date evidence="conjecture" when="1749-02-08">8. Februar 1749</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="81">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName ref="http://www.geonames.org/2918752" cert="low">Gotha</placeName>
+                    <date cert="low" when="1749-10-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="82">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName ref="http://www.geonames.org/2918752" cert="low">Gotha</placeName>
+                    <date evidence="conjecture" when="1750-02-19">19. Februar 1750</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="83">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName ref="http://www.geonames.org/2918752" cert="low">Gotha</placeName>
+                    <date evidence="conjecture" when="1750-03-11">vermutlich nach dem 11. März 1750</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dd116fe1-9ff1-4e14-97d0-6da721c92bd5" key="84">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/121508293">Juliane Franziska von Buchwald</persName>
+                    <placeName ref="http://www.geonames.org/2918752" cert="low">Gotha</placeName>
+                    <date to="1757-02-20" evidence="conjecture" from="1757-02-19">vermutlich am 19. oder 20. Februar 1757</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1019478365">Christoph Dietrich von Keller</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
