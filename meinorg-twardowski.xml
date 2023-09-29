@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <!-- Generated from table of letters with csv2cmi 2.1.0 as webservice at https://cmif.saw-leipzig.de-->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="title-4085-0c37-05af3e94d7">Briefwechsel zwischen Alexius Meinong und
+                    Kazimierz Twardowski</title>
+                <editor>Marthe Küster</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <idno type="url"
+                    >https://cmif.saw-leipzig.de/api/2022-05-31T09:26:07.154__Meinorg-und-Twardowski(7)/xml</idno>
+                <date when="2022-05-31T09:26:07.753367"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This file is
+                        licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="ca40c358-7b4d-4315-9d23-5f6ddce32359">Meinong, Alexius,
+                    und Kazimierz Twardowski. Der Briefwechsel. Herausgegeben von Venanzio Raspa.
+                    Meinong Studies 7. Berlin Boston: Walter de Gruyter, 2016.
+                    https://doi.org/10.1515/9783110463828.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="1"
+                xml:id="letter-2ea1-cb35-98abf60d25">
+                <correspAction xml:id="sender-65ba-9afd-d8b69f4537" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+                    <date when="1893-12-23">23. XII. 1893</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7abe-2bc6-b5dc810fe6" type="received">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="2"
+                xml:id="letter-24ac-2fa7-984cb21ea0">
+                <correspAction xml:id="sender-80f5-bea9-b53608afde" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1894-02-19">19. II. 1894</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f538-deba-75f2e6ac38" type="received">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="3"
+                xml:id="letter-b719-f308-d7eb528604">
+                <correspAction xml:id="sender-4b9c-9d54-a716b043cd" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+                    <date when="1895-10-28">28. X. 1895</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2d37-4216-f5a2ed70b4" type="received">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="4"
+                xml:id="letter-365c-f05c-d598e027a3">
+                <correspAction xml:id="sender-2c6e-d8af-87103c42de" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                    <placeName ref="http://www.geonames.org/2772678">Lemberg</placeName>
+                    <date when="1895-11-18">18. XI. 1895</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8dc7-f52c-59c1e0d6a4" type="received">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="5"
+                xml:id="letter-394b-2407-1c37ed0fab">
+                <correspAction xml:id="sender-4f6c-c8e2-c62eda15f8" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                    <placeName ref="http://www.geonames.org/2772678">Lemberg</placeName>
+                    <date when="1896-07-18">18. VII. 1896</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e0fc-e963-6385c709ef" type="received">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="6"
+                xml:id="letter-6392-cd43-08d75cf93a">
+                <correspAction xml:id="sender-4cb8-b76f-3ba7d142f9" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                    <placeName ref="http://www.geonames.org/2772678">Lemberg</placeName>
+                    <date when="1897-06-29">29. VI. 1897</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9fd2-fb12-0b91c2fa7d" type="received">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="7"
+                xml:id="letter-01c7-2749-d078c16259">
+                <correspAction xml:id="sender-7620-d49f-789f53a1e6" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+                    <date when="1897-07-02">2. VII. 1897</date>
+                </correspAction>
+                <correspAction xml:id="addressee-82e3-c197-fe86391da5" type="received">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="8"
+                xml:id="letter-ae0d-5208-f983bc7de2">
+                <correspAction xml:id="sender-30cb-f8e9-3bd84259f7" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                    <placeName ref="http://www.geonames.org/2772678">Lemberg</placeName>
+                    <date when="1897-07-11">11. VII. 1897</date>
+                </correspAction>
+                <correspAction xml:id="addressee-cdf5-8273-b8f29da701" type="received">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="9"
+                xml:id="letter-4ae6-2864-7ec5a4f63b">
+                <correspAction xml:id="sender-efd6-d961-487fe560a1" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                    <placeName ref="http://www.geonames.org/2761096">Windischgarsten</placeName>
+                    <date when="1897-07-22">22. VII. 1897</date>
+                </correspAction>
+                <correspAction xml:id="addressee-92e6-7d56-9f3840e12c" type="received">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="10"
+                xml:id="letter-90a2-2e69-325b91f64d">
+                <correspAction xml:id="sender-e6b1-dbe5-7af6b823ce" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                    <placeName ref="http://www.geonames.org/2772678">Lemberg</placeName>
+                    <date when="1897-07-25">25. VII. 1897</date>
+                </correspAction>
+                <correspAction xml:id="addressee-82f3-f68c-49ab073281" type="received">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="11"
+                xml:id="letter-f013-dc28-53b8fc94e0">
+                <correspAction xml:id="sender-7a61-8264-0d5a7941fb" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                    <placeName ref="http://www.geonames.org/2772678">Lemberg</placeName>
+                    <date notBefore="1897-08" notAfter="1667-10">o. D. &lt;ca. VIII.-X.
+                        1897&gt;</date>
+                </correspAction>
+                <correspAction xml:id="addressee-13c7-fb70-3dea0c491f" type="received">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="12"
+                xml:id="letter-e31b-08f9-601cd9ba38">
+                <correspAction xml:id="sender-94c2-eb14-6d8102fb53" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+                    <date when="1897-10-22">22. X. 1897</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1243-39c7-923657da1f" type="received">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="13"
+                xml:id="letter-9368-8d9b-648905c2f1">
+                <correspAction xml:id="sender-572e-76e9-4138fbc6e5" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                    <placeName ref="http://www.geonames.org/2772678">Lemberg</placeName>
+                    <date when="1898-05-01">1. V. 1898</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f513-e289-19f58ed63c" type="received">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="14"
+                xml:id="letter-91a5-7429-5b708d36f2">
+                <correspAction xml:id="sender-e48c-4081-489f7de601" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+                    <date when="1898-05-06">6. V. 1898</date>
+                </correspAction>
+                <correspAction xml:id="addressee-218c-d069-9542d1b80f" type="received">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="15"
+                xml:id="letter-084a-5b9a-ecf93a4b87">
+                <correspAction xml:id="sender-0f5c-4f06-8fb60e52d3" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                    <placeName ref="http://www.geonames.org/2772678">Lemberg</placeName>
+                    <date when="1898-05-13">13. V. 1898</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8a13-10b8-ebfd7681a4" type="received">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="16"
+                xml:id="letter-b274-10a7-f0a4db329c">
+                <correspAction xml:id="sender-ecba-8925-928f6307bd" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+                    <date when="1898-05-17">17. V. 1898</date>
+                </correspAction>
+                <correspAction xml:id="addressee-673d-471b-c30f687952" type="received">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="17"
+                xml:id="letter-bf7d-5da8-3d9f07ca65">
+                <correspAction xml:id="sender-db9e-9b34-c82e0ab4f5" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                    <placeName ref="http://www.geonames.org/2772678">Lemberg</placeName>
+                    <date when="1898-06-26">26. VI. 1898</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ab65-d16c-51dcab2436" type="received">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="18"
+                xml:id="letter-7863-180d-1394df7be6">
+                <correspAction xml:id="sender-a753-721e-4eb613d985" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+                    <date when="1898-10-16">16. X. 1898</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8ac3-1b82-fade502c83" type="received">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="19"
+                xml:id="letter-58a6-e035-4fda9730c5">
+                <correspAction xml:id="sender-5f2a-5e89-2f4a7c830b" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                    <placeName ref="http://www.geonames.org/2772678">Lemberg</placeName>
+                    <date when="1898-12-19">19. XII. 1898</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e1d7-97d2-8e2c47a6b0" type="received">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="20"
+                xml:id="letter-36a8-d0f5-85fe2ac071">
+                <correspAction xml:id="sender-a2e1-3b5d-6857243d0e" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+                    <date when="1898-12-31">31. XII. 1898</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1d04-6cda-51d76efa4b" type="received">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="21"
+                xml:id="letter-ea75-cf26-05bd142ecf">
+                <correspAction xml:id="sender-d583-84ef-e439586bca" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+                    <date when="1899-11-11">11. XI. 1899</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9f1c-24a7-c9df48a31b" type="received">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="22"
+                xml:id="letter-8613-84c2-b790fcea36">
+                <correspAction xml:id="sender-30ef-653e-3615a90e7b" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                    <placeName ref="http://www.geonames.org/2772678">Lemberg</placeName>
+                    <date when="1899-11-14">14. XI. 1899</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9605-5efb-76845d01ea" type="received">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="23"
+                xml:id="letter-7c03-ac95-053f67beca">
+                <correspAction xml:id="sender-d379-f861-dca309648b" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                    <placeName ref="http://www.geonames.org/2772678">Lemberg</placeName>
+                    <date when="1899-12-31">31. XII. 1899</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7de8-0321-31b4d5f872" type="received">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="24"
+                xml:id="letter-132b-380a-527bce3d61">
+                <correspAction xml:id="sender-2bd5-95fe-1284a7fc9e" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                    <placeName ref="http://www.geonames.org/2772678">Lemberg</placeName>
+                    <date when="1903-01-25">25. I. 1903</date>
+                </correspAction>
+                <correspAction xml:id="addressee-374a-ace2-25efac7b18" type="received">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="25"
+                xml:id="letter-462f-9bd2-b65901c3ed">
+                <correspAction xml:id="sender-8d5e-bed2-9a38146eb0" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+                    <date when="1903-05-03">3. V. 1903</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fbd6-2f6c-daf425763e" type="received">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="26"
+                xml:id="letter-8ac0-81cf-f940ab2ec1">
+                <correspAction xml:id="sender-061c-9817-e45f21d98b" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                    <placeName ref="http://www.geonames.org/761437">Poronin</placeName>
+                    <date when="1903-08-14">14. VIII. 1903</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f148-1adc-9c3ebf521d" type="received">
+                    <persName ref="http://d-nb.info/gnd/123498457">Meinong, Alexius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="27"
+                xml:id="letter-806b-3e69-dea49750b3">
+                <correspAction xml:id="sender-8269-6e0c-718509bfe3" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                    <placeName ref="http://www.geonames.org/3169744">Pustertal</placeName>
+                    <date when="1903-08-22">22. VIII. 1903</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b836-573c-91ae286f50" type="received">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="28"
+                xml:id="letter-037c-f821-29b30568cf">
+                <correspAction xml:id="sender-0eaf-368f-4dcf739b52" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                    <placeName ref="http://www.geonames.org/2772678">Lemberg</placeName>
+                    <date when="1904-01-01">1. I. 1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c2d6-e6db-4e381c6fd7" type="received">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="29"
+                xml:id="letter-a5f1-d7f0-e3f716a20b">
+                <correspAction xml:id="sender-dace-e3ca-d3be47ca80" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+                    <date when="1904-05-14">14. V. 1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-387e-5fbe-fc672db839" type="received">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="30"
+                xml:id="letter-a9c0-0a8b-b1d74a0c59">
+                <correspAction xml:id="sender-cebf-a629-d3eb7905a8" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2778067"
+                        >Graz</placeName>
+                    <date notBefore="1904-05-14">o. D. &lt;Mai 1904, nach dem 14. V.&gt;</date>
+                </correspAction>
+                <correspAction xml:id="addressee-05bf-168f-871a0e36f9" type="received">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="31"
+                xml:id="letter-640d-7e21-b5e2a893fc">
+                <correspAction xml:id="sender-68ca-5098-d18b539af7" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                    <placeName ref="http://www.geonames.org/2772678">Lemberg</placeName>
+                    <date when="1904-12-02">2. XII. 1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-64d3-0c82-9206581e4f" type="received">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="32"
+                xml:id="letter-54df-bd2a-f0d15e7a64">
+                <correspAction xml:id="sender-976d-bf0c-47c962a183" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                    <placeName ref="http://www.geonames.org/2772678">Lemberg</placeName>
+                    <date when="1905-01-07">7. I. 1905</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6982-8e5f-0d425c37b8" type="received">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="33"
+                xml:id="letter-19ca-4e1d-489f603cd1">
+                <correspAction xml:id="sender-ab45-79f6-3498ecf75a" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+                    <date when="1905-01-12">12. I. 1905</date>
+                </correspAction>
+                <correspAction xml:id="addressee-60b1-b093-13f74ad8b2" type="received">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="34"
+                xml:id="letter-ad31-1e83-f1365c8d94">
+                <correspAction xml:id="sender-7ea3-e78b-3f12da084e" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                    <placeName ref="http://www.geonames.org/2772678">Lemberg</placeName>
+                    <date when="1905-05-02">2. V. 1905</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3956-52b1-b5c6e3890a" type="received">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="35"
+                xml:id="letter-5c27-0ac2-1dbc956f78">
+                <correspAction xml:id="sender-1de6-16b3-32ad9e47fc" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+                    <date when="1907-02-10">10. II. 1907</date>
+                </correspAction>
+                <correspAction xml:id="addressee-579f-ae2f-351f0ad8cb" type="received">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="36"
+                xml:id="letter-df12-34e2-f946b5dc73">
+                <correspAction xml:id="sender-1e9f-98d6-3bc9a7e620" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1907-03-09">9. III. 1907</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2c37-49de-4b2dce6a70" type="received">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="37"
+                xml:id="letter-97fa-a70e-12d59e6043">
+                <correspAction xml:id="sender-3276-8921-41f67eb3c8" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                    <placeName ref="http://www.geonames.org/2772678">Lemberg</placeName>
+                    <date when="1912-06-26">26. VI. 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0efc-d76c-67b95e3c0f" type="received">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="38"
+                xml:id="letter-eb2a-3c16-7a904dc6be">
+                <correspAction xml:id="sender-2706-3e50-5894a1c07e" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2778067"
+                        >Graz</placeName>
+                    <date notAfter="1914-06-28">o. D. &lt;Juni&gt; 1914, &lt;vor dem 28.
+                        VI.&gt;</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fe94-4329-602ed853c9" type="received">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="39"
+                xml:id="letter-c916-fadb-e9681bd7a3">
+                <correspAction xml:id="sender-dceb-de35-0e124f57a8" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                    <placeName ref="http://www.geonames.org/2772678">Lemberg</placeName>
+                    <date when="1914-06-28">28. VI. 1914</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0b6a-72b8-0712d3fa9b" type="received">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="40"
+                xml:id="letter-ce45-38f0-0a78de5f3c">
+                <correspAction xml:id="sender-452f-1c27-49627fda53" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1914-11-13">13. XI. 1914</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d6b8-318d-de49351027" type="received">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="41"
+                xml:id="letter-2c65-597d-169fa375dc">
+                <correspAction xml:id="sender-ec26-4d1a-4709ca5f32" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2772678"
+                        >Lemberg</placeName>
+                    <date notBefore="1916-02-07">o. D. &lt;Winter 1916, nach dem 7. II.&gt;</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d964-97a0-850bc1efd4" type="received">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca40c358-7b4d-4315-9d23-5f6ddce32359" key="42"
+                xml:id="letter-7942-9850-8523c1fb97">
+                <correspAction xml:id="sender-ac38-196c-5b6ad2071c" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118580213">Meinong, Alexius</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2778067"
+                        >Graz</placeName>
+                    <date notBefore="1891" notAfter="1892">o. D. &lt;Ende 1891/Anfang
+                        1892?&gt;</date>
+                </correspAction>
+                <correspAction xml:id="addressee-cf6e-27be-f7eac13942" type="received">
+                    <persName ref="http://d-nb.info/gnd/118624830">Twardowski, Kazimierz</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
