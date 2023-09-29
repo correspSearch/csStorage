@@ -1,0 +1,2498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <!-- Generated from table of letters with csv2cmi 2.1.0 as webservice at https://cmif.saw-leipzig.de-->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="title-34ed-ec25-80769c2efa">Briefwechsel von Günther Anders mit
+                    Theodor W. Adorno, Ernst Bloch, Max Horkheimer, Herbert Marcuse und Helmuth
+                    Plessner</title>
+                <editor>Marthe Küster</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <idno type="url"
+                    >https://cmif.saw-leipzig.de/api/2023-02-23T13:00:29.191__Anders/xml</idno>
+                <date when="2023-02-23T13:00:29.962417"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This file is
+                        licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="a26f278e-f78d-4d9d-8632-93c374bbf937">Anders, Günther.
+                    Gut, dass wir einmal die hot potatoes ausgraben: Briefwechsel mit Theodor W.
+                    Adorno, Ernst Bloch, Max Horkheimer, Herbert Marcuse und Helmuth Plessner, 2022.
+                    https://directory.doabooks.org/handle/20.500.12854/93300.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.1"
+                xml:id="letter-1f27-15f2-a302864d9f">
+                <correspAction xml:id="sender-60b7-49c8-61f7c028d4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1936-01-12">12.1.1936</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f8b7-0d68-456d0acb32" type="received">
+                    <persName ref="https://d-nb.info/gnd/118553615">Max Horkheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.2"
+                xml:id="letter-7ce6-4621-d2156fb897">
+                <correspAction xml:id="sender-2fa9-dfa4-a9de203c87" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118553615">Max Horkheimer</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1936-01-29">29.1.1936</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5472-1a9f-6f312ab84c" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.3"
+                xml:id="letter-f367-39f7-17f85cab24">
+                <correspAction xml:id="sender-e0ca-eafd-3acf5d6421" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1936-02-08">8.2.1936</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9657-4e8c-968bfc1542" type="received">
+                    <persName ref="https://d-nb.info/gnd/118553615">Max Horkheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.4"
+                xml:id="letter-a3bf-9e61-ac89fb67d3">
+                <correspAction xml:id="sender-b390-8196-031e54fbd8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1936-02-25">25.2.1936</date>
+                </correspAction>
+                <correspAction xml:id="addressee-85ac-798b-8ec4d6f759" type="received">
+                    <persName ref="https://d-nb.info/gnd/118553615">Max Horkheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.5"
+                xml:id="letter-aed9-b6fc-87a6d9f1e4">
+                <correspAction xml:id="sender-b43f-ad91-3479bfe026" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118553615">Max Horkheimer</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1936-03-13">13.3.1936</date>
+                </correspAction>
+                <correspAction xml:id="addressee-28e5-b890-43ba5e26fc" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.5a"
+                xml:id="letter-b053-f86b-f649c85310">
+                <correspAction xml:id="sender-82ba-a1d4-0126ce7baf" type="sent">
+                    <orgName ref="https://d-nb.info/gnd/2014567-6">Institut für
+                        Sozialforschung</orgName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1936-03-14">14.3.1936</date>
+                </correspAction>
+                <correspAction xml:id="addressee-408f-1a76-29f830e4da" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.6"
+                xml:id="letter-63b1-d2a5-abd8513ef7">
+                <correspAction xml:id="sender-7f35-0f74-23e7b1cd69" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1936-03-26">26.3.1936</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7d80-cde4-53f1b786ae" type="received">
+                    <persName ref="https://d-nb.info/gnd/118553615">Max Horkheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.7"
+                xml:id="letter-1ce8-39b0-7f36c5a48e">
+                <correspAction xml:id="sender-7e18-fcad-52a8e49367" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1936-06-05">5.6.1936</date>
+                </correspAction>
+                <correspAction xml:id="addressee-13f9-c5f4-af9d1568b0" type="received">
+                    <persName ref="https://d-nb.info/gnd/118553615">Max Horkheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.8"
+                xml:id="letter-0378-f1c2-18c2f40de5">
+                <correspAction xml:id="sender-205b-eaf9-d5ae2f94c8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1936-11-17">17.11.1936</date>
+                </correspAction>
+                <correspAction xml:id="addressee-cf8a-fb38-b6a4ecf5d3" type="received">
+                    <persName ref="https://d-nb.info/gnd/118553615">Max Horkheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.9"
+                xml:id="letter-c9df-97ea-cf0b43625a">
+                <correspAction xml:id="sender-5349-23bf-4f90ebad35" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118553615">Max Horkheimer</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1936-11-25">25.11.1936</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a174-81b3-42a53b7d8f" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.1"
+                xml:id="letter-d36c-3cd0-df2049e178">
+                <correspAction xml:id="sender-28a1-7134-4afd7b1ec5" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1936-11-27">27.11.1936</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e06f-c5fa-09621b385c" type="received">
+                    <persName ref="https://d-nb.info/gnd/118553615">Max Horkheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.11"
+                xml:id="letter-c176-70d3-27b0dea541">
+                <correspAction xml:id="sender-a82d-0d3f-bf75921e08" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118553615">Max Horkheimer (Institut für
+                        Sozialforschung)</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1982-10-23">23.10.1982</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8372-51b7-83f56907d2" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.12"
+                xml:id="letter-1b3d-836c-c135b4da68">
+                <correspAction xml:id="sender-1407-8704-92dbce6548" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1952-11-29">29.11.1952</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d594-bf58-690438f17d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118553615">Max Horkheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.13"
+                xml:id="letter-642d-8d6c-edbc37a29f">
+                <correspAction xml:id="sender-5fe4-8d6a-2b4a853fd1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118553615">Max Horkheimer</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1952-12-08">8.12.1952</date>
+                </correspAction>
+                <correspAction xml:id="addressee-735c-7209-49168d27b5" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.14"
+                xml:id="letter-2a67-78f1-f4d60b9317">
+                <correspAction xml:id="sender-ce37-4739-629ecbaf73" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1952-12-18">18.12.1952</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5e2b-e728-e15adcb638" type="received">
+                    <persName ref="https://d-nb.info/gnd/118553615">Max Horkheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.15"
+                xml:id="letter-b5ec-2897-4dcf0a37e8">
+                <correspAction xml:id="sender-1492-52e1-c97af5468e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118553615">Max Horkheimer</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1952-12-23">23.12.1952</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6451-cb17-d82350fcb4" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.16"
+                xml:id="letter-4156-029f-fed7a65348">
+                <correspAction xml:id="sender-d973-8ba7-78b1e395f2" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1953-01-03">3.1.1953</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fea4-2d5c-26e078ac1d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118553615">Max Horkheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.17"
+                xml:id="letter-e71b-cdae-0ac352fb98">
+                <correspAction xml:id="sender-8207-8d75-963d801425" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1953-01-20">20.1.1953</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4ec8-c741-a416b80f59" type="received">
+                    <persName ref="https://d-nb.info/gnd/118553615">Max Horkheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.18"
+                xml:id="letter-685a-b523-f81a5ed347">
+                <correspAction xml:id="sender-7a23-0ac8-cd6ef28013" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116877340">Margot von Mendelssohn
+                        (Sekretärin Max Horkheimers)</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1953-01-26">26.1.1953</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8ac7-db96-73abd21c05" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.19"
+                xml:id="letter-a459-ac80-2490f37bad">
+                <correspAction xml:id="sender-06fe-94b2-5cf389edba" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1953-01-28">28.1.1953</date>
+                </correspAction>
+                <correspAction xml:id="addressee-15f9-8c34-7589cdbf21" type="received">
+                    <persName ref="https://d-nb.info/gnd/118553615">Max Horkheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.2"
+                xml:id="letter-9c37-dbf1-1c89e20db4">
+                <correspAction xml:id="sender-215a-15b6-29b016d78e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1953-03-08">8.3.1953</date>
+                </correspAction>
+                <correspAction xml:id="addressee-20d4-c82e-d5c7e40b19" type="received">
+                    <persName ref="https://d-nb.info/gnd/118553615">Max Horkheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.21"
+                xml:id="letter-42b1-c5d7-fec1d7a845">
+                <correspAction xml:id="sender-c1d9-53d9-27c3be106d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118553615">Max Horkheimer</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1953-03-16">16.3.1953</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0213-4f5b-1b0ce42736" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.22"
+                xml:id="letter-2539-3950-365c2eb41f">
+                <correspAction xml:id="sender-be40-81f9-b5413c7a2f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1953-06-05">5.6.1953</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c28f-b6a7-a2f3bc85d1" type="received">
+                    <persName ref="https://d-nb.info/gnd/118553615">Max Horkheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.23"
+                xml:id="letter-425a-3b57-20a34f9bec">
+                <correspAction xml:id="sender-ae6c-5d1b-4f091e7d86" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1953-07-17">17.7.1953</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7a40-d260-80dc6a7391" type="received">
+                    <persName ref="https://d-nb.info/gnd/118553615">Max Horkheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.24"
+                xml:id="letter-60a5-14fb-be6dc1a304">
+                <correspAction xml:id="sender-1a3e-e8f6-78ca24b635" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116877340">Margot von Mendelssohn
+                        (Sekretärin Max Horkheimers)</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1953-07-28">28.7.1953</date>
+                </correspAction>
+                <correspAction xml:id="addressee-420b-462c-e1032ac5b8" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.I"
+                xml:id="letter-4297-653a-d590f62cb1">
+                <correspAction xml:id="sender-fbd4-1ae3-6ec91bd842" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117068977">Henry Allen Moe (John Simon
+                        Guggenheim Memorial Foundation)</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1937-02-10">10.2.1937</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c621-1d4c-eb63fd957a" type="received">
+                    <persName ref="https://d-nb.info/gnd/118553615">Max Horkheimer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.II"
+                xml:id="letter-f691-4a80-39d20ba6ec">
+                <correspAction xml:id="sender-843d-b8c4-5906bf78d1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118553615">Max Horkheimer</persName>
+                    <date when="1937-01-01">1937</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d0c3-d457-cbd740ea98" type="received">
+                    <orgName ref="https://d-nb.info/gnd/508840-9">John Simon Guggenheim Memorial
+                        Foundation</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.III"
+                xml:id="letter-cd98-fe6b-8b263e71ca">
+                <correspAction xml:id="sender-c46b-fc90-4abc2753e8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1953-03-07">7.3.1953</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c714-e8a3-71364b0852" type="received">
+                    <persName ref="https://d-nb.info/gnd/11626490X">Friedrich Pollock</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="1.IV"
+                xml:id="letter-83d7-9de4-a2d8f9705e">
+                <correspAction xml:id="sender-980b-f853-f4276153dc" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1953-03-23">23.3.1953</date>
+                </correspAction>
+                <correspAction xml:id="addressee-035e-3895-cbaf5d3268" type="received">
+                    <persName ref="https://d-nb.info/gnd/11626490X">Friedrich Pollock</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.1"
+                xml:id="letter-52a9-70a1-b530d79f84">
+                <correspAction xml:id="sender-74ec-b710-5d18309bce" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1951-03-05">5.3.1951</date>
+                </correspAction>
+                <correspAction xml:id="addressee-63b8-107f-72a61d5c4f" type="received">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.2"
+                xml:id="letter-7a85-cbe5-67a980e3c4">
+                <correspAction xml:id="sender-b8ad-936e-08ad253479" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1960-02-01">1.2.1960</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9724-4b16-1a8769f5dc" type="received">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.2a"
+                xml:id="letter-f283-942e-3bd296e4a0">
+                <correspAction xml:id="sender-c7e2-b941-dfc4b5923e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1960-01-26">26.1.1960</date>
+                </correspAction>
+                <correspAction xml:id="addressee-bd61-965c-5ab47c902f" type="received">
+                    <persName ref="https://d-nb.info/gnd/118551523">Rudolf Hirsch (S. Fischer
+                        Verlag)</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.2b"
+                xml:id="letter-59a8-b2ea-e7f2c013d9">
+                <correspAction xml:id="sender-b61f-534c-1fc2d6079e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118551523">Rudolf Hirsch (S. Fischer
+                        Verlag)</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1960-01-29">29.1.1960</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0286-309a-6271dcea59" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.3"
+                xml:id="letter-ac1d-90c1-2b103fa589">
+                <correspAction xml:id="sender-0278-9d74-5eb674920a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1960-02-09">9.2.1960</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9bd0-18fa-2849da3efb" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.4"
+                xml:id="letter-da65-c291-0f8cb64213">
+                <correspAction xml:id="sender-fd3b-b8a0-2d4ab1c5e9" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1960-02-11">11.2.1960</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f387-ce80-78530d6cab" type="received">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.5"
+                xml:id="letter-291e-8e03-649ce105ad">
+                <correspAction xml:id="sender-69c5-8ae5-3405fa1b76" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1962-09-06">6.9.1962</date>
+                </correspAction>
+                <correspAction xml:id="addressee-dc37-0da9-c950786d34" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.6"
+                xml:id="letter-f485-4390-09ad3624f1">
+                <correspAction xml:id="sender-7ebc-396a-7c921be586" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1962-09-10">10.9.1962</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2153-1b69-047fde8635" type="received">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.7"
+                xml:id="letter-01b3-f1db-3ea652db4c">
+                <correspAction xml:id="sender-bd20-5ae2-fca91b6d48" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1962-09-13">13.9.1962</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3692-a0c9-0e593ad478" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.8"
+                xml:id="letter-256c-0e5d-8bec243a10">
+                <correspAction xml:id="sender-541f-6dc2-2c8f30d957" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1963-06-18">18.6.1963</date>
+                </correspAction>
+                <correspAction xml:id="addressee-19ce-ba3c-b6f5817243" type="received">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.9"
+                xml:id="letter-c7b4-d5e8-4a8b197d6f">
+                <correspAction xml:id="sender-32d0-fd49-bdf76540ec" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1963-06-24">24.6.1963</date>
+                </correspAction>
+                <correspAction xml:id="addressee-bc4e-276a-e3d05c8f29" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.1"
+                xml:id="letter-9d2e-c73a-3821ef0b4d">
+                <correspAction xml:id="sender-ef62-54f1-c650e79f83" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1963-06-30">30.6.1963</date>
+                </correspAction>
+                <correspAction xml:id="addressee-36bd-f75d-0e87d6f923" type="received">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.11"
+                xml:id="letter-4ead-86c0-36a40bf7e2">
+                <correspAction xml:id="sender-5ad9-0cf4-c01f62b435" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1963-08-27">27.8.1963</date>
+                </correspAction>
+                <correspAction xml:id="addressee-67e5-4917-ec816d37fa" type="received">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.12"
+                xml:id="letter-3694-b6d2-f0e87326b5">
+                <correspAction xml:id="sender-7ed8-c1a3-4f1a0e5b79" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1963-10-08">8.10.1963</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1ef7-381d-543d782e6b" type="received">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.13"
+                xml:id="letter-c659-b903-0e93afd5b2">
+                <correspAction xml:id="sender-35e9-f25b-98e350af17" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1963-10-14">14.10.1963</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e713-08f9-b52ed0618c" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.14"
+                xml:id="letter-67f0-5280-eca02f3478">
+                <correspAction xml:id="sender-2576-2ce5-a1e752df39" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1963-10-31">31.10.1963</date>
+                </correspAction>
+                <correspAction xml:id="addressee-72d4-35fd-217fdb4cae" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.15"
+                xml:id="letter-17b8-1269-2dc5b983ea">
+                <correspAction xml:id="sender-9ebf-59f2-f6210354db" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1963-11-16">16.11.1963</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6a3f-8ba2-1fb2046a7e" type="received">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.16"
+                xml:id="letter-c057-ac95-3af105d87b">
+                <correspAction xml:id="sender-316e-a74b-fbc736190d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1963-12-06">6.12.1963</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7b29-d318-b653df7ec1" type="received">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.17"
+                xml:id="letter-8e12-ebd2-b6739d4105">
+                <correspAction xml:id="sender-b5d6-85cd-43d5a2f90b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1963-12-10">10.12.1963</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c70d-bc8d-c6495ba1f8" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.18"
+                xml:id="letter-a526-0913-b930c4afd8">
+                <correspAction xml:id="sender-de0b-52c3-2eda169074" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1963-12-13">13.12.1963</date>
+                </correspAction>
+                <correspAction xml:id="addressee-347f-c189-76ba148350" type="received">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.19"
+                xml:id="letter-16eb-d953-05e432abc7">
+                <correspAction xml:id="sender-bfc1-5e93-174e9b5860" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1964-02-09">9.2.1964</date>
+                </correspAction>
+                <correspAction xml:id="addressee-109a-20c4-e52a168cf7" type="received">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.2"
+                xml:id="letter-d795-1937-2fb5e649c3">
+                <correspAction xml:id="sender-385e-4f9c-b315d8cf92" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/3175239">Laigueglia</placeName>
+                    <date when="1964-06-18">18.6.1964</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c10f-e2f1-4107db8f69" type="received">
+                    <persName ref="https://d-nb.info/gnd/123492785">Hans Deutsch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.21"
+                xml:id="letter-56f9-7f38-1fb9d420ce">
+                <correspAction xml:id="sender-cd86-9b5d-169e0c374d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1964-10-16">16.10.1964</date>
+                </correspAction>
+                <correspAction xml:id="addressee-bf30-37a2-c0f5d14a2b" type="received">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.22"
+                xml:id="letter-5789-c67f-0db926ce7a">
+                <correspAction xml:id="sender-e930-b384-c7e58602f3" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1965-04-23">23.4.1965</date>
+                </correspAction>
+                <correspAction xml:id="addressee-214c-a7ec-90fa51c438" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.23"
+                xml:id="letter-9ec4-0736-7138bdf2a0">
+                <correspAction xml:id="sender-14ca-b418-61a9f52bcd" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1966-12-12">12.12.1966</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fca4-3402-2c0f9e6743" type="received">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.24"
+                xml:id="letter-2049-a513-4ed2a580f3">
+                <correspAction xml:id="sender-0857-08de-09f726d3a1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                    <date when="1968-10">Oktober 1968</date>
+                </correspAction>
+                <correspAction xml:id="addressee-94b0-f72c-b0143cf687" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.25"
+                xml:id="letter-02eb-49b7-6cf32a51bd">
+                <correspAction xml:id="sender-bce2-94f0-6d40e791c8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1968-11-01">1.11.1968</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5b24-1832-8560ed2ac9" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.26"
+                xml:id="letter-1062-5cfe-cf1369a487">
+                <correspAction xml:id="sender-938e-7fbe-7f9d21c436" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1968-11-04">4.11.1968</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8da6-18f7-c3560bde84" type="received">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.27"
+                xml:id="letter-24d8-96a1-a9b5c6780f">
+                <correspAction xml:id="sender-d6ba-d3f0-9d18b375ce" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1968-11-15">15.11.1968</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0587-c829-c5a4e32d8f" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.28"
+                xml:id="letter-c091-92db-6f0e49a1d8">
+                <correspAction xml:id="sender-b934-c5a0-743580ba16" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1968-11-18">18.11.1968</date>
+                </correspAction>
+                <correspAction xml:id="addressee-68e5-7e80-3498cafe16" type="received">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.I"
+                xml:id="letter-0b2c-fd96-c10ea3b687">
+                <correspAction xml:id="sender-2531-df19-2197e03bc8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118500775">Theodor W. Adorno</persName>
+                    <date when="1951-03-12">12.3.1951</date>
+                </correspAction>
+                <correspAction xml:id="addressee-18ba-fe47-f6b920d15a" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="2.III"
+                xml:id="letter-107d-96e5-9fde30427b">
+                <correspAction xml:id="sender-ecd5-78a9-94ce150386" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/3166483">Seis bei Bozen</placeName>
+                    <date when="1957-08-25">25.8.1957</date>
+                </correspAction>
+                <correspAction xml:id="addressee-29b1-8a59-134c957a2e" type="received">
+                    <persName ref="https://d-nb.info/gnd/118705571">Uvo Hölscher (Dekan der
+                        Philosophischen Fakultät, Freie Universität Berlin)</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.1"
+                xml:id="letter-e73d-8549-b0f16c2ad3">
+                <correspAction xml:id="sender-9f34-c6e0-b014ef97a2" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                    <placeName ref="http://www.geonames.org/4140963">Washington</placeName>
+                    <date when="1947-07-25">25.7.1947</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d0f8-1436-f5e8d2c319" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.2"
+                xml:id="letter-45b8-b6f1-b95f341ade">
+                <correspAction xml:id="sender-85c6-3829-c2457861d9" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                    <placeName ref="http://www.geonames.org/4140963">Washington</placeName>
+                    <date when="1951-04-06">6.4.1951</date>
+                </correspAction>
+                <correspAction xml:id="addressee-698f-b5f7-51a8b9d726" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.3"
+                xml:id="letter-c279-0568-d37abce495">
+                <correspAction xml:id="sender-fd92-32b9-f326dae78b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1952-05-05">5.5.1952</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ef1a-4bf3-b3045819ec" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.4"
+                xml:id="letter-4c92-4693-d1803c5e79">
+                <correspAction xml:id="sender-8162-b9fd-de5b9a74f2" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1954-05-09">9.5.1954</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8657-805a-36bd584721" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.5"
+                xml:id="letter-cda7-f091-1ac52e49b7">
+                <correspAction xml:id="sender-4b69-c306-d6f407c213" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1954-09-24">24.9.1954</date>
+                </correspAction>
+                <correspAction xml:id="addressee-30d4-10f3-a804c7f692" type="received">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.6"
+                xml:id="letter-4cd5-0148-438fdbae69">
+                <correspAction xml:id="sender-2f5b-ab81-af2e7cd014" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                    <placeName ref="http://www.geonames.org/4945283">Newton
+                        (Massachusetts)</placeName>
+                    <date when="1955-09-20">20.9.1955</date>
+                </correspAction>
+                <correspAction xml:id="addressee-32ac-41b6-1c9724be8d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.7"
+                xml:id="letter-a543-1852-d2974ab6f5">
+                <correspAction xml:id="sender-9261-2605-0a71e345bf" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                    <placeName ref="http://www.geonames.org/4945283">Newton
+                        (Massachusetts)</placeName>
+                    <date when="1956-02-18">18.2.1956</date>
+                </correspAction>
+                <correspAction xml:id="addressee-da5b-248e-fc724d5b81" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.8"
+                xml:id="letter-ba41-7395-3eb215d486">
+                <correspAction xml:id="sender-13ba-29a0-028d4ae1f5" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1956-03-02">2.3.1956</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6dbf-f281-adb0298e67" type="received">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.9"
+                xml:id="letter-2d9c-21b7-78490cfa5e">
+                <correspAction xml:id="sender-ae86-6a8b-4bd6a3f201" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                    <placeName ref="http://www.geonames.org/4945283">Newton
+                        (Massachusetts)</placeName>
+                    <date when="1956-03-14">14.3.1956</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1e29-0e5a-d0cb461539" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.1"
+                xml:id="letter-3087-b9af-8d412eb95a">
+                <correspAction xml:id="sender-f726-069b-067e3f924a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                    <placeName ref="http://www.geonames.org/4945283">Newton
+                        (Massachusetts)</placeName>
+                    <date when="1956-11-05">5.11.1956</date>
+                </correspAction>
+                <correspAction xml:id="addressee-14d6-1f2a-c2d34f1a09" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.11"
+                xml:id="letter-b5f8-0fba-796e418fac">
+                <correspAction xml:id="sender-804d-27d4-625ca1be78" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date notBefore="1956-11" notAfter="1956-12">November/Dezember 1956</date>
+                </correspAction>
+                <correspAction xml:id="addressee-45c8-91ea-620bd1e8fa" type="received">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.12"
+                xml:id="letter-fe12-9e15-60298a1fdb">
+                <correspAction xml:id="sender-3dfe-9d24-d573fecb10" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                    <placeName ref="http://www.geonames.org/4945283">Newton
+                        (Massachusetts)</placeName>
+                    <date when="1956-12-24">24.12.1956</date>
+                </correspAction>
+                <correspAction xml:id="addressee-08c2-45be-e4f3b67c10" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.13"
+                xml:id="letter-3921-e189-9d5324b0f1">
+                <correspAction xml:id="sender-0fe1-5861-f806eba954" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1959-04-27">27.4.1959</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4ce8-107b-8b50741dce" type="received">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.14"
+                xml:id="letter-4f3d-465f-2af4c93178">
+                <correspAction xml:id="sender-7124-8b75-605ab24cd7" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                    <placeName ref="http://www.geonames.org/4945283">Newton
+                        (Massachusetts)</placeName>
+                    <date when="1964-04-04">4.4.1964</date>
+                </correspAction>
+                <correspAction xml:id="addressee-752e-b5c6-26f43b58de" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.15"
+                xml:id="letter-389a-ce05-d8af593b62">
+                <correspAction xml:id="sender-e53c-e023-9c530bf12d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1965-10-03">3.10.1965</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8b1d-e2ca-eb8f13d9ca" type="received">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.16"
+                xml:id="letter-36ec-6efc-15a4be293d">
+                <correspAction xml:id="sender-7d59-cf40-98f7ab1c43" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                    <placeName ref="http://www.geonames.org/5391811">San Diego</placeName>
+                    <date when="1965-10-12">12.10.1965</date>
+                </correspAction>
+                <correspAction xml:id="addressee-12ca-d08a-5f72904a38" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.17"
+                xml:id="letter-fbe6-fac2-3fc5b6d91a">
+                <correspAction xml:id="sender-7c0b-cbf9-1ef3a4089d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1965-10-18">18.10.1965</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5043-941c-e76f2c35b4" type="received">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.18"
+                xml:id="letter-c091-2d9e-68d2b549fc">
+                <correspAction xml:id="sender-b0c1-edf6-3840e1d92a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                    <placeName ref="http://www.geonames.org/5391811">San Diego</placeName>
+                    <date when="1966-06-18">18.6.1966</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9e50-7580-12c0bd5e94" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.19"
+                xml:id="letter-14f7-f463-1e2f8b5c06">
+                <correspAction xml:id="sender-efb1-f704-d43b2c859f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                    <placeName ref="http://www.geonames.org/5391811">San Diego</placeName>
+                    <date when="1966-07-15">15.7.1966</date>
+                </correspAction>
+                <correspAction xml:id="addressee-86ec-d6cf-14780623ea" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.2"
+                xml:id="letter-b083-b6e5-3e24768c9f">
+                <correspAction xml:id="sender-0751-b871-5d360ab9e4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1966-07-17">17.7.1966</date>
+                </correspAction>
+                <correspAction xml:id="addressee-53f2-3bcd-9c73de81b0" type="received">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.21"
+                xml:id="letter-cf82-5c4f-302796ab81">
+                <correspAction xml:id="sender-ea27-f58e-8b7cf01462" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1966-07-21">21.7.1966</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7923-e6a1-2f6c7e30d4" type="received">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.22"
+                xml:id="letter-5409-74dc-7f16ade245">
+                <correspAction xml:id="sender-461f-1bcf-fa48bd6e3c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1967-01-14">14.1.1967</date>
+                </correspAction>
+                <correspAction xml:id="addressee-62df-42ef-6a9bd87c30" type="received">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.23"
+                xml:id="letter-9805-4268-4ae7d5b6f9">
+                <correspAction xml:id="sender-43fd-435f-524d3b6908" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                    <placeName ref="http://www.geonames.org/5391811">San Diego</placeName>
+                    <date when="1967-01-22">22.1.1967</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c419-acf6-c8f50961b4" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.24"
+                xml:id="letter-1ac6-fb65-6c9a58b32e">
+                <correspAction xml:id="sender-29de-fd0e-4cef5a6982" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1967-01-26">26.1.1967</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f5b9-92b3-e643f2c5a8" type="received">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.25"
+                xml:id="letter-3768-e108-b7af412560">
+                <correspAction xml:id="sender-7035-d451-93cf28b6ae" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1967-01-27">27.1.1967</date>
+                </correspAction>
+                <correspAction xml:id="addressee-605a-8ace-eb725ca496" type="received">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.26"
+                xml:id="letter-84f7-902b-83a7ec2b14">
+                <correspAction xml:id="sender-ed87-7e19-2a65e3bd94" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                    <placeName ref="http://www.geonames.org/5391811">San Diego</placeName>
+                    <date when="1967-12-14">14.12.1967</date>
+                </correspAction>
+                <correspAction xml:id="addressee-365c-c481-0bd75a32c9" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.27"
+                xml:id="letter-413a-042e-416d7c2e83">
+                <correspAction xml:id="sender-f283-b04a-9832cbd0ef" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1967-12-29">29.12.1967</date>
+                </correspAction>
+                <correspAction xml:id="addressee-427b-40f6-a4e7120d8b" type="received">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.28"
+                xml:id="letter-a8e0-8e6c-4b1dfa7c9e">
+                <correspAction xml:id="sender-e154-efa1-bc5148e29d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1969-07-24">24.7.1969</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5231-01f9-5b2af3e9c6" type="received">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.29"
+                xml:id="letter-4e13-024a-fd9c578142">
+                <correspAction xml:id="sender-e7bd-e73a-f9a680c4d3" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                    <placeName ref="http://www.geonames.org/3029282">Cabris (Frankreich)</placeName>
+                    <date when="1969-08-01">1.8.1969</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2f54-0c75-bfce71ad34" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.3"
+                xml:id="letter-1c80-f3d0-14b027d3ca">
+                <correspAction xml:id="sender-934b-cfa5-f69c5403b8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                    <placeName ref="http://www.geonames.org/5391811">San Diego</placeName>
+                    <date when="1978-06-13">13.6.1978</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c0de-928d-190dfe87c2" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.31"
+                xml:id="letter-f7d4-b952-9d7853e2f1">
+                <correspAction xml:id="sender-1358-3e8b-5976d0c248" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1978-06-26">26.6.1978</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f894-b015-2ea0465c1b" type="received">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.32"
+                xml:id="letter-5964-37f0-6a59db1e0f">
+                <correspAction xml:id="sender-28be-142a-dfc59071b4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                    <placeName ref="http://www.geonames.org/5391811">San Diego</placeName>
+                    <date when="1978-08-27">27.8.1978</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1379-bc64-0ba823647d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.33"
+                xml:id="letter-b9e8-29e7-30792f1c5d">
+                <correspAction xml:id="sender-049a-a6eb-f0d7b5639c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1978-09-02">2.9.1978</date>
+                </correspAction>
+                <correspAction xml:id="addressee-65bc-21b3-70ab4ecf36" type="received">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.34"
+                xml:id="letter-8976-db0a-db91537e6f">
+                <correspAction xml:id="sender-1b6d-b3c1-e6afd28b14" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                    <placeName ref="http://www.geonames.org/5391811">San Diego</placeName>
+                    <date when="1978-11-07">7.11.1978</date>
+                </correspAction>
+                <correspAction xml:id="addressee-905b-9c08-1f6a802e57" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="3.I"
+                xml:id="letter-3f07-d216-c74a56f32b">
+                <correspAction xml:id="sender-9d7f-7a1d-52ab9e7cdf" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577638">Herbert Marcuse</persName>
+                    <placeName ref="http://www.geonames.org/3029282">Cabris (Frankreich)</placeName>
+                    <date when="1969-08-01">1.8.1969</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1068-207b-9647ae30b2" type="received">
+                    <persName ref="https://d-nb.info/gnd/118691163">Ernst Fischer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.1"
+                xml:id="letter-e304-d9ab-5fb0e96438">
+                <correspAction xml:id="sender-6387-5f86-e9c4016372" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst Bloch</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1950-10-16">16.10.1950</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c812-91c4-3e1d6c4fa7" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.2"
+                xml:id="letter-860c-dab3-a5b0c9d263">
+                <correspAction xml:id="sender-d7b1-c20d-3ea8f1b267" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2658641">Sils/Engadin</placeName>
+                    <date when="1959-07-31">31.7.1959</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c329-3ea2-10c43279f6" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.3"
+                xml:id="letter-d304-d6e9-689f3c1d4b">
+                <correspAction xml:id="sender-bef9-f01b-fb29d43561" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst Bloch</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1959-08-12">12.8.1959</date>
+                </correspAction>
+                <correspAction xml:id="addressee-64f8-c801-e10425cfd9" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.4"
+                xml:id="letter-087c-d3b7-5fd7cbe1a6">
+                <correspAction xml:id="sender-b7cd-f372-4c9d0687f3" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1959-08-17">17.8.1959</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fba4-2def-b36f4c0ae7" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.5"
+                xml:id="letter-e290-be46-15489c0fe3">
+                <correspAction xml:id="sender-37b9-6a74-5fae184632" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst Bloch</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1959-12-05">5.12.1959</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a13c-378e-0f32cb8e65" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.6"
+                xml:id="letter-a2f1-3178-6f35e89a12">
+                <correspAction xml:id="sender-f795-c480-4b9c52167e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1959-12-11">11.12.1959</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8249-7c0f-450fb38e69" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.7"
+                xml:id="letter-ca62-6892-9274bf13ad">
+                <correspAction xml:id="sender-a2b1-683d-a92637f518" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst Bloch</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1960-01-08">8.1.1960</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4890-3f41-a40d7b3512" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.8"
+                xml:id="letter-5b7c-b0ad-15edc690ab">
+                <correspAction xml:id="sender-0e4f-40c8-e64b8d2c39" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1960-01-14">14.1.1960</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c520-45a7-f3c4971e56" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.9"
+                xml:id="letter-4209-084f-8d2c7b69ae">
+                <correspAction xml:id="sender-f9d8-fd7b-15ac674f39" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst Bloch</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1960-08-14">14.8.1960</date>
+                </correspAction>
+                <correspAction xml:id="addressee-41a9-df0e-928f503abe" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.1"
+                xml:id="letter-658d-9f0a-753fc4a6e1">
+                <correspAction xml:id="sender-381e-932a-d58a139c4f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst Bloch</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1960-11-15">15.11.1960</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7d92-071a-6d0bc4f798" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.11"
+                xml:id="letter-1c85-83eb-a361082bc5">
+                <correspAction xml:id="sender-f584-fce7-642ca7f35e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1960-11-28">28.11.1960</date>
+                </correspAction>
+                <correspAction xml:id="addressee-20f3-4026-1de2649a87" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.12"
+                xml:id="letter-50e1-6ef5-bf5190eac4">
+                <correspAction xml:id="sender-2ca1-a8f1-d5c0249eba" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1961-09-23">23.9.1961</date>
+                </correspAction>
+                <correspAction xml:id="addressee-217a-62d8-16e97243b5" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.13"
+                xml:id="letter-74cd-6f4d-3d7560948c">
+                <correspAction xml:id="sender-6ecf-83a6-17b3c0d496" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst Bloch</persName>
+                    <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+                    <date when="1961-09-30">30.9.1961</date>
+                </correspAction>
+                <correspAction xml:id="addressee-09ae-4bf3-c4e7a3d169" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.14"
+                xml:id="letter-7ead-eabf-689a0f47c2">
+                <correspAction xml:id="sender-b5ec-93a8-d719eaf02c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1961-10-11">11.10.1961</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fda4-adc4-cf1086b32d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.15"
+                xml:id="letter-1805-0ec3-02d3b5fac4">
+                <correspAction xml:id="sender-a857-c915-de927160a8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1962-11-09">9.11.1962</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c495-a3d1-df6208ceba" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.16"
+                xml:id="letter-afed-1b56-50a247cf3d">
+                <correspAction xml:id="sender-e8a0-a518-72a1638d0e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511750">Karola Bloch</persName>
+                    <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+                    <date when="1962-11-13">13.11.1962</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8690-304f-e4037f9d28" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.17"
+                xml:id="letter-bfd6-25fa-df95bce401">
+                <correspAction xml:id="sender-652a-04e7-7e4bc08963" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst Bloch</persName>
+                    <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+                    <date when="1965-01-28">28.1.1965</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e5b4-fba1-184fe9b62c" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.18"
+                xml:id="letter-bc30-8be3-1cb0d6ae53">
+                <correspAction xml:id="sender-fb53-761d-7694e152b8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1965-07-26">26.7.1965</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8e51-38ab-4301f9e8bd" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.19"
+                xml:id="letter-2de8-2f58-2089be51c7">
+                <correspAction xml:id="sender-50fa-4d86-427c1be0f6" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1965-08-09">9.8.1965</date>
+                </correspAction>
+                <correspAction xml:id="addressee-bca2-dfa1-16efb0cd5a" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.2"
+                xml:id="letter-0fb1-a21c-865cad1e70">
+                <correspAction xml:id="sender-1a48-0ba7-d0cfe9b54a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst Bloch</persName>
+                    <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+                    <date when="1965-09-01">1.9.1965</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ec90-f5dc-b321649a5d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.21"
+                xml:id="letter-9b48-643a-f1db46ec5a">
+                <correspAction xml:id="sender-f83c-21f6-0d3c46e7b9" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1965-09-19">19.9.1965</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7af4-5c24-694bc873fa" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.22"
+                xml:id="letter-0ca2-ea8c-ae6f518dbc">
+                <correspAction xml:id="sender-3450-b04d-2f753b148c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1966-01-07">7.1.1966</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8219-8d31-3429ab1df5" type="received">
+                    <persName>Gertrud Ledebur (Kongress für die Freiheit der Kultur)</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.23"
+                xml:id="letter-927b-956c-70fd495b82">
+                <correspAction xml:id="sender-74de-85ae-3625019fcb" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1966-01-20">20.1.1966</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ce03-9b65-7cb1d9e852" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.24"
+                xml:id="letter-7c38-b1f9-b43da8c610">
+                <correspAction xml:id="sender-6a89-d1ca-f31a6e924c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1967-07-16">16.7.1967</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e067-9e53-c20df5a174" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst und Karola
+                        Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.25"
+                xml:id="letter-fc1a-12a3-0a4126db83">
+                <correspAction xml:id="sender-b813-b817-2160bfcd43" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511750">Karola Bloch</persName>
+                    <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+                    <date when="1967-07-24">24.7.1967</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2a15-8279-1d28b643e7" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.26"
+                xml:id="letter-aeb0-856e-1afd3bec25">
+                <correspAction xml:id="sender-a690-1cad-a0842fedb5" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1967-07-30">30.7.1967</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f604-197e-d421fa8637" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst und Karola
+                        Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.27"
+                xml:id="letter-50d7-e976-08214be3d6">
+                <correspAction xml:id="sender-abcd-e54c-6c580eab97" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511750">Karola Bloch</persName>
+                    <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+                    <date when="1969-01-04">4.1.1969</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4a70-50be-24efda7395" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.28"
+                xml:id="letter-c8d4-e415-316f029ec7">
+                <correspAction xml:id="sender-5ace-2769-5107f8cb4d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <persName ref="https://d-nb.info/gnd/14286627X">Charlotte Zelka</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1969-01-05">5.1.1969</date>
+                </correspAction>
+                <correspAction xml:id="addressee-702c-3e25-93e4c071f5" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst und Karola
+                        Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.29"
+                xml:id="letter-ab96-2596-215eda360b">
+                <correspAction xml:id="sender-c075-0c48-2140cab7e8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1969-01-07">7.1.1969</date>
+                </correspAction>
+                <correspAction xml:id="addressee-07d4-4253-01ea5648bc" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511750">Karola Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.3"
+                xml:id="letter-7f23-2df5-be65cda041">
+                <correspAction xml:id="sender-2537-0be5-e1586ac739" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1969-03-18">18.3.1969</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8a95-09c7-02ab38d617" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst und Karola
+                        Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.31"
+                xml:id="letter-6af0-02e4-8bc1e64f0d">
+                <correspAction xml:id="sender-7f3b-7456-4bfa38ec91" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511750">Karola Bloch</persName>
+                    <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+                    <date when="1969-04-07">7.4.1969</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d4c0-b17d-db5e14af37" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.32"
+                xml:id="letter-1e8b-db56-01cd594a8f">
+                <correspAction xml:id="sender-d209-e80a-972605b1cf" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1969-04-14">14.4.1969</date>
+                </correspAction>
+                <correspAction xml:id="addressee-259e-a4b5-8c49dfbe56" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511750">Karola und Ernst
+                        Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.33"
+                xml:id="letter-db02-2710-becf14ad57">
+                <correspAction xml:id="sender-7d8b-bf34-ea3862cb0f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1969-07">Juli 1969</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e723-675a-267fe1a45b" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.34"
+                xml:id="letter-8d3e-8309-64b0fa3d7c">
+                <correspAction xml:id="sender-ed62-4cfb-2e14bd576c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511750">Karola Bloch</persName>
+                    <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+                    <date when="1969-07-27">27.7.1969</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4b97-60d8-2f1c57a8b4" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.35"
+                xml:id="letter-5bc2-7dec-c3f746b20a">
+                <correspAction xml:id="sender-12c4-3af6-f138e92a7c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1969-07-31">31.7.1969</date>
+                </correspAction>
+                <correspAction xml:id="addressee-dba0-b637-571d0e3c26" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511750">Karola Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.36"
+                xml:id="letter-f46c-1c2e-0e4ab81f97">
+                <correspAction xml:id="sender-9afc-8fa3-537e1a8d04" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1969-09-15">15.9.1969</date>
+                </correspAction>
+                <correspAction xml:id="addressee-03b8-6b09-ce0a86915f" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.37"
+                xml:id="letter-f5eb-5c07-9843d0af52">
+                <correspAction xml:id="sender-2b8a-528e-9ed2c8405f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1969-10-19">19.10.1969</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5ae3-261b-41fd285b3e" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst und Karola
+                        Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.38"
+                xml:id="letter-06b1-9651-65eaf384b0">
+                <correspAction xml:id="sender-c420-193e-0639fa4718" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511750">Karola Bloch</persName>
+                    <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+                    <date when="1970-12-10">10.12.1970</date>
+                </correspAction>
+                <correspAction xml:id="addressee-729b-3f8b-47b5e6c8ad" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.39"
+                xml:id="letter-4583-c805-327410f68b">
+                <correspAction xml:id="sender-6570-91fd-c4265d3f19" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511750">Karola Bloch</persName>
+                    <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+                    <date when="1970-12-10">10.12.1970</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5834-2f36-3026fe947d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.4"
+                xml:id="letter-86e4-0415-b23c6d9a4e">
+                <correspAction xml:id="sender-dcf8-a4d8-b1dc80326e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511750">Karola Bloch</persName>
+                    <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+                    <date when="1970-12-14">14.12.1970</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c340-f261-75a34960df" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.40a"
+                xml:id="letter-5214-5f20-407dca8125">
+                <correspAction xml:id="sender-0d81-1c2d-0168f2eb35" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511750">Karola Bloch</persName>
+                    <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+                    <date when="1970-12-12">12.12.1970</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d051-cf20-0278bfed54" type="received">
+                    <persName ref="https://d-nb.info/gnd/1133052983">Ernst Günter Engelhard
+                        (Frankfurter Rundschau)</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.41"
+                xml:id="letter-7aef-fda5-b9c21d7e43">
+                <correspAction xml:id="sender-4c65-eb89-b7e1c326d0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1970-12-15">15.12.1970</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f071-3d4f-1368e7024a" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511750">Karola Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.42"
+                xml:id="letter-bcd6-a36c-dfce5b6a41">
+                <correspAction xml:id="sender-0c63-2091-59180ca4d7" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511750">Karola Bloch</persName>
+                    <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+                    <date when="1970-12-17">17.12.1970</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6a0d-40bc-70a65c981f" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.43"
+                xml:id="letter-38a4-36af-cd4ab81e9f">
+                <correspAction xml:id="sender-862a-96d4-fab96507ed" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1970-12-20">20.12.1970</date>
+                </correspAction>
+                <correspAction xml:id="addressee-05be-079d-5a24d8fb69" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511750">Karola Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.44"
+                xml:id="letter-24c5-a036-75d43a1fb2">
+                <correspAction xml:id="sender-9ed0-961a-1e63b25cf7" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511750">Karola Bloch</persName>
+                    <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+                    <date when="1970-12-20">20.12.1970</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5ef2-8f64-ef8d97ca0b" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.45"
+                xml:id="letter-d5ab-98c6-763ba0dfe4">
+                <correspAction xml:id="sender-b2d7-8c2b-cb31752adf" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118511750">Karola und Ernst
+                        Bloch</persName>
+                    <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+                    <date when="1970-12-22">22.12.1970</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3ebc-29fb-0c867b52d4" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders und Charlotte
+                        Zelka</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.46"
+                xml:id="letter-678b-c6e4-f89b6ed024">
+                <correspAction xml:id="sender-cf92-18ad-a8902bcf47" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1970-12-25">25.12.1970</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9d8c-694d-6f75a1238b" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511750">Karola Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.47"
+                xml:id="letter-da7f-c0de-5cf1863740">
+                <correspAction xml:id="sender-51c2-ce7a-f3b02da5e8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1970-12-28">28.12.1970</date>
+                </correspAction>
+                <correspAction xml:id="addressee-48fa-79c1-6fc1d948ae" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511750">Karola Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.48"
+                xml:id="letter-6974-fa8d-6503e7b241">
+                <correspAction xml:id="sender-3d06-cd94-472d30b9ef" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1971-11-22">22.11.1971</date>
+                </correspAction>
+                <correspAction xml:id="addressee-895f-42d7-e03cd7f426" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.49"
+                xml:id="letter-b08c-732f-f6e314cd05">
+                <correspAction xml:id="sender-4e7f-acbf-e217f3a609" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1971-12-01">1.12.1971</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3254-7acd-1649c2a837" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst und Karola
+                        Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="4.5"
+                xml:id="letter-57cb-765c-6deb30291c">
+                <correspAction xml:id="sender-9e32-869c-657efa3801" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1974-09-19">19.9.1974</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5f69-dbf5-93bd26ef05" type="received">
+                    <persName ref="https://d-nb.info/gnd/118511742">Ernst Bloch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.1"
+                xml:id="letter-94c5-a9b8-524baf897c">
+                <correspAction xml:id="sender-b2c8-ba25-ba16cd85f9" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                    <placeName ref="http://www.geonames.org/2809346">Wiesbaden</placeName>
+                    <date when="1925-08-15">15.8.1925</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5906-c958-c50469bf17" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.2"
+                xml:id="letter-1d69-eb07-5148267d0a">
+                <correspAction xml:id="sender-7eb8-bf2c-526ce9a308" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2769482">Oetz (Tirol)</placeName>
+                    <date when="1925-08-20">20.8.1925</date>
+                </correspAction>
+                <correspAction xml:id="addressee-bf06-5869-6c4d783f05" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.3"
+                xml:id="letter-51ef-7162-1e89c70d53">
+                <correspAction xml:id="sender-1e45-82cb-3a14dfb029" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2769057">Pertisau (Tirol)</placeName>
+                    <date when="1925-08-25">25.8.1925</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c32e-e70a-2b391508ec" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.4"
+                xml:id="letter-c479-f8b6-a3208cb15e">
+                <correspAction xml:id="sender-068f-7302-619af38dc5" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1925-09-08">8.9.1925</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3415-02ef-2feca87310" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.5"
+                xml:id="letter-ad0b-f75b-f8725e613b">
+                <correspAction xml:id="sender-427a-508a-13589ebad2" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1925-09-12">12.9.1925</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a38b-a6b8-6851ea4c7b" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.6"
+                xml:id="letter-e175-968b-168b47a5e9">
+                <correspAction xml:id="sender-81ed-5a10-3e8450b97d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName>o. O.</placeName>
+                    <date when="1925-10-01">1.10.1925</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b2c5-4390-d5f83640ba" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.7"
+                xml:id="letter-ce83-c3d1-52d4c910bf">
+                <correspAction xml:id="sender-f9e8-e425-f23d9e1b6a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName>o. O.</placeName>
+                    <date when="1925-10-02">2.10.1925</date>
+                </correspAction>
+                <correspAction xml:id="addressee-50ab-32a6-fd81e92406" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.8"
+                xml:id="letter-0497-387d-6acd0e3b18">
+                <correspAction xml:id="sender-bdf8-fa8b-3791026bde" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                    <placeName ref="http://www.geonames.org/2809346">Wiesbaden</placeName>
+                    <date when="1925-10-06">6.10.1925</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5a9e-e9d2-09c6fabe35" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.9"
+                xml:id="letter-eb82-ab48-59b42c130d">
+                <correspAction xml:id="sender-fdc8-bdc6-1ec5726a4f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1925-10-10">10.10.1925</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ba26-0c28-d5930182f4" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.1"
+                xml:id="letter-76c9-3de0-8273a9fd61">
+                <correspAction xml:id="sender-b73e-0317-f21c780e3a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1925-11-02">2.11.1925</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6258-cd63-fb3e259486" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.11"
+                xml:id="letter-6e71-4f8e-bfe970a63c">
+                <correspAction xml:id="sender-381b-26e5-9f6852dcb7" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1925-11-14">14.11.1925</date>
+                </correspAction>
+                <correspAction xml:id="addressee-94e6-6471-034d6eb875" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.12"
+                xml:id="letter-1538-9874-4f9e5278d1">
+                <correspAction xml:id="sender-40b1-6c40-0c8be9d246" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1925-11-30">30.11.1925</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f980-d2b5-c70246ea51" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.13"
+                xml:id="letter-a938-f3b4-4a320e5978">
+                <correspAction xml:id="sender-06f3-af37-a53d4cb9e0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1925-12-11">11.12.1925</date>
+                </correspAction>
+                <correspAction xml:id="addressee-382b-54ec-9a761b804c" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.14"
+                xml:id="letter-c469-2a61-db8af51243">
+                <correspAction xml:id="sender-d2fc-ec86-0af6851c4e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1925-12-28">28.12.1925</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1db8-4265-1d9e568b70" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.15"
+                xml:id="letter-b68d-d780-4a98137cd0">
+                <correspAction xml:id="sender-be83-82c3-b2dce85a10" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1926-01-28">28.1.1926</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7034-bd1f-0f51e8a97b" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.16"
+                xml:id="letter-3b24-b3ed-51ae37d28c">
+                <correspAction xml:id="sender-2d56-f8e5-9d627bc3f0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1926-03-04">4.3.1926</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5fab-704e-09fd4b37e5" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.17"
+                xml:id="letter-645c-721a-dc2b465389">
+                <correspAction xml:id="sender-e215-6348-c730a4bf61" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1926-03-15">15.3.1926</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b364-8321-d75c42a018" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.18"
+                xml:id="letter-85f3-ab6f-d6ab950f24">
+                <correspAction xml:id="sender-5cfd-b8d3-cfb129705a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1926-04-17">17.4.1926</date>
+                </correspAction>
+                <correspAction xml:id="addressee-714c-83ba-0fe586d314" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.19"
+                xml:id="letter-473a-8041-4d017c6fb9">
+                <correspAction xml:id="sender-eb79-7f9a-571be62cd3" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1926-04-23">23.4.1926</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8c50-72f4-84d1b6927f" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.2"
+                xml:id="letter-2d70-7c59-921f8cab43">
+                <correspAction xml:id="sender-641a-9d21-d8740a3e9f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1926-04-27">27.4.1926</date>
+                </correspAction>
+                <correspAction xml:id="addressee-730e-a025-f05e378ba1" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.21"
+                xml:id="letter-e432-e215-a24fcd693e">
+                <correspAction xml:id="sender-e83f-b1f8-d9cf38b4a2" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1926-05-27">27.5.1926</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0ea8-6703-d37cf8420b" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.22"
+                xml:id="letter-5a39-4a59-7d901efc82">
+                <correspAction xml:id="sender-0621-5836-1b2d35e7ca" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1926-06-02">2.6.1926</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e2fc-53d9-b5a2de1f90" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.23"
+                xml:id="letter-4a16-946b-c819f67250">
+                <correspAction xml:id="sender-8615-75db-314f5dae2b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2925177">Freiburg im
+                        Breisgau</placeName>
+                    <date when="1926-06-23">23.6.1926</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9d23-75f8-560c9fe87b" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.24"
+                xml:id="letter-0f5c-31f9-acf8e91240">
+                <correspAction xml:id="sender-8d97-6587-17cf4e8b69" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1926-08-25">25.8.1926</date>
+                </correspAction>
+                <correspAction xml:id="addressee-bf94-208d-be297cd56a" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.25"
+                xml:id="letter-365e-ae87-4b6f0c379d">
+                <correspAction xml:id="sender-d0ce-85ce-64b790e8a5" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1926-09-12">12.9.1926</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e98f-6314-e562907d8b" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.26"
+                xml:id="letter-84f3-4f6d-e1bf07d539">
+                <correspAction xml:id="sender-3c6b-195a-8a26935f41" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1926-10-04">4.10.1926</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3ba9-193c-48cf215d67" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.27"
+                xml:id="letter-af64-3ec2-cf863e42db">
+                <correspAction xml:id="sender-0897-d2b9-95ca43f716" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1926-10-18">18.10.1926</date>
+                </correspAction>
+                <correspAction xml:id="addressee-dbf3-5bae-062d7ca843" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.28"
+                xml:id="letter-196f-2701-f4c9e25036">
+                <correspAction xml:id="sender-bd38-f09a-42cfad50b9" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1926-10-18">18.10.1926</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0e9c-3e86-b402673a8d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.29"
+                xml:id="letter-bf09-e473-a8f52e17db">
+                <correspAction xml:id="sender-0ac1-e03b-301ab867c5" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1926-10-25">25.10.1926</date>
+                </correspAction>
+                <correspAction xml:id="addressee-08ea-16a4-5380fca6d4" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.3"
+                xml:id="letter-e341-fc27-b247ae086f">
+                <correspAction xml:id="sender-9efa-dac4-ce07a1583f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1926-10-29">29.10.1926</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2d1b-3d0e-0649ecdb83" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.31"
+                xml:id="letter-d9c5-871a-951e8fa2bc">
+                <correspAction xml:id="sender-3049-2f97-be4913f8da" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName>o. O.</placeName>
+                    <date when="1926">1926</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ca50-3db7-bfd2095a18" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.32"
+                xml:id="letter-70e9-624a-3c27eb5814">
+                <correspAction xml:id="sender-45a6-a280-6a14098e3d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1927-02-12">12.2.1927</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0a5d-97d2-30b7de158c" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.33"
+                xml:id="letter-832b-dc42-45ce029bf8">
+                <correspAction xml:id="sender-a184-4738-a3904c7e8f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2990440">Nizza</placeName>
+                    <date when="1927-02-18">18.2.1927</date>
+                </correspAction>
+                <correspAction xml:id="addressee-384a-3c7a-073d829b5e" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.34"
+                xml:id="letter-8dc7-0db5-f5962eb84a">
+                <correspAction xml:id="sender-6d83-e5ac-fa297c6d58" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1927-03-14">14.3.1927</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f29c-7ec4-1fd375e649" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.35"
+                xml:id="letter-ebf2-c17e-2d8b047c95">
+                <correspAction xml:id="sender-38eb-9ec4-6fe807c93a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2953775">Neubabelsberg
+                        (Potsdam)</placeName>
+                    <date when="1929-08-13">13.8.1929</date>
+                </correspAction>
+                <correspAction xml:id="addressee-302e-5ae1-0df861b43e" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.36"
+                xml:id="letter-45b1-457c-7a6e3d8920">
+                <correspAction xml:id="sender-37fb-9f47-edf4a32961" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2953775">Neubabelsberg
+                        (Potsdam)</placeName>
+                    <date when="1929-08-23">23.8.1929</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0e28-24b8-16435f0aeb" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.37"
+                xml:id="letter-8bc1-42a7-4936adbec0">
+                <correspAction xml:id="sender-082f-52c7-ed3c591f67" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1930-04-04">4.4.1930</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3268-7296-e07b29f6d3" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.38"
+                xml:id="letter-9182-2407-7cd49625f3">
+                <correspAction xml:id="sender-af29-6b2e-4510f6893c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1930-05-10">10.5.1930</date>
+                </correspAction>
+                <correspAction xml:id="addressee-46fb-df49-8fadbc650e" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.38a"
+                xml:id="letter-6819-6e92-15896a0e2d">
+                <correspAction xml:id="sender-b120-b3d5-e51a87cbd0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1930-05-10">10.5.1930</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8354-9736-5c6208439d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118563432">Vittorio Klostermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.39"
+                xml:id="letter-a6de-6b25-b7ae509238">
+                <correspAction xml:id="sender-f39e-0932-6214db3f50" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1953-03-18">18.3.1953</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7d2a-54a0-296eb5a403" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.4"
+                xml:id="letter-a2b0-f03d-d3f98ca450">
+                <correspAction xml:id="sender-27cd-7bdf-5f03914b2a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1953-04-16">16.4.1953</date>
+                </correspAction>
+                <correspAction xml:id="addressee-65c4-526b-50d1c364a9" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.41"
+                xml:id="letter-0bd3-1473-fe4d053ca8">
+                <correspAction xml:id="sender-384a-8fc0-ed06cb58f3" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1953-06-09">9.6.1953</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1752-b152-f879e04a2c" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.42"
+                xml:id="letter-8392-a819-e03b6af279">
+                <correspAction xml:id="sender-6de9-b1a5-8257ac1e4b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1953-10-21">21.10.1953</date>
+                </correspAction>
+                <correspAction xml:id="addressee-89f3-e8d9-94815fe7c3" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.43"
+                xml:id="letter-0c4f-a0dc-48e0cd26a1">
+                <correspAction xml:id="sender-b20d-0b38-b47d052fc6" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1953-10-23">23.10.1953</date>
+                </correspAction>
+                <correspAction xml:id="addressee-48bc-da93-d0b5e74a2f" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.44"
+                xml:id="letter-5bed-ec34-d7165fa483">
+                <correspAction xml:id="sender-47f9-b2c1-e60c158a3d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1953-11-14">14.11.1953</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d24f-a32b-c27e51a96f" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.45"
+                xml:id="letter-981e-804c-296d1a7834">
+                <correspAction xml:id="sender-173e-b6a5-5f874be3ad" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1953-11-16">16.11.1953</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7314-9a08-364acf928e" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.46"
+                xml:id="letter-607f-7c48-1a539c8b6e">
+                <correspAction xml:id="sender-ecb8-743b-ba6fd59438" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1953-11-19">19.11.1953</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fba9-cfe4-706ef9a2c4" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.47"
+                xml:id="letter-37f2-9c1f-9c01f824ad">
+                <correspAction xml:id="sender-2d4c-7f1a-51d34ba987" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1953-11-23">23.11.1953</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e798-51cd-ae25416cd0" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.48"
+                xml:id="letter-3214-e3a8-6cd258394b">
+                <correspAction xml:id="sender-c14e-46c0-432c8ad760" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1953-11-24">24.11.1953</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e520-e879-174c936a0d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.49"
+                xml:id="letter-967b-2ba8-08a19de3c4">
+                <correspAction xml:id="sender-eb1a-2ad3-2f935c0ead" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1953-11-25">25.11.1953</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b237-c381-a37c429d5f" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.5"
+                xml:id="letter-9520-2c98-a70b61f985">
+                <correspAction xml:id="sender-f8cb-431b-efc5d96a8b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1954-12-03">3.12.1954</date>
+                </correspAction>
+                <correspAction xml:id="addressee-17fc-4b3a-f1925740ce" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.51"
+                xml:id="letter-a0d3-fc31-a82371bd69">
+                <correspAction xml:id="sender-d91e-c465-b18df54c72" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1954-12-13">13.12.1954</date>
+                </correspAction>
+                <correspAction xml:id="addressee-73f5-52ea-2314b59c6d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.52"
+                xml:id="letter-bd76-7e34-315e7bdf2c">
+                <correspAction xml:id="sender-a620-b5ec-a5362d74cb" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1954-12-17">17.12.1954</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ea3c-703f-fa065b23e9" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.53"
+                xml:id="letter-c152-8942-5bd4f36e9a">
+                <correspAction xml:id="sender-982c-589f-fa213d475b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1954-12-20">20.12.1954</date>
+                </correspAction>
+                <correspAction xml:id="addressee-96fd-96fb-7da456cbe1" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.54"
+                xml:id="letter-ec69-6931-3e046a8bd5">
+                <correspAction xml:id="sender-d341-c61f-79fd4be038" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1955-06-04">4.6.1955</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f1cb-a93b-3c6d1e0f58" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.55"
+                xml:id="letter-4659-e163-d9a0e2b371">
+                <correspAction xml:id="sender-92e5-0de7-2156e8bfc4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1955-06-08">8.6.1955</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7dba-6175-d03b7c8496" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.56"
+                xml:id="letter-47a5-7198-362fdc4098">
+                <correspAction xml:id="sender-fd82-109d-c54a012e8d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1955-06-10">10.6.1955</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1207-8d93-378a4c01ef" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.57"
+                xml:id="letter-976c-60ea-3d708a259f">
+                <correspAction xml:id="sender-f80d-cd50-02ca59de3f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1956-10-21">21.10.1956</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7328-50b8-e316df4c78" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.58"
+                xml:id="letter-be62-b3e6-5862a90bcd">
+                <correspAction xml:id="sender-5c79-e601-2380f5ca91" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1956-11-07">7.11.1956</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0d6e-7e52-39bacd4e60" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.59"
+                xml:id="letter-cb76-d479-5ab6cf038e">
+                <correspAction xml:id="sender-1873-f7c2-241b037edc" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1956-11-09">9.11.1956</date>
+                </correspAction>
+                <correspAction xml:id="addressee-75af-042d-f0b613248d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.6"
+                xml:id="letter-b1e8-25b8-d80673fb21">
+                <correspAction xml:id="sender-24b1-160e-e506b28f4a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1956-11-12">12.11.1956</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8d06-943e-8ec51fd672" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.61"
+                xml:id="letter-e295-c8df-c5f7e36092">
+                <correspAction xml:id="sender-f1e3-1e05-e1cd2497f8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1956-11-14">14.11.1956</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6f71-6031-796fcbe4d8" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.62"
+                xml:id="letter-b650-6dfb-317fb845ea">
+                <correspAction xml:id="sender-374e-689f-1f74ce8b02" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                    <persName ref="https://d-nb.info/gnd/172320100">Monika Plessner</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1956-12-24">24.12.1956</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7bc6-0986-9a6512b837" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.63"
+                xml:id="letter-a095-52c8-9a7bd406c2">
+                <correspAction xml:id="sender-e4a9-1685-926bd587ca" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1956-12-27">27.12.1956</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b975-230d-e4318675f0" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                    <persName ref="https://d-nb.info/gnd/172320100">Monika Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.64"
+                xml:id="letter-8d42-03b6-7d8e3a0b42">
+                <correspAction xml:id="sender-1c04-036e-fe75dbc2a9" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1957-08-24">24.8.1957</date>
+                </correspAction>
+                <correspAction xml:id="addressee-201c-f137-69a4fc8732" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.65"
+                xml:id="letter-af57-593e-786df95b32">
+                <correspAction xml:id="sender-19c8-4d25-6bac07d4f2" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1957-08-31">31.8.1957</date>
+                </correspAction>
+                <correspAction xml:id="addressee-cf7e-0de4-9140f8c2e3" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.66"
+                xml:id="letter-98b6-ca1d-3bad1264c7">
+                <correspAction xml:id="sender-c0fb-3cfe-9675ba0f4c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1977-09-08">8.9.1977</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c1b5-6493-3186c2fde7" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.67"
+                xml:id="letter-5a8e-8c35-e6f0b7d2c1">
+                <correspAction xml:id="sender-8f65-82d9-e4fc8a19d7" type="sent">
+                    <persName ref="https://d-nb.info/gnd/172320100">Monika Plessner</persName>
+                    <placeName ref="http://www.geonames.org/2660872">Erlenbach (Zürich)</placeName>
+                    <date when="1977-09-13">13.9.1977</date>
+                </correspAction>
+                <correspAction xml:id="addressee-432a-46d8-3b95d10a46" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.68"
+                xml:id="letter-a390-36b1-4268a139fe">
+                <correspAction xml:id="sender-ce48-5ce8-38be75246d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/172320100">Monika Plessner</persName>
+                    <placeName ref="http://www.geonames.org/2660872">Erlenbach (Zürich)</placeName>
+                    <date when="1978-04-17">17.4.1978</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7d40-af29-ab7968cf04" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.69"
+                xml:id="letter-26d8-e8b0-ec72d35189">
+                <correspAction xml:id="sender-21eb-de89-8b25971afe" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                    <persName ref="https://d-nb.info/gnd/172320100">Monika Plessner</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1980-01-22">22.1.1980</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b5f6-924a-ad018c542e" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.7"
+                xml:id="letter-c2d3-da65-23f7948e61">
+                <correspAction xml:id="sender-7f51-a403-715d9634cb" type="sent">
+                    <persName ref="https://d-nb.info/gnd/172320100">Monika Plessner</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1982-04-28">28.4.1982</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f32e-59cf-4728eba9c3" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.71"
+                xml:id="letter-e2d3-1372-392bdfca60">
+                <correspAction xml:id="sender-bfc7-58c6-9b1530ad64" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1982-05-05">5.5.1982</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1946-a856-efc7048523" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.72"
+                xml:id="letter-eb6a-c8e1-05d8f6b24e">
+                <correspAction xml:id="sender-28da-910b-47f3b5d012" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1982-09-17">17.9.1982</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e764-0f23-b4df72a1c9" type="received">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a26f278e-f78d-4d9d-8632-93c374bbf937" key="5.73"
+                xml:id="letter-391d-5cd3-43edba6cf1">
+                <correspAction xml:id="sender-f9eb-9d26-ecfb126879" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118741071">Helmuth Plessner</persName>
+                    <persName ref="https://d-nb.info/gnd/172320100">Monika Plessner</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1982-10-23">23.10.1982</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ebf7-ec70-fe6c752389" type="received">
+                    <persName ref="https://d-nb.info/gnd/118502751">Günther Anders</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
