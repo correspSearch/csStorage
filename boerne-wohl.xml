@@ -1,0 +1,2264 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <!-- Generated from table of letters with csv2cmi 2.1.0 as webservice at https://cmif.saw-leipzig.de-->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="title-154e-27ae-10b92d3587">Briefwechsel zwischen Ludwig Börne und
+                    Jeanette Wohl</title>
+                <editor>Marthe Küster</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <idno type="url"
+                    >https://cmif.saw-leipzig.de/api/2023-10-05T08:27:48.195__Börne-und-Wohl(4)/xml</idno>
+                <date when="2023-10-05T08:27:48.270940"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This file is
+                        licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="bb1acddd-201b-413d-ac2f-2f6f35e3ed80">Briefwechsel
+                    (1818-1824): Edition und Kommentar. Ludwig Börne und Jeanette Wohl.
+                    Herausgegeben von Renate Heuer und Andreas Schulz, De Gruyter, 2012.
+                    https://www.doi.org/10.1515 /978311029349</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="1"
+                xml:id="letter-9abf-e380-53621bd08a">
+                <correspAction xml:id="sender-b309-92ad-a2403756e1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1818-07-16">16. Juli 1818</date>
+                </correspAction>
+                <correspAction xml:id="addressee-bca8-d627-7256fd1cba" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2953348">Langenschwalbach</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="2"
+                xml:id="letter-7326-a7db-753b628d4e">
+                <correspAction xml:id="sender-ac52-95b0-84a376eb2d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2938913">Darmstadt</placeName>
+                    <date when="1819-08-03">3. August 1819</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5ef0-10ad-95fd46bce7" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="3"
+                xml:id="letter-1a45-034e-df6987c3a1">
+                <correspAction xml:id="sender-34b0-9428-fab96c7d42" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1819-09-11">11. September 1819</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b8f1-6b08-69a850412b" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="4"
+                xml:id="letter-ab32-eda1-450bc712f3">
+                <correspAction xml:id="sender-6b7d-85e3-29c8560ba7" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1819-09-12">12. September 1819</date>
+                </correspAction>
+                <correspAction xml:id="addressee-241a-403c-657b840f3c" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="5"
+                xml:id="letter-c185-9743-c43b7a0152">
+                <correspAction xml:id="sender-cbe9-f8cd-d586a43e72" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2886946">Koblenz</placeName>
+                    <date when="1819-09-16">16. September 1819</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a56f-25b3-941ef2da83" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="6"
+                xml:id="letter-31a5-710e-4670183ce2">
+                <correspAction xml:id="sender-6d73-1723-f3275e10da" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date notBefore="1819-09-17" notAfter="1819-09-18">17. u. 18. September
+                        1819</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5a0e-a671-e0da7152f8" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="7"
+                xml:id="letter-41bd-0d65-6075c2319f">
+                <correspAction xml:id="sender-0357-e943-082eaf41b3" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date when="1819-09-20">20. September 1819</date>
+                </correspAction>
+                <correspAction xml:id="addressee-01b7-10fc-50b47c1fa3" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="8"
+                xml:id="letter-a798-4a98-ca678f9140">
+                <correspAction xml:id="sender-60f1-ef06-f7b2936e14" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/3247449">Aachen</placeName>
+                    <date when="1819-09-23">23. September 1819</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fda9-42e9-9f762bea81" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="9"
+                xml:id="letter-ac34-8fb5-46e9b3c21f">
+                <correspAction xml:id="sender-c5f1-06ef-4e0df719c6" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1819-09-24">24. September 1819</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8516-82c1-e7b9c4d13a" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="10"
+                xml:id="letter-b10f-029f-136aebc948">
+                <correspAction xml:id="sender-598a-c0ba-2a7fbd5e09" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1819-10-21">21. Oktober 1819</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ea51-4d02-e81af69243" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="11"
+                xml:id="letter-1648-8c73-d103b759ec">
+                <correspAction xml:id="sender-7503-b954-dac83e9f72" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date notBefore="1819-10-23" notAfter="1819-10-25">23., 24. u. 25. Oktober
+                        1819</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0135-387a-30da975bfe" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="12"
+                xml:id="letter-dbf6-bd42-8c423f9067">
+                <correspAction xml:id="sender-098e-de01-04798f651d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date notBefore="1819-10-26" notAfter="1819-10-30">26.–30. Oktober 1819</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fc85-f14e-6ab9d1cf34" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="13"
+                xml:id="letter-c492-7356-ae10db98cf">
+                <correspAction xml:id="sender-b320-3e45-018ab2c75f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date notBefore="1819-11-05" notAfter="1819-11-06">5. u. 6. November 1819</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6c97-e419-59210dbf4c" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="14"
+                xml:id="letter-8916-1463-baf14e53dc">
+                <correspAction xml:id="sender-f7de-b304-de285409c1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date notBefore="1819-11-09" notAfter="1819-11-11">9. u. 11. November
+                        1819</date>
+                </correspAction>
+                <correspAction xml:id="addressee-059f-afed-e47df08bc6" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="15"
+                xml:id="letter-265f-de1a-acf7de920b">
+                <correspAction xml:id="sender-5214-a13c-c7abe34916" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date notBefore="1819-11-14" notAfter="1819-11-17">14. u. 17. November
+                        1819</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f8e9-6ed0-fb6307d851" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="16"
+                xml:id="letter-2019-7462-91f07db3a6">
+                <correspAction xml:id="sender-7e2b-be86-f97214608b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1819-11-18">18. November 1819</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5a4f-8415-9bde2fc457" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="17"
+                xml:id="letter-8bf7-56d7-d3694fe2ca">
+                <correspAction xml:id="sender-ca71-e698-f7ba6e5d82" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2809346">Wiesbaden</placeName>
+                    <date notBefore="1820-05-27" notAfter="1820-05-28">27. u. 28. Mai 1820</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e510-c598-4d8a2196c3" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="18"
+                xml:id="letter-5864-64b1-08673d24b1">
+                <correspAction xml:id="sender-7a09-e07a-3f248c0e69" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2809346">Wiesbaden</placeName>
+                    <date when="1820-05-28">28. Mai 1820</date>
+                </correspAction>
+                <correspAction xml:id="addressee-419b-6de2-849b0326ef" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="19"
+                xml:id="letter-2e46-410e-a0b8de5467">
+                <correspAction xml:id="sender-1406-69dc-f92d6507ce" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2930646">Ellfeld</placeName>
+                    <date when="1820-05-28">28. Mai 1820</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fd06-be8c-526f7c98d4" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="20"
+                xml:id="letter-95bc-6bd0-5fc93ba2e0">
+                <correspAction xml:id="sender-f6e8-40c3-5dea7bf81c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2930646">Ellfeld</placeName>
+                    <date when="1820-05-29">29. Mai 1820</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2695-bea5-42c71356f9" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="21"
+                xml:id="letter-bc0e-251d-6108ba7fde">
+                <correspAction xml:id="sender-3f0d-d9c8-8952c71dba" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1820-05-31">31. Mai 1820</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4769-bf40-0ea54c3876" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="22"
+                xml:id="letter-16e7-572e-b36ecdf751">
+                <correspAction xml:id="sender-4ad2-29fd-fd5098b34a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1820-06-01">1. Juni 1820</date>
+                </correspAction>
+                <correspAction xml:id="addressee-aec6-5fa3-d6ce78a254" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="23"
+                xml:id="letter-069f-d829-f50b4ec132">
+                <correspAction xml:id="sender-a138-4d82-8f6190523c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1820-11-10">10. November 1820</date>
+                </correspAction>
+                <correspAction xml:id="addressee-10cf-03e8-290173be8a" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="24"
+                xml:id="letter-7508-037b-93485b0f6c">
+                <correspAction xml:id="sender-6d7a-f0d2-03a1e46df8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1820-11-11">11. November 1820</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4d96-eb2c-6a108c9f7b" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="25"
+                xml:id="letter-14af-b756-123674cdfb">
+                <correspAction xml:id="sender-afcd-690c-7491fdc6e0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date notBefore="1820-11-11" notAfter="1820-11-13">11., 12. u. 13. November
+                        1820</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9625-fe43-8f437ebcd1" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="26"
+                xml:id="letter-5de9-2d97-ac3642b081">
+                <correspAction xml:id="sender-c182-3be2-e710b6d835" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date notBefore="1820-11-14" notAfter="1820-11-15">14. u. 15. November
+                        1820</date>
+                </correspAction>
+                <correspAction xml:id="addressee-97db-9760-64e0cb73a2" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="27"
+                xml:id="letter-5d90-7426-98ac4fd2b1">
+                <correspAction xml:id="sender-b980-05bc-7d042bace8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1820-11-17">17. November 1820</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0fd9-6f79-7a034129dc" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="28"
+                xml:id="letter-23b9-1e7a-8a6b73945d">
+                <correspAction xml:id="sender-b13d-bd60-785a1f694b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2943560">Bruchsal</placeName>
+                    <date when="1820-11-18">18. November 1820</date>
+                </correspAction>
+                <correspAction xml:id="addressee-41b9-b87a-0ba56f839c" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="29"
+                xml:id="letter-4859-7ef9-f9ea304127">
+                <correspAction xml:id="sender-48af-d5f0-2f04768ca1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1821-08-22">22. August 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7cbe-ac49-9486d320c1" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="30"
+                xml:id="letter-74db-31a8-2b4d0ea85c">
+                <correspAction xml:id="sender-ecd0-7285-8dec3b9620" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1821-08-22">22. August 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b140-afbe-7a245f39ec" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="31"
+                xml:id="letter-e36a-103e-6be7394152">
+                <correspAction xml:id="sender-0179-b921-3a58ef9610" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1821-08-24">24. August 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-16bc-9b74-2e3c701ad6" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="32"
+                xml:id="letter-9cdb-3a65-eaf0321b85">
+                <correspAction xml:id="sender-37b9-d25c-d5723fe469" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date notBefore="1821-08-23" notAfter="1821-08-25">23., 24. u. 25. August
+                        1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d9c4-3614-6b514ce9ad" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="33"
+                xml:id="letter-58a1-1aed-53a0972b8c">
+                <correspAction xml:id="sender-f694-645f-ab0834f7ed" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1821-08-27">27. August 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6a70-e170-c905f2a831" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="34"
+                xml:id="letter-f50c-f9e1-38f4bac17e">
+                <correspAction xml:id="sender-b53d-374a-4a3d5ce806" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date notBefore="1821-08-26" notAfter="1821-08-29">26.–29. August 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4bdf-fdc7-7ce230ab46" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="35"
+                xml:id="letter-a752-c68f-0ad9468125">
+                <correspAction xml:id="sender-3e69-ea37-15cb60f23a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1821-09-01">1. September 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a6d7-c340-c3bf2a0651" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="36"
+                xml:id="letter-5869-7e9d-054f791328">
+                <correspAction xml:id="sender-6289-3b19-7f62190c3a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date notBefore="1821-09-02" notAfter="1821-09-03">2. u. 3. September
+                        1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4526-13e6-36751d9ceb" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="37"
+                xml:id="letter-c71e-0da6-319b285e06">
+                <correspAction xml:id="sender-4271-5380-b5ade6f942" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date notBefore="1821-09-02" notAfter="1821-09-05">2., 4. u. 5. September
+                        1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e4f0-1a57-e51fab2d09" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="38"
+                xml:id="letter-890f-5cb2-ca5369b4f0">
+                <correspAction xml:id="sender-8e4f-078f-320d6acb57" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date notBefore="1821-09-06" notAfter="1821-09-07">6. u. 7. September
+                        1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-62db-964a-04b69dc5a1" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="39"
+                xml:id="letter-30c6-c4d1-4cb6f798d3">
+                <correspAction xml:id="sender-bc80-b62c-ba0691725d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1821-09-08">8. September 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-578e-4fd1-fd5a63184c" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="40"
+                xml:id="letter-3bae-451a-fb51d8046a">
+                <correspAction xml:id="sender-1594-28a7-f3579ab40d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1821-09-11">11. September 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5382-f371-a1639508f2" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="41"
+                xml:id="letter-7034-65e8-056e17dc82">
+                <correspAction xml:id="sender-b2f7-80d6-2837d0f45a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1821-09-14">14. September 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3d20-ceab-f3e56a4d12" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="42"
+                xml:id="letter-8093-d78e-5dcf93086b">
+                <correspAction xml:id="sender-4b70-e6a4-e0365f48b2" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date notBefore="1821-09-13" notAfter="1821-09-15">13., 14. u. 15. September
+                        1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-689b-7034-8634efc02d" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="43"
+                xml:id="letter-028f-4261-f385049bd2">
+                <correspAction xml:id="sender-23a7-5ac7-24185e63da" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1821-09-16">16. September 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0826-86f2-15e09683b7" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="44"
+                xml:id="letter-da3f-9206-84edacb163">
+                <correspAction xml:id="sender-73b6-8de3-36bf08ae79" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1821-09-19">19. September 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-86b1-9d4c-b340c8d21a" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="45"
+                xml:id="letter-d592-1bc8-924d3b8c75">
+                <correspAction xml:id="sender-7b90-de1c-b06d4713ef" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date notBefore="1821-09-20" notAfter="1821-09-21">20. u. 21. September
+                        1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8edb-0b1a-486c219ebf" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="46"
+                xml:id="letter-f58a-5f30-edc869014f">
+                <correspAction xml:id="sender-2c67-83d5-f317ba6d2c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1821-09-24">24. September 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a8bd-da48-6f21905c37" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="47"
+                xml:id="letter-d654-a637-dc2308f645">
+                <correspAction xml:id="sender-3f67-fed6-fb9564107e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date notBefore="1821-09-26" notAfter="1821-09-27">26. u. 27. September
+                        1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-659d-84eb-df2b4e1ca5" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="48"
+                xml:id="letter-fc83-456b-be354801f2">
+                <correspAction xml:id="sender-5246-8abc-5a627dc930" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1821-09-28">28. September 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3ce9-a5c4-43eb58d9ac" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="49"
+                xml:id="letter-0dc5-b01d-062e4a7dc8">
+                <correspAction xml:id="sender-c356-14ba-e2bca87645" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date notBefore="1821-09-30" notAfter="1821-10-01">30. September u. 1. Oktober
+                        1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4c2f-a035-5a2f46d30e" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="50"
+                xml:id="letter-eba6-91a8-041b2fc5ae">
+                <correspAction xml:id="sender-03f2-ad05-e2f5b8a76d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1821-09-30">30. September 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ba30-e8f1-647e09cbad" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="51"
+                xml:id="letter-4ca2-42ac-e2d89705b6">
+                <correspAction xml:id="sender-a6cf-8d37-2cab9e6814" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1821-10-05">5. Oktober 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2314-76fa-6a39cf07be" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="52"
+                xml:id="letter-4dc2-3c6f-fe4b89206d">
+                <correspAction xml:id="sender-c215-c480-f1e79b6cd0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1821-10-06">6. Oktober 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1e5d-ca27-ea27c15b3f" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="53"
+                xml:id="letter-714e-38d9-0a9c316b47">
+                <correspAction xml:id="sender-07ea-52e9-b7821ea05d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1821-10-06">6. Oktober 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3ef9-b4f5-0df7ecb498" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="54"
+                xml:id="letter-0723-5b17-8126f5db39">
+                <correspAction xml:id="sender-4f8c-87e3-3d6195cbe2" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1821-10-07">7. Oktober 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-93e0-f364-2180c9734a" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="55"
+                xml:id="letter-43d7-8172-b3048cd56a">
+                <correspAction xml:id="sender-5147-50b8-34281c7605" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1821-10-09">9. Oktober 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-384f-c814-6bac35fe01" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="56"
+                xml:id="letter-e620-d857-54a8cd29b1">
+                <correspAction xml:id="sender-9816-e1b0-4a7e526918" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1821-10-12">12. Oktober 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d9c0-5ed8-1ceafd8426" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="57"
+                xml:id="letter-35c7-e9f0-3a715c8fd4">
+                <correspAction xml:id="sender-f9a8-41c2-c682ad197b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date notBefore="1821-10-11" notAfter="1821-10-14">11., 13. u. 14. Oktober
+                        1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e70b-2746-7d6150ebf9" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="58"
+                xml:id="letter-0265-c2ef-f0c274135a">
+                <correspAction xml:id="sender-b27e-9f73-6c29df3850" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date notBefore="1821-10-13" notAfter="1821-10-14">13. u. 14. Oktober
+                        1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6a54-0e34-09b6a14c83" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="59"
+                xml:id="letter-e1c3-e9b4-b31dfc4869">
+                <correspAction xml:id="sender-fc9a-1632-417ec8d923" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1821-10-19">19. Oktober 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-46a8-87ec-5eacb80374" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="60"
+                xml:id="letter-7f19-2740-3195f70b8c">
+                <correspAction xml:id="sender-1c72-d187-8b4f321cd0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1821-10-19">19. Oktober 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0fc1-327c-3ef7b52896" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="61"
+                xml:id="letter-71c6-f6d2-a934f01852">
+                <correspAction xml:id="sender-5178-3e25-ba17283ec4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1821-10-22">22. Oktober 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d961-823f-fd546a217b" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="62"
+                xml:id="letter-586d-94cd-5b4dfe3c0a">
+                <correspAction xml:id="sender-b048-b2c9-a93c7dbf10" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date notBefore="1821-10-21" notAfter="1821-10-26">21., 24. u. 26. Oktober
+                        1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-741e-2a76-37c8bf921d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="63"
+                xml:id="letter-6a02-b127-f2980da371">
+                <correspAction xml:id="sender-0dba-8129-84cf3270da" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date notBefore="1821-10-24" notAfter="1821-10-27">24., 25. 26. u. 27. Oktober
+                        1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-520d-bc94-efbc0546da" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="64"
+                xml:id="letter-0ca8-5431-01be6d7532">
+                <correspAction xml:id="sender-40ab-2c3a-5cb2e8daf3" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1821-10-29">29. Oktober 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5a69-a0f6-b864ac9517" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="65"
+                xml:id="letter-fe9b-fd25-0a246d89bc">
+                <correspAction xml:id="sender-5b94-f29c-80ca1df359" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date notBefore="1821-10-28" notAfter="1821-10-30">28., 29. u. 30. Oktober
+                        1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-89dc-5978-ec15b3890d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="66"
+                xml:id="letter-a9fe-8fe4-c9708d613a">
+                <correspAction xml:id="sender-6c74-1f6c-081c5f46ab" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date notBefore="1821-11-01" notAfter="1821-11-02">1. u. 2. November 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-84d6-728e-4e7f081d5b" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="67"
+                xml:id="letter-58a7-fa95-eb8fd369c1">
+                <correspAction xml:id="sender-a87d-e87d-f503a2b649" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date notBefore="1821-11-01" notAfter="1821-11-02">1. u. 2. November 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fe2b-0a82-b867af1c43" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="68"
+                xml:id="letter-87ba-d7ce-254cfe176a">
+                <correspAction xml:id="sender-183a-e762-3248de97b1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date notBefore="1821-11-05" notAfter="1821-11-06">5. u. 6. November 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-817a-9f07-6fed482a03" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="69"
+                xml:id="letter-dfe7-cae6-7f13e80429">
+                <correspAction xml:id="sender-f52e-418f-bc1f5ade60" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1821-11-09">9. November 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b460-6a92-7128dea469" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="70"
+                xml:id="letter-046a-61b7-e4065a2dc9">
+                <correspAction xml:id="sender-9721-a062-3bd4095ace" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1821-11-12">12. November 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-71d3-4719-3f760ea28c" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="71"
+                xml:id="letter-028f-f594-021b5a67f4">
+                <correspAction xml:id="sender-31f5-825b-7425fb16e8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date notBefore="1821-11-15" notAfter="1821-11-16">15. u. 16. November
+                        1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a5d2-d2ec-b4028c937d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="72"
+                xml:id="letter-e627-acb7-9eb1437850">
+                <correspAction xml:id="sender-0d92-1c36-dbfc07a3e1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1821-11-19">19. November 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-cf64-fa6b-5ca2b90f3e" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="73"
+                xml:id="letter-5921-9bea-e1f697c85a">
+                <correspAction xml:id="sender-b9f6-1f2c-384ca256b9" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date notBefore="1821-11-16" notAfter="1821-11-23">16. u. 23. November
+                        1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fd0e-fd76-93bd402ae5" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="74"
+                xml:id="letter-80c3-1eb7-2874abc915">
+                <correspAction xml:id="sender-8135-94f2-12cd6b470a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1821-11-22">22. November 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-dab0-15ac-dcb4af1628" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="75"
+                xml:id="letter-2043-da26-67d8ebfa30">
+                <correspAction xml:id="sender-f5ca-6ab0-e38af74916" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date notBefore="1821-11-25" notAfter="1821-11-26">25. u. 26. November
+                        1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d1ce-6408-d8a01e3bc2" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="76"
+                xml:id="letter-8496-2893-b03da9f164">
+                <correspAction xml:id="sender-8d64-234a-d61baf9e84" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1821-11-26">26. November 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a5b9-f180-62aeb195f4" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="77"
+                xml:id="letter-c90f-f4ae-d45bc16908">
+                <correspAction xml:id="sender-98b5-d510-6acd30491e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date notBefore="1821-11-28" notAfter="1821-11-29">28. u. 29. November
+                        1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9ebc-b85c-8d42f96b75" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="78"
+                xml:id="letter-27d4-54ac-f657301984">
+                <correspAction xml:id="sender-19a0-b27d-6bf34dec91" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date notBefore="1821-11-29" notAfter="1821-11-30">29. u. 30. November
+                        1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6fda-1a02-0687a1bde2" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="79"
+                xml:id="letter-7086-b716-40bdae5f7c">
+                <correspAction xml:id="sender-c023-c5ad-b68795d04e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1821-12-02">2. Dezember 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-da59-8a4e-5b8d6f3a97" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="80"
+                xml:id="letter-da3b-f76b-61a0e89b23">
+                <correspAction xml:id="sender-4bc6-54ef-718efad532" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1821-12-03">3. Dezember 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7ad2-519a-5b16d94ea2" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="81"
+                xml:id="letter-04cd-4a8b-cb21580d37">
+                <correspAction xml:id="sender-e52f-c52e-29cdb6417e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date notBefore="1821-12-05" notAfter="1821-12-06">5. u. 6. Dezember 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-40de-18de-857a309612" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="82"
+                xml:id="letter-ecd7-59e4-035abd617e">
+                <correspAction xml:id="sender-9f47-846e-6294158b7f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date notBefore="1821-12-08" notAfter="1821-12-10">8. u. 10. Dezember
+                        1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ca15-48e1-29e56ac487" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="83"
+                xml:id="letter-0a27-1d93-db617a4290">
+                <correspAction xml:id="sender-a69f-cb48-c90f63e5bd" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date notBefore="1821-12-09" notAfter="1821-12-10">9. u. 10. Dezember
+                        1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d531-6fd5-cb61982d73" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="84"
+                xml:id="letter-6b83-c791-2ac13bed85">
+                <correspAction xml:id="sender-6e7d-47e9-c247f9e5d3" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1821-12-13">13. Dezember 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a21c-f2de-1d7e80954b" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="85"
+                xml:id="letter-26eb-1fa6-d46be31f58">
+                <correspAction xml:id="sender-bf37-235e-cd23b146a9" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1821-12-14">14. Dezember 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fe09-ef38-3e2d10ab67" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="86"
+                xml:id="letter-6edc-c09e-5864d3bac9">
+                <correspAction xml:id="sender-e529-d375-8aeb9f6720" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1821-12-17">17. Dezember 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-afed-a618-1ea2369054" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="87"
+                xml:id="letter-f1cd-1204-d5a67c8f9e">
+                <correspAction xml:id="sender-5fb2-f1ed-eb2fa468cd" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1821-12-17">17. Dezember 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b58c-18a3-45d8c1be30" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="88"
+                xml:id="letter-a248-650e-b083d6e9fa">
+                <correspAction xml:id="sender-2963-a980-926ac41e5f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1821-12-20">20. Dezember 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2817-2c73-8a4b0ef2cd" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="89"
+                xml:id="letter-d678-1264-b8c731e5fd">
+                <correspAction xml:id="sender-4035-5cb9-eb786142fd" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date notBefore="1821-12-23" notAfter="1821-12-24">23. u. 24. Dezember
+                        1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d50e-f934-9a17c23ed0" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="90"
+                xml:id="letter-fdc9-f39a-1b24058a6c">
+                <correspAction xml:id="sender-3571-4c19-f64ca23e7b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1821-12-24">24. Dezember 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6e3d-e3c7-d9fe14567c" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="91"
+                xml:id="letter-ef71-26b9-7529a6310e">
+                <correspAction xml:id="sender-3ec8-0d95-34ba6c201f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date notBefore="1821-12-26" notAfter="1821-12-27">26. u. 27. Dezember
+                        1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e8c5-e782-b5f82c61ad" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="92"
+                xml:id="letter-d67b-6b0e-89231be7f0">
+                <correspAction xml:id="sender-b6c0-9fe5-c3b097854a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1821-12-28">28. Dezember 1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ce38-72cf-d259c30a87" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="93"
+                xml:id="letter-2c87-413b-b24d390cf5">
+                <correspAction xml:id="sender-cab3-c9f6-7903b86fd1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date notBefore="1821-12-30" notAfter="1821-12-31">30. u. 31. Dezember
+                        1821</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9a08-ca1f-b413dc7af0" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="94"
+                xml:id="letter-a543-375d-dc5b4f0987">
+                <correspAction xml:id="sender-a6fd-a4f8-eb4379c28f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date notBefore="1822-01-01" notAfter="1822-01-03">1. u. 3. Januar 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a16d-c25a-2b1cf5948e" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="95"
+                xml:id="letter-827f-f293-c375680ef1">
+                <correspAction xml:id="sender-790e-a548-18e7640d2b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date notBefore="1822-01-04" notAfter="1822-01-06">4. u. 6. Januar 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-daf7-0982-8a6bd735c1" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="96"
+                xml:id="letter-df46-e821-a572890de1">
+                <correspAction xml:id="sender-4769-ad51-083612e547" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date notBefore="1822-01-06" notAfter="1822-01-10">6. und 10. Januar 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-56ae-6ac1-94f7a806e1" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="97"
+                xml:id="letter-1308-a698-219fc0bd4e">
+                <correspAction xml:id="sender-f543-cb08-d9a8f4176b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-01-11">11. Januar 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e964-68a4-6acdb398e0" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="98"
+                xml:id="letter-70d1-194f-bf079dec81">
+                <correspAction xml:id="sender-a914-bdcf-24bf0d8e19" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date notBefore="1822-01-12" notAfter="1822-01-13">12. u. 13. Januar 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-db36-8efc-0dc528931f" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="99"
+                xml:id="letter-28f5-7293-13059b8fdc">
+                <correspAction xml:id="sender-3028-3186-68fd97e4cb" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-01-15">15. Januar 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1e8c-d8b4-314cd9b57a" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="100"
+                xml:id="letter-c3e4-01da-8b15e03af2">
+                <correspAction xml:id="sender-a418-54e3-95b6afd8e2" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date notBefore="1822-01-14" notAfter="1822-01-17">14., 15. und 17. Januar
+                        1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6cbe-5ed7-a632e4c1b8" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="101"
+                xml:id="letter-2a56-c346-5df1b29e3a">
+                <correspAction xml:id="sender-691d-819f-04f697da85" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date notBefore="1822-01-19" notAfter="1822-01-20">19. u. 20. Januar 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1e46-ab0d-063c2ed14a" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="102"
+                xml:id="letter-be40-7f3e-8253f9c7d4">
+                <correspAction xml:id="sender-9f7a-fa7b-2501698fc7" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date notBefore="1822-01-20" notAfter="1822-01-22">20., 21. u. 22. Januar
+                        1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-26f3-6f84-d712ac8f4b" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="103"
+                xml:id="letter-b91c-392a-9ac87bd50e">
+                <correspAction xml:id="sender-c8be-eb02-da8fb51297" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-01-24">24. Januar 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b816-745c-a9cd6e5410" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="104"
+                xml:id="letter-e436-4132-c84fb50d96">
+                <correspAction xml:id="sender-fbc6-df1b-6d72bc308a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date notBefore="1822-01-27" notAfter="1822-01-30">27. u. 30. Januar 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0a94-d162-74dfb6e539" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="105"
+                xml:id="letter-57ea-406b-26bdaef07c">
+                <correspAction xml:id="sender-45e2-d80e-2cbf637185" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-01-31">31. Januar 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8473-3cb6-7a01e6c23b" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="106"
+                xml:id="letter-36b4-175d-5189ce62bd">
+                <correspAction xml:id="sender-f723-f53e-bd3ca65072" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-02-01">1. Februar 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5ceb-1942-50a328c9b7" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="107"
+                xml:id="letter-df5e-7fb1-da1c8fb967">
+                <correspAction xml:id="sender-8509-d741-9f21db46e0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-02-01">1. Februar 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7340-1d8b-2a5738f0dc" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="108"
+                xml:id="letter-2179-6a3f-e6f408d92a">
+                <correspAction xml:id="sender-f563-b582-5c1d0482b7" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1822-02-04">4. Februar 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-56f3-6397-df1ca963eb" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="109"
+                xml:id="letter-c70a-968d-3d2681a974">
+                <correspAction xml:id="sender-be4c-5e87-8c3de29b14" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-02-06">6. Februar 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-83cd-46b5-80ac593de4" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="110"
+                xml:id="letter-8e79-e90a-36a75081c2">
+                <correspAction xml:id="sender-8dcb-e3a2-065971a8d4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date notBefore="1822-02-08" notAfter="1822-02-09">8. u. 9. Februar 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-de72-532b-d2937e8bf4" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="111"
+                xml:id="letter-b732-5394-c5dab1280e">
+                <correspAction xml:id="sender-813c-b3cd-205436def8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date notBefore="1822-02-10" notAfter="1822-02-11">10. u. 11. Februar
+                        1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-31de-d981-28cf376a5b" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="112"
+                xml:id="letter-18e6-8a97-ac41e8fd90">
+                <correspAction xml:id="sender-ade5-bf09-07e421dfcb" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1822-02-13">13. Februar 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6f2e-9a82-1e9dc0ba67" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="113"
+                xml:id="letter-81c6-e961-f85237a9d6">
+                <correspAction xml:id="sender-6351-ca7e-0fbc826543" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-02-15">15. Februar 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d50e-72f9-12d453bcf6" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="114"
+                xml:id="letter-806d-5d4a-ec025f9367">
+                <correspAction xml:id="sender-3b8f-d8ac-1ae38b0c4d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1822-02-17">17. Februar 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4186-9134-d10cb6e34a" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="115"
+                xml:id="letter-28c1-f09c-7841bafc05">
+                <correspAction xml:id="sender-c764-a5c1-60e8b42fa3" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-02-19">19. Februar 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5e31-2b36-a2657938d4" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="116"
+                xml:id="letter-5408-c1e4-53fea6bcd0">
+                <correspAction xml:id="sender-78cf-c317-3de8960547" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1822-02-22">22. Februar 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a486-6083-932f065ce8" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="117"
+                xml:id="letter-bc79-d91a-2af87de1c5">
+                <correspAction xml:id="sender-fbe7-e92a-26fe5db18a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-02-24">24. Februar 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2e76-8f39-574ec6a1bd" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="118"
+                xml:id="letter-fe07-9b4a-f271d6495b">
+                <correspAction xml:id="sender-eda4-60a5-a80f1364db" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1822-02-27">27. Februar 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-32a5-241c-c526ab08f9" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="119"
+                xml:id="letter-5db8-9d26-6cd0ea7213">
+                <correspAction xml:id="sender-a72c-4cda-8d7e910ba4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-03-01">1. März 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-93ea-b1e7-db62fa4803" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="120"
+                xml:id="letter-f95a-6d48-869b4c51de">
+                <correspAction xml:id="sender-c6e2-38df-b64f029c71" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1822-03-04">4. März 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e4d2-5681-174b2d8f90" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="121"
+                xml:id="letter-dc50-6b20-ea023597cb">
+                <correspAction xml:id="sender-bd51-4528-c365ef84b7" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1822-03-05">5. März 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9a26-173b-1c96eabf73" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="122"
+                xml:id="letter-e9a4-8062-4fd3e158b6">
+                <correspAction xml:id="sender-4761-a30f-41adc3f05e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-03-06">6. März 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2b67-4813-6854b1ad93" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="123"
+                xml:id="letter-63ae-c2e9-12d6e0c783">
+                <correspAction xml:id="sender-df0a-6974-7a0b82d9f4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1822-03-09">9. März 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3160-9be0-7b1a54d83e" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="124"
+                xml:id="letter-62ec-b7a4-2d3eb87ac4">
+                <correspAction xml:id="sender-7ab3-2986-2b59a01d73" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-03-11">11. März 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-192d-5d93-6a758e019c" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="125"
+                xml:id="letter-bc7a-1a8e-98dab27465">
+                <correspAction xml:id="sender-a1b7-e1c5-0df4176ac2" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1822-03-14">14. März 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d0eb-e86f-e9207a8b31" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="126"
+                xml:id="letter-390d-a3e0-d3c6192f47">
+                <correspAction xml:id="sender-1f3c-c382-7df32aeb50" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-03-16">16. März 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fcd0-e084-f0a9c64d83" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="127"
+                xml:id="letter-dca4-63bd-1ed380bfca">
+                <correspAction xml:id="sender-89ed-a867-de2873afb6" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1822-03-18">18. März 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-01fc-fd72-bd268fae93" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="128"
+                xml:id="letter-692b-4ce1-41ca60b297">
+                <correspAction xml:id="sender-c3f7-0a46-bf34178ca5" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-03-20">20. März 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0783-ec40-6d19ae0f75" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="129"
+                xml:id="letter-27b9-d27c-c1fb9ae324">
+                <correspAction xml:id="sender-4076-519e-d5b6a2c09f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1822-03-22">22. März 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-30c4-5738-2c0b3f9e15" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="130"
+                xml:id="letter-b750-c548-075e286f4c">
+                <correspAction xml:id="sender-1809-8524-0a264cf8db" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-03-24">24. März 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-93b2-25e1-a1b9ce3d60" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="131"
+                xml:id="letter-98bf-9f4a-84fc90b156">
+                <correspAction xml:id="sender-287d-b20e-f5b19a3c24" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1822-03-27">27. März 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9d5f-498b-f0a421d5c7" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="132"
+                xml:id="letter-43ce-a29c-467e2b1c8f">
+                <correspAction xml:id="sender-41bc-8325-9e71df3a8b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-03-29">29. März 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ced9-c371-98c50ba2df" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="133"
+                xml:id="letter-95c3-8765-31084e9c26">
+                <correspAction xml:id="sender-ba6c-450e-bc8eda315f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1822-04-01">1. April 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-37d5-d8c2-d809faeb23" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="134"
+                xml:id="letter-9ae7-c3a9-2d10574ce9">
+                <correspAction xml:id="sender-f496-3a7f-1de6a837fc" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-04-03">3. April 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-714a-1f5a-527a14d90e" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="135"
+                xml:id="letter-45f6-a461-8cbfe92d76">
+                <correspAction xml:id="sender-2706-a38f-a6173098f4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-04-07">7. April 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7ca8-92bf-a930df174c" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="136"
+                xml:id="letter-eb73-15db-12d947ecf0">
+                <correspAction xml:id="sender-ad94-0b75-6e92dfcb47" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1822-04-09">9. April 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-40fd-42c5-0548c1f3ab" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="137"
+                xml:id="letter-5adb-4ed8-8d9b6fce40">
+                <correspAction xml:id="sender-2cde-9fae-5f6a249038" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-04-11">11. April 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0f4d-53c8-e98f7b13a4" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="138"
+                xml:id="letter-baf0-7081-27ea8345fb">
+                <correspAction xml:id="sender-25b0-63c5-a8032b5761" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1822-04-13">13. April 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fa35-4357-8720f93bc5" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="139"
+                xml:id="letter-a47e-9c5b-5d08ba46c2">
+                <correspAction xml:id="sender-8f3e-cf98-fdc90be216" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-04-16">16. April 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-53d1-50f4-bf830a641d" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="140"
+                xml:id="letter-6b97-36bc-c86a49d37e">
+                <correspAction xml:id="sender-70a9-ce98-d85c293bf1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date notBefore="1822-04-18" notAfter="1822-04-19">18. u. 19. April 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a1c2-8b43-463e15d72a" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="141"
+                xml:id="letter-d267-804e-465e02bd93">
+                <correspAction xml:id="sender-9325-5b27-fc0639ea24" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-04-21">21. April 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-632b-35d4-1bd9c4af72" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="142"
+                xml:id="letter-2739-9a47-3619cebd57">
+                <correspAction xml:id="sender-d71a-d6c8-8e5fcba940" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date notBefore="1822-04-23" notAfter="1822-04-24">23. u. 24. April 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2db7-2a6d-b1079e3a8d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="143"
+                xml:id="letter-d560-57e0-b5613df902">
+                <correspAction xml:id="sender-9c45-a792-97bf28413d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-04-26">26. April 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0db6-8c69-75d081c26f" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="144"
+                xml:id="letter-4293-52eb-01a7439c62">
+                <correspAction xml:id="sender-c985-9253-2dfe5b81c6" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1822-04-29">29. April 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8590-a209-07fc26bd5a" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="145"
+                xml:id="letter-6e7a-ec25-360ea1df25">
+                <correspAction xml:id="sender-3abe-b941-4e1ad82607" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-04-30">30. April 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-26b9-c378-b60c9e21a8" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="146"
+                xml:id="letter-8e45-9d1f-3672850eda">
+                <correspAction xml:id="sender-0f4b-481b-12a86fc05e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-05-02">2. Mai 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6c20-37ea-e3706b95d1" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="147"
+                xml:id="letter-83d2-0cd7-382945f76c">
+                <correspAction xml:id="sender-d1a6-5792-6192def47c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1822-05-02">2. Mai 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-54f0-fa12-174a3ed569" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="148"
+                xml:id="letter-6293-f9ea-0ef5d2c379">
+                <correspAction xml:id="sender-3895-2ef3-b937806f1d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-05-04">4. Mai 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c573-a156-af61e07db4" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="149"
+                xml:id="letter-f695-c815-7cea3061db">
+                <correspAction xml:id="sender-3f54-2b80-92cf6415bd" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1822-05-04">4. Mai 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2d05-fdc3-0c7bad9f54" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="150"
+                xml:id="letter-7a9b-b40e-c4e9b17362">
+                <correspAction xml:id="sender-26f0-762a-173f2d6945" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-05-06">6. Mai 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-52c4-c1f2-9058abcf7d" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="151"
+                xml:id="letter-08ef-14f6-20ad4ec875">
+                <correspAction xml:id="sender-c38e-8ea4-f60c78d2e1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1822-05-08">8. Mai 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d105-4a28-d74ca89fb6" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="152"
+                xml:id="letter-85b3-31a0-d7539ea4c0">
+                <correspAction xml:id="sender-c27b-c612-ab6fe5d472" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1822-05-08">8. Mai 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5fd9-16e0-79631a5fd0" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="153"
+                xml:id="letter-a2fb-6817-75fcb2e406">
+                <correspAction xml:id="sender-069e-bf6e-f8517e943d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1822-05-09">9. Mai 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1e9a-12cd-84b257a10e" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="154"
+                xml:id="letter-6547-4b13-8ac6db1375">
+                <correspAction xml:id="sender-8ae2-18b5-d0c379e1f8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-05-10">10. Mai 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c974-ecad-bda14875e9" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="155"
+                xml:id="letter-a48f-06be-3af76d2e0b">
+                <correspAction xml:id="sender-9cab-628a-6495128bfe" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-05-11">11. Mai 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0c41-e5b2-065294d71e" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="156"
+                xml:id="letter-7586-a8bc-b58c0a41f3">
+                <correspAction xml:id="sender-26a0-bf8c-4a61b7d0c2" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1822-05-12">12. Mai 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-be6c-e6f9-63a9cf1b0d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="157"
+                xml:id="letter-da89-c0f7-d0a36ec541">
+                <correspAction xml:id="sender-25b3-b709-e3bacd4671" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date notBefore="1822-05-13" notAfter="1822-05-16">13. u. 16. Mai 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2e50-dcae-0839b61d54" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="158"
+                xml:id="letter-4f13-8e50-83ac5194db">
+                <correspAction xml:id="sender-c4ea-1f3c-5fc41908ad" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-05-18">18. Mai 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-48ab-ac60-b97254f6ed" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="159"
+                xml:id="letter-f072-846a-4d05713ce8">
+                <correspAction xml:id="sender-d714-d54a-d269f758c4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date notBefore="1822-05-20" notAfter="1822-05-21">20. u. 21. Mai 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8a6e-8d43-d917f84b36" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="160"
+                xml:id="letter-4ef9-1c96-4531ae87dc">
+                <correspAction xml:id="sender-82af-9560-d965423a8c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-05-23">23. Mai 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d154-6c4d-a781d9befc" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="161"
+                xml:id="letter-e9fd-2bc4-afe04c38b6">
+                <correspAction xml:id="sender-6018-1c02-e1b40a5d73" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1822-05-25">25. Mai 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f357-7b93-784a5dfcb3" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="162"
+                xml:id="letter-b327-6401-52ac0f8769">
+                <correspAction xml:id="sender-7d8a-0473-bf9651430c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-05-27">27. Mai 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-06d8-f6a3-dc82596abf" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="163"
+                xml:id="letter-fa51-68fd-42fc39d605">
+                <correspAction xml:id="sender-3f58-8d53-41e2768905" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date notBefore="1822-05-28" notAfter="1822-05-29">28. u. 29. Mai 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e53c-3e94-fd96c7b3a4" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="164"
+                xml:id="letter-6c9a-dae5-5608c9ed43">
+                <correspAction xml:id="sender-d08c-13b8-6c579efd0b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-05-31">31. Mai 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-deb0-7106-ce01f4a7d2" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="165"
+                xml:id="letter-7b98-16e4-0e6b2daf39">
+                <correspAction xml:id="sender-6ab7-1293-0ba1ec8467" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1822-06-03">3. Juni 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0893-b67d-a9b864e3f2" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="166"
+                xml:id="letter-49d0-743f-4edf63a098">
+                <correspAction xml:id="sender-cf01-59f1-1cda439806" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1822-06-03">3. Juni 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fc7e-5468-635cd024b9" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="167"
+                xml:id="letter-c6b3-9a2f-7b138ec4af">
+                <correspAction xml:id="sender-f4d8-45b8-a5604ef2b9" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-06-05">5. Juni 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-27c9-9846-5ca08b2713" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="168"
+                xml:id="letter-67e0-b274-0d18af7eb5">
+                <correspAction xml:id="sender-e613-3cbf-8fe4bc957d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-06-07">7. Juni 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fdc8-896f-ec09d8ba62" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="169"
+                xml:id="letter-72c5-de42-d37184e02f">
+                <correspAction xml:id="sender-6bfe-f124-7690cfb843" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-06-10">10. Juni 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b783-f9a8-d50673ae2f" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="170"
+                xml:id="letter-2df7-e382-3ec279bd48">
+                <correspAction xml:id="sender-24a7-3eac-9b630ac7d4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1822-06-12">12. Juni 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3f07-79c8-df275491b8" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="171"
+                xml:id="letter-431f-2538-f58cb63109">
+                <correspAction xml:id="sender-69cb-0614-85b6ed9afc" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1822-06-15">15. Juni 1822</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6a5c-02da-b8a3f7106d" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="172"
+                xml:id="letter-2d9c-b4f1-c1b69d8a27">
+                <correspAction xml:id="sender-ec4b-71de-81425d6ea3" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1824-03-17">17. März 1824</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0c4e-6cf3-8d0f653ca9" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="173"
+                xml:id="letter-7f5b-dc98-dc03e95271">
+                <correspAction xml:id="sender-c42a-c6df-94678b51fe" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1824-03-20">20. März 1824</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f2d3-0ac2-e83c4b57a9" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="174"
+                xml:id="letter-d61b-219e-be9cf241a6">
+                <correspAction xml:id="sender-86fd-67c2-1a9bd86c24" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1824-03-20">20. März 1824</date>
+                </correspAction>
+                <correspAction xml:id="addressee-643f-52cd-f194cb6ae0" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="175"
+                xml:id="letter-d5a6-baf4-ce8f69170a">
+                <correspAction xml:id="sender-47c9-8964-316a84b0c9" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date notBefore="1824-03-21" notAfter="1824-03-22">21. u. 22. März 1824</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7f5b-0ab4-02a6e58fd7" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="176"
+                xml:id="letter-d3e6-3c24-e4782610bf">
+                <correspAction xml:id="sender-a769-2d4b-0395cf78be" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1824-03-23">23. März 1824</date>
+                </correspAction>
+                <correspAction xml:id="addressee-05bc-98c2-08d52ba4c6" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="177"
+                xml:id="letter-ced0-701f-ce7f53d491">
+                <correspAction xml:id="sender-b468-80f9-3c09481d5e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1824-03-24">24. März 1824</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0fe7-ae3c-f84013dab2" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="178"
+                xml:id="letter-1c79-0be3-57a2069c4d">
+                <correspAction xml:id="sender-bf09-9fe0-6b17cd482a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1824-03-24">24. März 1824</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4e92-6129-6ad0fe1c8b" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="179"
+                xml:id="letter-0734-cd38-c80ad4371e">
+                <correspAction xml:id="sender-64c1-f591-d259371ceb" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1824-03-25">25. März 1824</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fec2-0b7d-92b1d5c678" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="180"
+                xml:id="letter-fc54-96ca-82c96be0df">
+                <correspAction xml:id="sender-90b2-0e91-9a10263bf8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date notBefore="1824-03-25" notAfter="1824-03-26">25. u. 26. März 1824</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ad9b-0a43-e5b46d93c8" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="181"
+                xml:id="letter-e0a5-e0b4-873c129ba6">
+                <correspAction xml:id="sender-1b3d-8ae5-4960ab2f3e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1824-03-26">26. März 1824</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e8f0-f80b-21f935b6cd" type="received">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="182"
+                xml:id="letter-7efb-2b9f-ed06217c53">
+                <correspAction xml:id="sender-a416-d643-7ba9c53e4d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                    <date when="1824-03-27">27. März 1824</date>
+                </correspAction>
+                <correspAction xml:id="addressee-471a-b4c7-b94173acf8" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bb1acddd-201b-413d-ac2f-2f6f35e3ed80" key="183"
+                xml:id="letter-bf0e-8f40-8cf395421d">
+                <correspAction xml:id="sender-9d8f-2ad1-87c9310e5a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118512749">Ludwig Börne</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1824-04-21">21. April 1824</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b9e2-f81e-b70e89f45d" type="received">
+                    <persName ref="https://d-nb.info/gnd/117456829">Jeanette Wohl</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
