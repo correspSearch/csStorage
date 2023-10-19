@@ -1,0 +1,2289 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ludwig Feuerbach Bd. 21: Briefwechsel V (1862-1868). Nachträge
+                    (1828-1861)</title>
+                <editor>Stefan Dumont<email>dumont@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der
+                        Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/"
+                        >CC0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/feuerbach/5.xml</idno>
+                <date when="2023-06-12T15:11:10.719-02:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="h74acf70-b928-4a2a-9b90-292877b22bab">Gesammelte Werke :
+                    Ludwig Feuerbach. Hrsg. von der Berlin-Brandenburgischen Akademie der
+                    Wissenschaften durch Werner Schuffenhauer. Bd. 21 : Briefwechsel V (1862 -
+                    1868). Nachträge (1828-1861). Bearb. von Manuela Köpe und Werner Schuffenhauer.
+                    Berlin, Akad.-Verl.: 2004.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="968">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116230193">Julius Duboc</persName>
+                    <placeName ref="http://www.geonames.org/2935517">Dortmund</placeName>
+                    <date when="1862-01-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="969">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117297623">Otto Lüning</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1862-01-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="970">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1862-01-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116230193">Julius Duboc</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="971">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1862-01-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116755679">Emma Herwegh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="972">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1862-02-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="973">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116036257">Ferdinand Kampe</persName>
+                    <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
+                    <date when="1862-02-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="974">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117297623">Otto Lüning</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1862-03-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="975">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                    <placeName ref="http://www.geonames.org/658225">Helsingfors</placeName>
+                    <date when="1862-04-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="976">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116036257">Ferdinand Kampe</persName>
+                    <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
+                    <date when="1862-04-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="977">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1030020817">Gustav Julius
+                        Junghann</persName>
+                    <placeName ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date when="1862-05-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="978">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117297623">Otto Lüning</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1862-06-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="979">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116230193">Julius Duboc</persName>
+                    <placeName ref="http://www.geonames.org/2935517">Dortmund</placeName>
+                    <date when="1862-07-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="980">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1862-07-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116230193">Julius Duboc</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="981">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1862-07-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118550128">Georg Herwegh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="982">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1030020817">Gustav Julius
+                        Junghann</persName>
+                    <placeName ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date when="1862-07-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="983">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116755679">Emma Herwegh</persName>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date when="1862-07-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="984">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1862-08-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1030020817">Gustav Julius
+                        Junghann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="985">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                    <date when="1862-08-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="986">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1030020817">Gustav Julius
+                        Junghann</persName>
+                    <placeName ref="http://www.geonames.org/2918752">Gotha</placeName>
+                    <date when="1862-08-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="987">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1862-09-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1077824076">Ludwig Jegel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="988">
+                <correspAction type="sent">
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <orgName ref="https://d-nb.info/gnd/2007973-4">Deutsche
+                        Schillerstiftung</orgName>
+                    <date when="1862-10-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="989">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                    <placeName ref="http://www.geonames.org/658225">Helsingfors</placeName>
+                    <date when="1862-10-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="990">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119156040">Adolf Strodtmann</persName>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1862-10-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="991">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119347091">Konrad Deubler</persName>
+                    <placeName ref="http://www.geonames.org/2782055">Goisern</placeName>
+                    <date when="1862-10-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="992">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1862-11-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119347091">Konrad Deubler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="993">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1862-11-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="994">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116230193">Julius Duboc</persName>
+                    <placeName ref="http://www.geonames.org/2935517">Dortmund</placeName>
+                    <date when="1862-11-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="995">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119156040">Adolf Strodtmann</persName>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1862-12-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="996">
+                <correspAction type="sent">
+                    <persName>B. Bleyer</persName>
+                    <placeName ref="http://www.geonames.org/3096208">Freystadt bei
+                        Graudenz</placeName>
+                    <date when="1862-12-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="997">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1862-12-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116230193">Julius Duboc</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="998">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116230193">Julius Duboc</persName>
+                    <placeName ref="http://www.geonames.org/2935517">Dortmund</placeName>
+                    <date when="1862-12-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="999">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1862-12-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117513016">Jakob von Khanikoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1000">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116755679">Emma Herwegh</persName>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date when="1863-01-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1001">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1863-02-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116755679">Emma Herwegh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1002">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117297623">Otto Lüning</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1863-03-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1003">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1863-03-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117513016">Jakob von Khanikoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1004">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1863-03-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117297623">Otto Lüning</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1005">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                    <placeName ref="http://www.geonames.org/658225">Helsingfors</placeName>
+                    <date when="1863-03-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1006">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118828738">Friedrich Kapp</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1863-04-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1007">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date to="1863-05-19" from="1863-05-11">11./19.05.1863</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118828738">Friedrich Kapp</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1008">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1863-05-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1009">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                    <placeName ref="http://www.geonames.org/658225">Helsingfors</placeName>
+                    <date when="1863-06-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1010">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/105514398X">Nikolai Wladimirowitsch von
+                        Khanikoff</persName>
+                    <placeName ref="http://www.geonames.org/2992585">Montfort-L'Amaury</placeName>
+                    <date when="1863-07-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1011">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1863-10-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117513016">Jakob von Khanikoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1012">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569910">Ferdinand Lassalle</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1863-10-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1013">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date notBefore="1863-09-01" notAfter="1863-11-30">Herbst 1863</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/101295154">August Nathanael
+                        Böhner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1014">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1863-11-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117257583">Christian Steinicken</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1015">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date to="1863-12-03" from="1863-10-28">28.10./3.12.1863</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118569910">Ferdinand Lassalle</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1016">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1863-12-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118828738">Friedrich Kapp</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1017">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119347091">Konrad Deubler</persName>
+                    <placeName ref="http://www.geonames.org/2782055">Goisern</placeName>
+                    <date when="1863-12-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1018">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1863-12-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119347091">Konrad Deubler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1019">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1864-01-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1020">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117370649">Hugo Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1864-01-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1021">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117297623">Otto Lüning</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1864-01-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1022">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                    <placeName ref="http://www.geonames.org/658225">Helsingfors</placeName>
+                    <date notBefore="1864-01-21" notAfter="1864-01-31">Ende Januar 1864</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1023">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1864-02-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1024">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                    <placeName ref="http://www.geonames.org/658225">Helsingfors</placeName>
+                    <date when="1864-03-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1025">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117680869">Edouard Vaillant</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1864-05-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1026">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1864-05-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1027">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117680869">Edouard Vaillant</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1864-06-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1028">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                    <placeName ref="http://www.geonames.org/658225">Helsingfors</placeName>
+                    <date when="1864-07-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1029">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1864-08-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117513016">Jakob von Khanikoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1030">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116755679">Emma Herwegh</persName>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date when="1864-08-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1031">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1864-08-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116755679">Emma Herwegh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1032">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117680869">Edouard Vaillant</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1864-08-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1033">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb11923029q">Joseph
+                        Roy</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1864-08-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1034">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                    <placeName ref="http://www.geonames.org/658225">Helsingfors</placeName>
+                    <date when="1864-09-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1035">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1864-09-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116483431">Leonore Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1036">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1864-09-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1037">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1864-09-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Schreitmüller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1038">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117680869">Edouard Vaillant</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1864-10-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1039">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                    <placeName ref="http://www.geonames.org/658225">Helsingfors</placeName>
+                    <date when="1864-11-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1040">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118828738">Friedrich Kapp</persName>
+                    <date when="1864-12-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1041">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118828738">Friedrich Kapp</persName>
+                    <date when="1864-12-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1042">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118796569">Karl Blind</persName>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                    <date when="1864-12-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1043">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                    <placeName ref="http://www.geonames.org/658225">Helsingfors</placeName>
+                    <date when="1864-12-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1044">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1865-01-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118828738">Friedrich Alexander
+                        Kapp</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1045">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb11923029q">Joseph
+                        Roy</persName>
+                    <date when="1865-01-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1046">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1865-01-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1047">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119347091">Konrad Deubler</persName>
+                    <date when="1865-02-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1048">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117680869">Edouard Vaillant</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1865-02-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1049">
+                <correspAction type="sent">
+                    <persName>A. Passover</persName>
+                    <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+                    <date when="1865-02-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1050">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1865-03-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119347091">Konrad Deubler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1051">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118796569">Karl Blind</persName>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                    <date when="1865-03-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1052">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                    <placeName ref="http://www.geonames.org/658225">Helsingfors</placeName>
+                    <date when="1865-04-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1053">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1865-06-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Schreitmüller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1054">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                    <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
+                    <date when="1865-06-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1055">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1865-07-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1056">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116755679">Emma Herwegh</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1865-07-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1057">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119347091">Konrad Deubler</persName>
+                    <placeName ref="http://www.geonames.org/2782055">Goisern</placeName>
+                    <date when="1865-07-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1058">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1865-07-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119347091">Konrad Deubler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1059">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                    <placeName ref="http://www.geonames.org/3208547">Helgoland</placeName>
+                    <date when="1865-07-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1060">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116755679">Emma Herwegh</persName>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date when="1865-07-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1061">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1865-07-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118667939">Ludwig Büchner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1062">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1865-07-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116755679">Emma Herwegh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1063">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1865-08-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1078878137">Georg Friedländer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1064">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                    <placeName ref="http://www.geonames.org/658225">Helsingfors</placeName>
+                    <date when="1865-09-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1065">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116755679">Emma Herwegh</persName>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date when="1865-10-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1066">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1865-10-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1067">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1865-10-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116755679">Emma Herwegh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1068">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116755679">Emma Herwegh</persName>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date when="1865-10-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1069">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1865-10-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1070">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116755679">Emma Herwegh</persName>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date when="1865-11-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1071">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117370649">Hugo Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1865-11-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1072">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1865-11-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117370649">Hugo Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1073">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1865-11-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116755679">Emma Herwegh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1074">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117370649">Hugo Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1865-11-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1075">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1865-11-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1076">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1865-11-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116755679">Emma Herwegh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1077">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116755679">Emma Herwegh</persName>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date when="1865-11-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1078">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date to="1865-11-22" from="1865-11-21">21./22.11.1865</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117370649">Hugo Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1079">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116755679">Emma Herwegh</persName>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date when="1865-12-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1080">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1865-12-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116755679">Emma Herwegh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1081">
+                <correspAction type="sent">
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <orgName ref="https://d-nb.info/gnd/2007973-4">Deutsche
+                        Schillerstiftung</orgName>
+                    <date when="1865-12-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1082">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117297623">Otto Lüning</persName>
+                    <placeName ref="http://www.geonames.org/2847690">Rheda</placeName>
+                    <date when="1865-12-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1083">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1865-12-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="https://d-nb.info/gnd/2007973-4">Deutsche
+                        Schillerstiftung</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1084">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1247131297">Ildephons Müller</persName>
+                    <placeName ref="http://www.geonames.org/2659762">Mariastein </placeName>
+                    <date when="1866-01-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1085">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117370649">Hugo Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1866-01-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1086">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118828738">Friedrich Kapp</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1866-01-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1087">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1866-01-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1247131297">Ildephons Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1088">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118828738">Friedrich Kapp</persName>
+                    <date when="1866-01-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1089">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117680869">Edouard Vaillant</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1866-01-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1090">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117370649">Hugo Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1866-02-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1091">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date to="1866-03-02" from="1866-03-01">1./2.03.1866</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118828738">Friedrich Kapp</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1092">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date notBefore="1866-03-01" notAfter="1866-03-04">Vor dem
+                        04.03./04.03.1866</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1093">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116755679">Emma Herwegh</persName>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date when="1866-03-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1094">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117370649">Hugo Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1866-03-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1095">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1866-03-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1247131297">Ildephons Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1096">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                    <placeName ref="http://www.geonames.org/658225">Helsingfors</placeName>
+                    <date when="1866-03-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1097">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1866-03-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1098">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117370649">Hugo Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1866-03-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1099">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1866-04-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1100">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1866-05-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1101">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                    <placeName ref="http://www.geonames.org/658225">Helsingfors</placeName>
+                    <date when="1866-05-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1102">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1866-06-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116564652">Johann Anselm Ludwig
+                        Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1103">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1866-07-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118828738">Friedrich Kapp</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1104">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1866-07-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119347091">Konrad Deubler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1105">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118828738">Friedrich Kapp</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1866-08-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1106">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116755679">Emma Herwegh</persName>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date when="1866-08-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1107">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1866-11-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1108">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119347091">Konrad Deubler</persName>
+                    <date when="1866-10-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1109">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116230193">Julius Duboc</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1866-10-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1110">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117680869">Edouard Vaillant</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1866-10-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1111">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/129270504">Henry Conrad
+                        Brokmeyer</persName>
+                    <persName ref="https://d-nb.info/gnd/118720481">William Torrey Harris</persName>
+                    <placeName ref="http://www.geonames.org/4407066">St. Louis</placeName>
+                    <date when="1866-10-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1112">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date notBefore="1866-10-21" notAfter="1866-11-10">Ende Oktober/Anfang November
+                        1866</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116230193">Julius Duboc</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1113">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118826948">Ludwig Pfau</persName>
+                    <placeName ref="http://www.geonames.org/2919054">Göppingen</placeName>
+                    <date when="1866-11-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1114">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1866-12-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118828738">Friedrich Kapp</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1115">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                    <placeName ref="http://www.geonames.org/498817">St. Petersburg</placeName>
+                    <date when="1866-12-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1116">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1866-12-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118826948">Ludwig Pfau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118828738">Friedrich Kapp</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1866-12-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1118">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1867-01-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118734547">Jakob Moleschott</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1119">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117370649">Hugo Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1867-01-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1120">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1867-02-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118828738">Friedrich Kapp</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1121">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1867-03-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1122">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                    <placeName ref="http://www.geonames.org/658225">Helsingfors</placeName>
+                    <date when="1867-04-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1123">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11603744X">Gustav Bäuerle</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1867-04-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1124">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117680869">Edouard Vaillant</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1867-05-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1125">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1867-05-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11603744X">Gustav Bäuerle</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1126">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118826948">Ludwig Pfau</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1867-06-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1127">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1867-06-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1128">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date to="1867-07-14" from="1867-07-01">1./11. und 14.07.1867</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1129">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1867-07-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119347091">Konrad Deubler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1130">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                    <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
+                    <date when="1867-07-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1131">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1867-08-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1132">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1867-08-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1133">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1867-09-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119347091">Konrad Deubler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1134">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1867-09-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116159464">Conrad Beyer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1135">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date to="1867-10-01" from="1867-09-30">30.09./01.10.1867</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1136">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1247131297">Ildephons Müller</persName>
+                    <placeName ref="http://www.geonames.org/2659762">Mariastein </placeName>
+                    <date when="1867-10-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1137">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11603744X">Gustav Bäuerle</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1867-10-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1138">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119347091">Konrad Deubler</persName>
+                    <placeName ref="http://www.geonames.org/2782055">Goisern</placeName>
+                    <date when="1867-10-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1139">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                    <placeName ref="http://www.geonames.org/658225">Helsingfors</placeName>
+                    <date when="1867-10-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1140">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1867-10-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11603744X">Gustav Bäuerle</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1141">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117680869">Edouard Vaillant</persName>
+                    <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+                    <date when="1867-12-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1142">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119347091">Konrad Deubler</persName>
+                    <placeName ref="http://www.geonames.org/2782055">Goisern</placeName>
+                    <date when="1867-12-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1143">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118828738">Friedrich Kapp</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1868-01-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1144">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1868-01-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119347091">Konrad Deubler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1145">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1868-03-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116759283">Jakob Herz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1146">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                    <placeName ref="http://www.geonames.org/658225">Helsingfors</placeName>
+                    <date when="1868-03-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1147">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117680869">Edouard Vaillant</persName>
+                    <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+                    <date when="1868-03-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1148">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1868-04-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118828738">Friedrich Kapp</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1149">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1868-05-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1150">
+                <correspAction type="sent">
+                    <persName>Gustav Weilshauser</persName>
+                    <placeName ref="http://www.geonames.org/3090048">Oppeln</placeName>
+                    <date when="1868-07-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1151">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118734547">Jakob Moleschott</persName>
+                    <placeName ref="http://www.geonames.org/3165524">Turin</placeName>
+                    <date to="1868-09-12" from="1868-09-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1152">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119057832">Wilhelm Bolin</persName>
+                    <placeName ref="http://www.geonames.org/658225">Helsingfors</placeName>
+                    <date when="1868-09-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1153">
+                <correspAction type="sent">
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <orgName ref="https://d-nb.info/gnd/2007973-4">Deutsche
+                        Schillerstiftung</orgName>
+                    <date when="1868-11-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1154">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1868-11-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1155">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1868-11-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="https://d-nb.info/gnd/2007973-4">Deutsche
+                        Schillerstiftung</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1156">
+                <correspAction type="sent">
+                    <persName>A. Heinsius</persName>
+                    <placeName ref="http://www.geonames.org/2939951">Coburg</placeName>
+                    <date when="1868-12-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1157">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date to="1868-12-31" from="1868-12-02">2./31.12.1868</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118734547">Jakob Moleschott</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1158 (46)">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1828-11-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118547739">Georg Wilhelm Friedrich
+                        Hegel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1159 (89a)">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1833-12-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Georg Friedrich Daumer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1160 (105a)">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2955936">Ansbach</placeName>
+                    <date when="1834-05-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Erziehungsrat Bern</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1161 (123b)">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/131586912">Christian Karl Glück</persName>
+                    <placeName ref="http://www.geonames.org/2955936">Ansbach</placeName>
+                    <date when="1835-05-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1162 (180a)">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2943500">Bruckberg</placeName>
+                    <date when="1838-09-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1073436284">Julius Merz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1163 (220a)">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1842-01-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118604023">Arnold Ruge</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1164 (434a)">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1844-08-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Friedrich</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1165 (490a)">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1845-05-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1166 (572a)">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117357944">Otto Wigand</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date notBefore="1847-12-01" notAfter="1847-12-31">Dezember 1847</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1167 (624a)">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1849-10-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116053437">Christian Kapp</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1168 (625a)">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2943500">Bruckberg</placeName>
+                    <date when="1849-11-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117243663">Georg Christian
+                        Weigelt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1169 (721a)">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2943500">Bruckberg</placeName>
+                    <date when="1852-03-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11853274X">Henriette Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1170  (734a)">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2943500">Bruckberg</placeName>
+                    <date when="1852-07-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/13182936X">August Maier</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1171">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/120377330">Friedrich Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1852-10-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1172 (814a)">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2943500">Bruckberg</placeName>
+                    <date when="1855-11-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116759283">Jakob Herz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1173 (834a)">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2943500">Bruckberg</placeName>
+                    <date when="1857-05-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Ida Zimmermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1174 (850a)">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date notBefore="1857-01-01" notAfter="1858-12-31">1857/1858</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1055234217">Heinrich Benecke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1175 (865a)">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <date when="1858-07-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1017446180">Otto Meißner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1176 (869a)">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2943500">Bruckberg</placeName>
+                    <date when="1858-11-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1177 (880a)">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2943500">Bruckberg</placeName>
+                    <date to="1859-03-18" from="1859-03-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132464985">Theodor von
+                        Cramer-Klett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1178 (904a)">
+                <correspAction type="sent">
+                    <persName>Johann Erdmann Ludwig Ulsch</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1860-07-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1179 (904b)">
+                <correspAction type="sent">
+                    <persName>Johann Erdmann Ludwig Ulsch</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1860-08-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1180 (905a)">
+                <correspAction type="sent">
+                    <persName>Johann Erdmann Ludwig Ulsch</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1860-08-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1181 (905b)">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2943500">Bruckberg</placeName>
+                    <date when="1860-08-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Erdmann Ludwig Ulsch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1182 (905c)">
+                <correspAction type="sent">
+                    <persName>Johann Erdmann Ludwig Ulsch</persName>
+                    <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+                    <date when="1860-09-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1183 (906a)">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="http://www.geonames.org/2943500">Bruckberg</placeName>
+                    <date when="1860-09-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Erdmann Ludwig Ulsch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1184 (931)">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1861-02-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117187860">Eduard Löwenthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h74acf70-b928-4a2a-9b90-292877b22bab" key="1185 (950a)">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532758">Ludwig Feuerbach</persName>
+                    <placeName ref="https://www.geonames.org/12607303">Rechenberg bei
+                        Nürnberg</placeName>
+                    <date when="1861-07-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1030020817">Gustav Julius
+                        Junghann</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
