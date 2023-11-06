@@ -261,10 +261,10 @@
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
                     <placeName>Unbekannt</placeName>
-                    <date notAfter="1800-01-25">[vor 25.1.1800]</date>
+                    <date notBefore="1799" notAfter="1800-01-25">[vor 25.1.1800]</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Emanuel Joseph Sieys</persName>
+                    <persName>Emanuel Joseph Sieyès</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#AVH_AMERIKA" key="25">
