@@ -25,7 +25,7 @@
             <correspDesc source="#AVH_AMERIKA" key="1">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
-                    <placeName ref="http://www.geonames.org/3119841">La Coruna</placeName>
+                    <placeName ref="http://www.geonames.org/3119841">La Coruña</placeName>
                     <date when="1799-06-05">5.6.1799</date>
                 </correspAction>
                 <correspAction type="received">
@@ -36,17 +36,17 @@
             <correspDesc source="#AVH_AMERIKA" key="2">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
-                    <placeName ref="http://www.geonames.org/3119841">La Coruna</placeName>
+                    <placeName ref="http://www.geonames.org/3119841">La Coruña</placeName>
                     <date when="1799-06-05">5.6.1799</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://d-nb.info/gnd/117544531">Franois Pierre Nicolas Gillet de Laumont</persName>
+                    <persName ref="http://d-nb.info/gnd/117544531">François Pierre Nicolas Gillet de Laumont</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#AVH_AMERIKA" key="3">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
-                    <placeName ref="http://www.geonames.org/3119841">La Coruna</placeName>
+                    <placeName ref="http://www.geonames.org/3119841">La Coruña</placeName>
                     <date when="1799-06-05">5.6.1799</date>
                 </correspAction>
                 <correspAction type="received">
@@ -56,7 +56,7 @@
             <correspDesc source="#AVH_AMERIKA" key="4">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
-                    <placeName ref="http://www.geonames.org/3119841">La Coruna</placeName>
+                    <placeName ref="http://www.geonames.org/3119841">La Coruña</placeName>
                     <date when="1799-06-05">5.6.1799</date>
                 </correspAction>
                 <correspAction type="received">
@@ -66,7 +66,7 @@
             <correspDesc source="#AVH_AMERIKA" key="5">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
-                    <placeName ref="http://www.geonames.org/3119841">La Coruna</placeName>
+                    <placeName ref="http://www.geonames.org/3119841">La Coruña</placeName>
                     <date when="1799-06-05">5.6.1799</date>
                 </correspAction>
                 <correspAction type="received">
@@ -76,7 +76,7 @@
             <correspDesc source="#AVH_AMERIKA" key="6">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
-                    <placeName ref="http://www.geonames.org/3119841">La Coruna</placeName>
+                    <placeName ref="http://www.geonames.org/3119841">La Coruña</placeName>
                     <date when="1799-06-05">5.6.1799</date>
                 </correspAction>
                 <correspAction type="received">
@@ -141,7 +141,7 @@
                     <date when="1799-07-18">18.7.1799</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Jean Claude de Lamtherie</persName>
+                    <persName>Jean Claude de Lamétherie</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#AVH_AMERIKA" key="13">
@@ -212,7 +212,7 @@
                     <date when="1799-10-15">15.10.1799</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Ludwig Ballmann</persName>
+                    <persName>Ludwig Bollmann</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#AVH_AMERIKA" key="20">
@@ -240,11 +240,11 @@
                     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
                     <placeName ref="http://www.geonames.org/3644768">Cumaná</placeName>
                     <placeName ref="http://www.geonames.org/3646738">Caracas</placeName>
-                    <date notAfter="1799-11-19" when="1799-12-14">[vor 19.11.1799],
+                    <date notBefore="1799-11-19" when="1799-12-14">[vor 19.11.1799],
                         14.12.1799</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Jerme Joseph de Lalande</persName>
+                    <persName>Jerôme Joseph de Lalande</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#AVH_AMERIKA" key="23">
@@ -254,7 +254,7 @@
                     <date when="1800-01-25">25.1.1800</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Antoine Franois Comte Fourcroy</persName>
+                    <persName>Antoine François Comte Fourcroy</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#AVH_AMERIKA" key="24">
@@ -362,7 +362,7 @@
                     <date when="1800-10-16">16.10.1800</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Antoine Franois Comte Fourcroy</persName>
+                    <persName>Antoine François Comte Fourcroy</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#AVH_AMERIKA" key="35">
@@ -402,7 +402,7 @@
                     <date when="1800-11-15">15.11.1800</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Jean Claude de Lamtherie</persName>
+                    <persName>Jean Claude de Lamétherie</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#AVH_AMERIKA" key="39">
