@@ -10,7 +10,7 @@
             <publicationStmt>
                 <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
                 <idno type="url">https://correspsearch.net/storage/wvhumboldt/briefe2.xml</idno>
-                <date when="2023-11-10T08:54:01.105907"/>
+                <date when="2023-11-13T08:54:01.105907"/>
                 <availability>
                     <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
                 </availability>
@@ -20,7 +20,7 @@
                     Wilhelm von Humboldt Briefe. Historisch-kritische Ausgabe. Abteilung 1: Briefe
                     bis zum Beginn der diplomatischen Laufbahn 1781-1802. Band 2. Juli
                     1791-Juni1795. Berlin; Boston: Walter de Gruyter GmbH 2014.
-                    https://doi.org/10.1515/9783110376432</bibl>
+                    <ref target="https://doi.org/10.1515/9783110376432">https://doi.org/10.1515/9783110376432</ref></bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -1273,7 +1273,7 @@
                 <correspAction xml:id="sender-e86f-3a54-57d06ab491" type="sent">
                     <persName ref="https://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
                     <placeName ref="http://www.geonames.org/12503954">Burgörner</placeName>
-                    <date>10./11. Januar 1794</date>
+                    <date from="1794-01-10" to="1794-01-11">10./11. Januar 1794</date>
                 </correspAction>
                 <correspAction xml:id="addressee-f14d-4c5d-50a734ced9" type="received">
                     <persName ref="https://d-nb.info/gnd/117444154">Friedrich August Wolf</persName>
@@ -1285,7 +1285,7 @@
                 <correspAction xml:id="sender-10f6-cfe3-538af419ce" type="sent">
                     <persName ref="https://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
                     <placeName ref="http://www.geonames.org/12503954">Burgörner</placeName>
-                    <date>16./17. Januar 1794</date>
+                    <date from="1794-01-16" to="1794-01-17">16./17. Januar 1794</date>
                 </correspAction>
                 <correspAction xml:id="addressee-ea8d-7128-c8af3967b1" type="received">
                     <persName ref="https://d-nb.info/gnd/117444154">Friedrich August Wolf</persName>
@@ -1297,7 +1297,7 @@
                 <correspAction xml:id="sender-0fca-56bd-4f0edc37a2" type="sent">
                     <persName ref="https://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
                     <placeName ref="http://www.geonames.org/12503954">Burgörner</placeName>
-                    <date>17./18. Januar 1794</date>
+                    <date from="1794-01-17" to="1794-01-18">17./18. Januar 1794</date>
                 </correspAction>
                 <correspAction xml:id="addressee-c4f5-6e5c-a4c5638fd0" type="received">
                     <persName ref="https://d-nb.info/gnd/11856448X">Christian Gottfried
@@ -1310,7 +1310,7 @@
                 <correspAction xml:id="sender-9e74-7036-7b3d4c6efa" type="sent">
                     <persName ref="https://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
                     <placeName ref="http://www.geonames.org/12503954">Burgörner</placeName>
-                    <date>19./21. Januar 1794</date>
+                    <date from="1794-01-19" to="1794-01-21">19./21. Januar 1794</date>
                 </correspAction>
                 <correspAction xml:id="addressee-afc8-d9bc-d8fb4321ac" type="received">
                     <persName ref="https://d-nb.info/gnd/117444154">Friedrich August Wolf</persName>
@@ -1335,7 +1335,7 @@
                 <correspAction xml:id="sender-0b7d-3d04-309e81bd6a" type="sent">
                     <persName ref="https://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
                     <placeName ref="http://www.geonames.org/2929670">Erfurt</placeName>
-                    <date>2./3. Februar 1794</date>
+                    <date from="1794-02-02" to="1794-02-03">2./3. Februar 1794</date>
                 </correspAction>
                 <correspAction xml:id="addressee-2be4-fd53-ed8942a5f0" type="received">
                     <persName ref="https://d-nb.info/gnd/117444154">Friedrich August Wolf</persName>
@@ -1359,7 +1359,7 @@
                 <correspAction xml:id="sender-b01e-de75-f7c041569d" type="sent">
                     <persName ref="https://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
                     <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
-                    <date>8./10. März 1794</date>
+                    <date from="1794-03-08" to="1794-03-10">8./10. März 1794</date>
                 </correspAction>
                 <correspAction xml:id="addressee-b35d-eb4d-0fb84975e6" type="received">
                     <persName ref="https://d-nb.info/gnd/117444154">Friedrich August Wolf</persName>
@@ -1371,7 +1371,7 @@
                 <correspAction xml:id="sender-84fd-a13b-39e6d10427" type="sent">
                     <persName ref="https://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
                     <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
-                    <date>23./24. März 1794</date>
+                    <date from="1794-03-23" to="1794-03-24">23./24. März 1794</date>
                 </correspAction>
                 <correspAction xml:id="addressee-0ae1-27e3-8562a31fce" type="received">
                     <persName ref="https://d-nb.info/gnd/117444154">Friedrich August Wolf</persName>
@@ -1383,7 +1383,7 @@
                 <correspAction xml:id="sender-4e97-c76a-feb6749ac5" type="sent">
                     <persName ref="https://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
                     <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
-                    <date>28./29. März 1794</date>
+                    <date from="1794-03-28" to="1794-03-29">28./29. März 1794</date>
                 </correspAction>
                 <correspAction xml:id="addressee-4e02-3502-9ced28f347" type="received">
                     <persName ref="https://d-nb.info/gnd/118720961">Carl Theodor v.
@@ -1396,7 +1396,7 @@
                 <correspAction xml:id="sender-b973-9a8f-a879f230eb" type="sent">
                     <persName ref="https://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
                     <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
-                    <date>28./31. März 1794</date>
+                    <date from="1794-03-28" to="1794-03-31">28./31. März 1794</date>
                 </correspAction>
                 <correspAction xml:id="addressee-ae3d-fe76-924cab17f3" type="received">
                     <persName ref="https://d-nb.info/gnd/11856448X">Christian Gottfried
@@ -1471,7 +1471,7 @@
                 <correspAction xml:id="sender-5312-8e75-95ce417abf" type="sent">
                     <persName ref="https://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
                     <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
-                    <date>Juni/Juli 1794</date>
+                    <date notBefore="1794-06" notAfter="1794-07">Juni/Juli 1794</date>
                 </correspAction>
                 <correspAction xml:id="addressee-bdfa-ae81-2ec46b59a8" type="received">
                     <persName ref="https://d-nb.info/gnd/118607626">Friedrich Schiller</persName>
@@ -1495,7 +1495,7 @@
                 <correspAction xml:id="sender-d168-eb49-419365dacb" type="sent">
                     <persName ref="https://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
                     <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
-                    <date>14./15. September 1794</date>
+                    <date from="1794-09-14" to="1794-09-15">14./15. September 1794</date>
                 </correspAction>
                 <correspAction xml:id="addressee-2a57-59d4-1fea65b920" type="received">
                     <persName ref="https://d-nb.info/gnd/116519770">Carl Gustaf v.
@@ -1520,7 +1520,7 @@
                 <correspAction xml:id="sender-2fb6-f103-5d723f41ac" type="sent">
                     <persName ref="https://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
                     <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
-                    <date>21./22. September 1794</date>
+                    <date from="1794-09-21" to="1794-09-22">21./22. September 1794</date>
                 </correspAction>
                 <correspAction xml:id="addressee-87b6-078a-c04593d6b7" type="received">
                     <persName ref="https://d-nb.info/gnd/118607626">Friedrich Schiller</persName>
@@ -1647,7 +1647,7 @@
                 <correspAction xml:id="sender-26f3-927b-a127589c4b" type="sent">
                     <persName ref="https://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
                     <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
-                    <date>28./29. Dezember 1794</date>
+                    <date from="1794-12-28" to="1794-12-29">28./29. Dezember 1794</date>
                 </correspAction>
                 <correspAction xml:id="addressee-93de-c2ed-07953da864" type="received">
                     <persName ref="https://d-nb.info/gnd/117444154">Friedrich August Wolf</persName>
@@ -1685,7 +1685,7 @@
                 <correspAction xml:id="sender-378d-3945-e8174a3b60" type="sent">
                     <persName ref="https://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
                     <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
-                    <date>30. Januar/2. Februar 1795</date>
+                    <date from="1795-01-30" to="1795-02-02">30. Januar/2. Februar 1795</date>
                 </correspAction>
                 <correspAction xml:id="addressee-91d8-da37-57c63ad19b" type="received">
                     <persName ref="https://d-nb.info/gnd/117444154">Friedrich August Wolf</persName>

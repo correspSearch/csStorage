@@ -10,7 +10,7 @@
             <publicationStmt>
                 <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
                 <idno type="url">https://correspsearch.net/storage/wvhumboldt/briefe1.xml</idno>
-                <date when="2023-11-10T08:52:04.807159"/>
+                <date when="2023-11-13T08:52:04.807159"/>
                 <availability>
                     <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
                 </availability>
@@ -19,7 +19,7 @@
                 <bibl type="hybrid" xml:id="d4ec0880-5193-428d-a779-2c417f14d20f">Mattson, Philip:
                     Wilhelm von Humboldt Briefe. Historisch-kritische Ausgabe. Abteilung 1: Briefe
                     bis zum Beginn der diplomatischen Laufbahn 1781-1802. Berlin: Akademie Verlag
-                    GmbH - De Gruyer 2014. ttps://doi.org/10.1524/9783050103129</bibl>
+                    GmbH - De Gruyer 2014. <ref target="https://doi.org/10.1524/9783050103129">https://doi.org/10.1524/9783050103129</ref></bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -181,6 +181,7 @@
                     <date notAfter="1787-10-01">vor 1. Oktober 1787</date>
                 </correspAction>
                 <correspAction xml:id="addressee-32fb-3cd1-e36b92fcd8" type="received">
+                    <persName ref="https://edition-humboldt.de/H0003200">Ephraim Beer</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
@@ -192,6 +193,7 @@
                     <date notAfter="1787-10-01">vor 1. Oktober 1787</date>
                 </correspAction>
                 <correspAction xml:id="addressee-6d0a-3cf0-b9368051f7" type="received">
+                    <persName ref="https://edition-humboldt.de/H0003200">Ephraim Beer</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
@@ -203,6 +205,7 @@
                     <date when="1787-10-14">14. Oktober 1787</date>
                 </correspAction>
                 <correspAction xml:id="addressee-c140-a3e0-758d12cfe9" type="received">
+                    <persName ref="https://edition-humboldt.de/H0003200">Ephraim Beer</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
@@ -214,6 +217,7 @@
                     <date notAfter="1787-11-21">vor 21. November 1787</date>
                 </correspAction>
                 <correspAction xml:id="addressee-3b9a-b768-d169403f2b" type="received">
+                    <persName ref="https://edition-humboldt.de/H0003200">Ephraim Beer</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
@@ -225,6 +229,7 @@
                     <date when="1787-11-30">30. (?) November 1787</date>
                 </correspAction>
                 <correspAction xml:id="addressee-7d38-6c71-46d97c1fe0" type="received">
+                    <persName ref="https://edition-humboldt.de/H0003200">Ephraim Beer</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
@@ -394,6 +399,7 @@
                     <date when="1788-06-15">15. Juni 1788</date>
                 </correspAction>
                 <correspAction xml:id="addressee-15c4-5c20-25ca18e349" type="received">
+                    <persName ref="https://edition-humboldt.de/H0003200">Ephraim Beer</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
@@ -905,6 +911,7 @@
                     <date when="1789-05-08">8. Mai 1789</date>
                 </correspAction>
                 <correspAction xml:id="addressee-e157-f981-064db23ec7" type="received">
+                    <persName ref="https://edition-humboldt.de/H0003200">Ephraim Beer</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
