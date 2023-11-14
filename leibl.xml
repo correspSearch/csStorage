@@ -1,0 +1,1729 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wilhelm Leibl. Briefe 1853-1900</title>
+                <editor>Simone Franz<email>simone.franz@ub.hu-berlin.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der
+                        Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/"
+                        >CC0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/leibl.xml</idno>
+                <date when="2023-11-07T11:35:27.417-01:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="h071ee2a-de82-46d8-b2c2-de5ad99ac5fb">Leibl, Wilhelm:
+                    Briefe. Mit historisch-kritischem Kommentar, hrsg. u. erl. v. Boris Röhrl,
+                    Hildesheim 1996.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1853-01-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                    <persName ref="https://d-nb.info/gnd/118571214">Karl Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
+                        >München</placeName>
+                    <date evidence="conjecture" when="1863-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116103329">Herrmann Becker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
+                        >München</placeName>
+                    <date evidence="conjecture" when="1863-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                    <persName ref="https://d-nb.info/gnd/118571214">Karl Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2922530"
+                        >Partenkirchen</placeName>
+                    <date evidence="conjecture" when="1864-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                    <persName ref="https://d-nb.info/gnd/118571214">Karl Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1865-01-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                    <persName ref="https://d-nb.info/gnd/118571214">Karl Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1865-12-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                    <persName ref="https://d-nb.info/gnd/118571214">Karl Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1867-03-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117581860">Anton Wingen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1867-07-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117581860">Anton Wingen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1867-10-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117581860">Anton Wingen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1867-11-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117581860">Anton Wingen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
+                        >München</placeName>
+                    <date notBefore="1867" evidence="conjecture" notAfter="1868"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117581860">Anton Wingen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
+                        >München</placeName>
+                    <date notBefore="1867" notAfter="1868"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                    <persName ref="https://d-nb.info/gnd/118571214">Karl Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1868-01-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117581860">Anton Wingen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1868-04-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117581860">Anton Wingen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1869-07-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Ferdinand Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1869-07-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Ferdinand Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1869-10-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                    <persName ref="https://d-nb.info/gnd/118571214">Karl Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1869-10-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                    <persName ref="https://d-nb.info/gnd/118571214">Karl Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1869-10-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                    <persName ref="https://d-nb.info/gnd/118571214">Karl Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
+                        >München</placeName>
+                    <date evidence="conjecture" when="1869-11-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                    <persName ref="https://d-nb.info/gnd/118571214">Karl Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1870-01-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Ferdinand Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2988507"
+                        >Paris</placeName>
+                    <date evidence="conjecture" when="1870-02">Mitte Februar</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Ferdinand Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1870-02-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Ferdinand Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1870-04-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Ferdinand Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1870-04-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Ferdinand Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <persName ref="https://d-nb.info/gnd/116065753" cert="low">Fritz
+                        Paulsen</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2988507"
+                        >Paris</placeName>
+                    <date evidence="conjecture" when="1870-04-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118735268">Michael Munkácsy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1870-05-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118735268">Michael Munkácsy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1870-05-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                    <persName ref="https://d-nb.info/gnd/118571214">Karl Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1870-05-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Ferdinand Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1870-05-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                    <persName ref="https://d-nb.info/gnd/118571214">Karl Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1870-06-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Ferdinand Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
+                        >München</placeName>
+                    <date evidence="conjecture" when="1870-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1870-10-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1870-11-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1871-01-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="36">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1871-01-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1871-02-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Ferdinand Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
+                        >München</placeName>
+                    <date to="1871-06-07" evidence="conjecture" from="1871-05-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <persName>Johann Leibl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
+                        >München</placeName>
+                    <date evidence="conjecture" when="1871-10-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="40">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1871-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Ferdinand Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="41">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1872-03-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="42">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1873-02-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="43">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1875-12-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1876-02-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118735268">Michael Munkácsy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="S. 101f.">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118735268">Michael Munkácsy</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1876-03-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2818737">Unterschondorf</placeName>
+                    <date when="1876-06-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="S. 107f.">
+                <correspAction type="sent">
+                    <persName>Therese Bauer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2818737"
+                        >Unterschondorf</placeName>
+                    <date notBefore="1876-06" notAfter="1877-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date evidence="conjecture" when="1877-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
+                        >München</placeName>
+                    <date evidence="conjecture" when="1877-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="48">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1877-03-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118735268">Michael Munkácsy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="49">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1877-03-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118735268">Michael Munkácsy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="50">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2862106">Schloss Holzen</placeName>
+                    <date when="1877-07-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="51">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2862106">Schloss Holzen</placeName>
+                    <date when="1877-08-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118735268">Michael Munkácsy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="52">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2862106">Schloss Holzen</placeName>
+                    <date when="1877-08-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="53">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2862106">Schloss
+                        Holzen</placeName>
+                    <date evidence="conjecture" when="1877-09">Mitte September</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="54">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
+                        >München</placeName>
+                    <date evidence="conjecture" when="1877-12-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="55">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
+                        >München</placeName>
+                    <date evidence="conjecture" when="1877-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="56">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1878-01-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="57">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1878-01-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="58">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
+                        >München</placeName>
+                    <date evidence="conjecture" when="1878-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="59">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1878-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="60">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1878-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="61">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1878-05-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="62">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1878-06-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="63">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1878-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="64">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1878-07-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="65">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950885"
+                        >Berbling</placeName>
+                    <date evidence="conjecture" when="1878-08-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="66">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1878-10-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="67">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1878-10-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="68">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1878-11-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="69">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
+                        >München</placeName>
+                    <date evidence="conjecture" when="1878-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="S. 146-148">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117227633">Fritz Schider</persName>
+                    <placeName ref="http://www.geonames.org/2661604">Basel</placeName>
+                    <date when="1878-11-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="70">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1878-11-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <date evidence="conjecture" when="1878-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="72">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1879-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="73">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1879-03-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="74">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1879-03-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="75">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1879-05-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="76">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1879-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="77">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1879-06-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116684151">Heinrich Lang</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="78">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1879-06-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="79">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1879-07-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="80">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1879-07-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="81">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950885"
+                        >Berbling</placeName>
+                    <date to="1879-09" from="1879-06">Sommer 1879</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="82">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1879-09-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="83">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1879-11-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="84">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <date evidence="conjecture" when="1879-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1068843543">Gertrud Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="85">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1880-01-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="86">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1880-01-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1031277803">Albert Riegner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="87">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1880-02-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="88">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1880-03-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="89">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1880-04-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="90">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1880-06-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="91">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1880-06-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="92">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1880-07-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="93">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1880-07-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="94">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1880-08-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="95">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1880-10-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="96">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2950885">Berbling</placeName>
+                    <date when="1880-10-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="97">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1881-04-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="98">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1881-06-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="99">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1881-12-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="http://correspSearch.net/unknown">Redaktion des Allgemeinen
+                        Künstler-Lexicons</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="100">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1881-12-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="101">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1882-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="102">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1882-03-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="103">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1882-04-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="104">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1882-05-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="105">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1882-06-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="106">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1882-08-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="107">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1882-09-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="108">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1882-10-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="S. 212f.">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117227633">Fritz Schider</persName>
+                    <placeName ref="http://www.geonames.org/2661604">Basel</placeName>
+                    <date when="1882-10-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="109">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1882-11-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="110">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1882-12-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="111">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1883-03-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="112">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1883-03-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="113">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1883-04-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="114">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1883-05-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="115">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1883-05-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="116">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1883-06-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1883-08-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="S. 222f.">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117227633">Fritz Schider</persName>
+                    <placeName ref="http://www.geonames.org/2661604">Basel</placeName>
+                    <date when="1883-09-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="118">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1883-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1012943798">Philipp Kayser</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="119">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1883-10-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="120">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1883-12-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="121">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1883-12-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="122">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date evidence="conjecture" when="1884-04-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="123">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <date notBefore="1884" notAfter="1885"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="124">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1885-03-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="125">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1885-11-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="126">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1886-03-10">Aschermittwoch</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="127">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1886-04-25">Ostermorgen</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="128">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1886-05-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="129">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1886-06-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="130">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1886-11-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118560743">Friedrich August von
+                        Kaulbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="131">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1887-01-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="132">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <date evidence="conjecture" when="1887-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116930675">Friedrich Gurlitt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="133">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1887-05-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="134">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1887-07-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="135">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1887-12-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="136">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1888-01-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="137">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1888-03-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116930675">Friedrich Gurlitt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="138">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1889-01-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116930675">Friedrich Gurlitt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="139">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1889-02-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116930675">Friedrich Gurlitt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="S. 250-253">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119553910">Rogelio de Egusquiza</persName>
+                    <persName ref="https://d-nb.info/gnd/118572695">Max Liebermann</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date evidence="conjecture" when="1889-02-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="S. 253f.">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118572695">Max Liebermann</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1889-04-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="140">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1889-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="141">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1889-07-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="142">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2882199"
+                        >Kutterling</placeName>
+                    <date evidence="conjecture" when="1889-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="143">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2938060">Derndorf</placeName>
+                    <date when="1889-10-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118751883">Johann Sperl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="144">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <date notBefore="1890-01" notAfter="1890-02">Anfang 1890</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118751883">Johann Sperl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="145">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1891-09-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118572695">Max Liebermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="146">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1891-12-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="147">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1893-01-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Katharina Kirchdorffer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="148">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1893-03-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="149">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1893-06-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="150">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1893-06-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="151">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2882199">Kutterling</placeName>
+                    <date when="1894-12-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="152">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2882199">Kutterling</placeName>
+                    <date when="1895-01-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Leibl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="153">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1896-12-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/102969012X">Ernst Seeger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="154">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2882199">Kutterling</placeName>
+                    <date when="1898-10-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/102969012X">Ernst Seeger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="155">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2882199">Kutterling</placeName>
+                    <date when="1899-11-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/102969012X">Ernst Seeger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="156">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <date evidence="conjecture" when="1900-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Hermann Roßner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="157">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2882199">Kutterling</placeName>
+                    <date when="1900-05-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Hermann Roßner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="158">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2882199">Kutterling</placeName>
+                    <date when="1900-06-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119494973">Julius Mayr</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="159">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
+                    <placeName ref="http://www.geonames.org/2953558">Aibling</placeName>
+                    <date when="1894-01-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown" cert="low">L.
+                        Ratisch</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
