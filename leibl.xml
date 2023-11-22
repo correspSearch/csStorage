@@ -183,7 +183,7 @@
                     <date when="1869-07-17"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Ferdinand Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123256288">Ferdinand Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="16">
@@ -193,7 +193,7 @@
                     <date when="1869-07-29"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Ferdinand Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123256288">Ferdinand Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="17">
@@ -248,7 +248,7 @@
                     <date when="1870-01-31"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Ferdinand Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123256288">Ferdinand Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="22">
@@ -259,7 +259,7 @@
                     <date evidence="conjecture" when="1870-02">Mitte Februar</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Ferdinand Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123256288">Ferdinand Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="23">
@@ -269,7 +269,7 @@
                     <date when="1870-02-22"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Ferdinand Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123256288">Ferdinand Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="24">
@@ -279,7 +279,7 @@
                     <date when="1870-04-06"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Ferdinand Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123256288">Ferdinand Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="25">
@@ -289,7 +289,7 @@
                     <date when="1870-04-13"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Ferdinand Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123256288">Ferdinand Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="26">
@@ -333,7 +333,7 @@
                     <date when="1870-05-12"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Ferdinand Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123256288">Ferdinand Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="30">
@@ -354,7 +354,7 @@
                     <date when="1870-06-12"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Ferdinand Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123256288">Ferdinand Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="32">
@@ -365,7 +365,7 @@
                     <date evidence="conjecture" when="1870-09"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="33">
@@ -405,7 +405,7 @@
                     <date when="1871-01-27"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="37">
@@ -415,7 +415,7 @@
                     <date when="1871-02-19"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Ferdinand Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123256288">Ferdinand Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="38">
@@ -432,7 +432,7 @@
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="39">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118571222">Wilhelm Leibl</persName>
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
                         >München</placeName>
                     <date evidence="conjecture" when="1871-10-27"/>
@@ -448,7 +448,7 @@
                     <date when="1871-11"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Ferdinand Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123256288">Ferdinand Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="41">
@@ -513,7 +513,7 @@
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="S. 107f.">
                 <correspAction type="sent">
-                    <persName>Therese Bauer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257491">Therese Bauer</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/2818737"
                         >Unterschondorf</placeName>
                     <date notBefore="1876-06" notAfter="1877-08"/>
@@ -643,7 +643,7 @@
                     <date when="1878-01-21"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="58">
@@ -664,7 +664,7 @@
                     <date when="1878-03"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="60">
@@ -725,7 +725,7 @@
                     <date evidence="conjecture" when="1878-08-22"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="66">
@@ -755,7 +755,7 @@
                     <date when="1878-11-22"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="69">
@@ -865,7 +865,7 @@
                     <date when="1879-06-20"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="79">
@@ -896,7 +896,7 @@
                     <date to="1879-09" from="1879-06">Sommer 1879</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="82">
@@ -935,7 +935,7 @@
                     <date when="1880-01-18"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="86">
@@ -955,7 +955,7 @@
                     <date when="1880-02-09"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="88">
@@ -965,7 +965,7 @@
                     <date when="1880-03-17"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="89">
@@ -975,7 +975,7 @@
                     <date when="1880-04-10"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="90">
@@ -985,7 +985,7 @@
                     <date when="1880-06-16"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="91">
@@ -995,7 +995,7 @@
                     <date when="1880-06-26"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="92">
@@ -1005,7 +1005,7 @@
                     <date when="1880-07-03"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="93">
@@ -1015,7 +1015,7 @@
                     <date when="1880-07-17"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="94">
@@ -1025,7 +1025,7 @@
                     <date when="1880-08-11"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="95">
@@ -1035,7 +1035,7 @@
                     <date when="1880-10-10"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="96">
@@ -1045,7 +1045,7 @@
                     <date when="1880-10-20"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="97">
@@ -1055,7 +1055,7 @@
                     <date when="1881-04-03"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="98">
@@ -1065,7 +1065,7 @@
                     <date when="1881-06-28"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="99">
@@ -1086,7 +1086,7 @@
                     <date when="1881-12-21"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="101">
@@ -1096,7 +1096,7 @@
                     <date when="1882-02"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="102">
@@ -1106,7 +1106,7 @@
                     <date when="1882-03-06"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="103">
@@ -1116,7 +1116,7 @@
                     <date when="1882-04-21"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="104">
@@ -1126,7 +1126,7 @@
                     <date when="1882-05-01"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="105">
@@ -1136,7 +1136,7 @@
                     <date when="1882-06-14"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="106">
@@ -1146,7 +1146,7 @@
                     <date when="1882-08-09"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="107">
@@ -1156,7 +1156,7 @@
                     <date when="1882-09-16"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="108">
@@ -1166,7 +1166,7 @@
                     <date when="1882-10-10"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="S. 212f.">
@@ -1186,7 +1186,7 @@
                     <date when="1882-11-28"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="110">
@@ -1196,7 +1196,7 @@
                     <date when="1882-12-31"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="111">
@@ -1206,7 +1206,7 @@
                     <date when="1883-03-20"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="112">
@@ -1216,7 +1216,7 @@
                     <date when="1883-03-27"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="113">
@@ -1226,7 +1226,7 @@
                     <date when="1883-04-26"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="114">
@@ -1236,7 +1236,7 @@
                     <date when="1883-05-12"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="115">
@@ -1246,7 +1246,7 @@
                     <date when="1883-05-15"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="116">
@@ -1256,7 +1256,7 @@
                     <date when="1883-06-22"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="117">
@@ -1266,7 +1266,7 @@
                     <date when="1883-08-16"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="S. 222f.">
@@ -1296,7 +1296,7 @@
                     <date when="1883-10-23"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="120">
@@ -1306,7 +1306,7 @@
                     <date when="1883-12-13"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="121">
@@ -1316,7 +1316,7 @@
                     <date when="1883-12-16"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="122">
@@ -1326,7 +1326,7 @@
                     <date evidence="conjecture" when="1884-04-24"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="123">
@@ -1335,7 +1335,7 @@
                     <date notBefore="1884" notAfter="1885"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="124">
@@ -1345,7 +1345,7 @@
                     <date when="1885-03-27"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="125">
@@ -1355,7 +1355,7 @@
                     <date when="1885-11-20"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="126">
@@ -1365,7 +1365,7 @@
                     <date when="1886-03-10">Aschermittwoch</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="127">
@@ -1375,7 +1375,7 @@
                     <date when="1886-04-25">Ostermorgen</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="128">
@@ -1385,7 +1385,7 @@
                     <date when="1886-05-14"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="129">
@@ -1395,7 +1395,7 @@
                     <date when="1886-06-16"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="130">
@@ -1416,7 +1416,7 @@
                     <date when="1887-01-04"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="132">
@@ -1435,7 +1435,7 @@
                     <date when="1887-05-02"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="134">
@@ -1445,7 +1445,7 @@
                     <date when="1887-07-24"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="135">
@@ -1455,7 +1455,7 @@
                     <date when="1887-12-31"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="136">
@@ -1465,7 +1465,7 @@
                     <date when="1888-01-07"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="137">
@@ -1526,7 +1526,7 @@
                     <date when="1889-07"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="141">
@@ -1536,7 +1536,7 @@
                     <date when="1889-07-08"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="142">
@@ -1547,7 +1547,7 @@
                     <date evidence="conjecture" when="1889-08"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="143">
@@ -1586,7 +1586,7 @@
                     <date when="1891-12-23"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="147">
@@ -1596,7 +1596,7 @@
                     <date when="1893-01-30"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Katharina Kirchdorffer</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257187">Katharina Kirchdorffer</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="148">
@@ -1606,7 +1606,7 @@
                     <date when="1893-03-08"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="149">
@@ -1616,7 +1616,7 @@
                     <date when="1893-06-02"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="150">
@@ -1626,7 +1626,7 @@
                     <date when="1893-06-21"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="151">
@@ -1636,7 +1636,7 @@
                     <date when="1894-12-29"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="152">
@@ -1646,7 +1646,7 @@
                     <date when="1895-01-23"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Johann Leibl</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123257095">Johann Leibl</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="153">
@@ -1685,7 +1685,7 @@
                     <date evidence="conjecture" when="1900-03"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Hermann Roßner</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123282615">Hermann Roßner</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="157">
@@ -1695,7 +1695,7 @@
                     <date when="1900-05-09"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Hermann Roßner</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q123282615">Hermann Roßner</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#h071ee2a-de82-46d8-b2c2-de5ad99ac5fb" key="158">
