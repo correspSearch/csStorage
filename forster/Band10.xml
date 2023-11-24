@@ -1,0 +1,618 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Georg Forsters administrative, politische und diplomatische Korrespondenz 1792/93</title>
+                <editor>Robert Charlier<email>charlier@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <!-- Aufgenommen wurden ausschließlich eindeutig als an einen personellen oder institutionellen Adressaten (bzw. Kollektive) gerichtete u. im engen Sinne als "Briefe" belegte Amtsschreiben u. Korrespondenzstücke. 
+                Offene Briefe, Bekanntmachungen, Erlasse, Weisungen u. a. m. wurden konsequent ausgelassen.
+                Bitte für die Briefnummerierung unbedingt beachten bzw. an gegebener Stelle anmerken:
+                - Brief-Nummern werden durch Seitenzahl-Angabe (mit Bezug auf Band 10.1) angegegen;
+                - eckige Klammerung bedeutet (analog zur Wieland-Briefausgabe): "Brief nur erschlossen; Briefkonzept" (sollte philologisch in einer Legende o. ä. in jedem Fall vermerkt werden!)  -->
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2023-11-25T17:56:28.917-01:00"/>
+                <idno type="url">https://correspsearch.net/forster/Band10.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="a0cab1d0-99b7-444a-8935-af247066c578">Georg Forsters Werke: Sämtliche Schriften, Tagebücher, Briefe. Hrsg. von der Akademie der Wissenschaften der DDR, Zentralinstitut für Literaturgeschichte. Bd. 10.1: Revolutionsschriften 1792/93. Reden, administrative Schriftstücke [...] politische und diplomatische Korrespondenz [...]. Bearb. von Klaus-Georg Popp. Berlin, Akad.-Verl.: 1990.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-11-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118845047">Georg Christian Gottlieb Wedekind</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 46">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/5022898-5">Gesellschaft der Freunde der Republik zu Paris (i. e. Société des Amis de la Constitution)</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1792-11-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/2038516-X"> Gesellschaft der Republikaner (Mainzer Jakobinerklub)</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 48">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/2038516-X"> Gesellschaft der Republikaner (Mainzer Jakobinerklub)</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-12-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/5022898-5">Gesellschaft der Freunde der Republik zu Paris (i. e. Société des Amis de la Constitution)</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 51">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/5022898-5">Gesellschaft der Freunde der Republik zu Paris (i. e. Société des Amis de la Constitution)</persName>
+                    <placeName>Paris</placeName>
+                    <date evidence="conjecture" when="1792-12-12">[wohl irrtümlich] 3. December 1793 [sic] </date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/2038516-X"> Gesellschaft der Republikaner (Mainzer Jakobinerklub)</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 52">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/2038516-X"> Gesellschaft der Republikaner (Mainzer Jakobinerklub)</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-12-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/5022898-5">Gesellschaft der Freunde der Republik zu Paris (i. e. Société des Amis de la Constitution)</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 68">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-01-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024281353">Franz Konrad Macke (Macké; Maire der  Mainzer Munizipalität)</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="[S. 81]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-11-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Vernon (Officier ingénieur)</persName>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="[S. 81]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-11-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Vernon (Officier ingénieur)</persName>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="[S. 82]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-11-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116775092">Adam Philippe de Custine</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="[S. 83]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-11-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Vernon (Officier ingénieur)</persName>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="[S. 83]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-11-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>General de Blou</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225" cert="low">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="[S. 84]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-11-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/122883276">General Jacques-Pierre Orillard de Villemanzy </persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225" cert="low">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 86">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <persName>J. M. Kissel (Sekretär)</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-11-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Karl Ludwig Adolph Petersen</persName>
+                    <placeName ref="http://www.geonames.org/2830582">Speyer</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 86">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <persName>J. M. Kissel (Sekretär)</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-11-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/7667113-6">Amt Marientraut</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2910881" cert="low">Hanhofen/Pfalz (?)</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 87">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <persName>J. M. Kissel (Sekretär)</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-12-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Vizedomamt außer der Stadt Mainz</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225" cert="low">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 88">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <persName>(Secretarius) Loehr</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-12-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Munizipalität Mainz</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 89">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <persName>J. M. Kissel (Sekretär)</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-12-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Munizipalität Mainz</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="[S. 90]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-12-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116775092">Adam Philippe de Custine</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 90">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <persName>J. M. Kissel (Sekretär)</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-12-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Munizipalität Mainz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="[S. 91]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-12-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/122883276">General Jacques-Pierre Orillard de Villemanzy</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225" cert="low">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="[S. 91]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-12-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/122883276">General Jacques-Pierre Orillard de Villemanzy </persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225" cert="low">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 92">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <persName>J. M. Kissel (Sekretär)</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-12-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Munizipalität Mainz</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="[S. 93]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/122883276">General Jacques-Pierre Orillard de Villemanzy </persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225" cert="low">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 93">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <persName>Johann Christoph Blessmann (Bleßmann; Sekretair General)</persName>
+                    <placeName>Mainz</placeName>
+                    <date when="1792-12-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Munizipalität Mainz</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 94">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <persName evidence="conjecture">Johann Christoph Blessmann (Bleßmann; Sekretair General)</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-12-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Munizipalität Mainz</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 95">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <persName evidence="conjecture">Johann Christoph Blessmann (Bleßmann; Sekretair General)</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-12-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Munizipalität Mainz</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 95">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster (et al.)</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Munizipalität Mainz</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 96">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <persName>Johann Christoph Blessmann (Bleßmann; Sekretair General)</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-12-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Munizipalität Mainz</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 97">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <persName>Werner (Sekretär)</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>(Pfarrer) Staudinger</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 97">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <persName>Johann Christoph Blessmann (Bleßmann; Sekretair General)</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-12-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Munizipalität Mainz</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="[S. 98]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-12-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/122883276">General Jacques-Pierre Orillard de Villemanzy </persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225" cert="low">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="[S. 98]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-12-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116775092">Adam Philippe de Custine</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="[S. 99]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116775092" cert="low">Adam Philippe de Custine (?)</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225" cert="low">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="[S. 99]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116775092">Adam Philippe de Custine</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="[S. 119]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-12-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116775092">Adam Philippe de Custine</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="[S. 120]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116775092">Adam Philippe de Custine</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="[S. 120]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/122883276">General Jacques-Pierre Orillard de Villemanzy </persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 121">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <persName>J. M. Kissel (Sekretär)</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-01-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Munizipalität Mainz</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 122">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <persName>J. M. Kissel (Sekretär)</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-01-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Munizipalität Mainz</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 133">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <persName>J. M. Kissel (Sekretär)</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-01-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Munizipalität Mainz</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 133">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <persName>Johann Christoph Blessmann (Bleßmann; Sekretair General)</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-01-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Munizipalität Mainz</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 134 [= Bd. 17, Nr. 168]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-01-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/120628384">Anton Joseph Dorsch</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 135">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <persName>Johann Christoph Blessmann (Bleßmann; Sekretair General)</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-01-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Munizipalität Mainz</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 136">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <persName>Johann Christoph Blessmann (Bleßmann; Sekretair General)</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-01-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Munizipalität Mainz</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 136">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <persName>Johann Christoph Blessmann (Bleßmann; Sekretair General)</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-01-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Munizipalität Mainz</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="[S. 137]">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118534416" cert="low">Georg Forster</persName>
+                    <persName>Johann Christoph Blessmann (Bleßmann; Sekretair General)</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-01-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/1022544624">François Ignace d'Oyré</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="[S. 137]">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116904224"> Antoine-Christophe Merlin de Thionville</persName>
+                    <persName ref="https://d-nb.info/gnd/119515601">Jean-François Reubell</persName>
+                    <persName ref="https://d-nb.info/gnd/122162110">Nicolas Haussmann</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="[S. 161]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-02-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/1022544624">François Ignace d'Oyré</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="[S. 161]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-02-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/1086404491">Conseil exécutif provisoire de la République française</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 162">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <persName>Johann Christoph Blessmann (Bleßmann; Sekretair General)</persName>
+                    <persName evidence="conjecture">Georg Häfelin</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2890478">Kirchheim (Kircheim-Bolanden)</placeName>
+                    <date when="1793-02-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Stadtschultheiß Draudt (auch: Bürger Traut)</persName>
+                    <placeName ref="http://www.geonames.org/2890478">Kirchheimbolanden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0cab1d0-99b7-444a-8935-af247066c578" key="S. 166">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <persName>Degenhart (Degenhardt; Sekretär)</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-03-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Peter Krohn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
