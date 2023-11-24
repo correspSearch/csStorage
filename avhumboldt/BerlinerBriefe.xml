@@ -1,0 +1,1726 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alexander von Humboldts Berliner Briefe (1830–1859) und ihre Kontexte</title>
+                <editor>Robert Charlier<email>charlier@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2023-11-25T17:30:16.323-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/avhumboldt/BerlinerBriefe.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="e3237953-1ba2-45f6-94cc-f9cae0d93e21">Alexander von Humboldts Klimatologie in der Zirkulation von Wissen: Historisch-kritische Edition der Berliner Briefe (1830–1859) und ihre Kontexte, hg. von Katja Schicht. Hildesheim / Zürich / New York: Georg Olms Verlag 2023 (= Potsdamer inter- und transkulturelle Texte, Bd. 21).</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1830-09-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1830-12-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1834"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1836-09-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1838-05-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1838-06-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1838-10-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/102462755">Jakob Philipp Wolfers</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1839-06-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1839-11-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1840-11-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1841-03-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1842-03-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date evidence="conjecture" when="1843-05-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1843-07-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1843-10-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1844-01-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1844-03-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1844-12-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1844-12-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1845-05-20" notAfter="1848-12-08">nach dem 19. Mai 1845 bzw. vor dem 9. Dezember 1848</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1846-02-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1846-02-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1846-03-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1846-06-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1846-12-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1846-12-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1847-01-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/102462755">Jakob Philipp Wolfers</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1847-02-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1847-03-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date notBefore="1847-06" notAfter="1847-08">Dienstags [im Sommer 1847]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notAfter="1847-09">vor Oktober 1847</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1848-01-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159" cert="low">Berlin</placeName>
+                    <placeName ref="http://www.geonames.org/2852458" cert="low">Potsdam (?)</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1848-12-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1848-12-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1849">nach 1848</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="36">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1849-06-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1849-06-26">nach 25. Juni 1849</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2852458" cert="low">Potsdam</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159" cert="low">Berlin (?)</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1849-08-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1849-11-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="40">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1849-12-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="41">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1849"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="42">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1850-02-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="43">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1850-03-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1850-03-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1850-06-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1850-11-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/102462755">Jakob Philipp Wolfers</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notAfter="1850-11">vor Dezember 1850</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="48">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1850"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="49">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1851-03-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="50">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-03-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="51">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1851-03-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="52">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-03-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="53">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/102462755">Jakob Philipp Wolfers</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-04-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="54">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-05-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="55">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1851-05-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="56">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1851-06-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="57">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-06-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="58">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-09-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="59">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1851-10-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="60">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1851-10-14">nach 13. Oktober 1851</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="61">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1851-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="62">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/102462755">Jakob Philipp Wolfers</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1851-12-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="63">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-12-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="64">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1851-02-21">nach 20. Februar 1851</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="65">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1851">Freitag Nacht [1851]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="66">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1852-04-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="67">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1852-09-04">Sonnabend [wohl 4. September 1852]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="68">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notAfter="1852-09-30">vor dem 1. Oktober 1852</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="69">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1852-10-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="70">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1852-11-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1852-11-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="72">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1852-12-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="73">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1852-12-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="74">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1852-12-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="75">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1852-12-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="*76">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/102462755">Jakob Philipp Wolfers</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1852"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="*77">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/102462755">Jakob Philipp Wolfers</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1852"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="78">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1852"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="79">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1853-01-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="80">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1853-01-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="81">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1853-02-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="82">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1853-02-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="83">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/102462755">Jakob Philipp Wolfers</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1853-04-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="84">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1853-04-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="*85">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1853-04-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/102462755">Jakob Philipp Wolfers</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="86">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/102462755">Jakob Philipp Wolfers</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1853-04-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="*87">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1853-04-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/102462755">Jakob Philipp Wolfers</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="88">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/102462755">Jakob Philipp Wolfers</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1853-04-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="89">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1853-05-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="90">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/102462755">Jakob Philipp Wolfers</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1853-06-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="91">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1853-07-15">nach 14. Juli 1853</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="92">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1853-09-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="93">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1853-10-03">nach 2. Oktober 1853</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="94">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1853-11-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="95">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/102462755">Jakob Philipp Wolfers</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1853-12-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="96">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1853-12-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="97">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1853-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="98">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1853"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="99">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1853">[1853 oder später]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="100">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-01-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="101">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1854-05-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="102">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-05-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="103">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-06-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="104">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1854-11-27">B[erlin] d[en] 28 Nov[ember] 1854 [wohl irrtümlich]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="105">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1854-12-01">[vermutlich nach 30. November 1854]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="106">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-12-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="107">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1854-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="108">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-01-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="109">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1855-01-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="110">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-01-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="111">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1855-03-20">[vermutlich 20. März 1855]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="112">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1855-05">[nach März 1855]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="113">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-04-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="114">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-04-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="115">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1855-04-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="116">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1855-04-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/102462755">Jakob Philipp Wolfers</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notAfter="1855-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="118">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-05-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="119">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-05-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="120">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1855-05-15">[nach 14. Mai 1855]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="121">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notAfter="1855-05-23">[vor 24. Mai 1855]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="122">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1855-06-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="123">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-07-16">[16. Juli 1855]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="124">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-07-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="125">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notAfter="1855-07-25">[vor 26. Juli 1855]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="*126">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/102462755">Jakob Philipp Wolfers</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1856-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="127">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1855">[wohl 1855]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/102462755">Jakob Philipp Wolfers</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="128">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/102462755">Jakob Philipp Wolfers</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1856-04-29">29. April [1856]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="129">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1856-06-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="130">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1856-07">[nach Juni 1856]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="131">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1856-09-11">[vermutlich 11. September 1856]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="*132">
+                <correspAction type="sent">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1856-12-01" notAfter="1857-01-14">[nach dem 30. November 1856 und vor dem 15. Januar 1857]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="133">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1857">[nach 1856]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="134">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1857-01-04">[vermutlich 4. Januar 1857]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="135">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1857-01-09">[vermutlich 9. Januar 1857]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="*136">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1857-01-11">[11. Januar 1857]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/102462755">Jakob Philipp Wolfers</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="137">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1857-01-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Carl Ferdinand Schneider</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="138">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1857-02-07">[vermutlich 7. Februar 1857]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="139">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/102462755">Jakob Philipp Wolfers</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1857-03-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="140">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date evidence="conjecture" when="1857-07-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="141">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1857-07-14">[Sommer 1857]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="142">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/102462755">Jakob Philipp Wolfers</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1857-09-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="143">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1857-11-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName>Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="144">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1857"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="145">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1858">[nach 1857]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="146">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1857" notAfter="1858">[1857 oder 1858]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="147">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/102462755">Jakob Philipp Wolfers</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1858-02-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="148">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1858-04-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="149">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/102462755">Jakob Philipp Wolfers</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1858-05-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="150">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1858-08-02">[vermutlich 2. August 1858]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="151">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1858-09-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName>Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="*152">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1859-02-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="153">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1859-04-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e3237953-1ba2-45f6-94cc-f9cae0d93e21" key="154">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1859-04-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116190949">Heinrich Wilhelm Dove</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
