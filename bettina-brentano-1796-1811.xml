@@ -2,30 +2,36 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Die junge Bettina. Briefwechsel 1796-1811.</title>
+                <title>Die junge Bettina. Briefwechsel 1796-1811</title>
                 <editor>correspSearch<email>correspSearch@bbaw.de</email>
                 </editor>
             </titleStmt>
             <publicationStmt>
                 <publisher>
-                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der
+                        Wissenschaften</ref>
                 </publisher>
                 <availability>
                     <licence target="https://creativecommons.org/publicdomain/zero/1.0/"
                         >CC0</licence>
                 </availability>
-                <idno type="url">https://correspsearch.net/storage/bettina-brentano-1796-1811.xml</idno>
-                <date when="2023-10-17T12:32:59.399-02:00"/>
+                <idno type="url"
+                    >https://correspsearch.net/storage/bettina-brentano-1796-1811.xml</idno>
+                <date when="2023-11-27T12:32:59.399-02:00"/>
             </publicationStmt>
             <sourceDesc>
                 <bibl type="print" xml:id="ha942a42-b9e9-4064-8b21-6ecf6811df8b">Die junge Bettina.
                     Briefwechsel 1796-1811 : Kritische Gesamtausgabe mit Chronik und Stimmen der
                     Umwelt. Hrsg. von Heinz Härtl und Ursula Härtl. Berlin/Boston, Walter de
-                    Gruyter, 2022; Bd. 1, Briefwechsel 1796-1808.</bibl>
+                    Gruyter, 2022; Bd. 1, Briefwechsel 1796-1808. <ref
+                        target="https://doi.org/10.1515/9783110575972"
+                        >https://doi.org/10.1515/9783110575972</ref></bibl>
                 <bibl type="print" xml:id="gb8fa999-51cd-49fb-838d-b2cb80208f5a">Die junge Bettina.
                     Briefwechsel 1796-1811 : Kritische Gesamtausgabe mit Chronik und Stimmen der
                     Umwelt. Hrsg. von Heinz Härtl und Ursula Härtl. Berlin/Boston, Walter de
-                    Gruyter, 2022; Bd. 2, Briefwechsel 1809-1811.</bibl>
+                    Gruyter, 2022; Bd. 2, Briefwechsel 1809-1811. <ref
+                        target="https://doi.org/10.1515/9783110575972"
+                        >https://doi.org/10.1515/9783110575972</ref></bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -8578,7 +8584,8 @@
                     <date when="1809-12-07"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/131488732" cert="low">Sebastian Bopp</persName>
+                    <persName ref="https://d-nb.info/gnd/131488732" cert="low">Sebastian
+                        Bopp</persName>
                     <placeName ref="http://www.geonames.org/2867714">München</placeName>
                 </correspAction>
             </correspDesc>
