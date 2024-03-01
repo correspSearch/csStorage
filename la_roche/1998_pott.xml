@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefe Sophie von La Roches an Johann Wilhelm Ludwig Gleim</title>
+                <editor>Stefan Dumont<email>dumont@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2024-03-02T11:34:51.872-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/la_roche/1998_pott.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="d105b96d-e3af-4b37-994f-74a4366d5d72">Pott, Ute: Briefe Sophie von La Roches an Johann Wilhelm Ludwig Gleim. In: Querelles. Jahrbuch für Frauenforschung 3 (1998). S. 249-259.<ref target="https://doi.org/10.1007/978-3-476-03742-8_16">https://doi.org/10.1007/978-3-476-03742-8_16</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#d105b96d-e3af-4b37-994f-74a4366d5d72" key="[1]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Sophie von La Roche</persName>
+                    <placeName ref="http://www.geonames.org/2830582">Speyer</placeName>
+                    <date when="1784-12-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118717758">Johann Wilhelm Ludwig Gleim</persName>
+                    <placeName ref="http://www.geonames.org/2911665">Halberstadt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d105b96d-e3af-4b37-994f-74a4366d5d72" key="[2]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Sophie von La Roche</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                    <date when="1798-02-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118717758">Johann Wilhelm Ludwig Gleim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d105b96d-e3af-4b37-994f-74a4366d5d72" key="[3]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Sophie von La Roche</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                    <date when="1802-06-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118717758">Johann Wilhelm Ludwig Gleim</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
