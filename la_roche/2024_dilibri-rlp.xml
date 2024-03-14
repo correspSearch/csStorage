@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefe Sophie von La Roches in dilibri</title>
+                <editor>Stefan Dumont<email>dumont@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2024-03-15T14:06:14.529-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/la_roche/2024_dilibri-rlp.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="online" xml:id="o17cbf74-8879-4278-878c-0a5cf2319c84">Digitalisierte Briefe von Sophie von La Roche in dilibri Rheinland-Pfalz.<ref target="https://www.dilibri.de/dilibri/name/view/2427083">https://www.dilibri.de/dilibri/name/view/2427083</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#o17cbf74-8879-4278-878c-0a5cf2319c84" ref="https://www.dilibri.de/dilibri_kalliope/content/titleinfo/2427069">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Sophie von La Roche</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                    <date when="1787-07-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1089584598">Sophie zu Solms-Rödelheim und Assenheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o17cbf74-8879-4278-878c-0a5cf2319c84" ref="https://www.dilibri.de/dilibri_kalliope/content/titleinfo/2427070">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Sophie von La Roche</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                    <date when="1788-01-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1089584598">Sophie zu Solms-Rödelheim und Assenheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o17cbf74-8879-4278-878c-0a5cf2319c84" ref="https://www.dilibri.de/dilibri_kalliope/content/titleinfo/2427071">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Sophie von La Roche</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                    <date when="1788-07-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1089584598">Sophie zu Solms-Rödelheim und Assenheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o17cbf74-8879-4278-878c-0a5cf2319c84" ref="https://www.dilibri.de/dilibri_kalliope/content/titleinfo/2427072">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Sophie von La Roche</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                    <date when="1794-02-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1089584598">Sophie zu Solms-Rödelheim und Assenheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o17cbf74-8879-4278-878c-0a5cf2319c84" ref="https://www.dilibri.de/dilibri_kalliope/content/titleinfo/2427073">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Sophie von La Roche</persName>
+                    <date when="1795-03-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1089584598">Sophie zu Solms-Rödelheim und Assenheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o17cbf74-8879-4278-878c-0a5cf2319c84" ref="https://www.dilibri.de/dilibri_kalliope/content/titleinfo/2427074">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Sophie von La Roche</persName>
+                    <date when="1795-07-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1089584598">Sophie zu Solms-Rödelheim und Assenheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o17cbf74-8879-4278-878c-0a5cf2319c84" ref="https://www.dilibri.de/dilibri_kalliope/content/titleinfo/2427076">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Sophie von La Roche</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                    <date when="1796-06-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1089584598">Sophie zu Solms-Rödelheim und Assenheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o17cbf74-8879-4278-878c-0a5cf2319c84" ref="https://www.dilibri.de/dilibri_kalliope/content/titleinfo/2427075">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Sophie von La Roche</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                    <date when="1796-06-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1089584598">Sophie zu Solms-Rödelheim und Assenheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o17cbf74-8879-4278-878c-0a5cf2319c84" ref="https://www.dilibri.de/dilibri_kalliope/content/titleinfo/2427077">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Sophie von La Roche</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                    <date when="1797-03-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1089584598">Sophie zu Solms-Rödelheim und Assenheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o17cbf74-8879-4278-878c-0a5cf2319c84" ref="https://www.dilibri.de/dilibri_kalliope/content/titleinfo/2427078">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Sophie von La Roche</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                    <date when="1797-04-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1089584598">Sophie zu Solms-Rödelheim und Assenheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o17cbf74-8879-4278-878c-0a5cf2319c84" ref="https://www.dilibri.de/dilibri_kalliope/content/titleinfo/2427079">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Sophie von La Roche</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                    <date when="1799-06-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1089584598">Sophie zu Solms-Rödelheim und Assenheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o17cbf74-8879-4278-878c-0a5cf2319c84" ref="https://www.dilibri.de/dilibri_kalliope/content/titleinfo/2427080">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Sophie von La Roche</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1089584598">Sophie zu Solms-Rödelheim und Assenheim</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
