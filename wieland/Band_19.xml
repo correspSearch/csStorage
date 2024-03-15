@@ -1,54 +1,1590 @@
-<?xml-model href="https://raw.githubusercontent.com/TEI-Correspondence-SIG/CMIF/master/schema/cmi-customization.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Goethe in Wielands Briefwechsel (BW) – Band 19</title>
+                <title>Briefe von und an Christoph Martin Wieland − Nachträge und Abdruck abweichender Fassungen (1762-1811)</title>
                 <editor>Robert Charlier<email>charlier@bbaw.de</email>
                 </editor>
             </titleStmt>
-            <!-- Template for a TEI XML file according to the Correspondence Metadata Interchange (CMI) format -->
             <publicationStmt>
                 <publisher>
-                    <ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften (Berlin-Brandenburg Academy of Sciences and Humanities)</ref>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
                 </publisher>
-                <idno type="url">https://correspsearch.net/storage/wieland/Band_19.xml</idno>
-                <date when="2017-06-19"/>
                 <availability>
-                    <!-- The CC BY 4.0 license is mandatory -->
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
                 </availability>
+                <date when="2024-03-16T13:49:06.311-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/Band_19.xml</idno>
             </publicationStmt>
             <sourceDesc>
-                <bibl xml:id="WIELAND19" type="print" subtype="part">Wielands Briefwechsel. Neunzehnter Band (Nachträge 2). Bearbeitet von Siegfried Scheibe. Berlin 2007</bibl>
-                <!-- Gesamt-ISBN BW: [978-]3-05-000880-6; ISBN BW19: 978-3-05-004225-1 -->
-                <!-- Datei ist UNKOLLATONIERT -->
+                <bibl type="print" xml:id="yfc27f4d-936e-4283-9c99-9307dede3eb6">Wielands Briefwechsel. Hrsg. von der Berlin-Brandenburgischen Akademie der Wissenschaften durch Siegfried Scheibe. Neunzehnter Band: Nachträge 2 (= Nachträge und Abdruck abweichender Fassungen 1762−1811). Text und Anmerkungen. Bearbeitet von Siegfried Scheibe. Berlin: Akademie-Verlag 2007</bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <correspDesc source="#WIELAND19" key="134a">
-            <!-- chronologisch in BW12.1 einzureihen -->    
-                    <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/118569767">Marie Sophie von La Roche</persName>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 3, Nr. 82">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2949423">Biberach</placeName>
+                    <date when="1762-04-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118538969">Salomon Geßner</persName>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 5, Nr. 33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Marie Sophie von La Roche</persName>
+                    <placeName ref="http://www.geonames.org/2932843">Ehrenbreitstein</placeName>
+                    <date when="1772-11-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 5, Nr. 243">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1774-01-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118717758">Johann Wilhelm Ludwig Gleim</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911665">Halberstadt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 5, Nr. 438a">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/16114780-X">Johann Christoph Westphal u. Compagnie</persName>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1775-08-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 5, Nr. 448a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1775-09-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117279889">Johann August Ludecus</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 5, Nr. 458a">
+                <correspAction type="sent">
+                    <persName evidence="conjecture">Johann George Gotthelf Auen</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 5, Nr. 458b">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117604550">Johann Georg Philipp Müchler</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1775-09-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 5, Nr. 458c">
+                <correspAction type="sent">
+                    <persName evidence="conjecture">Johann George Gotthelf Auen</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1775-10-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 5, Nr. 465b">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1775-10-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117604550">Johann Georg Philipp Müchler</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 5, Nr. [631a]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/100309658">Karl Joseph Michaeler (Micheler)</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date notAfter="1777-08">(vor 16. August) 1777</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 5, Nr. [*726a]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1777-08-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/100309658">Karl Joseph Michaeler (Micheler)</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 5, Nr. 759b">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1777-10-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1144657822">Lodovico Aurelio von Savioli</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2873891">Mannheim</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 7, Nr. 21a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1778-02-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1144657822">Lodovico Aurelio von Savioli</persName>
+                    <placeName ref="http://www.geonames.org/2873891">Mannheim</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 7, Nr. 22a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1778-02-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117279889">Johann August Ludecus</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 7, Nr. [32]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notBefore="1778-03-07">nach 6. März 1778</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118560190">Karl Theodor Philipp von Pfalz-Bayern</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2873891">Mannheim</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 7, Nr. 35a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notBefore="1778-03-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1144657822">Lodovico Aurelio von Savioli</persName>
+                    <placeName ref="http://www.geonames.org/2873891">Mannheim</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 7, Nr. 241a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date evidence="conjecture" cert="low" when="1779-09-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Christian Gottlob Müller</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 7, Nr. 271">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1779-11-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>J. Hillenbrands Erben (Handelshaus Jakob Hillenbrand Erben)</persName>
+                    <placeName>Augsburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd.7, Nr. [284a]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date evidence="conjecture" cert="low" when="1780">"Einige Jahre" vor 1782</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11903428X">Ernestine Christine Reiske</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2946040">Bornum (am Elm)</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 7, Nr. 359a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/131245562">Johann Christian Schmohl</persName>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                    <date notBefore="1780-10-18">nach 17. Oktober 1780</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 7, Nr. [365a]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/131245562">Johann Christian Schmohl</persName>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                    <date when="1780-11-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 7, Nr. 365b">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1780-11-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/131245562">Johann Christian Schmohl</persName>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 7, Nr. 398a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1781-02-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117279889">Johann August Ludecus</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 7, Nr. 420">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1781-04-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116813245">Justin Heinrich von Hillern</persName>
+                    <placeName ref="http://www.geonames.org/2949423">Biberach</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 7, Nr. 442">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1781-06-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118581015">Johann Heinrich Merck</persName>
+                    <placeName ref="http://www.geonames.org/2938913">Darmstadt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 7, Nr. 503a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1782-01-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117279889">Johann August Ludecus</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 7, Nr. [520a]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116750715">Johanna Margaretha Christiane (gen. Tina) von Brühl</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notAfter="1782-04-06">vor 7. April 1782</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 7, Nr. 520b">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date evidence="conjecture" when="1782-04-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116750715">Johanna Margaretha Christiane (gen. Tina) von Brühl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 7, Nr. 522 ">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notBefore="1782-04-09" notAfter="1782-04-11">um den 10. April 1782</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116750715">Johanna Margaretha Christiane (gen. Tina) von Brühl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 7, Nr. [530]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118695681">Louise Ernestine Christiane Juliane von Göchhausen</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notBefore="1782-04-10" notAfter="1782-04-20">Mitte April 1782</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 7, Nr. 531">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notBefore="1782-04-10" notAfter="1782-04-20">Mitte April 1782</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118695681">Louise Ernestine Christiane Juliane von Göchhausen</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 7, Nr. 536a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notAfter="1782-04-25">vor 26. April 1782</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116750715">Johanna Margaretha Christiane (gen. Tina) von Brühl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2812482" cert="low">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 7, Nr. 551">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notBefore="1782-05" notAfter="1782-06">(Mai oder) Juni 1782</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116750715">Johanna Margaretha Christiane (gen. Tina) von Brühl</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 8, Nr. 2a">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116750715">Johanna Margaretha Christiane (gen. Tina) von Brühl</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1782-07-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2833384">Seifersdorf</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 8, Nr. 2b">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date evidence="conjecture" when="1782-07-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116750715">Johanna Margaretha Christiane (gen. Tina) von Brühl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2833384" cert="low">Seifersdorf</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 8, Nr. 10a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1782-08-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116750715">Johanna Margaretha Christiane (gen. Tina) von Brühl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2833384" cert="low">Seifersdorf</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 8, Nr. 12c">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11903428X">Ernestine Christine Reiske</persName>
+                    <placeName ref="http://www.geonames.org/2946040">Bornum (am Elm)</placeName>
+                    <date when="1782-09-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 8, Nr. 55a ">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1783-01-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117279889">Johann August Ludecus</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 8, Nr. 71a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notBefore="1783-03-03" evidence="conjecture" cert="low">3. März 1783 (oder spätere Jahreszahl ?)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116750715">Johanna Margaretha Christiane (gen. Tina) von Brühl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2833384">Seifersdorf</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 8, Nr. 76a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1783-04-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117279889">Johann August Ludecus</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 8, Nr. [165a]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119101343">Joseph Franz Ratschky</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date notBefore="1784-01" notAfter="1784-02">Anfang 1784</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 8, Nr. [186a]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date evidence="conjecture" cert="low" when="1784-02">Februar (?) 1784</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118511963">Johannes Alois Blumauer</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 8, Nr. [206]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notBefore="1784-03-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Christan Bernhard von Isenflamm</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 8, Nr. 207">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notBefore="1784-03-06">nach 5. März 1784</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116450223">Joseph Friedrich von Retzer</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 8, Nr. 208a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1784-03-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Unbekannt</persName>
+                    <date evidence="conjecture"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 8, Nr. 208b">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1784-03-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119101343">Joseph Franz Ratschky</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 8, Nr. [225a]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118636979">Johann Georg Zimmermann</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2910831">Hannover</placeName>
+                    <date notBefore="1784-03-20" notAfter="1784-04-10">Ende März/Anfang April 1784</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 8, Nr. 301a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1784-08-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117279889">Johann August Ludecus</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 8, Nr. 356a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Marie Sophie von La Roche</persName>
+                    <placeName ref="http://www.geonames.org/2830582">Speyer</placeName>
+                    <date when="1784-11-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 8, Nr. 385">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118649485">Anna Amalia von Sachsen-Weimar und Eisenach</persName>
+                    <placeName ref="http://www.geonames.org/2822280">Tiefurt</placeName>
+                    <date when="1784-12-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 8, Nr. 395">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date evidence="conjecture" when="1784-12-26">wohl 26. Dezember 1784</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116750715">Johanna Margaretha Christiane (gen. Tina) von Brühl</persName>
+                    <placeName ref="http://www.geonames.org/2833384">Seifersdorf</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 8, Nr. 395a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1784-12-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117279889">Johann August Ludecus</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 8, Nr. 486a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1785-05-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118636979">Johann Georg Zimmermann</persName>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 9, Nr. [2]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notAfter="1785-07-06">vor 7. Juli 1785</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118636979">Johann Georg Zimmermann</persName>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 9, Nr. 32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1785-08-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/142821136">Johann Friedrich Junius (Weidmanns Erben und Reich)</persName>
+                    <persName ref="http://d-nb.info/gnd/6146596-3">Weidmanns  Erben und Reich</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 9, Nr. 54">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1785-09-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116750715">Johanna Margaretha Christiane (gen. Tina) von Brühl</persName>
+                    <placeName ref="http://www.geonames.org/2833384">Seifersdorf</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 9, Nr. [96a]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119010860">Christian Friedrich Schwan</persName>
+                    <placeName ref="http://www.geonames.org/2873891">Mannheim</placeName>
+                    <date when="1785-12-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 9, Nr. 101">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1785-12-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119010860">Christian Friedrich Schwan</persName>
+                    <placeName ref="http://www.geonames.org/2873891">Mannheim</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 9, Nr. 139a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1786-03-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117279889">Johann August Ludecus</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 9, Nr. 195a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1786-09-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117279889">Johann August Ludecus</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 9, Nr. 293a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1787-02-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117279889">Johann August Ludecus</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 9, Nr. 298a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1787-02-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118695916">Georg Joachim Göschen</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1787-02-14">(Empfängerbemerkung:)  [17]87 (...) empfg. d. 14ten dto</date>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 9, Nr. 431">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1787-10-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118599410">Karl Leonhard Reinhold</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2895044">Jena</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 9, Nr. 443a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1787-11-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118695916" cert="low">Georg Joachim Göschen (?)</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1787-11-16">(Empfängerbemerkung:) empf. D.[ecembris] 16ten D[ito; i. e. 1787]</date>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 9, Nr. 501a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1788-02-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117279889">Johann August Ludecus</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 10, Nr. 60">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Marie Sophie von La Roche</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                    <date when="1788-05-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 10, Nr. [78a]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116750715">Johanna Margaretha Christiane (gen. Tina) von Brühl</persName>
+                    <placeName ref="http://www.geonames.org/2833384">Seifersdorf</placeName>
+                    <date when="1787-07-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 10, Nr. 89a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Marie Sophie von La Roche</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                    <date when="1788-08-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 10, Nr. [113a]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118695681">Louise Ernestine Christiane Juliane von Göchhausen</persName>
+                    <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+                    <date when="1788-09-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd.10, Nr. 117a">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116750715">Johanna Margaretha Christiane (gen. Tina) von Brühl</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1788-10-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 10, Nr. 176a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1789-02-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117279889">Johann August Ludecus</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 10, Nr. 241">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777505">Karl Ludwig Knebel</persName>
+                    <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
+                    <date when="1789-05-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 10, Nr. 295a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1789-08-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118695916">Georg Joachim Göschen</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1789-08-29">(Empfängerbemerkung:) Aug. [ust 17]89 (...) empfg. d. 29 d° [dito; desselben]</date>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 10, Nr. 374">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notBefore="1790-02-19">nach 18. Februar 1790 (zzgl. bis zu 3 Posttage)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118569767">Marie Sophie von La Roche</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 10, Nr. 384a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Marie Sophie von La Roche</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                    <date when="1790-02-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 10, Nr. 386a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Marie Sophie von La Roche</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                    <date when="1790-02-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 10, Nr. 481a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1790-08-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117279889">Johann August Ludecus</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 10, Nr. 485a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Marie Sophie von La Roche</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                    <date when="1790-09-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 11, Nr. 5a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1791-01-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117279889">Johann August Ludecus</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 11, Nr. 183a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118627910">Johann Heinrich Voß</persName>
+                    <placeName ref="http://www.geonames.org/2928381">Eutin</placeName>
+                    <date when="1791-11-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 11, Nr. 220a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1792-01-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117279889">Johann August Ludecus</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 12, Nr. 1a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1793-07-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117279889">Johann August Ludecus</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 12, Nr. 64a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Marie Sophie von La Roche</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                    <date when="1793-10-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 12, 134a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Marie Sophie von La Roche</persName>
                     <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
                     <date when="1794-01-24"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
                     <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
                 </correspAction>
-            </correspDesc> 
-            <correspDesc source="#WIELAND19" key="290b">
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 12, Nr. 145">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <persName ref="https://d-nb.info/gnd/118695916">Georg Joachim Göschen</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date evidence="conjecture" when="1794-02-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date evidence="conjecture" when="1794-02-10"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 12, Nr. 153a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notBefore="1794-02-11">nach 10. Februar 1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117279889">Johann August Ludecus</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 12, Nr. 186">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1794-03-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 12, Nr. 203a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1794-04-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117279889">Johann August Ludecus</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 12, Nr. 332">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1794-10-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116750715">Johanna Margaretha Christiane (gen. Tina) von Brühl</persName>
+                    <placeName ref="http://www.geonames.org/2833384">Seifersdorf</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 12, Nr. 441">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <persName ref="http://d-nb.info/gnd/129733946">Anna Dorothea Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1795-04-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116600217">Heinrich Geßner (Gessner)</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 12, Nr. 452">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Marie Sophie von La Roche</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                    <date when="1795-04-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 12, Nr. 453a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1795-04-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118695916">Georg Joachim Göschen</persName>
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1052846246">Julius Jacob Elkan</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 12, Nr. 469a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118569767">Marie Sophie von La Roche</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                    <date notBefore="1795-05-11">nach 10. Mai 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date evidence="conjecture" when="1795-05-18"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 12, Nr. 469b">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1795-05-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118695916">Georg Joachim Göschen</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date evidence="conjecture" when="1795-05-16">(Empfängerbemerkung:) 1795 (...) empf. d. 16. May</date>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 12, Nr. 473">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1795-05-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116005815">Ernst Christian Wilhelm von Ackermann</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2896514">Ilmenau</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 12, Nr. 477">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1795-05-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129209724">Judith Geßner</persName>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 12, Nr. 478a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1795-05-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117279889">Johann August Ludecus</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 13, Nr. [1a]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116750715">Johanna Margaretha Christiane (gen. Tina) von Brühl</persName>
+                    <placeName ref="http://www.geonames.org/2833384">Seifersdorf</placeName>
+                    <date when="1795-07">Juli 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 13, Nr. 55a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1795-09-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117279889">Johann August Ludecus</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 13, Nr. 70a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1795-09-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116750715">Johanna Margaretha Christiane (gen. Tina) von Brühl</persName>
+                    <placeName ref="http://www.geonames.org/2833384">Seifersdorf</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 13, Nr. 99">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116750715">Johanna Margaretha Christiane (gen. Tina) von Brühl</persName>
+                    <placeName ref="http://www.geonames.org/2833384">Seifersdorf</placeName>
+                    <date when="1795-10-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 13, Nr. 126a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1795-11-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117279889">Johann August Ludecus</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 13, Nr. 157a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1795-12-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117279889">Johann August Ludecus</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 287a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1796-05-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117279889">Johann August Ludecus</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 13, Nr. 413a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date evidence="conjecture" cert="low" when="1796-12-02">2. Dezember 1796 (?)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118681818">Friedrich Hildebrand von Einsiedel-Scharfenstein</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 13, Nr. 518a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1797-03-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117279889">Johann August Ludecus</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 14, Nr. [316a]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116750715">Johanna Margaretha Christiane (gen. Tina) von Brühl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2833384" cert="low">Seifersdorf (?)</placeName>
+                    <date notAfter="1798-09-01">vor 2. September 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 14, Nr. 319a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1798-09-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116750715">Johanna Margaretha Christiane (gen. Tina) von Brühl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2833384" cert="low">Seifersdorf</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 14, Nr. [478a]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118695681">Louise Ernestine Christiane Juliane von Göchhausen</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1799-04-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2856837">Oßmannstedt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 14, Nr. 480a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2856837">Oßmannstedt</placeName>
+                    <date when="1799-04-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118695681">Louise Ernestine Christiane Juliane von Göchhausen</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 15, Nr. [96a]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119049546">Johann Friedrich Vieweg</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1799-12-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2856837">Oßmannstedt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 15, Nr. 101a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2856837">Oßmannstedt</placeName>
+                    <date when="1800-01-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119049546">Johann Friedrich Vieweg</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 15, Nr. [*463a]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118931911">Johann Karl Simon Morgenstern</persName>
+                    <placeName ref="http://www.geonames.org/3099434">Danzig</placeName>
+                    <date when="1801-09-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2856837">Oßmannstedt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 16, Nr. [36a]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/1050913442">Gebrüder (Christian Heinrich und Ephraim) Ramann</persName>
+                    <placeName ref="http://www.geonames.org/2929670">Erfurt</placeName>
+                    <date when="1802-11-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2856837">Oßmannstedt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 16, Nr. 38a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2856837">Oßmannstedt</placeName>
+                    <date when="1802-11-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/1050913442">Gebrüder (Christian Heinrich und Ephraim) Ramann</persName>
+                    <placeName ref="http://www.geonames.org/2929670">Erfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 16, Nr. 171">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777505">Karl Ludwig Knebel</persName>
+                    <placeName ref="http://www.geonames.org/2896514">Ilmenau</placeName>
+                    <date notBefore="1803-07-15" notAfter="1803-07-18">nach 14. (bzw. am 18.) Juli 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2856837">Oßmannstedt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 16, Nr. 179">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116599995">Charlotte Wilhelmine Geßner</persName>
+                    <placeName ref="http://www.geonames.org/2661321">Burgdorf</placeName>
+                    <date when="1803-08-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2856837" cert="low">Oßmannstedt (?)</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 16, Nr. [215a]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notBefore="1803-10-20" notAfter="1803-10-31">Ende Oktober 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 16 Nr. 215b">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notBefore="1803-10-20" notAfter="1803-10-31">Ende Oktober 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 17, Nr. 34a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1806-03-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11709501X">Johann Ernst Wagner</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 17, Nr. 35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1806-03-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11709501X">Johann Ernst Wagner</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 17, Nr. 100a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1806-09-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102479844">Karl Friedrich von Sachsen-Weimar und Eisenach</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 17, Nr. 142a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1806-12-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/104045213">Heinrich Karl Abraham Eichstädt</persName>
+                    <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 17, Nr. 240">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/9694416">Schloss Belvedere/Weimar</placeName>
+                    <date when="1807-09-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104304219">Maria Pawlowna von Sachsen-Weimar und Eisenach</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 17, Nr. 283a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2812482" cert="low">Weimar</placeName>
+                    <date notBefore="1808" evidence="conjecture" cert="low" notAfter="1811">1808 (?)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116250933">Magdalena Henriette von Knebel</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 17, Nr. 290b">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
                     <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
                     <date when="1808-02-02"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://d-nb.info/gnd/118767208">Friedrich Ludwig Zacharias Werner</persName>
-                    <placeName ref="http://www.geonames.org/2812482" cert="high">Weimar</placeName>
-                    <!-- aus dem Kontext ist auf Empfangsort Weimar zu schließen (Einladung als Billet); vgl. auch Komm. BW17.2,206 -->
+                    <persName ref="https://d-nb.info/gnd/118767208">Friedrich Ludwig Zacharias Werner</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2812482">Weimar</placeName>
                 </correspAction>
-            </correspDesc>            
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 17, Nr. 341a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1808-05-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116992662">Karl Friedrich Horn</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 17, Nr. [343a]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11709501X">Johann Ernst Wagner</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2872225" cert="low">Meiningen (?)</placeName>
+                    <date notAfter="1808-05-22">vor 23. Mai 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 17, Nr. 375a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notBefore="1808-07-23">nach 22. Juli 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116150254">Karl Bertuch</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 17, Nr. [432a]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118613480">Johann Gottfried Seume</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2879139" cert="low">Leipzig</placeName>
+                    <date when="1808-11-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 17, Nr. 456a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1808-12-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116600217">Heinrich Geßner (Gessner)</persName>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 17, Nr. 460">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118518658">Joachim Heinrich Campe</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1809-01-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 17, Nr. [506a]">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116791810" cert="low">Friedrich Wilhelm Marschall von Bieberstein (?)</persName>
+                    <placeName ref="http://www.geonames.org/3209000">Choren (bei Nossen)</placeName>
+                    <date notAfter="1809-04-02">vor 3. April 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 17, Nr. 506b">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1809-04-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116791810" cert="low">Friedrich Wilhelm Marschall von Bieberstein (?)</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3209000">Choren (bei Nossen)</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 17, Nr. 510">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1809-04-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118613480">Johann Gottfried Seume</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2879139" cert="low">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 17, Nr. 516">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118518658">Joachim Heinrich Campe</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1809-04-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 17, Nr. 560a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1809-08-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117395056">Friedrich Wilmans</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 17, Nr. [566a]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116834722">Friederike Juliane Griesbach</persName>
+                    <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
+                    <date notBefore="1809-09-04" evidence="conjecture" cert="low" notAfter="1809-09-05">4. (?) September 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1809-09-05"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 17 Nr. *569">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1809-09-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Friedrike Juliane Griesbach</persName>
+                    <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 18, Nr. 237">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1811-04-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104306955">Johann Cornelius Rudolf Ridel (Riedel)</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#yfc27f4d-936e-4283-9c99-9307dede3eb6" key="zu Bd. 19, Nr. 1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date cert="low">14. September (?) [ohne Jahresangabe]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
