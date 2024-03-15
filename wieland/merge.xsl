@@ -21,7 +21,7 @@
                         <idno type="url">https://correspsearch.net/storage/wieland/gesamt.xml</idno>
                         <date when="2024-03-15"/>
                         <availability>
-                            <licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+                            <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This file is licensed under the Creative Commons licence CC0</licence>
                         </availability>
                     </publicationStmt>
                     <sourceDesc>
