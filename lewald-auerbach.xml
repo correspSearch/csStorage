@@ -1,0 +1,385 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fanny Lewald und Berthold Auerbach</title>
+                <editor>Stefan Dumont<email>correspsearch@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/lewald-auerbach.xml</idno>
+                <date when="2024-04-19T18:19:36.866-02:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71">Jana Kittelmann
+Der Briefwechsel zwischen Berthold Auerbach und Fanny Lewald. In: Jahrbuch der Deutschen Schillergesellschaft LV (2011). S. 49-77<ref target="https://doi.org/10.46500/83530948-003">https://doi.org/10.46500/83530948-003</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[1]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1845-04-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[2]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1847-10-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[3]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1857-12-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[4]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1858-05-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[5]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1862" notAfter="1862"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[6]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notAfter="1872-11-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[7]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1872-11-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[8]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1873-02-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[9]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1873-11-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[10]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1876-02-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[11]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1876-02-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[12]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1876-04-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[13]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1877-02-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[14]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1877-03-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[15]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1878-12-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[16]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1879-02-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[17]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1879-05-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[18]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1879-06-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[19]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1879" notAfter="1879"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[20]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1879" notAfter="1879-11-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[21]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                    <placeName ref="http://www.geonames.org/2892794">Karlsruhe</placeName>
+                    <date when="1879-11-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[22]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1880-02-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[23]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1880" notAfter="1880"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[24]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1881-03-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[25]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                    <date when="1881-04-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[26]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1881-09-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11865103X">Berthold Auerbach</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+            <correspDesc source="#tf9af7b2-e3ce-4b76-9f7f-5ae418b8fb71" key="[27]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1882-02" notAfter="1882-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11637747X">Nina Auerbach</persName>
+                </correspAction>
+                <note>
+                    <ref target="de" type="https://lod.academy/cmif/vocab/terms#hasLanguage"/>
+                </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
