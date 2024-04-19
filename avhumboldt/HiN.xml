@@ -1,4 +1,4 @@
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -260,7 +260,7 @@
                     Charles-Guillaume Étienne , XXIII, 45, 5-11. <ref
                         target="https://doi.org/10.18443/347">https://doi.org/10.18443/347</ref>
                 </bibl>
-                <bibl type="online" subtype="publication" xml:id="#HiN-45-Puig-Samper"> Puig-Samper,
+                <bibl type="online" subtype="publication" xml:id="HiN-45-Puig-Samper"> Puig-Samper,
                     Miguel Ángel (2022) : Humboldt and his geographical album of New Spain , XXIII,
                     45, 29-71. <ref target="https://doi.org/10.18443/349"
                         >https://doi.org/10.18443/349</ref>
@@ -1279,7 +1279,7 @@
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date notBefore="1843-08-15" notAfter="1843-08-21"/>
                 </correspAction>
-                <correspAction typ="received">
+                <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118554700">Alexander von
                         Humboldt</persName>
                 </correspAction>
@@ -1290,7 +1290,7 @@
                     <!-- ? -->
                     <date when="1850-06-18"/>
                 </correspAction>
-                <correspAction typ="received">
+                <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118554700">Alexander von
                         Humboldt</persName>
                 </correspAction>
