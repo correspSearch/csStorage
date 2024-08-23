@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <!-- Generated from table of letters with csv2cmi 2.1.0 as webservice at https://cmif.saw-leipzig.de-->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="title-3751-d275-487ed53bf6">Arnold Schoenberg und Roberto Gerhard:
+                    Briefwechsel</title>
+                <editor>Marthe Küster</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <idno type="url">https://correspsearch.net/storage/schoenberg-gerhard.xml</idno>
+                <date when="2024-07-01T10:42:45.856394"/>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="online" xml:id="d0291874-adac-4c5c-81e9-5a00a66febc4">Ortiz de Urbina,
+                    Paloma, Herausgeber. Arnold Schoenberg und Roberto Gerhard: Briefwechsel :
+                    Kritische Ausgabe von Paloma Ortiz-de-Urbina. Peter Lang International Academic
+                    Publishers, 2019. directory.doabooks.org,
+                    https://directory.doabooks.org/handle/20.500.12854/99374.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="1"
+                xml:id="letter-0478-a1c0-9ef0864c5d">
+                <correspAction xml:id="sender-2c53-40c2-59816ca30e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/3106492">Valls</placeName>
+                    <date when="1923-10-21">21. Oktober 1923</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b784-7fac-e23679c58d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="2"
+                xml:id="letter-f760-1e32-0cead51732">
+                <correspAction xml:id="sender-78a5-14d0-d9213f8bc4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2771335">Mödling</placeName>
+                    <date when="1923-11-04">4. November 1923</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d18c-0671-05e613c297" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="3"
+                xml:id="letter-e31a-75a6-bfcd6e9245">
+                <correspAction xml:id="sender-f026-f985-2afed760b9" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/3106492">Valls</placeName>
+                    <date when="1923-11-12">12. November 1923</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7d6a-ca4f-6e79b5281c" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="4"
+                xml:id="letter-df76-da48-806b27d53e">
+                <correspAction xml:id="sender-2308-a938-fa10bd6538" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/3128760">Barcelona</placeName>
+                    <date when="1923-11">Ende November 1923</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8415-8da6-98c21a350e" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="5"
+                xml:id="letter-8469-982b-ca8d159e7b">
+                <correspAction xml:id="sender-61e7-21c3-1f658b7ce4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2771335">Mödling</placeName>
+                    <date when="1923-11-28">28. November 1923</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d8a1-6d93-2eb8c4a36f" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="6"
+                xml:id="letter-5d1b-ca1d-e582c64ad9">
+                <correspAction xml:id="sender-1cdf-1fb0-96b32ade0f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1923-11-29">29. November 1923</date>
+                </correspAction>
+                <correspAction xml:id="addressee-52d8-839c-2ea3658bd9" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="7"
+                xml:id="letter-1fac-70ec-1e594b3786">
+                <correspAction xml:id="sender-0ca5-680d-809a713ef6" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2771335">Mödling</placeName>
+                    <date when="1923-11-29">30. November 1923</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e2c6-462c-51aec4bf30" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="8"
+                xml:id="letter-e8d6-e79a-a1c76ef93b">
+                <correspAction xml:id="sender-30a2-1b7f-f972e6a0b4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2771335">Mödling</placeName>
+                    <date when="1924-01-04">4. Januar 1924</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a9d6-93d7-be364795d1" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="9"
+                xml:id="letter-8293-46e1-764a31820d">
+                <correspAction xml:id="sender-50e9-dbe7-10f29ed5ab" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2771335">Mödling</placeName>
+                    <date when="1924-01-27">27. Januar 1924</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1db9-8baf-04c8dfe25a" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="10"
+                xml:id="letter-610c-a370-9df0e2175b">
+                <correspAction xml:id="sender-25e7-0d75-45bfd172c0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Robert Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/3128760">Barcelona</placeName>
+                    <date when="1930-02-08">8. Februar 1930</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1c7d-6f1a-93fcdba781" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="11"
+                xml:id="letter-c485-901a-61abd574e8">
+                <correspAction xml:id="sender-ab3d-c731-1dc028e54f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2658399">Territet</placeName>
+                    <date when="1931-09-16">16. September 1931</date>
+                </correspAction>
+                <correspAction xml:id="addressee-cb69-4791-836bae0549" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="12"
+                xml:id="letter-9b30-203c-b3402f756d">
+                <correspAction xml:id="sender-c578-e61f-046ba5ed98" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/3128760">Barcelona</placeName>
+                    <date when="1931-09-20">20. September 1931</date>
+                </correspAction>
+                <correspAction xml:id="addressee-51be-b762-f603e8d597" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="13"
+                xml:id="letter-40e1-6bca-6b0dec3fa2">
+                <correspAction xml:id="sender-5c86-4fca-a437f16592" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2658399">Territet</placeName>
+                    <date when="1931-09-24">24. September 1931</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9158-bf53-d942a1735f" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="14"
+                xml:id="letter-24ed-a1e4-65d489efa2">
+                <correspAction xml:id="sender-c59e-16d9-c69eb52f43" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118519409">Pau Casals et. al.</persName>
+                    <placeName ref="http://www.geonames.org/3128760">Barcelona</placeName>
+                    <date when="1931-10">Anfang Oktober 1931</date>
+                </correspAction>
+                <correspAction xml:id="addressee-162b-3980-563b8ac2d9" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="15"
+                xml:id="letter-c12d-f316-3d429a806f">
+                <correspAction xml:id="sender-a42c-5ce3-6ecd2539a7" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/3128760">Barcelona</placeName>
+                    <date when="1931-11-03">3. November 1931</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8531-4726-705be4fa62" type="received">
+                    <persName ref="https://d-nb.info/gnd/118519409">Pau Casals et. al.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="16"
+                xml:id="letter-f347-a08f-5a38c79601">
+                <correspAction xml:id="sender-2c9d-09ce-640192ef57" type="sent">
+                    <persName ref="https://d-nb.info/gnd/136986374">Gertrud Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/3128760">Barcelona</placeName>
+                    <date when="1931-11">Ende November 1931</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4f83-8a15-7038ba94cf" type="received">
+                    <persName>Robert Gerhards Mutter</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="17"
+                xml:id="letter-862b-7c6f-30ec5fd4b1">
+                <correspAction xml:id="sender-86ca-19c4-8b6123d0c9" type="sent">
+                    <persName ref="https://d-nb.info/gnd/136986374">Gertrud Schönberg</persName>
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/3128760">Barcelona</placeName>
+                    <date when="1931-12-17">17. Dezember 1931</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8bad-c218-da79358fec" type="received">
+                    <persName>Robert Gerhards Mutter</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="18"
+                xml:id="letter-ce24-7e96-87e3d61f04">
+                <correspAction xml:id="sender-9a13-721c-58e1693a0f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1932-06-03" notAfter="1932-06-04">3. und 4. Juni 1932</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fa58-e487-f0d462b7ca" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="19"
+                xml:id="letter-123c-cf72-9d1b54367a">
+                <correspAction xml:id="sender-ef0b-7e61-2db7590e48" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Robert Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/2763266">Tulln an der Donau</placeName>
+                    <date when="1932-07-02">2. Juli 1932</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2e0a-e3d6-62df954bac" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="20"
+                xml:id="letter-64b9-e910-dc9864fb37">
+                <correspAction xml:id="sender-60b8-db29-1d5fe7b62a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/136986374">Gertrud Schönberg</persName>
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1932-08-14">14. August 1932</date>
+                </correspAction>
+                <correspAction xml:id="addressee-01bc-873c-164f0ce75d" type="received">
+                    <persName ref="https://d-nb.info/gnd/1125454180">Poldi Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="21"
+                xml:id="letter-fc37-4f5a-a638f7ce14">
+                <correspAction xml:id="sender-d43e-1ca2-e1fba934dc" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1932-08-14">14. August 1932</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5ea4-d74f-24316cdb7f" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="22"
+                xml:id="letter-9106-1473-d056b4213f">
+                <correspAction xml:id="sender-c345-01e5-cd846f1205" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1932-09-03">3. September 1932</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2a58-3829-760d2c1589" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="23"
+                xml:id="letter-24b9-61f4-651a2bc04d">
+                <correspAction xml:id="sender-ad84-214b-97bf5dea23" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1932-11-15">15. November 1932</date>
+                </correspAction>
+                <correspAction xml:id="addressee-21c6-208f-b87cd53602" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="24"
+                xml:id="letter-1e02-fd02-629af1c87b">
+                <correspAction xml:id="sender-3e48-2834-18d2b369f0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/136986374">Gertrud Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1932-11-15">15. November 1932</date>
+                </correspAction>
+                <correspAction xml:id="addressee-85d9-b85d-2f13d74ec9" type="received">
+                    <persName ref="https://d-nb.info/gnd/1125454180">Poldi Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="25"
+                xml:id="letter-0653-6bf7-790b36af51">
+                <correspAction xml:id="sender-4cd8-5620-b64fde05c8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1932-11">Ende November 1932</date>
+                </correspAction>
+                <correspAction xml:id="addressee-02a5-6bf3-1f4bcd690a" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="26"
+                xml:id="letter-e98a-5328-4a68201fed">
+                <correspAction xml:id="sender-0b2a-1728-781e6dbc30" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/3128760">Barcelona</placeName>
+                    <date when="1932-12">Anfang Dezember 1932</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fbc7-7b8e-b1460f95e8" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="27"
+                xml:id="letter-a859-6b24-c670a8b53f">
+                <correspAction xml:id="sender-9c85-d472-7c0d2bae54" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/3128760">Barcelona</placeName>
+                    <date when="1932-12-21">21. Dezember 1932</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9623-f045-c35ed47160" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="28"
+                xml:id="letter-d736-df1e-3e4d90f7b6">
+                <correspAction xml:id="sender-c2ed-03c8-f1263479de" type="sent">
+                    <persName ref="https://d-nb.info/gnd/136986374">Gertrud Schönberg</persName>
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1932-12-27">27. Dezember 1932</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d167-23e5-d5f2a1098e" type="received">
+                    <persName ref="https://d-nb.info/gnd/1125454180">Poldi Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="29"
+                xml:id="letter-2319-e9b1-e4b5da0267">
+                <correspAction xml:id="sender-f4ac-ea12-956a018fce" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <persName ref="https://d-nb.info/gnd/136986374">Gertrud Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1933-12-30">30. Dezember 1933</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2c76-07e6-7d6e9c0ba4" type="received">
+                    <persName ref="https://d-nb.info/gnd/1125454180">Poldi Gerhard</persName>
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="30"
+                xml:id="letter-6294-6132-d9f0183ac4">
+                <correspAction xml:id="sender-1a4b-0b76-8db07f425c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1933-01-18">18. Januar 1933</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b653-ce26-f52608be3d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="31"
+                xml:id="letter-c7b9-5e60-74c58a06f3">
+                <correspAction xml:id="sender-cdf9-4c36-b0f851ce37" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1933-02-20">20. Februar 1933</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1d45-8fc3-8b6d504cae" type="received">
+                    <persName ref="https://d-nb.info/gnd/118519409">Pau Casals</persName>
+                    <persName ref="https://d-nb.info/gnd/118918184">Robert Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="32"
+                xml:id="letter-1fce-4f10-16c3fa42bd">
+                <correspAction xml:id="sender-f03e-9bf2-a0279f156e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/3128760">Barcelona</placeName>
+                    <date notBefore="1933-02-25" notAfter="1933-02-26">25. und 26. Februar
+                        1933</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5cae-cbf6-c870fab36d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="33"
+                xml:id="letter-09d8-8b05-07826e9415">
+                <correspAction xml:id="sender-4d06-db19-f817d03e24" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <persName ref="https://d-nb.info/gnd/136986374">Gertrud Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1933-03-18">18. März 1933</date>
+                </correspAction>
+                <correspAction xml:id="addressee-062d-18a7-b0693e278f" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <persName ref="https://d-nb.info/gnd/1125454180">Poldi Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="34"
+                xml:id="letter-8095-65fa-cdf790ae45">
+                <correspAction xml:id="sender-3d67-eb4f-4bad1756e2" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/3128760">Barcelona</placeName>
+                    <date when="1933-03-28">28. März 1933</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6879-8dcf-29f58a3b07" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="35"
+                xml:id="letter-7415-c1e8-32cda95e41">
+                <correspAction xml:id="sender-25b8-2be5-e6ba284539" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/3128760">Barcelona</placeName>
+                    <date when="1933-04-06">6. April 1933</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0372-c9b3-3f26d58eb0" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="35"
+                xml:id="letter-238f-dce6-14f8e70c3d">
+                <correspAction xml:id="sender-68c1-12ed-425d17c360" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/3128760">Barcelona</placeName>
+                    <date when="1933-04-06">6. April 1933</date>
+                </correspAction>
+                <correspAction xml:id="addressee-45c6-f807-f4b5d96107" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="37"
+                xml:id="letter-3dec-17cf-64c972afe0">
+                <correspAction xml:id="sender-7b92-f0d6-8ad654fb71" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1933-04-15">15. April 1933</date>
+                </correspAction>
+                <correspAction xml:id="addressee-db49-a10b-6b087a3942" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="38"
+                xml:id="letter-53b1-b026-c4806de1f9">
+                <correspAction xml:id="sender-546d-2386-ec7b0342a9" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/3128760">Barcelona</placeName>
+                    <date when="1933-04-28">28. April 1933</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c947-3e47-1a60cfd492" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="39"
+                xml:id="letter-692e-b4e1-8e56a93b7c">
+                <correspAction xml:id="sender-281c-daf8-9f14d08c3b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/136986374">Gertrud Schönberg</persName>
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1933-05-11">11. Mai 1933</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2961-b63d-4298c7ea03" type="received">
+                    <persName ref="https://d-nb.info/gnd/1125454180">Poldi Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="40"
+                xml:id="letter-0ec7-4d35-8b642ea051">
+                <correspAction xml:id="sender-67a3-2db1-7bf8410a65" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <persName ref="https://d-nb.info/gnd/136986374">Gertrud Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1933-05-19">19. Mai 1933</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7b5f-c2e0-d5308abe97" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <persName ref="https://d-nb.info/gnd/1125454180">Poldi Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="41"
+                xml:id="letter-84e7-56de-6a49eb53f7">
+                <correspAction xml:id="sender-4572-fcb9-1e89d2acb0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/3128760">Barcelona</placeName>
+                    <date when="1933-05-25">25. Mai 1933</date>
+                </correspAction>
+                <correspAction xml:id="addressee-920a-67c1-7d9b5360ce" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="42"
+                xml:id="letter-1db6-62e9-4628b5317c">
+                <correspAction xml:id="sender-2d3e-4a15-e9cb2ad08f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1933-05-27">27. Mai 1933</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e5bd-a3ef-e640d98a7f" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="43"
+                xml:id="letter-39b1-2e0c-dac0f75349">
+                <correspAction xml:id="sender-ea58-e2df-a946c1823e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/3128760">Barcelona</placeName>
+                    <date when="1933-06-27">27. Juni 1933</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9c65-68bd-52743d1980" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="44"
+                xml:id="letter-4176-6f02-28107dac49">
+                <correspAction xml:id="sender-6895-42cf-f6a7108d25" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1933-07-20">20. Juli 1933</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1495-fe20-b9c03d52e1" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="45"
+                xml:id="letter-75fd-784b-94b768dfca">
+                <correspAction xml:id="sender-3504-0a51-47958c16a0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/3128760">Barcelona</placeName>
+                    <date when="1933-08-06">6. August 1933</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a85e-e45c-c41f5d0782" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="46"
+                xml:id="letter-905a-7d65-1c07f4eb28">
+                <correspAction xml:id="sender-01d8-589a-5ed71bfca4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/3037253">Arcachon</placeName>
+                    <date when="1933-08-26">26. August 1933</date>
+                </correspAction>
+                <correspAction xml:id="addressee-39d1-6b0f-0e31dba275" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="47"
+                xml:id="letter-0ed5-d68b-53fae09b42">
+                <correspAction xml:id="sender-b92c-64e9-18a0fdb67e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/3128760">Barcelona</placeName>
+                    <date when="1933-11-05">5. November 1933</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8c7a-c0d4-9ae647d2c3" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="48"
+                xml:id="letter-451e-71d4-d2f360ac18">
+                <correspAction xml:id="sender-d946-19e6-5fa428db6c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/4930956">Boston</placeName>
+                    <date when="1933-11-22">22. November 1933</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ae15-f1ed-5e06432cb7" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="49"
+                xml:id="letter-0e23-4edb-acd7019b45">
+                <correspAction xml:id="sender-b42f-0398-37d1be42c0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <persName ref="https://d-nb.info/gnd/136986374">Gertrud Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/4931482">Brookline, MA, USA</placeName>
+                    <date when="1934-02-19">19. Februar 1934</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4ec8-871d-8c5a9d63eb" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <persName ref="https://d-nb.info/gnd/1125454180">Poldi Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="50"
+                xml:id="letter-e529-6db7-2e51439f7c">
+                <correspAction xml:id="sender-c102-c3a9-27da8960ec" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1013623088">Georg Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1934-03-06">6. März 1934</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c15f-3492-419738fb2c" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="51"
+                xml:id="letter-5cf8-5fb6-d153bc2f09">
+                <correspAction xml:id="sender-47e5-98ab-7e943bc21a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1125454180">Poldi Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/3583361">San Salvador</placeName>
+                    <date when="1934-09-03">3. September 1934</date>
+                </correspAction>
+                <correspAction xml:id="addressee-145e-6ad9-2fa0ed7368" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <persName ref="https://d-nb.info/gnd/136986374">Gertrud Schönberg</persName>
+                    <persName ref="https://d-nb.info/gnd/117054208">Nuria Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="52"
+                xml:id="letter-4c63-9c2f-4d75e19b83">
+                <correspAction xml:id="sender-5a68-1ef0-796451830c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/3106492">Valls</placeName>
+                    <date when="1934-09-03">3. September 1934</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3650-fb27-2ca745b3d0" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="53"
+                xml:id="letter-8f63-d452-10a34589cf">
+                <correspAction xml:id="sender-8be6-c312-aec3f215db" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/3583361">San Salvador</placeName>
+                    <date when="1934-09-04">4. September 1934</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2e60-afbc-468bd75ef9" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönbeg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="54"
+                xml:id="letter-5407-94df-951e64cbf0">
+                <correspAction xml:id="sender-0619-8b57-c0daf5be31" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/3128760">Barcelona</placeName>
+                    <date when="1935-12-21">21. Dezember 1935</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5b6a-fa8d-190e735c8b" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="55"
+                xml:id="letter-0c69-17c9-90462a7f58">
+                <correspAction xml:id="sender-36d8-0c14-f5a7e08c93" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <persName ref="https://d-nb.info/gnd/136986374">Gertrud Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/5368361">Los Angeles</placeName>
+                    <date when="1937-01">Januar 1937</date>
+                </correspAction>
+                <correspAction xml:id="addressee-03d2-a561-caf930d567" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Robert Gerhard</persName>
+                    <persName ref="https://d-nb.info/gnd/1125454180">Poldi Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="56"
+                xml:id="letter-194c-0574-a3b4276fc5">
+                <correspAction xml:id="sender-8635-6b8e-a4f573b8dc" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <persName ref="https://d-nb.info/gnd/1125454180">Poldi Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/4931972">Cambridge</placeName>
+                    <date when="1944-09-12">12. September 1944</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a6c2-2083-a05e2fd183" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="57"
+                xml:id="letter-6f5e-40c7-c2abe1609d">
+                <correspAction xml:id="sender-6fa1-1694-c28f305b76" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <persName ref="https://d-nb.info/gnd/1125454180">Poldi Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/4931972">Cambridge</placeName>
+                    <date when="1944-09-13">13. September 1944</date>
+                </correspAction>
+                <correspAction xml:id="addressee-69e1-c3d6-f16dbc54a9" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="58"
+                xml:id="letter-0b98-d693-615df8e279">
+                <correspAction xml:id="sender-3762-7f5e-c9f6e0a752" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/5368361">Los Angeles</placeName>
+                    <date when="1944-10-03">3. Oktober 1944</date>
+                </correspAction>
+                <correspAction xml:id="addressee-39b8-359c-afe619c830" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <persName ref="https://d-nb.info/gnd/1125454180">Poldi Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="59"
+                xml:id="letter-a38e-c431-530bdfe816">
+                <correspAction xml:id="sender-7d5e-da5c-c578bfd296" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/4931972">Cambridge</placeName>
+                    <date when="1944-12-08">8. Dezember 1944</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c30b-41da-70fac24e51" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="60"
+                xml:id="letter-6fb0-8263-0c95a78423">
+                <correspAction xml:id="sender-f498-069b-7248e01a56" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/5368361">Los Angeles</placeName>
+                    <date when="1949-06-08">8. Juni 1949</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4edc-50e3-fed6b80a32" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="61"
+                xml:id="letter-517a-2c68-f931c502e6">
+                <correspAction xml:id="sender-f592-a15c-e1b87c6af2" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/4931972">Cambridge</placeName>
+                    <date when="1949-07-20">20. Juli 1949</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4a8f-2e9c-b47ad1c592" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="62"
+                xml:id="letter-e436-9465-1ac52b9f6d">
+                <correspAction xml:id="sender-427f-ce30-bca059361f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/5368361">Los Angeles</placeName>
+                    <date when="1949-07-27">27. Juli 1949</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4569-904d-581e64d0c2" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="63"
+                xml:id="letter-4ca6-2f65-6ac574f30d">
+                <correspAction xml:id="sender-7250-b57d-159d072634" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <persName ref="https://d-nb.info/gnd/1125454180">Poldi Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/4931972">Cambridge</placeName>
+                    <date when="1949-09-12">12. September 1949</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8aed-0da8-93d1eb785f" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <persName ref="https://d-nb.info/gnd/136986374">Gertrud Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="64"
+                xml:id="letter-475e-6c50-76bd053984">
+                <correspAction xml:id="sender-5edf-1fd7-b51e082c3f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/5368361">Los Angeles</placeName>
+                    <date when="1949-09-16">16. September 1949</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9b41-87e2-736f2d5014" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <persName ref="https://d-nb.info/gnd/1125454180">Poldi Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="65"
+                xml:id="letter-104b-0826-1c5e84ba9f">
+                <correspAction xml:id="sender-fce4-276a-5a17803db2" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/4931972">Cambridge</placeName>
+                    <date when="1949-12-19">19. Dezember 1949</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0138-d23b-9b5e034f8a" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="66"
+                xml:id="letter-2a56-3a94-6dac705849">
+                <correspAction xml:id="sender-0396-db37-4ca75b8e19" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1046440764">Richard Hoffmann (ppa.
+                        Schönberg)</persName>
+                    <placeName ref="http://www.geonames.org/5368361">Los Angeles</placeName>
+                    <date when="1950-06-26">26. Juni 1950</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4587-70bd-a8cbe67d54" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="67"
+                xml:id="letter-1208-395f-d905b864fc">
+                <correspAction xml:id="sender-04c9-3ef0-87ec39dba0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/4931972">Cambridge</placeName>
+                    <date when="1950-07-03">3. Juli 1950</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a1dc-1906-bc0ad54326" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="68"
+                xml:id="letter-e068-46e3-642ecadf17">
+                <correspAction xml:id="sender-31b7-5619-576c4bf0a2" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <persName ref="https://d-nb.info/gnd/1125454180">Poldi Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/4931972">Cambridge</placeName>
+                    <date when="1950-09-15">15. September 1950</date>
+                </correspAction>
+                <correspAction xml:id="addressee-16c7-9e36-36ea48705d" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="69"
+                xml:id="letter-423d-263a-0bd326ce58">
+                <correspAction xml:id="sender-50b4-5dbe-84a7921f65" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/4931972">Cambridge</placeName>
+                    <date when="1950-12-16">16. Dezember 1950</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f014-e2bf-e1647209c5" type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="70"
+                xml:id="letter-082f-4adf-3c0d764a58">
+                <correspAction xml:id="sender-703a-7ba9-69f4120d5b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1046440764">Richard Hoffmann</persName>
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/5368361">Los Angeles</placeName>
+                    <date when="1951-04-11">11. April 1951</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9604-a284-2b01897de6" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="71"
+                xml:id="letter-50be-d7ba-3ec5a42bdf">
+                <correspAction xml:id="sender-c2f4-c6b3-e2c156a49b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <persName ref="https://d-nb.info/gnd/1125454180">Poldi Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/4931972">Cambridge</placeName>
+                    <date when="1951-07-18">18. Juli 1951</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d913-3c17-e65df37a4c" type="received">
+                    <persName ref="https://d-nb.info/gnd/136986374">Gertrud Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="72"
+                xml:id="letter-42f7-3ad0-9a67febc54">
+                <correspAction xml:id="sender-618c-d0b5-40857e63d2" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1125454180">Poldi Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/4931972">Cambridge</placeName>
+                    <date when="1951-07-19">19. Juli 1951</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d94b-d152-82609bfde5" type="received">
+                    <persName ref="https://d-nb.info/gnd/136986374">Gertrud Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="73"
+                xml:id="letter-c20b-d214-12968e0b4f">
+                <correspAction xml:id="sender-84a5-496e-c48db06712" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/4931972">Cambridge</placeName>
+                    <date when="1951-10-07">7. Oktober 1951</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a705-7690-28c7d349a6" type="received">
+                    <persName ref="https://d-nb.info/gnd/136986374">Gertrud Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="74"
+                xml:id="letter-8127-6f91-0fa891b6e2">
+                <correspAction xml:id="sender-510a-e8ba-d54e9c780b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/4931972">Cambridge</placeName>
+                    <date when="1954-12-19">19. Dezember 1954</date>
+                </correspAction>
+                <correspAction xml:id="addressee-41a5-4967-0b673d1f9a" type="received">
+                    <persName ref="https://d-nb.info/gnd/136986374">Gertrud Schönberg</persName>
+                    <persName ref="https://d-nb.info/gnd/117054208">Nuria Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="75"
+                xml:id="letter-8e76-9c53-2039518c4a">
+                <correspAction xml:id="sender-bd50-8b73-6c459b8d0a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <persName ref="https://d-nb.info/gnd/1125454180">Poldi Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/4931972">Cambridge</placeName>
+                    <date when="1955-03-02">2. März 1955</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5468-10a3-1af7329cd6" type="received">
+                    <persName ref="https://d-nb.info/gnd/136986374">Gertrud Schönberg</persName>
+                    <persName ref="https://d-nb.info/gnd/117054208">Nuria Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="76"
+                xml:id="letter-b13a-1f69-d81a97e25c">
+                <correspAction xml:id="sender-54a2-e16d-4e53f097d1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/136986374">Gertrud Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/5368361">Los Angeles</placeName>
+                    <date when="1955-03-08">8. März 1955</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7630-1470-a8df7b6491" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <persName ref="https://d-nb.info/gnd/1125454180">Poldi Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="77"
+                xml:id="letter-7cbd-fe36-be0157fc93">
+                <correspAction xml:id="sender-562e-a59e-184d396fe0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/136986374">Gertrud Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/5368361">Los Angeles</placeName>
+                    <date when="1957-05-08">8. Mai 1957</date>
+                </correspAction>
+                <correspAction xml:id="addressee-497e-753c-a4e318279f" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <persName ref="https://d-nb.info/gnd/1125454180">Poldi Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="78"
+                xml:id="letter-c7a5-4fa3-e3f40a91d5">
+                <correspAction xml:id="sender-0843-7f9d-f8a46e92db" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <persName ref="https://d-nb.info/gnd/1125454180">Poldi Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/4923531">Michigan</placeName>
+                    <date when="1960-05-02">2. Mai 1960</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ad23-236c-178450cfda" type="received">
+                    <persName ref="https://d-nb.info/gnd/136986374">Gertrud Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="79"
+                xml:id="letter-c924-5413-d2afb14730">
+                <correspAction xml:id="sender-cda5-5d9f-d5f41a6723" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <persName ref="https://d-nb.info/gnd/1125454180">Poldi Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/4931972">Cambridge</placeName>
+                    <date when="1964-09-13">13. September 1964</date>
+                </correspAction>
+                <correspAction xml:id="addressee-dc40-c5b1-8e279ba354" type="received">
+                    <persName ref="https://d-nb.info/gnd/136986374">Gertrud Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="80"
+                xml:id="letter-a8ec-30af-2175be3c0d">
+                <correspAction xml:id="sender-a170-baf7-1f475d02ac" type="sent">
+                    <persName ref="https://d-nb.info/gnd/136986374">Gertrud Schönberg</persName>
+                    <placeName ref="http://www.geonames.org/5368361">Los Angeles</placeName>
+                    <date when="1964-09-21">21. September 1964</date>
+                </correspAction>
+                <correspAction xml:id="addressee-21f9-fb7d-dafe59762b" type="received">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <persName ref="https://d-nb.info/gnd/1125454180">Poldi Gerhard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="81"
+                xml:id="letter-24e3-2350-7d510b4fea">
+                <correspAction xml:id="sender-51d3-5216-4e9ba0251c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/4931972">Cambridge</placeName>
+                    <date when="1964-10-19">19. Oktober 1964</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6504-3fc4-2d4a1f680e" type="received">
+                    <persName ref="https://d-nb.info/gnd/136986374">Gertrud Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d0291874-adac-4c5c-81e9-5a00a66febc4" key="82"
+                xml:id="letter-a582-13a0-3ca8d045b6">
+                <correspAction xml:id="sender-eb82-ab1f-8ad956f13b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118918184">Roberto Gerhard</persName>
+                    <persName ref="https://d-nb.info/gnd/1125454180">Poldi Gerhard</persName>
+                    <placeName ref="http://www.geonames.org/4931972">Cambridge</placeName>
+                    <date when="1965-06-28">28. Juni 1965</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c690-53ab-4620ac7e1b" type="received">
+                    <persName ref="https://d-nb.info/gnd/136986374">Gertrud Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
+
