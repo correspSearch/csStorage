@@ -14,7 +14,7 @@
                     <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
                 </availability>
                 <idno type="url">https://correspsearch.net/storage/meysenbug/band-2.xml</idno>
-                <date when="2024-06-16T17:31:51.666-02:00"/>
+                <date when="2024-09-12T16:31:51.666-02:00"/>
             </publicationStmt>
             <sourceDesc>
                 <bibl type="print" xml:id="r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2">Die Korrespondenzen der Malwida von Meysenbug :  Teil 2, Briefregesten 1874-1893. Hrsg. vom Nordrhein-Westfälischen Staatsarchiv Detmold. Redaktion und Einleitung Annegret Tegtmeier-Breit. Nach Vorarbeiten von Christa Gehlhaus-Urban und Karin Hollmann, Detmold 2001. (Veröffentlichungen der Staatlichen Archive des Landes Nordrhein-Westfalen, Reihe C: Quellen und Forschungen, Band 46)
@@ -769,7 +769,7 @@
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="845">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118582054">Malwida von Meysenbug</persName>
-                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <placeName ref="https://www.geonames.org/2996564">Maisons-Laffitte</placeName>
                     <date when="1875-07-18"/>
                 </correspAction>
                 <correspAction type="received">
@@ -779,7 +779,7 @@
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="846">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118582054">Malwida von Meysenbug</persName>
-                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <placeName ref="https://www.geonames.org/2996564">Maisons-Laffitte</placeName>
                     <date when="1875-08-05"/>
                 </correspAction>
                 <correspAction type="received">
@@ -799,7 +799,7 @@
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="848">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118582054">Malwida von Meysenbug</persName>
-                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <placeName ref="https://www.geonames.org/2996564">Maisons-Laffitte</placeName>
                     <date when="1875-08-30"/>
                 </correspAction>
                 <correspAction type="received">
@@ -1193,7 +1193,7 @@
                     <date when="1876-07-19"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl von Meysenbug d. J.</persName>
+                    <persName ref="https://d-nb.info/gnd/117010251">Carl von Meysenbug d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="888">
@@ -2199,7 +2199,7 @@
                     <date when="1878-01-05"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/1036758907">Hermine Lang</persName>
+                    <persName>Hermine Lang</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="989">
@@ -2526,7 +2526,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118582054">Malwida von Meysenbug</persName>
                     <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-                    <date notBefore="1878-05-01" notAfter="1878-05-16">o.D. [vor 17.05.] 1878</date>
+                    <date notBefore="1878" notAfter="1878-05-16">o.D. [vor 17.05.] 1878</date>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/119369168">Caroline von Sayn-Wittgenstein</persName>
@@ -2769,7 +2769,7 @@
                     <date when="1878-09-24"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl von Meysenbug d. J.</persName>
+                    <persName ref="https://d-nb.info/gnd/117010251">Carl von Meysenbug d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="1046">
@@ -3375,7 +3375,7 @@
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="1106">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118582054">Malwida von Meysenbug</persName>
-                    <placeName>Mezzaratte</placeName>
+                    <placeName ref="http://www.geonames.org/3181928">Mezzaratte (bei Bologna)</placeName>
                     <date when="1879-07-03"/>
                 </correspAction>
                 <correspAction type="received">
@@ -3385,7 +3385,7 @@
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="1107">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118582054">Malwida von Meysenbug</persName>
-                    <placeName>Mezzaratte</placeName>
+                    <placeName ref="http://www.geonames.org/3181928">Mezzaratte (bei Bologna)</placeName>
                     <date when="1879-07-06"/>
                 </correspAction>
                 <correspAction type="received">
@@ -3395,7 +3395,7 @@
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="1108">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118582054">Malwida von Meysenbug</persName>
-                    <placeName>Mezzaratte</placeName>
+                    <placeName ref="http://www.geonames.org/3181928">Mezzaratte (bei Bologna)</placeName>
                     <date when="1879-07-09"/>
                 </correspAction>
                 <correspAction type="received">
@@ -4065,7 +4065,7 @@
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="1175">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118582054">Malwida von Meysenbug</persName>
-                    <placeName ref="http://www.geonames.org/3031277">Bougival</placeName>
+                    <placeName ref="https://www.geonames.org/3010529">La Celle-Saint-Cloud</placeName>
                     <date when="1880-07-21"/>
                 </correspAction>
                 <correspAction type="received">
@@ -4085,7 +4085,7 @@
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="1177">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118582054">Malwida von Meysenbug</persName>
-                    <placeName ref="http://www.geonames.org/3031277">Bougival</placeName>
+                    <placeName ref="https://www.geonames.org/3010529">La Celle-Saint-Cloud</placeName>
                     <date when="1880-08-05"/>
                 </correspAction>
                 <correspAction type="received">
@@ -4095,7 +4095,7 @@
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="1178">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118582054">Malwida von Meysenbug</persName>
-                    <placeName ref="http://www.geonames.org/3031277">Bougival</placeName>
+                    <placeName ref="https://www.geonames.org/3010529">La Celle-Saint-Cloud</placeName>
                     <date when="1880-08-08"/>
                 </correspAction>
                 <correspAction type="received">
@@ -5635,7 +5635,7 @@
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="1332">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118582054">Malwida von Meysenbug</persName>
-                    <placeName>Mezzaratte</placeName>
+                    <placeName ref="https://www.geonames.org/3181928">Mezzaratte (bei Bologna)</placeName>
                     <date when="1883-07-13"/>
                 </correspAction>
                 <correspAction type="received">
@@ -6319,7 +6319,7 @@
                     <date when="1885-03-30"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl von Meysenbug d. J.</persName>
+                    <persName ref="https://d-nb.info/gnd/117010251">Carl von Meysenbug d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="1401">
@@ -6619,7 +6619,7 @@
                     <date when="1886-04-11"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl von Meysenbug d. J.</persName>
+                    <persName ref="https://d-nb.info/gnd/117010251">Carl von Meysenbug d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="1431">
@@ -6639,7 +6639,7 @@
                     <date when="1886-05-02"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl von Meysenbug d. J.</persName>
+                    <persName ref="https://d-nb.info/gnd/117010251">Carl von Meysenbug d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="1433">
@@ -6659,7 +6659,7 @@
                     <date when="1886-06-15"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl von Meysenbug d. J.</persName>
+                    <persName ref="https://d-nb.info/gnd/117010251">Carl von Meysenbug d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="1435">
@@ -7199,7 +7199,7 @@
                     <date when="1888-02-09"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl von Meysenbug d. J.</persName>
+                    <persName ref="https://d-nb.info/gnd/117010251">Carl von Meysenbug d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="1489">
@@ -7229,7 +7229,7 @@
                     <date when="1888-02-21"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl von Meysenbug d. J.</persName>
+                    <persName ref="https://d-nb.info/gnd/117010251">Carl von Meysenbug d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="1492">
@@ -7389,7 +7389,7 @@
                     <date when="1888-06-29"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl von Meysenbug d. J.</persName>
+                    <persName ref="https://d-nb.info/gnd/117010251">Carl von Meysenbug d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="1508">
@@ -7479,7 +7479,7 @@
                     <date when="1888-09-10"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl von Meysenbug d. J.</persName>
+                    <persName ref="https://d-nb.info/gnd/117010251">Carl von Meysenbug d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="1517">
@@ -7549,7 +7549,7 @@
                     <date when="1888-10-23"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl von Meysenbug d. J.</persName>
+                    <persName ref="https://d-nb.info/gnd/117010251">Carl von Meysenbug d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="1524">
@@ -7638,7 +7638,7 @@
                     <date when="1888-12-12"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl von Meysenbug d. J.</persName>
+                    <persName ref="https://d-nb.info/gnd/117010251">Carl von Meysenbug d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="1533">
@@ -8030,7 +8030,7 @@
                     <date when="1889-07-06"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl von Meysenbug d. J.</persName>
+                    <persName ref="https://d-nb.info/gnd/117010251">Carl von Meysenbug d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="1572">
@@ -8080,7 +8080,7 @@
                     <date when="1889-10-12"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl von Meysenbug d. J.</persName>
+                    <persName ref="https://d-nb.info/gnd/117010251">Carl von Meysenbug d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="1577">
@@ -8140,7 +8140,7 @@
                     <date when="1889-12-02"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl von Meysenbug d. J.</persName>
+                    <persName ref="https://d-nb.info/gnd/117010251">Carl von Meysenbug d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="1583">
@@ -8210,7 +8210,7 @@
                     <date when="1890-02-02"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl von Meysenbug d. J.</persName>
+                    <persName ref="https://d-nb.info/gnd/117010251">Carl von Meysenbug d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="1590">
@@ -8440,7 +8440,7 @@
                     <date when="1891-04-13"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl von Meysenbug d. J.</persName>
+                    <persName ref="https://d-nb.info/gnd/117010251">Carl von Meysenbug d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="1613">
@@ -8620,7 +8620,7 @@
                     <date when="1892-11-07"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl von Meysenbug d. J.</persName>
+                    <persName ref="https://d-nb.info/gnd/117010251">Carl von Meysenbug d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#r9d7f0a4-25d7-4a97-8eb0-fcceefbf65c2" key="1631">

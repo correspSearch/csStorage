@@ -16,7 +16,7 @@
                         >CC0</licence>
                 </availability>
                 <idno type="url">https://correspsearch.net/storage/meysenbug/band-3.xml</idno>
-                <date when="2024-09-01T15:44:58.582-02:00"/>
+                <date when="2024-09-12T15:44:58.582-02:00"/>
             </publicationStmt>
             <sourceDesc>
                 <bibl type="print" xml:id="m906904a-e42b-49e0-b00c-e51c49125669">Die Korrespondenzen
@@ -1128,7 +1128,7 @@
                     <date when="1895-05-20"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl von Meysenbug d. J.</persName>
+                    <persName ref="https://d-nb.info/gnd/117010251">Carl von Meysenbug d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#m906904a-e42b-49e0-b00c-e51c49125669" key="1770">
@@ -1628,7 +1628,7 @@
                     <date when="1896-05-02"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl von Meysenbug d. J.</persName>
+                    <persName ref="https://d-nb.info/gnd/117010251">Carl von Meysenbug d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#m906904a-e42b-49e0-b00c-e51c49125669" key="1815">
@@ -3852,7 +3852,7 @@
                     <date when="1899-03-27"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl von Meysenbug d. J.</persName>
+                    <persName ref="https://d-nb.info/gnd/117010251">Carl von Meysenbug d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#m906904a-e42b-49e0-b00c-e51c49125669" key="2014">
@@ -4274,7 +4274,7 @@
                     <date when="1900-03-29"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl von Meysenbug d. J.</persName>
+                    <persName ref="https://d-nb.info/gnd/117010251">Carl von Meysenbug d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#m906904a-e42b-49e0-b00c-e51c49125669" key="2052">
