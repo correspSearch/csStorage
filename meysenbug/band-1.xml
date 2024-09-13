@@ -17,7 +17,7 @@
                         >CC0</licence>
                 </availability>
                 <idno type="url">https://correspsearch.net/storage/meysenbug/band-1.xml</idno>
-                <date when="2024-06-16T18:11:50.293-01:00"/>
+                <date when="2024-09-13T17:11:50.293-01:00"/>
             </publicationStmt>
             <sourceDesc>
                 <bibl type="print" xml:id="wfe2c1e0-ec2a-4bce-ad63-a1c6ca1a6514">Die Korrespondenzen
@@ -149,7 +149,7 @@
                     <date when="1840-10-16"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Friedrich Ulrich von Meysenbug</persName>
+                    <persName ref="https://d-nb.info/gnd/117010294">Friedrich Ulrich von Meysenbug</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#wfe2c1e0-ec2a-4bce-ad63-a1c6ca1a6514" key="13">
@@ -159,7 +159,7 @@
                     <date when="1840-12-30"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Friedrich Ulrich von Meysenbug</persName>
+                    <persName ref="https://d-nb.info/gnd/117010294">Friedrich Ulrich von Meysenbug</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#wfe2c1e0-ec2a-4bce-ad63-a1c6ca1a6514" key="14">
@@ -169,7 +169,7 @@
                     <date when="1841-03-18"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Friedrich Ulrich von Meysenbug</persName>
+                    <persName ref="https://d-nb.info/gnd/117010294">Friedrich Ulrich von Meysenbug</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#wfe2c1e0-ec2a-4bce-ad63-a1c6ca1a6514" key="15">
@@ -1235,7 +1235,7 @@
                     <date when="1851-07-26"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Friedrich Ulrich von Meysenbug</persName>
+                    <persName ref="https://d-nb.info/gnd/117010294">Friedrich Ulrich von Meysenbug</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#wfe2c1e0-ec2a-4bce-ad63-a1c6ca1a6514" key="118">
