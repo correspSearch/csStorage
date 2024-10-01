@@ -16,7 +16,7 @@
                         >CC0</licence>
                 </availability>
                 <idno type="url">https://correspsearch.net/storage/droste-huelshoff/band8.xml</idno>
-                <date when="2024-09-30T17:37:09.734-02:00"/>
+                <date when="2024-10-01T15:37:09.734-02:00"/>
             </publicationStmt>
             <sourceDesc>
                 <bibl type="print" xml:id="b829b088-ad58-49d8-ad2d-3db59e6b6fd3">Annette von
@@ -421,7 +421,7 @@
                     <placeName ref="http://www.geonames.org/2946771">Bökendorf</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#b829b088-ad58-49d8-ad2d-3db59e6b6fd3" key="32">
+            <!-- Silvesterbrief <correspDesc source="#b829b088-ad58-49d8-ad2d-3db59e6b6fd3" key="32">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118527533">Annette von
                         Droste-Hülshoff</persName>
@@ -431,7 +431,7 @@
                 <correspAction type="received">
                     <persName ref="http://correspSearch.net/unknown">Unbekannt</persName>
                 </correspAction>
-            </correspDesc>
+            </correspDesc>-->
             <correspDesc source="#b829b088-ad58-49d8-ad2d-3db59e6b6fd3" key="33">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118527533">Annette von
@@ -585,7 +585,7 @@
                     <placeName ref="http://www.geonames.org/2946771">Bökendorf</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#b829b088-ad58-49d8-ad2d-3db59e6b6fd3" key="45">
+            <!-- Silvesterbrief <correspDesc source="#b829b088-ad58-49d8-ad2d-3db59e6b6fd3" key="45">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118527533">Annette von
                         Droste-Hülshoff</persName>
@@ -595,7 +595,7 @@
                 <correspAction type="received">
                     <persName ref="http://correspSearch.net/unknown">Unbekannt</persName>
                 </correspAction>
-            </correspDesc>
+            </correspDesc> -->
             <correspDesc source="#b829b088-ad58-49d8-ad2d-3db59e6b6fd3" key="46">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118527533">Annette von
@@ -1257,7 +1257,7 @@
                         Droste-Hülshoff</persName>
                     <placeName ref="http://www.geonames.org/13100341">Rüschhaus
                         (Münster)</placeName>
-                    <date when="1933-08-18"/>
+                    <date when="1833-08-18"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName>Caroline von Droste-Hülshoff</persName>
