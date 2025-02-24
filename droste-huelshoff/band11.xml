@@ -1,0 +1,3117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Annette von Droste-Hülshoff: Historisch-Kritische Ausgabe: Werke,
+                    Briefwechsel Bd. 11,1</title>
+                <editor>correspSearch<email>correspsearch@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der
+                        Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/"
+                        >CC0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/droste-huelshoff/band11.xml</idno>
+                <date when="2025-01-31T15:25:14.107-01:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="j04d6eca-ab03-4622-9e76-3ac7241073d3">Annette von
+                    Droste-Hülshoff: Historisch-kritische Ausgabe. Werke - Briefwechsel. Hrsg. von
+                    Winfried Woesler. Bd. 11, Briefe an die Droste 1809 - 1842, Teil 1: Text. Bearb.
+                    von Bodo Plachta, Tübingen 1994.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116336099">Friedrich Raßmann</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1809-03-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="2*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118542265">Wilhelm Grimm</persName>
+                    <placeName ref="http://www.geonames.org/2946771">Bökendorf</placeName>
+                    <date when="1813-07-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118798316">Anton Mathias
+                        Sprickmann</persName>
+                    <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
+                    <date when="1814-11-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="4*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118798316">Anton Mathias
+                        Sprickmann</persName>
+                    <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
+                    <date when="1815-09-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="5*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118547305">August von Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1816-01-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118798316">Anton Mathias
+                        Sprickmann</persName>
+                    <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
+                    <date when="1817-04-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="7*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117751758">Werner von
+                        Droste-Hülshoff</persName>
+                    <date when="1817-06-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118798316">Anton Mathias
+                        Sprickmann</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1818-12-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="9*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116552549">Maria Anna von
+                        Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2946771">Bökendorf</placeName>
+                    <date notBefore="1818-09-01" notAfter="1819-01-31">September 1818-Januar
+                        1819</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118798316">Anton Mathias
+                        Sprickmann</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1819-03-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="11*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/189434112">Dorothea von
+                        Wolff-Metternich</persName>
+                    <placeName ref="http://www.geonames.org/2813237">Wehrden</placeName>
+                    <date notBefore="1818-09-01" notAfter="1819-03-27">zwischen September 1818 und
+                        dem 27.03.1819</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="12*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116557702">Clemens August von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2908773">Hülshoff</placeName>
+                    <date notBefore="1819-09-01" notAfter="1819-09-15">erste Hälfte September
+                        1819</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="13*">
+                <correspAction type="sent">
+                    <persName ref="http://www.wikidata.org/entity/Q132732237">Wilhelmine von der
+                        Decken</persName>
+                    <date notBefore="1819-09-01" notAfter="1819-12-20">September - Mitte Dezember
+                        1819</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="14*">
+                <correspAction type="sent">
+                    <persName>Antonetta de Galliéris</persName>
+                    <placeName ref="http://www.geonames.org/2908773">Hülshoff</placeName>
+                    <date notBefore="1820-01-01" notAfter="1820-01-10">Anfang Januar 1820</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="15*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/189434430">Maria Catharina
+                        Plettendorf</persName>
+                    <placeName ref="http://www.geonames.org/2908773">Hülshoff</placeName>
+                    <date notBefore="1820-01-01" notAfter="1820-01-10">Anfang Januar 1820</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="16*">
+                <correspAction type="sent">
+                    <persName>Kurverwaltung Höxter</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q29583544" cert="low">Franz Wenzel
+                        Philipp von Wolff-Metternich</persName>
+                    <placeName ref="http://www.geonames.org/2898321">Höxter</placeName>
+                    <date when="1820-01-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="17*">
+                <correspAction type="sent">
+                    <persName>Kurverwaltung Höxter</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q29583544" cert="low">Franz Wenzel
+                        Philipp von Wolff-Metternich</persName>
+                    <placeName ref="http://www.geonames.org/2898321">Höxter</placeName>
+                    <date when="1820-01-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="18*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1121800386">Wilhelmine von
+                        Thielmann</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date notBefore="1820-01-26" notAfter="1820-01-27">26. oder 27.01.1820</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="19*">
+                <correspAction type="sent">
+                    <persName ref="http://www.wikidata.org/entity/Q132732237">Wilhelmine von der
+                        Decken</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date notBefore="1820-01-01" notAfter="1820-01-31">Januar 1820</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="20*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117751677">Therese von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2908773">Hülshoff</placeName>
+                    <date notBefore="1820-01-21" notAfter="1820-03-10">Ende Januar - Anfang März
+                        1820</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116557702">Clemens August von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2908773">Hülshoff</placeName>
+                    <date when="1820-07-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="22*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116352612">August von Arnswaldt</persName>
+                    <persName ref="https://d-nb.info/gnd/11875579X">Heinrich Straube</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1820-08-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="23*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116352604">Anna von Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2946771">Bökendorf</placeName>
+                    <date notBefore="1820-10-01" notAfter="1820-12-31">Oktober - Dezember
+                        1820</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11623296X">Maximilian von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1821-01-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="25*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117443700">Therese von
+                        Wolff-Metternich</persName>
+                    <placeName ref="http://www.geonames.org/2813237">Wehrden</placeName>
+                    <date cert="low" when="1821-09-02">vielleicht 02.09.1821</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="26*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117443700">Therese von
+                        Wolff-Metternich</persName>
+                    <placeName ref="http://www.geonames.org/2813237">Wehrden</placeName>
+                    <date cert="low" when="1821-09-16">vielleicht 16.09.1821</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="27*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116352604">Anna von Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2946771">Bökendorf</placeName>
+                    <date notBefore="1820-12-01" notAfter="1821-09-22">zwischen Dezember 1820 und
+                        dem 22.09.1821</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11949173">Werner von Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1823-02-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                    <persName ref="https://d-nb.info/gnd/116557702">Clemens August von
+                        Droste-Hülshoff</persName>
+                    <persName ref="https://d-nb.info/gnd/117751677">Therese von
+                        Droste-Hülshoff</persName>
+                    <persName ref="https://d-nb.info/gnd/11655245X">Ludowine von
+                        Haxthausen</persName>
+                    <persName ref="https://d-nb.info/gnd/118527541">Jenny von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="29*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1121800386">Wilhelmine von
+                        Thielmann</persName>
+                    <placeName ref="http://www.geonames.org/2886946">Koblenz</placeName>
+                    <date notBefore="1825-10-13" notAfter="1825-10-18">zwischen dem 13 und
+                        18.10.1825</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="30*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117427225">Angela von Wrede</persName>
+                    <placeName ref="http://www.geonames.org/2946206">Borkum</placeName>
+                    <date when="1825-12-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="31*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116557702">Clemens August von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2908773">Hülshoff</placeName>
+                    <date when="1825-12-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="32*">
+                <correspAction type="sent">
+                    <persName>Luise von Wendt-Papenhausen</persName>
+                    <placeName ref="http://www.geonames.org/2920759">Gevelinghausen</placeName>
+                    <date when="1826-02-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="33*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119508311">Sibylle
+                        Mertens-Schaaffhausen</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1826-02-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="34*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117751677">Therese von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2908773">Hülshoff</placeName>
+                    <date notBefore="1826-04-11" notAfter="1826-04-20">Mitte April 1826</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="35*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527541">Jenny von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2946771">Bökendorf</placeName>
+                    <date notBefore="1827-04-01" notAfter="1827-05-20">April/Mitte Mai 1827</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="36">
+                <correspAction type="sent">
+                    <persName>Therese von Droste Kerkering-Stapel</persName>
+                    <placeName ref="http://www.geonames.org/13236449">Haus Stapel</placeName>
+                    <date notBefore="1828-08-01" notAfter="1828-08-20">Anfang - Mitte August
+                        1828</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="37*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527541">Jenny von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2946771">Bökendorf</placeName>
+                    <date cert="low" when="1828-09-02">etwa 02.09.1828</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="38*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119508311">Sibylle
+                        Mertens-Schaaffhausen</persName>
+                    <placeName ref="http://www.geonames.org/2853185">Plittersdorf</placeName>
+                    <date notBefore="1828-08-21" notAfter="1828-09-10">Ende August/Anfang September
+                        1828</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116907304">Ludwig Mertens</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1828-09-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="40*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1121800386">Wilhelmine von
+                        Thielmann</persName>
+                    <placeName ref="http://www.geonames.org/2953455">Bad Godesberg</placeName>
+                    <date notBefore="1828-06-01" notAfter="1828-10-31">Juni - Oktober 1828</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="41">
+                <correspAction type="sent">
+                    <persName>Georg Wilhelm Anton Oldenburg</persName>
+                    <placeName ref="http://www.geonames.org/2808893">Wildeshausen</placeName>
+                    <date when="1829-06-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="42*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1246796627">Carl von Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2904789">Hildesheim</placeName>
+                    <date notBefore="1829-09-01" notAfter="1829-10-31">September/Oktober 1829</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="43*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118746103">Clemens Maria von
+                        Bönninghausen</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1829-11-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="44*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1177441896">Franz von
+                        Wendt-Papenhausen</persName>
+                    <date notBefore="1830-02-01" notAfter="1830-02-10">etwa Anfang Februar
+                        1830</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="45*">
+                <correspAction type="sent">
+                    <persName ref="http://correspSearch.net/unknown">Unbekannt</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date cert="low" when="1830-02-10">etwa 10.02.1830</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116557702">Clemens August von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1830-02-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="47*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11655259X">Sophie von Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2946771">Bökendorf</placeName>
+                    <date notBefore="1830-04-01" notAfter="1830-06-30">April - Juni 1830</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="48*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118746103">Clemens Maria von
+                        Bönninghausen</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1830-07-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="49*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119508311">Sibylle
+                        Mertens-Schaaffhausen</persName>
+                    <placeName ref="http://www.geonames.org/2853185">Plittersdorf</placeName>
+                    <date notBefore="1830-06-21" notAfter="1830-07-10">Ende Juni/Anfang Juli
+                        1830</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="50">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118888722">Wilhelm Smets</persName>
+                    <placeName ref="http://www.geonames.org/2905579">Hersel</placeName>
+                    <date when="1830-10-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="51*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527541">Jenny von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/13100341">Haus Rüschhaus</placeName>
+                    <date when="1830-12-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="52">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11880510X">Adele Schopenhauer</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date notBefore="1830-11-01" notAfter="1830-12-31">November/Dezember 1830</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="53">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11880510X">Adele Schopenhauer</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date notBefore="1830-11-01" notAfter="1830-12-31">November/Dezember 1830</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="54*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116552158">Betty von Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                    <date notBefore="1831-01-01" notAfter="1831-01-31">Januar 1831</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="55*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119508311">Sibylle
+                        Mertens-Schaaffhausen</persName>
+                    <placeName ref="http://www.geonames.org/2853185">Plittersdorf</placeName>
+                    <date notBefore="1831-01-01" notAfter="1831-01-31">Januar 1831</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="56*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117751677">Therese von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2908773">Hülshoff</placeName>
+                    <date notBefore="1831-03-11" notAfter="1831-03-20">zwischen dem 11. und
+                        20.03.1831</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="57*">
+                <correspAction type="sent">
+                    <persName>Johannes von Droste Kerkering-Stapel</persName>
+                    <date notBefore="1831-03-11" notAfter="1831-03-20">zwischen dem 11. und
+                        20.03.1831</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="58">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11880510X">Adele Schopenhauer</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date notBefore="1830-10-01" notAfter="1831-03-31">Oktober 1830 - März
+                        1831</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="59">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11880510X">Adele Schopenhauer</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date notBefore="1830-10-01" notAfter="1831-03-31">Oktober 1830 - März
+                        1831</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="60">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11880510X">Adele Schopenhauer</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date notBefore="1830-10-01" notAfter="1831-03-31">Oktober 1830 - März
+                        1831</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="61">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11880510X">Adele Schopenhauer</persName>
+                    <placeName ref="http://www.geonames.org/2853185">Plittersdorf</placeName>
+                    <date notBefore="1831-04-11" notAfter="1831-04-20">etwa Mitte April 1831</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="62">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117037931">Matthias Joseph de
+                        Noël</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1831-04-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="63">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11880510X">Adele Schopenhauer</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date notBefore="1831-04-01" notAfter="1831-05-31">April/Mai 1831</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="64*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117751677">Therese von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2908773">Hülshoff</placeName>
+                    <date notBefore="1831-04-01" notAfter="1831-05-31">April/Mai 1831</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="65">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11880510X">Adele Schopenhauer</persName>
+                    <placeName ref="http://www.geonames.org/2820101">Unkel</placeName>
+                    <date notBefore="1831-05-25" notAfter="1831-06-01">25.05. oder 01.06.1831</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="66">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610473">Johanna Schopenhauer</persName>
+                    <placeName ref="http://www.geonames.org/2820101">Unkel</placeName>
+                    <date notBefore="1831-05-26" notAfter="1831-06-02">26.05. oder 02.06.1831</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="67">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11880510X">Adele Schopenhauer</persName>
+                    <placeName ref="http://www.geonames.org/2820101">Unkel</placeName>
+                    <date notBefore="1831-05-27" notAfter="1831-06-03">27.05. oder 03.06.1831</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="68">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/189411635">Theobald Reinhold von
+                        Oer</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1831-06-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="69">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/189411635">Theobald Reinhold von
+                        Oer</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1831-06-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="70">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11712477X">Catharina Schücking</persName>
+                    <placeName ref="http://www.geonames.org/2831699">Sögel</placeName>
+                    <date when="1831-10-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116557702">Clemens August von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1831-10-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="72">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116557702">Clemens August von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1831-12-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="73">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116557699">Clemen von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1831-12-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="74">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118778862">Joseph von Laßberg</persName>
+                    <placeName ref="http://www.geonames.org/13100340 ">Eppishausen</placeName>
+                    <date notBefore="1832-02-01" notAfter="1832-02-29">Vielleicht Februar 1832
+                    </date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="75*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119077094">Johann Wilhem Joseph
+                        Braun</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date notBefore="1832-08-14">nach dem 13.08.1832</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="76">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119077094">Johann Wilhem Joseph
+                        Braun</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date when="1832-09-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="77*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1188862863">Moritz von
+                        Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date notBefore="1832-09-21" notAfter="1832-10-10">Ende September/Anfang Oktober
+                        1832</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="78*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527541">Jenny von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2946771">Bökendorf</placeName>
+                    <date notBefore="1832-10-07" notAfter="1832-10-21">zwischen dem 07. und
+                        21.10.1832</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="79">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118562258">Johanna Mathieux</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1833-01-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="80">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118746103">Clemens Maria von
+                        Bönninghausen</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1833-01-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="81">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118746103">Clemens Maria von
+                        Bönninghausen</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1833-04-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="82">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/189411635">Theobald Reinhold von
+                        Oer</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1833-06-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="83">
+                <correspAction type="sent">
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                    <orgName ref="https://d-nb.info/gnd/39238-8">Kunstverein für die Rheinlande und
+                        Westfalen</orgName>
+                    <date when="1833-06-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="84*">
+                <correspAction type="sent">
+                    <persName>Caroline von Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2908773">Hülshoff</placeName>
+                    <date notBefore="1833-08-18" notAfter="1833-08-19">18. oder 19.08.1833</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="86*">
+                <correspAction type="sent">
+                    <persName>Maria Hedwig von Schonebeck</persName>
+                    <placeName ref="http://www.geonames.org/2862632">Nienberge</placeName>
+                    <date notBefore="1833-08-21" notAfter="1833-09-10">Ende August/Anfang September
+                        1833</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="87*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527541">Jenny von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2946771">Bökendorf</placeName>
+                    <date notBefore="1833-07-11" notAfter="1833-09-30">Mitte Juli - September
+                        1833</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="88*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117751758">Werner von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2908773">Hülshoff</placeName>
+                    <date when="1833-10-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="89">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118746103">Clemens Maria von
+                        Bönninghausen</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1833-11-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="90">
+                <correspAction type="sent">
+                    <persName>Mathilde Lücke</persName>
+                    <placeName ref="http://www.geonames.org/2862632">Nienberge</placeName>
+                    <date when="1833-12-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="91">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116565217">Amalie von
+                        Heereman-Zuydtwyck</persName>
+                    <placeName ref="http://www.geonames.org/2891633">Kemperfeld</placeName>
+                    <date when="1833-12-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="92">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/173153720">Heinrich von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2908773">Hülshoff</placeName>
+                    <date when="1834-02-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="93*">
+                <correspAction type="sent">
+                    <persName>Dalwigk-Lichtenfels (Familie)</persName>
+                    <placeName>Wisbeeg</placeName>
+                    <date notBefore="1834-10-23">nach dem 22.10.1834</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="94*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527541">Jenny von Laßberg</persName>
+                    <placeName ref="http://www.geonames.org/2946771">Bökendorf</placeName>
+                    <date notBefore="1834-10-19" notAfter="1934-10-29">zwischen dem 19. und
+                        29.10.1834</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="95">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527541">Jenny von Laßberg</persName>
+                    <placeName ref="http://www.geonames.org/ 2891633">Kemperfeld</placeName>
+                    <date when="1834-11-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="96">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118608428">Christoph Bernhard
+                        Schlüter</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1834-11-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="97*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11949173">Werner von Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2959893">Abbenburg</placeName>
+                    <date notBefore="1834-10-21" notAfter="1834-12-10">Ende OKtober - Anfang
+                        Dezember 1834</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="98*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119508311">Sibylle
+                        Mertens-Schaaffhausen</persName>
+                    <placeName ref="http://www.geonames.org/2853185">Plittersdorf</placeName>
+                    <date notBefore="1834-10-01" notAfter="1834-12-31">Oktober - Dezember
+                        1834</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="99">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11880510X">Adele Schopenhauer</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date notBefore="1834-10-01" notAfter="1834-12-31">Oktober - Dezember
+                        1834</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="100* ">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11655259X">Sophie von Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2904430">Hinnenburg</placeName>
+                    <date notBefore="1834-10-01" notAfter="1834-12-31">Oktober - Dezember
+                        1834</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="101*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118608428">Christoph Bernhard
+                        Schlüter</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date notBefore="1834-12-05" notAfter="1835-01-02">zwischen dem 05.12.1834 und
+                        02.01.1835</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="102">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118608428">Christoph Bernhard
+                        Schlüter</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1835-01-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="103*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119508311">Sibylle
+                        Mertens-Schaaffhausen</persName>
+                    <placeName ref="http://www.geonames.org/2853185">Plittersdorf</placeName>
+                    <date notBefore="1834-10-11" notAfter="1835-01-16">Mitte Oktober 1834 - erste
+                        Hälfte Januar 1835</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="104">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527541">Jenny von Laßberg</persName>
+                    <placeName ref="http://www.geonames.org/13100340 ">Eppishausen</placeName>
+                    <date when="1835-01-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="105*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118608428">Christoph Bernhard
+                        Schlüter</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date notBefore="1835-01-11" notAfter="1835-03-20">Mitte Januar - Mitte März
+                        1835</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="106">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118608428">Christoph Bernhard
+                        Schlüter</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1835-03-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="107*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527541">Jenny von Laßberg</persName>
+                    <placeName ref="http://www.geonames.org/13100340 ">Eppishausen</placeName>
+                    <date when="1835-04-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="108">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118746103">Clemens Maria von
+                        Bönninghausen</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1835-05-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="109">
+                <correspAction type="sent">
+                    <persName>Jenny Hüger</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1835-05-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="110">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118608428">Christoph Bernhard
+                        Schlüter</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1835-05-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="111">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119061341">Eduard d'Alton</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date notBefore="1835-03-01" notAfter="1835-06-10">März bis Anfang Juni
+                        1835</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="112*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118610473">Johanna Schopenhauer</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date notBefore="1835-03-01" notAfter="1835-06-10">März - Anfang Juni
+                        1835</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="113">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11949173">Werner von Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2789786">Ostende</placeName>
+                    <date when="1835-09-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="114*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119508311">Sibylle
+                        Mertens-Schaaffhausen</persName>
+                    <date notBefore="1835-06-11" notAfter="1835-09-10">Mitte Juni - September
+                        1835</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="115">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118608428">Christoph Bernhard
+                        Schlüter</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1836-02-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="116*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119508311">Sibylle
+                        Mertens-Schaaffhausen</persName>
+                    <placeName ref="http://www.geonames.org/3176219">Genua</placeName>
+                    <date when="1836-03-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119077094">Johann Wilhem Joseph
+                        Braun</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date when="1836-07-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="118">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1012275485">Carl Heinrich von
+                        Imhoff</persName>
+                    <placeName ref="http://www.geonames.org/2660402">Hauptwil</placeName>
+                    <date when="1836-07-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="119">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527541">Jenny von Laßberg</persName>
+                    <placeName ref="http://www.geonames.org/13100340 ">Eppishausen</placeName>
+                    <date when="1836-08-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="120*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11655259X">Sophie von Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2946771">Bökendorf</placeName>
+                    <date notAfter="1836-08">vor Ende August 1836</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="121*">
+                <correspAction type="sent">
+                    <persName>Sebastian Emanuel Eckel</persName>
+                    <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
+                    <date notBefore="1836-06-01" notAfter="1836-08-31">Sommer 183612</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="122">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11565108X">Johann Adam Pupikofer</persName>
+                    <placeName ref="http://www.geonames.org/8394414">Bischofszell</placeName>
+                    <date when="1836-10-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="123">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116868546">Ottmar Friedrich Heinrich
+                        Schönhuth</persName>
+                    <placeName ref="http://www.geonames.org/7646414">Hohentwiel</placeName>
+                    <date when="1836-10-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="124">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116868546">Ottmar Friedrich Heinrich
+                        Schönhuth</persName>
+                    <placeName ref="http://www.geonames.org/7646414">Hohentwiel</placeName>
+                    <date when="1836-10-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="125">
+                <correspAction type="sent">
+                    <persName>Sebastian Emanuel Eckel</persName>
+                    <persName ref="https://d-nb.info/gnd/118778862">Joseph von Laßberg</persName>
+                    <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
+                    <date when="1836-11-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="126">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527541">Jenny von Laßberg</persName>
+                    <placeName ref="http://www.geonames.org/13100340 ">Eppishausen</placeName>
+                    <date when="1836-11-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="127*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117751677">Therese von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/13100341">Haus Rüschhaus</placeName>
+                    <date cert="low" when="1836-12-11">etwa 11.12.1836</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="128">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117751677">Therese von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/13100341">Haus Rüschhaus</placeName>
+                    <date when="1837-01-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="129">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118778862">Joseph von Laßberg</persName>
+                    <placeName ref="http://www.geonames.org/13100340 ">Eppishausen</placeName>
+                    <date when="1837-01-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="130*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117751677">Therese von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/13100341">Haus Rüschhaus</placeName>
+                    <date when="1837-01-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="131*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119077094">Johann Wilhem Joseph
+                        Braun</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date notBefore="1837-02-11" notAfter="1837-03-10">Mitte Februar/Anfang März
+                        1837</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="132">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118608428">Christoph Bernhard
+                        Schlüter</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1837-03-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="133*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/101921373">Amalie Hassenpflug</persName>
+                    <placeName ref="http://www.geonames.org/2892518" cert="low">Kassel</placeName>
+                    <date when="1837-07-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="134*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11871421X">Wilhelm Junkmann</persName>
+                    <placeName ref="http://www.geonames.org/2833079">Senden</placeName>
+                    <date notBefore="1837-07-22" notAfter="1837-08-04">zwischen dem 22.07. und
+                        04.08.1837</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="135*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116552263">Friedrich von
+                        Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2959893">Abbenburg</placeName>
+                    <date when="1837-08-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="136*">
+                <correspAction type="sent">
+                    <persName>Antonetta de Galliéris</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date notBefore="1837-08-25" notAfter="1837-09-05">zwischen dem 25.08. und
+                        05.09.1837</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="137*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116552263">Friedrich von
+                        Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2959893">Abbenburg</placeName>
+                    <date when="1837-09-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="138*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11655259X">Sophie von Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date when="1837-09-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="139*">
+                <correspAction type="sent">
+                    <persName>Antonetta de Galliéris</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1837-09-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="140*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117751707">Pauline von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date when="1837-09-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="141">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118608428">Christoph Bernhard
+                        Schlüter</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1837-09-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="142*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/101921373">Amalie Hassenpflug</persName>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                    <date notBefore="1837-09-06" notAfter="1837-09-19">zwischen dem 06.und
+                        19.09.1837</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="143*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11655259X">Sophie von Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date notBefore="1837-09-06" notAfter="1837-09-19">zwischen dem 06. und
+                        19.09.1837</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="144*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117751758">Werner von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2908773">Hülshoff</placeName>
+                    <date when="1837-09-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="145">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527541">Jenny von Laßberg</persName>
+                    <persName ref="https://d-nb.info/gnd/118778862">Joseph von Laßberg</persName>
+                    <placeName ref="http://www.geonames.org/13100340 ">Eppishausen</placeName>
+                    <date when="1837-09-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="146*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117751677">Therese von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/13100340 ">Eppishausen</placeName>
+                    <date cert="low" when="1837-09-27">vielleicht 27.09.1837</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="147*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117427225">Angela von Wrede</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date notBefore="1837-10-06">nach dem 05.10.1837</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="148*">
+                <correspAction type="sent">
+                    <persName>Antonetta de Galliéris</persName>
+                    <placeName ref="http://www.geonames.org/2747373" cert="low">Den Haag</placeName>
+                    <date cert="low" when="1837-10-16">etwa 16.10.1837</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="149*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/101921373">Amalie Hassenpflug</persName>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                    <date when="1837-10-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="150*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11655259X">Sophie von Haxthausen</persName>
+                    <placeName>Heesen</placeName>
+                    <date when="1837-10-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="151*">
+                <correspAction type="sent">
+                    <persName>Luise von Wendt-Papenhausen</persName>
+                    <placeName ref="http://www.geonames.org/2908773">Hülshoff</placeName>
+                    <date notBefore="1837-10-22" notAfter="1837-10-23">22. oder 23.10.1837</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="152*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117478873">Therese Sprickmann</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1837-10-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="153*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117427225">Angela von Wrede</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1837-10-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="154">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118608428">Christoph Bernhard
+                        Schlüter</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1837-11-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="155">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116253479">Luise von Bornstedt</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1837-11-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="156*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11655259X">Sophie von Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2946771">Bökendorf</placeName>
+                    <date when="1837-12-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="157*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/139934529">Eduard Hüffer</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date notBefore="1837-11-21" notAfter="1837-12-10">Ende November/Anfang Dezember
+                        1837</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="158">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117751677">Therese von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/13100340 ">Eppishausen</placeName>
+                    <date when="1837-12-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="159">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11880510X">Adele Schopenhauer</persName>
+                    <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
+                    <date when="1837-12-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="160*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116552166">Ferdinandine von
+                        Heereman-Zuydtwyck</persName>
+                    <placeName ref="http://www.geonames.org/ 2891633">Kemperfeld</placeName>
+                    <date notBefore="1837-12-11" notAfter="1837-12-20">etwa Mitte Dezember
+                        1837</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="161*">
+                <correspAction type="sent">
+                    <persName>Luise von Streng</persName>
+                    <placeName ref="http://www.geonames.org/2885679">Konstanz</placeName>
+                    <date notBefore="1837-12-01" notAfter="1837-12-31">Dezember 1837</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="162">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118608428">Christoph Bernhard
+                        Schlüter</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1838-01-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="163">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116253479">Luise von Bornstedt</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date cert="low" when="1838-01-05">vielleicht 05.01.1838</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="164*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/101921373">Amalie Hassenpflug</persName>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                    <date notBefore="1838-01-01" notAfter="1838-01-31">Januar 1838</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="165*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11655259X">Sophie von Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2946771">Bökendorf</placeName>
+                    <date notBefore="1838-01-08" notAfter="1838-02-06">zwischen dem 08.01. und
+                        06.02.1838</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="166">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11880510X">Adele Schopenhauer</persName>
+                    <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
+                    <date when="1838-02-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="167*">
+                <correspAction type="sent">
+                    <persName>Felicitas von Böselager</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date notAfter="1838-02-10">vor dem 11.02.1838</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="168*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117751758">Werner von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2908773">Hülshoff</placeName>
+                    <date notBefore="1838-02-10" notAfter="1838-02-11">10. oder 11.02.1838</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="169*">
+                <correspAction type="sent">
+                    <persName>Antonetta de Galliéris</persName>
+                    <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
+                    <date when="1838-02-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="170*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527541">Jenny von Laßberg</persName>
+                    <placeName ref="http://www.geonames.org/13100340 ">Eppishausen</placeName>
+                    <date when="1838-04-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="171">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116253479">Luise von Bornstedt</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1838-05-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="172">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118608428">Christoph Bernhard
+                        Schlüter</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date notBefore="1838-05-25" notAfter="1838-06-01">25.05. oder 01.06.1838</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="173*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11871421X">Wilhelm Junkmann</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date notAfter="1838-06-07">vor dem 08.06.1838</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="174">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118608428">Christoph Bernhard
+                        Schlüter</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1838-06-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="175*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118608428">Christoph Bernhard
+                        Schlüter</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date notBefore="1838-06-19" notAfter="1838-07-31">zwischen dem 19.06. und Ende
+                        Juli 1838</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="176">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118608428">Christoph Bernhard
+                        Schlüter</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1838-08-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="177*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11871421X">Wilhelm Junkmann</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date notBefore="1838-07-19" notAfter="1838-08-05">zwischen dem 19.07. und
+                        05.08.1838</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="178">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11880510X">Adele Schopenhauer</persName>
+                    <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
+                    <date when="1838-08-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="179*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117751677">Therese von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/11733429">Ötlishausen</placeName>
+                    <date when="1838-09-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="180">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116253479">Luise von Bornstedt</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1838-11-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="181">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116253479">Luise von Bornstedt</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1838-11-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="182*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/101921373">Amalie Hassenpflug</persName>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                    <date notBefore="1838-12-01" notAfter="1838-12-16">erste Hälfte Dezember
+                        1838</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="183">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11880510X">Adele Schopenhauer</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1838-12-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="184">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118608428">Christoph Bernhard
+                        Schlüter</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1839-01-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="185*">
+                <correspAction type="sent">
+                    <persName>Antonetta de Galliéris</persName>
+                    <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
+                    <date notBefore="1838-12-01" notAfter="1839-01-20">Dezember 1838/Mitte Januar
+                        1839</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="186*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11655259X">Sophie von Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2904430">Hinnenburg</placeName>
+                    <date notBefore="1838-12-01" notAfter="1839-01-27">zwischen Dezember 1838 und
+                        dem 27.01.1839</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="187*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116253479">Luise von Bornstedt</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1839-02-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="188">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116253479">Luise von Bornstedt</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1839-02-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="189">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116953667">Henriette von
+                        Hohenhausen</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1839-02-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="190">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116253479">Luise von Bornstedt</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1839-04-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="191">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116253479">Luise von Bornstedt</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date notBefore="1839-04-21" notAfter="1839-04-30">Ende April 1839</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="192*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527541">Jenny von Laßberg</persName>
+                    <placeName ref="http://www.geonames.org/2872486">Meersburg</placeName>
+                    <date when="1839-05-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="193">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116253479">Luise von Bornstedt</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1839-05-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="194">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116253479">Luise von Bornstedt</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date notBefore="1839-06-20" notAfter="1839-06-27">20. oder 27. Juni 1839</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="195*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116253479">Luise von Bornstedt</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date notBefore="1838-10-01" notAfter="1939-06-30">Oktober 1838 - Juni
+                        1839</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="196*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116552158">Betty von Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2953390">Bad Neuhaus</placeName>
+                    <date notBefore="1839-07-01" notAfter="1839-07-10">Anfang Juli 1839</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="197*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1246796627">Carl von Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2904789">Hildesheim</placeName>
+                    <date cert="low" when="1839-08-08">etwa 08.08.1839</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="198*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/101921373">Amalie Hassenpflug</persName>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                    <date notBefore="1839-08-02">nach Anfang August 1839</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="199">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116253479">Luise von Bornstedt</persName>
+                    <placeName ref="http://www.geonames.org/2872486">Meersburg</placeName>
+                    <date when="1839-08-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="200*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119035987">Elise Rüdiger</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date notBefore="1839-07-11" notAfter="1839-08-20">Mitte Juli/Mitte August
+                        1839</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="201*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11871421X">Wilhelm Junkmann</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1839-08-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="202">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118608428">Christoph Bernhard
+                        Schlüter</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1839-08-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="203">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/100519075">Anton Lutterbeck</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date cert="low" when="1839-09-01">etwa 01.09.1839</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="204*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119237644">Ludwig Hassenpflug</persName>
+                    <placeName ref="http://www.geonames.org/2960316">Luxemburg</placeName>
+                    <date notBefore="1839-08-26" notAfter="1839-09-01">zwischen dem 26.08. und
+                        01.09.1839</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="205*">
+                <correspAction type="sent">
+                    <persName>Carl Ferdinand Rüdiger</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1839-09-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="206*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11871421X">Wilhelm Junkmann</persName>
+                    <placeName ref="http://www.geonames.org/2939945">Coesfeld</placeName>
+                    <date when="1839-11-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="207*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118762109">Levin Schücking</persName>
+                    <placeName ref="http://www.geonames.org/2867543" cert="low">Münster</placeName>
+                    <placeName ref="http://www.geonames.org/2820101" cert="low">Unkel</placeName>
+                    <date notBefore="1839-10-29" notAfter="1839-11-17">zwischen dem 29.10. und
+                        17.11.1839</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="208*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11871421X">Wilhelm Junkmann</persName>
+                    <placeName ref="http://www.geonames.org/2939945">Coesfeld</placeName>
+                    <date notBefore="1839-11-18" notAfter="1839-11-29">vermutlich 18. oder
+                        19.11.1839</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="209">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527541">Jenny von Laßberg</persName>
+                    <placeName ref="http://www.geonames.org/2872486">Meersburg</placeName>
+                    <date when="1839-12-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="210*">
+                <correspAction type="sent">
+                    <persName ref="http://correspSearch.net/unknown">Unbekannt</persName>
+                    <date when="1840-01-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="211">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119035987">Elise Rüdiger</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date notBefore="1840-01-15">nach dem 14.01.1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="212">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11880510X">Adele Schopenhauer</persName>
+                    <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
+                    <date when="1840-02-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="213*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11880510X">Adele Schopenhauer</persName>
+                    <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
+                    <date when="1840-02-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="214">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116253479">Luise von Bornstedt</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1840-03-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="215">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11949173">Werner von Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                    <date when="1840-03-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                    <persName ref="https://d-nb.info/gnd/117751677">Therese von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="216">
+                <correspAction type="sent">
+                    <persName>Ferdinand von Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2908773">Hülshoff</placeName>
+                    <date when="1840-04-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="217">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527541">Jenny von Laßberg</persName>
+                    <placeName ref="http://www.geonames.org/2872486">Meersburg</placeName>
+                    <date when="1840-04-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="218*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11880510X">Adele Schopenhauer</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1840-05-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="219*">
+                <correspAction type="sent">
+                    <persName>Catharina Schlüter</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date notBefore="1840-05-21" notAfter="1840-05-22">21. oder 22. Mai 1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="220*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11880510X">Adele Schopenhauer</persName>
+                    <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
+                    <date cert="low" when="1840-06-09">etwa 09.06.1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="221">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118547305">August von Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2945542">Brakel</placeName>
+                    <date when="1840-06-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="222*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119035987">Elise Rüdiger</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date notBefore="1840-06-05" notAfter="1840-06-25">zwischen dem 05. und
+                        25.06.1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="223">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118762109">Levin Schücking</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1840-07-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="224*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119035987">Elise Rüdiger</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date notBefore="1840-06-25" notAfter="1840-07-26">zwischen dem 25.06. und
+                        26.07.1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="225">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117751677">Therese von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2908773">Hülshoff</placeName>
+                    <date when="1840-07-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="226*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119035987">Elise Rüdiger</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1840-08-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="227">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119500949">Heinrich Engels</persName>
+                    <placeName ref="http://www.geonames.org/2921528">Geldern</placeName>
+                    <date notAfter="1840-08-18">vor dem 19.08.1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="228">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119500949">Heinrich Engels</persName>
+                    <placeName ref="http://www.geonames.org/2921528">Geldern</placeName>
+                    <date notAfter="1840-08-21">vor dem 22.08.1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="229*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118547305">August von Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2946771">Bökendorf</placeName>
+                    <date notBefore="1840-06-11" notAfter="1840-08-29">zwischen dem 11.06.und
+                        29.08.1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="230">
+                <correspAction type="sent">
+                    <persName>Wymar (Familie)</persName>
+                    <placeName ref="http://www.geonames.org/2800866">Brüssel</placeName>
+                    <date when="1840-08-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="231">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118762109">Levin Schücking</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date notBefore="1840-08-11" notAfter="1840-08-31">ezwa zweite Hälfte August
+                        1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="232">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118547305">August von Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2959893">Abbenburg</placeName>
+                    <date when="1840-09-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="233*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527541">Jenny von Laßberg</persName>
+                    <placeName ref="http://www.geonames.org/2872486">Meersburg</placeName>
+                    <date when="1840-09-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="234">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118762109">Levin Schücking</persName>
+                    <placeName ref="http://www.geonames.org/2820101">Unkel</placeName>
+                    <date when="1840-09-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="235">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118762109">Levin Schücking</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date notBefore="1840-06-01" notAfter="1840-08-31">Sommer 1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="236*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117751677">Therese von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date cert="low" when="1840-10-01">etwa 01.10.1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="237*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117751677">Therese von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2872486">Meersburg</placeName>
+                    <date when="1840-10-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="238*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11655245X">Ludowine von
+                        Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2945542">Brakel</placeName>
+                    <date notBefore="1840-09-21" notAfter="1840-10-10">Ende September/Anfang Oktober
+                        1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="239*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119035987">Elise Rüdiger</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1840-10-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="240*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11655259X">Sophie von Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2946771">Bökendorf</placeName>
+                    <date notBefore="1840-10-01" notAfter="1840-10-10">Anfang Oktober 1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="241*">
+                <correspAction type="sent">
+                    <persName>Caroline von Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2908773">Hülshoff</placeName>
+                    <date notBefore="1840-10-01" notAfter="1840-10-10">etwa Anfang Oktober
+                        1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="242*">
+                <correspAction type="sent">
+                    <persName>Julie von Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date cert="low" when="1840-10-20">etwa 20.10.1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="243*">
+                <correspAction type="sent">
+                    <persName>Therese Esser</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date cert="low" when="1840-10-20">etwa 20.10.1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="244">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117751677">Therese von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2872486">Meersburg</placeName>
+                    <date when="1840-10-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="245*">
+                <correspAction type="sent">
+                    <persName>Jenny Hüger</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date cert="low" when="1840-10-26">etwa 26.10.1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="246*">
+                <correspAction type="sent">
+                    <persName>Mathilde von Merode</persName>
+                    <placeName ref="http://www.geonames.org/2948944">Billerbeck</placeName>
+                    <date when="1840-10-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="247*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11880510X">Adele Schopenhauer</persName>
+                    <placeName ref="http://www.geonames.org/2895044" cert="low">Jena</placeName>
+                    <date notBefore="1840-09-21" notAfter="1840-10-31">Ende September/Oktober
+                        1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="248*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117478873">Therese Sprickmann</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1840-11-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="249*">
+                <correspAction type="sent">
+                    <persName>Charlotte von der Decken</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1840-11-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="250*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11655245X">Ludowine von
+                        Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2945542">Brakel</placeName>
+                    <date notBefore="1840-11-07" notAfter="1840-11-15">zwischen dem 07. und
+                        15.11.1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="251*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/101921373">Amalie Hassenpflug</persName>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                    <date notBefore="1840-09-23" notAfter="1840-11-18">zwischen dem 23.09. und
+                        18.11.1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="252">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118762109">Levin Schücking</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1840-11-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="253*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11880510X">Adele Schopenhauer</persName>
+                    <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
+                    <date when="1840-11-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="254">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118762109">Levin Schücking</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1840-11-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="255*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116552158">Betty von Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2904430">Hinnenburg</placeName>
+                    <date when="1840-12-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="256">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118762109">Levin Schücking</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1840-12-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="257*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527541">Jenny von Laßberg</persName>
+                    <placeName ref="http://www.geonames.org/2872486">Meersburg</placeName>
+                    <date when="1840-12-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="258">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117751677">Therese von
+                        Droste-Hülshoff</persName>
+                    <placeName ref="http://www.geonames.org/2872486">Meersburg</placeName>
+                    <date when="1840-12-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="259*">
+                <correspAction type="sent">
+                    <persName>Angeline Perard</persName>
+                    <placeName ref="http://www.geonames.org/2904430">Hinnenburg</placeName>
+                    <date when="1840-12-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="260*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11655259X">Sophie von Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2946771">Bökendorf</placeName>
+                    <date notAfter="1840-12-11">vor dem 12.12.1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="261">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118762109">Levin Schücking</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date when="1840-12-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="262*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117199923">Wilhelm Tangermann</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date notAfter="1840-12-21">vor dem 22.12.1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="263">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118762109">Levin Schücking</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                    <date notBefore="1840-12-11" notAfter="1840-12-31">zweite Hälfte Dezember
+                        1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="264*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/101921373">Amalie Hassenpflug</persName>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                    <date notBefore="1840-12-21" notAfter="1840-12-31">Ende Dezember 1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j04d6eca-ab03-4622-9e76-3ac7241073d3" key="265*">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11655245X">Ludowine von
+                        Haxthausen</persName>
+                    <placeName ref="http://www.geonames.org/2945542">Brakel</placeName>
+                    <date notBefore="1840-11-21" notAfter="1840-12-31">Ende November/Dezember
+                        1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527533">Annette von
+                        Droste-Hülshoff</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
