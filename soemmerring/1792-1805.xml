@@ -15,7 +15,7 @@
                     <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
                 </availability>
                 <idno type="url">http://correspsearch.bbaw.de/storage/soemmerring/1792-1805.xml</idno>
-                <date when="2021-09-14"/>
+                <date when="2025-03-27"/>
             </publicationStmt>
             <sourceDesc>
                 <bibl xml:id="SOE20" type="print">Samuel Thomas Soemmerring. Briefwechsel November 1792 – April 1805. Hrsg. u. erl. v. Franz Dumont. Basel
@@ -2171,7 +2171,7 @@
             </correspDesc>
             <correspDesc key="835" source="#SOE20">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/39410123/">Ludwig Ferdinand Huber</persName>
+                    <persName ref="http://viaf.org/viaf/39410123">Ludwig Ferdinand Huber</persName>
                     <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
                     <date when="1800-08-14">14.8.1800</date>
                 </correspAction>

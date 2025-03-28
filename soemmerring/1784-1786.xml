@@ -16,7 +16,7 @@
                     <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
                 </availability>
                 <idno type="url">http://correspsearch.bbaw.de/storage/soemmerring/1784-1786.xml</idno>
-                <date when="2021-09-14"/>
+                <date when="2025-03-27"/>
             </publicationStmt>
             <sourceDesc>
                 <bibl xml:id="SOE19I" type="print" sameAs="3-437-25366-2">Samuel Thomas Soemmerring. Briefwechsel November 1784 – Dezember 1786. Hrsg. u. erl. v. Franz Dumont. Stuttgart
@@ -349,7 +349,7 @@
             </correspDesc>
             <correspDesc source="#SOE19I" key="279">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/14819364/">Christian Gottlob Heyne</persName>
+                    <persName ref="http://viaf.org/viaf/14819364">Christian Gottlob Heyne</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
                     <date when="1785-02-27"/>
                 </correspAction>
@@ -457,7 +457,7 @@
             </correspDesc>
             <correspDesc source="#SOE19I" key="289">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/14819364/">Christian Gottlob Heyne</persName>
+                    <persName ref="http://viaf.org/viaf/14819364">Christian Gottlob Heyne</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
                     <date when="1785-04-08"/>
                 </correspAction>
@@ -903,7 +903,7 @@
                     <date when="1785-11-10"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/89266014/">Johannes Müller</persName>
+                    <persName ref="http://viaf.org/viaf/89266014">Johannes Müller</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#SOE19I" key="331">
@@ -976,7 +976,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="http://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
-                    <placeName ref="http://www.geonames.org/2950159/">Berlin</placeName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#SOE19I" key="338">
@@ -1309,7 +1309,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="http://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
-                    <placeName ref="http://www.geonames.org/2950159/" cert="medium">Berlin</placeName>
+                    <placeName ref="http://www.geonames.org/2950159" cert="medium">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#SOE19I" key="369">
@@ -1562,7 +1562,7 @@
             <correspDesc source="#SOE19I" key="392">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/46924807">Pieter Camper</persName>
-                    <placeName ref="http://www.geonames.org/2880499/">Lankum</placeName>
+                    <placeName ref="http://www.geonames.org/2880499">Lankum</placeName>
                     <date when="1786-09-11"/>
                 </correspAction>
                 <correspAction type="received">
@@ -1828,7 +1828,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="http://viaf.org/viaf/7429975">Soemmerring, Samuel Thomas von</persName>
-                    <placeName ref="http://www.geonames.org/2874225/" cert="medium">Mainz</placeName>
+                    <placeName ref="http://www.geonames.org/2874225" cert="medium">Mainz</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#SOE19I" key="417">
