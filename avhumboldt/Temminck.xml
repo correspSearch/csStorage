@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alexander von Humboldt und Coenraad Jacob Temminck</title>
+                <editor>Stefan Dumont<email>dumont@bbaw.de</email></editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <idno type="URL">https://correspsearch.net/storage/avhumboldt/Temminck.xml</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons CC-BY 4.0</licence>
+                </availability>
+                <date when="2025-04-22"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="raat1976" type="print">Raat, Alexis J. P. (1976): Alexander von Humboldt and Coenraad Jacob Temminck. In: Zoologische Bijdragen 21, 19–42.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc key="S. 24" source="#raat1976">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date notBefore="1822-02" notAfter="1822-06">Winter/Frühjahr 1822</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117255246">Coenraad Jacob Temminck</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            
+            <correspDesc key="S. 26" source="#raat1976">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117255246">Coenraad Jacob Temminck</persName>
+                    <placeName ref="http://www.geonames.org/2751773">Leiden</placeName>
+                    <date when="1840-03-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <note>
+                    <ref type="https://lod.academy/cmif/vocab/terms#hasTextBase" target="https://lod.academy/cmif/vocab/terms#Draft"/>
+                </note>
+            </correspDesc>
+            
+            <correspDesc key="S. 27" source="#raat1976">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117255246">Coenraad Jacob Temminck</persName>
+                    <placeName ref="http://www.geonames.org/2751773">Leiden</placeName>
+                    <date when="1841-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <note>
+                    <ref type="https://lod.academy/cmif/vocab/terms#hasTextBase" target="https://lod.academy/cmif/vocab/terms#Draft"/>
+                </note>
+            </correspDesc>
+            
+            <correspDesc key="S. 28" source="#raat1976">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam (Sanssouci)</placeName>
+                    <date when="1846-08-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117255246">Coenraad Jacob Temminck</persName>
+                    <placeName ref="http://www.geonames.org/2751773">Leiden</placeName>
+                </correspAction>
+            </correspDesc>
+            
+            <correspDesc key="S. 30" source="#raat1976">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117255246">Coenraad Jacob Temminck</persName>
+                    <placeName ref="http://www.geonames.org/2751773">Leiden</placeName>
+                    <date notBefore="1846-08-16" notAfter="1846-12">Ende 1846</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <note>
+                    <ref type="https://lod.academy/cmif/vocab/terms#hasTextBase" target="https://lod.academy/cmif/vocab/terms#Draft"/>
+                </note>
+            </correspDesc>
+            
+            <correspDesc key="S. 30" source="#raat1976">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1857-03-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117255246">Coenraad Jacob Temminck</persName>
+                    <placeName ref="http://www.geonames.org/2751773">Leiden</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><p/></body>
+    </text>
+</TEI>
+
