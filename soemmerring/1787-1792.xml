@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cs="http://www.bbaw.de/telota/correspSearch">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cs="http://www.bbaw.de/telota/correspSearch">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -13,15 +13,15 @@
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
                 </availability>
-                <date when="2021-10-29"/>
+                <date when="2025-05-29"/>
                 <idno type="url">https://correspsearch.net/storage/soemmerring/1787-1792.xml</idno>
             </publicationStmt>
             <sourceDesc>
-                <bibl xml:id="SOE19II" type="print" sameAs="978-3-7965-1530-9">Samuel Thomas Soemmerring. Briefwechsel Januar 1787 – Oktober 1792. Hrsg. u. erl. v. Franz Dumont. Stuttgart 1998 (= Samuel Thomas Soemmerring. Werke, Bd. 19/II).</bibl>
+                <bibl xml:id="ae941640-6c1a-4d85-8bb9-de3df86e3388" type="print" sameAs="978-3-7965-1530-9">Samuel Thomas Soemmerring. Briefwechsel Januar 1787 – Oktober 1792. Hrsg. u. erl. v. Franz Dumont. Stuttgart 1998 (= Samuel Thomas Soemmerring. Werke, Bd. 19/II).</bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <correspDesc key="422" source="#SOE19II" cs:page="503">
+            <correspDesc xml:id="b85c7037-09b5-4015-ad64-b33e5cc572b1" key="422" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="503">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/71405428">Johann Reinhold Forster</persName>
                     <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
@@ -31,7 +31,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="423" source="#SOE19II" cs:page="507">
+            <correspDesc xml:id="bd8ad49c-6d1b-4f6f-a914-f4cfbfcb953e" key="423" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="507">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
@@ -41,7 +41,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="424" source="#SOE19II" cs:page="510">
+            <correspDesc xml:id="b968f23c-a0da-46ec-ad14-1db5647dc434" key="424" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="510">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/71405428">Johann Reinhold Forster</persName>
                     <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
@@ -51,7 +51,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="425" source="#SOE19II" cs:page="512">
+            <correspDesc xml:id="d1ee627d-3e82-4782-b57f-b179ecc0a7b9" key="425" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="512">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
@@ -61,7 +61,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="426" source="#SOE19II" cs:page="515">
+            <correspDesc xml:id="c6d7b110-ec15-4d09-b57c-fa6dd5ea9645" key="426" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="515">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <date when="1787-02-22">22.2.1787</date>
@@ -70,7 +70,7 @@
                     <persName ref="http://viaf.org/viaf/86727812">Johann Heinrich Merck</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="427" source="#SOE19II" cs:page="517">
+            <correspDesc xml:id="ff64cd8a-58bc-4ae8-af5e-134777dbf521" key="427" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="517">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/1100730281">Wilhelm von Canitz</persName>
                     <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
@@ -80,7 +80,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="428" source="#SOE19II" cs:page="519">
+            <correspDesc xml:id="dea09008-32cd-4769-bd64-3c3648970e24" key="428" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="519">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/143910949">Christian Christoph Forst</persName>
                     <placeName ref="http://www.geonames.org/2953348">Langenschwalbach</placeName>
@@ -90,7 +90,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="429" source="#SOE19II" cs:page="520">
+            <correspDesc xml:id="d25435e4-6fbd-428d-b01e-bcd01a06c719" key="429" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="520">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
@@ -100,7 +100,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="430" source="#SOE19II" cs:page="522">
+            <correspDesc xml:id="b8517f9d-a04f-49dd-9e3c-f12890aa9de4" key="430" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="522">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/143910949">Christian Christoph Forst</persName>
                     <placeName ref="http://www.geonames.org/2953348">Langenschwalbach</placeName>
@@ -110,7 +110,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="431" source="#SOE19II" cs:page="523">
+            <correspDesc xml:id="f149e506-a53e-426d-ba54-791c23c5ef61" key="431" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="523">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -120,7 +120,7 @@
                     <persName ref="http://viaf.org/viaf/46924807">Pieter Camper</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="432" source="#SOE19II" cs:page="528">
+            <correspDesc xml:id="af8913d4-3679-4595-8ca4-ec3b622b4505" key="432" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="528">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
@@ -130,7 +130,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="433" source="#SOE19II" cs:page="532">
+            <correspDesc xml:id="e1398c9b-0ee6-4871-93c5-36c09cf5a974" key="433" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="532">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
@@ -140,7 +140,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="434" source="#SOE19II" cs:page="537">
+            <correspDesc xml:id="d92d1d95-44d9-4e75-b6d9-00a7d4d1d792" key="434" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="537">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/116409525">Johann Christian Ehrmann</persName>
                     <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
@@ -150,7 +150,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="435" source="#SOE19II" cs:page="537">
+            <correspDesc xml:id="b33e64ef-16b0-4d3c-86f1-d3bc5403dd9c" key="435" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="537">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/116409525">Johann Christian Ehrmann</persName>
                     <date when="1787-04-12">12.4.1787</date>
@@ -159,7 +159,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="436" source="#SOE19II" cs:page="538">
+            <correspDesc xml:id="d4a40ebd-6757-4cc0-9764-ce1fe13451da" key="436" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="538">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -169,7 +169,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="437" source="#SOE19II" cs:page="539">
+            <correspDesc xml:id="c8f79acd-826f-4026-adec-43a8ee108868" key="437" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="539">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/116409525">Johann Christian Ehrmann</persName>
                     <date when="1787-04-24">24.4.1787</date>
@@ -178,7 +178,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="438" source="#SOE19II" cs:page="540">
+            <correspDesc xml:id="dec11cf7-59f9-489c-b222-a94a305741e9" key="438" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="540">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118556312">Friedrich Heinrich Jacobi</persName>
                     <placeName ref="http://www.geonames.org/11258605">Pempelfort</placeName>
@@ -188,7 +188,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="439" source="#SOE19II" cs:page="541">
+            <correspDesc xml:id="ee334c91-3e84-4832-bde8-8d2184a7f941" key="439" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="541">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/127750630">Johann Friedrich Christian Pichler</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -198,7 +198,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="440" source="#SOE19II" cs:page="542">
+            <correspDesc xml:id="fd92f2c3-2795-4b2b-a3e8-1447cd303975" key="440" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="542">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <date when="1787-05-02">2.5.1787</date>
@@ -207,7 +207,7 @@
                     <persName ref="http://d-nb.info/gnd/127750630">Johann Friedrich Christian Pichler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="441" source="#SOE19II" cs:page="543">
+            <correspDesc xml:id="b7fb7fee-0ebf-4c09-a59d-21eb879dfbbb" key="441" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="543">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/86727812">Johann Heinrich Merck</persName>
                     <date when="1787-05-03">3.5.1787</date>
@@ -216,7 +216,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="442" source="#SOE19II" cs:page="544">
+            <correspDesc xml:id="ac1a4b73-8295-41ac-8b96-2609aa4ee1dd" key="442" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="544">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -226,7 +226,7 @@
                     <persName ref="http://viaf.org/viaf/86727812">Johann Heinrich Merck</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="443" source="#SOE19II" cs:page="545">
+            <correspDesc xml:id="ce2c74aa-4f24-4dbc-8044-b20649b6fa28" key="443" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="545">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118692674">Johann Peter Frank</persName>
                     <placeName ref="http://www.geonames.org/3171366">Pavia</placeName>
@@ -236,7 +236,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="444" source="#SOE19II" cs:page="548">
+            <correspDesc xml:id="db6c1dc3-d2f8-4042-ac82-23a852996cab" key="444" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="548">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
@@ -246,7 +246,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="445" source="#SOE19II" cs:page="550">
+            <correspDesc xml:id="e4d2f39f-89dc-45ea-b650-c09c346effa9" key="445" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="550">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
@@ -256,7 +256,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="446" source="#SOE19II" cs:page="552">
+            <correspDesc xml:id="fc2ea15e-f67c-4035-b7cb-501c18560254" key="446" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="552">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
@@ -266,7 +266,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="447" source="#SOE19II" cs:page="554">
+            <correspDesc xml:id="dfcee3a4-45f5-43ac-9e7c-e1a88ffd646c" key="447" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="554">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <date when="1787-06-13">13.6.1787</date>
@@ -275,7 +275,7 @@
                     <persName ref="http://viaf.org/viaf/46924807">Pieter Camper</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="448" source="#SOE19II" cs:page="559">
+            <correspDesc xml:id="c9bbc189-a68b-4dd9-8b85-2b9d80ae37d5" key="448" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="559">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
@@ -285,7 +285,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="449" source="#SOE19II" cs:page="561">
+            <correspDesc xml:id="af982ee1-23a3-4283-8fd2-0d0b6bc26a83" key="449" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="561">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -295,7 +295,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="450" source="#SOE19II" cs:page="565">
+            <correspDesc xml:id="c5128ff6-1d11-471c-aca4-1d61eea24787" key="450" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="565">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -305,7 +305,7 @@
                     <persName ref="http://viaf.org/viaf/29584708">Therese Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="451" source="#SOE19II" cs:page="566">
+            <correspDesc xml:id="cacea5b1-68f6-441c-b190-f9f8c35b8c14" key="451" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="566">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <date when="1787-06">Juni 1787</date>
@@ -314,7 +314,7 @@
                     <persName>Johannes (von) Müller</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="452" source="#SOE19II" cs:page="566">
+            <correspDesc xml:id="d21ed3e6-bcb9-437d-aab7-075ec2f94154" key="452" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="566">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
                     <date when="1787-06-24">24.6.1787</date>
@@ -323,7 +323,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="453" source="#SOE19II" cs:page="567">
+            <correspDesc xml:id="bfd510a3-673b-43ac-b948-d167663ffd4c" key="453" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="567">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -333,7 +333,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="454" source="#SOE19II" cs:page="573">
+            <correspDesc xml:id="ba8fe719-c16e-4e6b-a813-c50e271ed770" key="454" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="573">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -343,7 +343,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="455" source="#SOE19II" cs:page="577">
+            <correspDesc xml:id="cadff451-48c9-426f-b409-71fba3150b10" key="455" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="577">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -353,7 +353,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="456" source="#SOE19II" cs:page="577">
+            <correspDesc xml:id="ae33e02e-d8df-41b9-8cca-d40372e7132e" key="456" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="577">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -363,7 +363,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="457" source="#SOE19II" cs:page="578">
+            <correspDesc xml:id="decfb6ed-78a2-4fc4-a16c-1d8473cb16c3" key="457" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="578">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
@@ -373,7 +373,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="458" source="#SOE19II" cs:page="585">
+            <correspDesc xml:id="dd8397f6-dec0-4feb-b534-b6c81fc95a29" key="458" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="585">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <date notAfter="1787-07-24">(vor) 24.7.1787</date>
@@ -383,7 +383,7 @@
                 </correspAction>
                 <!-- Adresse: Aschaffenburg -->
             </correspDesc>
-            <correspDesc key="459" source="#SOE19II" cs:page="586">
+            <correspDesc xml:id="b59df05f-493e-4d17-9cd5-f3621a39e78b" key="459" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="586">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/29584708">Therese Forster</persName>
                     <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
@@ -393,7 +393,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="460" source="#SOE19II" cs:page="589">
+            <correspDesc xml:id="a84b4d15-60eb-446d-b7b7-f7e74da4dcbd" key="460" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="589">
                 <correspAction type="sent">
                     <persName>Johannes (von) Müller</persName>
                     <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
@@ -403,7 +403,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="461" source="#SOE19II" cs:page="590">
+            <correspDesc xml:id="fd2f63ac-e7f3-4937-be9a-270c5c6ad913" key="461" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="590">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -413,7 +413,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="462" source="#SOE19II" cs:page="591">
+            <correspDesc xml:id="d7d5cc76-7601-49cd-b4ef-d112115cc2fe" key="462" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="591">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -424,7 +424,7 @@
                 </correspAction>
                 <!-- Adresse: Berlin -->
             </correspDesc>
-            <correspDesc key="463" source="#SOE19II" cs:page="593">
+            <correspDesc xml:id="afca752a-e20c-4971-899e-1d8a2d01edd9" key="463" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="593">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
@@ -434,7 +434,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="464" source="#SOE19II" cs:page="594">
+            <correspDesc xml:id="b30192af-b700-4054-ab2f-2933a2501266" key="464" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="594">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -444,7 +444,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="465" source="#SOE19II" cs:page="599">
+            <correspDesc xml:id="d0869b3a-e2e8-4b08-bdbd-8565c4232b53" key="465" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="599">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -454,7 +454,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="466" source="#SOE19II" cs:page="600">
+            <correspDesc xml:id="d14b0e9b-d0d9-41e9-a684-cf64f4d1ac7e" key="466" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="600">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118633244">Johann Jakob Willemer</persName>
                     <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
@@ -464,7 +464,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="467" source="#SOE19II" cs:page="602">
+            <correspDesc xml:id="f6193923-d171-47dd-a421-0861bad141d8" key="467" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="602">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -474,7 +474,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="468" source="#SOE19II" cs:page="604">
+            <correspDesc xml:id="a7124cb4-904e-496f-ac2a-afd752314ae7" key="468" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="604">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -484,7 +484,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="469" source="#SOE19II" cs:page="606">
+            <correspDesc xml:id="f5cf7f49-a9b6-4aad-b3de-8305dcf01123" key="469" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="606">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -494,7 +494,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="470" source="#SOE19II" cs:page="609">
+            <correspDesc xml:id="a0f773f4-2852-46e1-9a1d-5c307d15ee8e" key="470" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="609">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -504,7 +504,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="471" source="#SOE19II" cs:page="612">
+            <correspDesc xml:id="df9c8a0a-d579-4444-9206-766b7b71f63e" key="471" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="612">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -514,7 +514,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="472" source="#SOE19II" cs:page="615">
+            <correspDesc xml:id="a9ceac6f-833f-425f-82cc-18e4e51a033f" key="472" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="615">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -524,7 +524,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="473" source="#SOE19II" cs:page="616">
+            <correspDesc xml:id="a5e9bb2a-bbd1-47ba-ba0d-511e7fe3bd53" key="473" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="616">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -534,7 +534,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="474" source="#SOE19II" cs:page="618">
+            <correspDesc xml:id="f72a1387-41c3-4a27-bb6a-6b31362e8fa5" key="474" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="618">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -544,7 +544,7 @@
                     <persName ref="http://d-nb.info/gnd/118570293">Johann Kaspar Lavater</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="475" source="#SOE19II" cs:page="620">
+            <correspDesc xml:id="e8f4fa6d-2b9c-457d-a122-1bfee0f5fd53" key="475" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="620">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -554,7 +554,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="476" source="#SOE19II" cs:page="624">
+            <correspDesc xml:id="e0f55afd-e0e4-44bc-9a1d-ce6b873ea079" key="476" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="624">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <date when="1787-10-17">17.10.1787</date>
@@ -564,7 +564,7 @@
                 </correspAction>
                 <!-- Adresse: Klein-Lankum -->
             </correspDesc>
-            <correspDesc key="477" source="#SOE19II" cs:page="627">
+            <correspDesc xml:id="f05ccb6f-3a99-44ba-a07b-5fde6860a6d9" key="477" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="627">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -574,7 +574,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="478" source="#SOE19II" cs:page="630">
+            <correspDesc xml:id="b23640e4-8985-4828-b8a2-9e07f1dcb6ee" key="478" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="630">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -584,7 +584,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="479" source="#SOE19II" cs:page="632">
+            <correspDesc xml:id="e47774df-ef03-4d3f-bc82-d9337a12d1d6" key="479" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="632">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -594,7 +594,7 @@
                     <persName ref="http://viaf.org/viaf/86727812">Johann Heinrich Merck</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="480" source="#SOE19II" cs:page="633">
+            <correspDesc xml:id="f89918d9-150f-46f9-b033-283a29394eca" key="480" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="633">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118570293">Johann Kaspar Lavater</persName>
                     <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
@@ -604,7 +604,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="481" source="#SOE19II" cs:page="636">
+            <correspDesc xml:id="ae53009e-45a1-44ca-8e82-f9ed0bec34a4" key="481" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="636">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -614,7 +614,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="482" source="#SOE19II" cs:page="639">
+            <correspDesc xml:id="c234eecc-456b-4845-aae6-75596c45c191" key="482" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="639">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <date notBefore="1787-10-24">(nach) 24.10.1787</date>
@@ -623,7 +623,7 @@
                     <persName ref="http://d-nb.info/gnd/118570293">Johann Kaspar Lavater</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="483" source="#SOE19II" cs:page="643">
+            <correspDesc xml:id="efa37112-d23a-40a7-bc73-2975cb462f77" key="483" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="643">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -633,7 +633,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="484" source="#SOE19II" cs:page="646">
+            <correspDesc xml:id="f19774fd-8b39-4d00-99f9-dc56069f846b" key="484" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="646">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -643,7 +643,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="485" source="#SOE19II" cs:page="649">
+            <correspDesc xml:id="c02a43d5-2335-4755-a4aa-b671cbcde071" key="485" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="649">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
@@ -653,7 +653,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="486" source="#SOE19II" cs:page="650">
+            <correspDesc xml:id="c05b9845-ca9f-43ae-ba00-34d1048a94f7" key="486" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="650">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -663,7 +663,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="487" source="#SOE19II" cs:page="652">
+            <correspDesc xml:id="aabfa231-3e84-4b56-84e0-c42fcdd6cd28" key="487" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="652">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -673,7 +673,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="488" source="#SOE19II" cs:page="655">
+            <correspDesc xml:id="e9763e99-7000-452e-988c-abdddf374adf" key="488" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="655">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -683,7 +683,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="489" source="#SOE19II" cs:page="656">
+            <correspDesc xml:id="de6fc03b-ad4b-4e19-a8f6-f2d7350f1841" key="489" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="656">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -693,7 +693,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="490" source="#SOE19II" cs:page="658">
+            <correspDesc xml:id="ed3b864d-8ab6-4e2c-9fe7-9ea0951d7643" key="490" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="658">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -703,7 +703,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="491" source="#SOE19II" cs:page="663">
+            <correspDesc xml:id="e7a7f869-c822-4856-b4a9-b28584f7099f" key="491" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="663">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/86727812">Johann Heinrich Merck</persName>
                     <date when="1787-11-25">25.11.1787</date>
@@ -712,7 +712,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="492" source="#SOE19II" cs:page="663">
+            <correspDesc xml:id="a94df565-bc32-4788-b795-8ba672445cee" key="492" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="663">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -722,7 +722,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="493" source="#SOE19II" cs:page="665">
+            <correspDesc xml:id="ef0d8028-8cc0-46fd-b2c4-07e2ff87b35b" key="493" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="665">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -733,7 +733,7 @@
                 </correspAction>
                 <!-- empfangen: 6.12., beantwortet 20 1788 -->
             </correspDesc>
-            <correspDesc key="494" source="#SOE19II" cs:page="667">
+            <correspDesc xml:id="e8353c0b-ffbe-4718-8317-cac959b1e031" key="494" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="667">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -743,7 +743,7 @@
                     <persName ref="http://viaf.org/viaf/86727812">Johann Heinrich Merck</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="495" source="#SOE19II" cs:page="669">
+            <correspDesc xml:id="caa07ac8-a6d5-489d-86a0-9791efb80c09" key="495" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="669">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -753,7 +753,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="496" source="#SOE19II" cs:page="671">
+            <correspDesc xml:id="a5c5773e-e3f0-4c59-9ca7-7864652ad765" key="496" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="671">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -764,7 +764,7 @@
                 </correspAction>
                 <!-- Adresse: Paris -->
             </correspDesc>
-            <correspDesc key="497" source="#SOE19II" cs:page="672">
+            <correspDesc xml:id="ffd374c4-166d-42ea-87a3-5c8a58ec06fb" key="497" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="672">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118570293">Johann Kaspar Lavater</persName>
                     <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
@@ -774,7 +774,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="498" source="#SOE19II" cs:page="675">
+            <correspDesc xml:id="ea77023f-59d2-4b5d-bc0e-ddf43da071e5" key="498" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="675">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -784,7 +784,7 @@
                     <persName ref="http://d-nb.info/gnd/118692674">Johann Peter Frank</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="499" source="#SOE19II" cs:page="678">
+            <correspDesc xml:id="ab3176a3-941c-4622-b11f-00b6b8ffb3e7" key="499" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="678">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -794,7 +794,7 @@
                     <persName ref="http://viaf.org/viaf/86727812">Johann Heinrich Merck</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="500" source="#SOE19II" cs:page="680">
+            <correspDesc xml:id="f78193e8-5fd6-4774-bc43-40e88e0da7c9" key="500" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="680">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/86727812">Johann Heinrich Merck</persName>
                     <placeName ref="http://www.geonames.org/2938913">Darmstadt</placeName>
@@ -804,7 +804,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="501" source="#SOE19II" cs:page="680">
+            <correspDesc xml:id="fed14a79-03cc-4598-8124-53b3e940c4e8" key="501" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="680">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -814,7 +814,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="502" source="#SOE19II" cs:page="682">
+            <correspDesc xml:id="cabd3973-b16d-4f3e-830f-9dbcbb06dcba" key="502" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="682">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -824,7 +824,7 @@
                     <persName ref="http://viaf.org/viaf/86727812">Johann Heinrich Merck</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="503" source="#SOE19II" cs:page="683">
+            <correspDesc xml:id="c151c23c-be8c-4a5a-af3d-e88080ff1c26" key="503" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="683">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -834,7 +834,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="504" source="#SOE19II" cs:page="684">
+            <correspDesc xml:id="fb3ec8ea-eec9-4ce3-82d7-81ba4f0489eb" key="504" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="684">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <date when="1788-01-05">5.1.1788</date>
@@ -843,7 +843,7 @@
                     <persName ref="http://d-nb.info/gnd/118570293">Johann Kaspar Lavater</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="505" source="#SOE19II" cs:page="686">
+            <correspDesc xml:id="f7cc5ebb-cb10-4cd6-8652-dcfc1901358b" key="505" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="686">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -853,7 +853,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="506" source="#SOE19II" cs:page="687">
+            <correspDesc xml:id="a0f7e46a-8f8d-4b8f-84a7-6d9126530683" key="506" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="687">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -863,7 +863,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="507" source="#SOE19II" cs:page="689">
+            <correspDesc xml:id="b8ebbee6-fab1-448a-bb01-e44c42cc6c2e" key="507" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="689">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118570293">Johann Kaspar Lavater</persName>
                     <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
@@ -873,7 +873,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="508" source="#SOE19II" cs:page="690">
+            <correspDesc xml:id="f3a78981-2a6b-4646-8ace-2f50bbd4c242" key="508" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="690">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -883,7 +883,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="509" source="#SOE19II" cs:page="692">
+            <correspDesc xml:id="a25eaba5-40c5-4f9f-8113-a143d1d4b535" key="509" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="692">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -893,7 +893,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="510" source="#SOE19II" cs:page="695">
+            <correspDesc xml:id="c2acd701-fec5-4356-8a64-9debcde22eaf" key="510" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="695">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -903,7 +903,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="511" source="#SOE19II" cs:page="697">
+            <correspDesc xml:id="bb881f95-f021-4dbb-9e19-389599673697" key="511" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="697">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
@@ -913,7 +913,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="512" source="#SOE19II" cs:page="699">
+            <correspDesc xml:id="fac9bc81-b187-4fc3-b023-4ad6032a7e9c" key="512" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="699">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -923,7 +923,7 @@
                     <persName ref="http://viaf.org/viaf/86727812">Johann Heinrich Merck</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="513" source="#SOE19II" cs:page="700">
+            <correspDesc xml:id="a5d3fab2-4902-46a0-8d0d-563a292c38c2" key="513" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="700">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -933,7 +933,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="514" source="#SOE19II" cs:page="702">
+            <correspDesc xml:id="cf472d5a-6bb0-4c8b-a448-8e2af0d7bf33" key="514" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="702">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -943,7 +943,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="515" source="#SOE19II" cs:page="703">
+            <correspDesc xml:id="df766864-a5b4-40e4-bfb2-770b09130abe" key="515" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="703">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
@@ -953,7 +953,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="516" source="#SOE19II" cs:page="705">
+            <correspDesc xml:id="f072365e-7f27-48d9-9127-860c30f1b866" key="516" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="705">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -963,7 +963,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="517" source="#SOE19II" cs:page="708">
+            <correspDesc xml:id="ce1fe45e-592e-4e64-aa7e-c1f9498e7b88" key="517" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="708">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -973,7 +973,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="518" source="#SOE19II" cs:page="712">
+            <correspDesc xml:id="e7daebf1-1d8a-4cc1-828e-aa2b817738a0" key="518" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="712">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -983,7 +983,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="519" source="#SOE19II" cs:page="714">
+            <correspDesc xml:id="b627fcc9-0fd6-4157-bd05-df68f6ceb7ae" key="519" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="714">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/29584708">Therese Forster</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -993,7 +993,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="520" source="#SOE19II" cs:page="715">
+            <correspDesc xml:id="da1df519-89a9-4b1f-9e7e-6c5231a0dc1e" key="520" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="715">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1003,7 +1003,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="521" source="#SOE19II" cs:page="716">
+            <correspDesc xml:id="bd10dbb5-4166-49f9-9209-3bb0ed2d5cc2" key="521" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="716">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -1013,7 +1013,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="522" source="#SOE19II" cs:page="718">
+            <correspDesc xml:id="e793ac1f-f229-47f6-b9ed-d2edfd859283" key="522" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="718">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <date when="1788-05">Mai 1788</date>
@@ -1023,7 +1023,7 @@
                 </correspAction>
                 <!-- Adresse: vermutlich Thorn -->
             </correspDesc>
-            <correspDesc key="523" source="#SOE19II" cs:page="720">
+            <correspDesc xml:id="d4c58c94-f63d-48ba-ae68-26ea9f656e11" key="523" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="720">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -1033,7 +1033,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="524" source="#SOE19II" cs:page="722">
+            <correspDesc xml:id="daac5d10-2882-4c2f-ac6d-527f7932a458" key="524" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="722">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <date when="1788-05-24">24.5.1788</date>
@@ -1042,7 +1042,7 @@
                     <persName>Johannes (von) Müller</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="525" source="#SOE19II" cs:page="723">
+            <correspDesc xml:id="af549f3d-aa46-4e24-bb61-aa78c9b4d328" key="525" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="723">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -1052,7 +1052,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="526" source="#SOE19II" cs:page="724">
+            <correspDesc xml:id="e1923122-8c96-4724-8c3a-bdaaa639f66e" key="526" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="724">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <date when="1788">31.5. (?) 1788</date>
@@ -1061,7 +1061,7 @@
                     <persName>Johannes (von) Müller</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="527" source="#SOE19II" cs:page="724">
+            <correspDesc xml:id="e7d8e9c2-7137-4795-83ab-b19da4700985" key="527" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="724">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <date when="1788-06">Juni 1788</date>
@@ -1070,7 +1070,7 @@
                     <persName>Johannes (von) Müller</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="528" source="#SOE19II" cs:page="725">
+            <correspDesc xml:id="d5c699e4-692b-4f3c-8bbf-f1bf3cb26ce6" key="528" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="725">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -1080,7 +1080,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="529" source="#SOE19II" cs:page="726">
+            <correspDesc xml:id="a20ce4e1-1e70-42ae-a90f-13468fd86c9d" key="529" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="726">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1090,7 +1090,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="530" source="#SOE19II" cs:page="728">
+            <correspDesc xml:id="d0c4a329-33d5-4efc-b424-fd2beccb2379" key="530" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="728">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1100,7 +1100,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="531" source="#SOE19II" cs:page="729">
+            <correspDesc xml:id="aa232da7-8e23-4931-8b03-007f20d0e149" key="531" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="729">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -1110,7 +1110,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="532" source="#SOE19II" cs:page="731">
+            <correspDesc xml:id="d3ac90ab-5164-409c-baa7-f57c6f24ebf8" key="532" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="731">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1120,7 +1120,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="533" source="#SOE19II" cs:page="733">
+            <correspDesc xml:id="aa676edb-50a7-45a4-a689-c2acb4f1066a" key="533" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="733">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -1130,7 +1130,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="534" source="#SOE19II" cs:page="735">
+            <correspDesc xml:id="b941972d-c08b-4cd2-8706-d664fd00f841" key="534" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="735">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <date when="1788-07-11">11.7.1788</date>
@@ -1140,7 +1140,7 @@
                 </correspAction>
                 <!-- Adresse: La Haye -->
             </correspDesc>
-            <correspDesc key="535" source="#SOE19II" cs:page="739">
+            <correspDesc xml:id="cd1e7664-8ea5-4a72-85f3-19fe84392882" key="535" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="739">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/46924807">Pieter Camper</persName>
                     <date when="1788-07-18">18.7.1788</date>
@@ -1149,7 +1149,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="536" source="#SOE19II" cs:page="740">
+            <correspDesc xml:id="d5931986-a465-4a6c-857e-406a60a674f6" key="536" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="740">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -1159,7 +1159,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="537" source="#SOE19II" cs:page="741">
+            <correspDesc xml:id="a714ec93-cc2e-4708-9bd9-4f0e81fb7f19" key="537" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="741">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1169,7 +1169,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="538" source="#SOE19II" cs:page="743">
+            <correspDesc xml:id="ec8da8d8-6ea4-4cd4-86d9-ba9e921f7246" key="538" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="743">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1179,7 +1179,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="539" source="#SOE19II" cs:page="746">
+            <correspDesc xml:id="fbf41873-5b4e-4f66-9848-0b8d1c6adf48" key="539" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="746">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1189,7 +1189,7 @@
                     <persName>Johannes (von) Müller</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="540" source="#SOE19II" cs:page="746">
+            <correspDesc xml:id="a7952d65-f3af-4edf-b231-964c32ecf441" key="540" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="746">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -1199,7 +1199,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="541" source="#SOE19II" cs:page="749">
+            <correspDesc xml:id="d3ad1747-75d4-4ae4-845d-e9f1cc9b4fd9" key="541" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="749">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
                     <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
@@ -1209,7 +1209,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="542" source="#SOE19II" cs:page="750">
+            <correspDesc xml:id="b8ea0498-ad07-415b-a8e1-e7231e4b058a" key="542" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="750">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118720961">Karl Theodor von Dalberg</persName>
                     <date notAfter="1788-08-15">(vor) 15.8.1788</date>
@@ -1218,7 +1218,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="543" source="#SOE19II" cs:page="750">
+            <correspDesc xml:id="b764824e-5b25-4ca7-a645-9c940f789c8d" key="543" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="750">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1228,7 +1228,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="544" source="#SOE19II" cs:page="753">
+            <correspDesc xml:id="af5c34fb-7e01-4b92-b3eb-d0cb786019f6" key="544" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="753">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -1238,7 +1238,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="545" source="#SOE19II" cs:page="755">
+            <correspDesc xml:id="ab178504-965e-4ae0-8e7e-8cb5df795a4a" key="545" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="755">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -1248,7 +1248,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="546" source="#SOE19II" cs:page="757">
+            <correspDesc xml:id="d83f8df4-19bd-4d17-be77-5bed5778bef1" key="546" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="757">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1259,7 +1259,7 @@
                 </correspAction>
                 <!-- Adresse: La Haye "vis a vis la Maille Princesse graftt à la Haye"  -->
             </correspDesc>
-            <correspDesc key="547" source="#SOE19II" cs:page="759">
+            <correspDesc xml:id="eeb39a30-19e7-4f5c-92fa-96392dfe0bf9" key="547" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="759">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1269,7 +1269,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="548" source="#SOE19II" cs:page="761">
+            <correspDesc xml:id="f1855add-ae1c-4088-b65b-76cd9cd35152" key="548" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="761">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -1279,7 +1279,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="549" source="#SOE19II" cs:page="762">
+            <correspDesc xml:id="eeeb1226-a996-4f04-a665-3e3fd93a28bb" key="549" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="762">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1289,7 +1289,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="550" source="#SOE19II" cs:page="763">
+            <correspDesc xml:id="ebd62845-c468-4ba4-a97a-02932ed65b17" key="550" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="763">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -1299,7 +1299,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="551" source="#SOE19II" cs:page="764">
+            <correspDesc xml:id="b2e8d7e9-a3fa-4378-80a8-ccfce1d84e57" key="551" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="764">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
@@ -1309,7 +1309,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="552" source="#SOE19II" cs:page="765">
+            <correspDesc xml:id="bd3bc785-05cf-41e0-a06a-ce5be27a889d" key="552" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="765">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
@@ -1319,7 +1319,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="553" source="#SOE19II" cs:page="766">
+            <correspDesc xml:id="fcc2295c-1efc-4904-bc3a-8fba019282d3" key="553" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="766">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
                     <date when="1788-11-09">9.11.1788</date>
@@ -1329,7 +1329,7 @@
                 </correspAction>
                 <!-- Anderer Brief eingeschlossen -->
             </correspDesc>
-            <correspDesc key="554" source="#SOE19II" cs:page="770">
+            <correspDesc xml:id="de623d9b-853c-4d04-8c70-81ae480cbdf2" key="554" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="770">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/116960779">Heinrich Palmatius Leveling</persName>
                     <placeName ref="http://www.geonames.org/2895992">Ingolstadt</placeName>
@@ -1339,7 +1339,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="555" source="#SOE19II" cs:page="771">
+            <correspDesc xml:id="b00f339b-7ef3-4f66-a2ef-588c7c57025b" key="555" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="771">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -1349,7 +1349,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="556" source="#SOE19II" cs:page="774">
+            <correspDesc xml:id="f7744192-51e2-4b8f-98fd-a48b663ea6af" key="556" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="774">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
                     <date when="1789-01-04">4.1.1789</date>
@@ -1358,7 +1358,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="557" source="#SOE19II" cs:page="775">
+            <correspDesc xml:id="e89534c5-8892-498e-b3d0-56dcc6cf80f3" key="557" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="775">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -1368,7 +1368,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="558" source="#SOE19II" cs:page="776">
+            <correspDesc xml:id="d0d17a1d-604a-4a94-8dd1-1b4918606624" key="558" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="776">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -1378,7 +1378,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="559" source="#SOE19II" cs:page="777">
+            <correspDesc xml:id="f2625e02-fe87-40c3-8ce6-09beb7127684" key="559" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="777">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118556312">Friedrich Heinrich Jacobi</persName>
                     <placeName ref="http://www.geonames.org/11258605">Pempelfort</placeName>
@@ -1388,7 +1388,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="560" source="#SOE19II" cs:page="779">
+            <correspDesc xml:id="cb9e09eb-1b28-4da0-915b-0e6aedb5ee24" key="560" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="779">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1398,7 +1398,7 @@
                     <persName>Johannes (von) Müller</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="561" source="#SOE19II" cs:page="780">
+            <correspDesc xml:id="f0c1684e-d0bb-4792-9ec6-2f9114dd4de1" key="561" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="780">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118556312">Friedrich Heinrich Jacobi</persName>
                     <placeName ref="http://www.geonames.org/11258605">Pempelfort</placeName>
@@ -1408,7 +1408,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="562" source="#SOE19II" cs:page="782">
+            <correspDesc xml:id="dc7982b2-8b02-462d-80eb-520a12fc4c95" key="562" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="782">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -1418,7 +1418,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="563" source="#SOE19II" cs:page="783">
+            <correspDesc xml:id="a80d10db-486c-4076-812f-8a94677ef0fc" key="563" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="783">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -1428,7 +1428,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="564" source="#SOE19II" cs:page="784">
+            <correspDesc xml:id="d4057921-b1de-43a7-9e24-a588527384bc" key="564" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="784">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/116396229">Johann Alexander von Brambilla</persName>
                     <date when="1789-07-07">7.7.1789</date>
@@ -1437,7 +1437,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="565" source="#SOE19II" cs:page="784">
+            <correspDesc xml:id="f7f8ca9b-b144-48a7-89b9-21b2a93b47f9" key="565" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="784">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -1447,7 +1447,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="566" source="#SOE19II" cs:page="785">
+            <correspDesc xml:id="b42e48e1-7c4b-4621-954e-424d601f79bd" key="566" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="785">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118558862">Johann Heinrich Jung-Stilling</persName>
                     <placeName ref="http://www.geonames.org/2873759">Marburg</placeName>
@@ -1457,7 +1457,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="567" source="#SOE19II" cs:page="786">
+            <correspDesc xml:id="d5f798b3-50f6-499c-9d4b-722fc9597368" key="567" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="786">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1467,7 +1467,7 @@
                     <persName ref="http://d-nb.info/gnd/100365094">Wilhelm Josephi</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="568" source="#SOE19II" cs:page="787">
+            <correspDesc xml:id="a3dd437c-ab5d-4fd0-ad4f-47c8fcb5edde" key="568" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="787">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -1477,7 +1477,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="569" source="#SOE19II" cs:page="788">
+            <correspDesc xml:id="e17455e4-3f36-4b7f-b8f4-c35de9d231fa" key="569" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="788">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1487,7 +1487,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="570" source="#SOE19II" cs:page="789">
+            <correspDesc xml:id="a280f927-ac92-4507-bfde-9218fdbc9f2e" key="570" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="789">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2792413">Lüttich</placeName>
@@ -1497,7 +1497,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="571" source="#SOE19II" cs:page="794">
+            <correspDesc xml:id="c4383b51-372b-4ef6-94b1-15013cb6bdad" key="571" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="794">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1507,7 +1507,7 @@
                     <persName>Unbekannt</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="572" source="#SOE19II" cs:page="795">
+            <correspDesc xml:id="b208d084-3e83-4b77-9a8f-e0d0722a9e77" key="572" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="795">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2751285">Maas-sluis</placeName>
@@ -1517,7 +1517,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="573" source="#SOE19II" cs:page="800">
+            <correspDesc xml:id="ba05b361-83db-47a5-bafe-619231f0945e" key="573" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="800">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1527,7 +1527,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="574" source="#SOE19II" cs:page="802">
+            <correspDesc xml:id="f7d9a917-bf0a-40e3-a4dd-564e517b3c10" key="574" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="802">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1537,7 +1537,7 @@
                     <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="575" source="#SOE19II" cs:page="804">
+            <correspDesc xml:id="c4d2f540-1862-4bae-8c06-723697363655" key="575" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="804">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <date from="1790-10-04" to="1790-10-08">4.-8.10.1790</date>
@@ -1546,7 +1546,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="576" source="#SOE19II" cs:page="806">
+            <correspDesc xml:id="f8a7a2f5-e56a-490f-b62f-92fd98ccb959" key="576" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="806">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/3247449">Aachen</placeName>
@@ -1556,7 +1556,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="577" source="#SOE19II" cs:page="808">
+            <correspDesc xml:id="e57956f5-8a5c-4219-af8f-d3ae782f08d3" key="577" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="808">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1566,7 +1566,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="578" source="#SOE19II" cs:page="810">
+            <correspDesc xml:id="a01d98e0-0871-4448-9d5c-63dc24478429" key="578" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="810">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/29584708">Therese Forster</persName>
                     <date when="1790-10-09">9.10.1790</date>
@@ -1575,7 +1575,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="579" source="#SOE19II" cs:page="811">
+            <correspDesc xml:id="afd23ba4-a714-42da-b53e-70d1a71efb06" key="579" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="811">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/11258605">Pempelfort</placeName>
@@ -1585,7 +1585,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="580" source="#SOE19II" cs:page="813">
+            <correspDesc xml:id="f8e04522-8138-4aa0-b601-5a578ad1f45b" key="580" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="813">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/11258605">Pempelfort</placeName>
@@ -1595,7 +1595,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="581" source="#SOE19II" cs:page="815">
+            <correspDesc xml:id="d45951ed-62d8-4661-b587-c4b8e127bb5c" key="581" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="815">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
@@ -1605,7 +1605,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="582" source="#SOE19II" cs:page="816">
+            <correspDesc xml:id="ee80c5a6-637a-4995-b092-345fc0cacfe5" key="582" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="816">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/143910949">Christian Christoph Forst</persName>
                     <placeName ref="http://www.geonames.org/2953348">Langenschwalbach</placeName>
@@ -1615,7 +1615,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="583" source="#SOE19II" cs:page="817">
+            <correspDesc xml:id="e48b4d98-a095-4b0f-89cd-c98f5a7e8297" key="583" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="817">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/143910949">Christian Christoph Forst</persName>
                     <placeName ref="http://www.geonames.org/2953348">Langenschwalbach</placeName>
@@ -1625,7 +1625,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="584" source="#SOE19II" cs:page="820">
+            <correspDesc xml:id="c5ceba21-8b93-4984-820d-3351ae80741b" key="584" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="820">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/143910949">Christian Christoph Forst</persName>
                     <placeName ref="http://www.geonames.org/2953348">Langenschwalbach</placeName>
@@ -1635,7 +1635,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="585" source="#SOE19II" cs:page="821">
+            <correspDesc xml:id="e1cf0c68-777d-4d0d-8b28-2a1d914c7934" key="585" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="821">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -1645,7 +1645,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="586" source="#SOE19II" cs:page="824">
+            <correspDesc xml:id="c5419984-05b0-4c12-ac27-267d4312ba88" key="586" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="824">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
@@ -1654,8 +1654,12 @@
                 <correspAction type="received">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
+                <note>
+                    <ref type="https://lod.academy/cmif/vocab/terms#seeAlso" target="https://edition-humboldt.de/H0002656"/>
+                    <ref type="https://lod.academy/cmif/vocab/terms#isEditionOf" target="http://kalliope-verbund.info/DE-611-HS-461600"/>
+                </note>
             </correspDesc>
-            <correspDesc key="587" source="#SOE19II" cs:page="828">
+            <correspDesc xml:id="a1c9afb2-005e-4fce-9374-9e651bc68d84" key="587" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="828">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <date when="1791-03-10">10.3.1791</date>
@@ -1664,7 +1668,7 @@
                     <persName ref="http://d-nb.info/gnd/116762586">Adalbert Friedrich Marcus</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="588" source="#SOE19II" cs:page="829">
+            <correspDesc xml:id="fff5fd22-5035-4bcb-8360-cc3dd77166e8" key="588" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="829">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -1674,7 +1678,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="589" source="#SOE19II" cs:page="831">
+            <correspDesc xml:id="f816363c-1e0c-4f4e-b133-2ed5052a6292" key="589" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="831">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1684,7 +1688,7 @@
                     <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="590" source="#SOE19II" cs:page="833">
+            <correspDesc xml:id="fc3efee7-1cb2-45dd-bbe0-0dd1d86c1f98" key="590" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="833">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1694,7 +1698,7 @@
                     <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="591" source="#SOE19II" cs:page="835">
+            <correspDesc xml:id="dcd9fa1b-6c03-4abe-9d68-b04ecf79ee75" key="591" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="835">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/104103663">Friedrich Benjamin Osiander</persName>
                     <placeName ref="http://www.geonames.org/2890473">Kirchheim unter Tek</placeName>
@@ -1705,7 +1709,7 @@
                 </correspAction>
                 <!-- Adresse: Mainz "frey Stuttgart" -->
             </correspDesc>
-            <correspDesc key="592" source="#SOE19II" cs:page="837">
+            <correspDesc xml:id="cc29fae9-49ec-4ad2-ad6c-2c5fe2b3520a" key="592" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="837">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118570293">Johann Kaspar Lavater</persName>
                     <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
@@ -1716,7 +1720,7 @@
                 </correspAction>
                 <!-- Adresse Mainz -->
             </correspDesc>
-            <correspDesc key="593" source="#SOE19II" cs:page="838">
+            <correspDesc xml:id="db7a0b75-aa7f-45af-8389-6b885188b8cd" key="593" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="838">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -1726,7 +1730,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="594" source="#SOE19II" cs:page="840">
+            <correspDesc xml:id="db6b4298-50e3-4220-a7cc-3a2a7512ebbc" key="594" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="840">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1736,7 +1740,7 @@
                     <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="595" source="#SOE19II" cs:page="842">
+            <correspDesc xml:id="dfdcddd0-abf0-47aa-a4d3-b19eec199584" key="595" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="842">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <date when="1791-05-09">9.5.1791</date>
@@ -1745,7 +1749,7 @@
                     <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="596" source="#SOE19II" cs:page="843">
+            <correspDesc xml:id="c1ac1bbe-b880-444f-820a-d8b86dcb06e9" key="596" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="843">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1755,7 +1759,7 @@
                     <persName ref="http://d-nb.info/gnd/118570293">Johann Kaspar Lavater</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="597" source="#SOE19II" cs:page="844">
+            <correspDesc xml:id="bad3fac8-629e-43a2-84bf-a46dd5c4a8f4" key="597" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="844">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
                     <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
@@ -1765,7 +1769,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="598" source="#SOE19II" cs:page="846">
+            <correspDesc xml:id="aa270fc4-491b-410c-8dff-8edfa2d61fd5" key="598" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="846">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118720961">Karl Theodor von Dalberg</persName>
                     <placeName ref="http://www.geonames.org/2929670">Erfurt</placeName>
@@ -1775,7 +1779,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="599" source="#SOE19II" cs:page="847">
+            <correspDesc xml:id="a4015eeb-6ea7-48f5-866a-c94ee3aed541" key="599" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="847">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/130538795">Achilies Mieg</persName>
                     <placeName ref="http://www.geonames.org/2661604">Basel</placeName>
@@ -1785,7 +1789,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="600" source="#SOE19II" cs:page="848">
+            <correspDesc xml:id="e2e24ff1-e94f-450f-b53d-d677241cea70" key="600" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="848">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118556312">Friedrich Heinrich Jacobi</persName>
                     <placeName ref="http://www.geonames.org/11258605">Pempelfort</placeName>
@@ -1795,7 +1799,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="601" source="#SOE19II" cs:page="848">
+            <correspDesc xml:id="f367d085-be85-41a7-9b8b-1033254225a9" key="601" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="848">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -1805,7 +1809,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="602" source="#SOE19II" cs:page="850">
+            <correspDesc xml:id="ec19f42a-4a86-46a6-b1c6-ffa4bb7b2376" key="602" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="850">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1815,7 +1819,7 @@
                     <persName ref="http://d-nb.info/gnd/118585045">Johannes (von) Müller</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="603" source="#SOE19II" cs:page="851">
+            <correspDesc xml:id="c1601c34-3a26-45bf-8010-6207ebcc1ab6" key="603" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="851">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118585045">Johannes (von) Müller</persName>
                     <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
@@ -1825,7 +1829,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="604" source="#SOE19II" cs:page="853">
+            <correspDesc xml:id="d10a5edc-9ff3-4490-94c0-7ddb786895bc" key="604" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="853">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/116409525">Johann Christian Ehrmann</persName>
                     <placeName ref="http://www.geonames.org/6295638">Sans souci</placeName>
@@ -1835,7 +1839,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="605" source="#SOE19II" cs:page="853">
+            <correspDesc xml:id="d8fb9fb8-d6fa-47ad-bf18-1cc38471e468" key="605" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="853">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1846,7 +1850,7 @@
                 </correspAction>
                 <!-- Adressat erschlossen -->
             </correspDesc>
-            <correspDesc key="606" source="#SOE19II" cs:page="854">
+            <correspDesc xml:id="ec0fc70f-7ea6-4dc2-b75f-405334c352ac" key="606" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="854">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1856,7 +1860,7 @@
                     <persName ref="http://d-nb.info/gnd/116274832">Christian Koeck</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="607" source="#SOE19II" cs:page="855">
+            <correspDesc xml:id="af81d092-00b3-4e8f-ae58-864148264be7" key="607" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="855">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
                     <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
@@ -1866,7 +1870,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="608" source="#SOE19II" cs:page="855">
+            <correspDesc xml:id="bb4fc668-d77c-4f19-b8b0-dcee5686195a" key="608" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="855">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1877,7 +1881,7 @@
                 </correspAction>
                 <!-- Adresse Zürich -->
             </correspDesc>
-            <correspDesc key="609" source="#SOE19II" cs:page="858">
+            <correspDesc xml:id="aad6a4a9-e238-4a17-b3d9-47f44b243a27" key="609" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="858">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -1887,7 +1891,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="610" source="#SOE19II" cs:page="858">
+            <correspDesc xml:id="ad8fbd65-46e4-4fe1-9ae1-2d107748d88b" key="610" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="858">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1897,7 +1901,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="611" source="#SOE19II" cs:page="859">
+            <correspDesc xml:id="bcb8e7a4-cb97-470e-961a-824fa1e6d46b" key="611" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="859">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
@@ -1907,7 +1911,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="612" source="#SOE19II" cs:page="860">
+            <correspDesc xml:id="fe0a9782-d863-48e3-ad11-7a24267f206b" key="612" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="860">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1917,7 +1921,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="613" source="#SOE19II" cs:page="862">
+            <correspDesc xml:id="cbf8e2ac-bf8e-4d7d-a7a0-d808fb3b5675" key="613" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="862">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/29584708">Therese Forster</persName>
                     <date when="1791-12-30">30.12.1791</date>
@@ -1926,7 +1930,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="614" source="#SOE19II" cs:page="863">
+            <correspDesc xml:id="ecab79c3-f29a-4e89-8741-e363a58f0c18" key="614" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="863">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1936,7 +1940,7 @@
                     <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="615" source="#SOE19II" cs:page="865">
+            <correspDesc xml:id="f640f3e7-75a2-4aad-a700-c484e9334747" key="615" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="865">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
@@ -1946,7 +1950,7 @@
                     <persName>Rat der Stadt Frankfurt</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="616" source="#SOE19II" cs:page="866">
+            <correspDesc xml:id="a9f44030-dcf2-49eb-b3c5-43728716026f" key="616" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="866">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118633244">Johann Jakob Willemer</persName>
                     <date when="1792-02">Januar/Februar 1792</date>
@@ -1955,7 +1959,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="617" source="#SOE19II" cs:page="866">
+            <correspDesc xml:id="da69da3d-7015-4c54-a3a0-86a1aba17f48" key="617" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="866">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118786938">Landolin Ohmacht</persName>
                     <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
@@ -1966,7 +1970,7 @@
                 </correspAction>
                 <!-- H: AdWMainz -->
             </correspDesc>
-            <correspDesc key="618" source="#SOE19II" cs:page="868">
+            <correspDesc xml:id="f6d6fe12-7a42-4e25-80af-5683461a5f8f" key="618" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="868">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -1976,7 +1980,7 @@
                     <persName ref="http://d-nb.info/gnd/118570293">Johann Kaspar Lavater</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="619" source="#SOE19II" cs:page="869">
+            <correspDesc xml:id="e5ce6cfa-6953-4c1d-9a95-992dfae57e19" key="619" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="869">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118554514">Christoph Wilhelm Hufeland</persName>
                     <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
@@ -1986,7 +1990,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="620" source="#SOE19II" cs:page="870">
+            <correspDesc xml:id="b22e15fe-9ab4-4229-9a58-91dca8edfc50" key="620" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="870">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118556312">Friedrich Heinrich Jacobi</persName>
                     <placeName ref="http://www.geonames.org/11258605">Pempelfort</placeName>
@@ -1996,7 +2000,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="621" source="#SOE19II" cs:page="872">
+            <correspDesc xml:id="fe197943-351d-48e7-b7b6-f440bed080c1" key="621" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="872">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
                     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
@@ -2006,7 +2010,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="622" source="#SOE19II" cs:page="873">
+            <correspDesc xml:id="c4f1dda5-d979-4257-afdc-9c3b71eea3f8" key="622" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="873">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
                     <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
@@ -2016,7 +2020,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="623" source="#SOE19II" cs:page="876">
+            <correspDesc xml:id="e5f0e167-a750-4c08-8347-976ef17782ad" key="623" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="876">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118786938">Landolin Ohmacht</persName>
                     <placeName ref="http://www.geonames.org/2873891">Mannheim</placeName>
@@ -2026,7 +2030,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="624" source="#SOE19II" cs:page="877">
+            <correspDesc xml:id="abe77693-a1c5-4a12-9493-e498772212c6" key="624" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="877">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -2037,17 +2041,17 @@
                 </correspAction>
                 <!-- Adresse Berlin -->
             </correspDesc>
-            <correspDesc key="625" source="#SOE19II" cs:page="878">
+            <correspDesc xml:id="fae79d34-42c9-4496-a698-200253131030" key="625" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="878">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
-                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <placeName ref="http://www.gheonames.org/2918632">Göttingen</placeName>
                     <date when="1792-08-27">27.8.1792</date>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="626" source="#SOE19II" cs:page="879">
+            <correspDesc xml:id="d8c86d10-0794-4c14-a7fe-4ec4caa134e8" key="626" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="879">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
@@ -2057,7 +2061,7 @@
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="627" source="#SOE19II" cs:page="882">
+            <correspDesc xml:id="f5d3fb63-71bb-453e-a98d-548ee5421d3f" key="627" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="882">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
@@ -2067,7 +2071,7 @@
                     <persName ref="http://viaf.org/viaf/59389169">Georg Forster</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc key="628" source="#SOE19II" cs:page="886">
+            <correspDesc xml:id="bdfd49b4-f27d-482e-ac5e-be016e983603" key="628" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="886">
                 <correspAction type="sent">
                     <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
