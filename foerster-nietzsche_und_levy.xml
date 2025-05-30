@@ -1,0 +1,2333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <!-- Generated from table of letters with csv2cmi 2.1.0 as webservice at https://cmif.saw-leipzig.de-->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="title-86f0-d6e1-f0d9e42a86">Briefwechsel zwischen Oscar Levy und
+                    Elisabeth Förster-Nietzsche</title>
+                <editor>Marthe Küster</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2024-07-10T09:02:39.750478"/>                
+                <idno type="url">https://correspsearch.net/storage/foerster-nietzsche_und_levy.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="e1c449a8-854d-4ecd-98fa-33725a54eb2a">Levy, Oscar,
+                    Elisabeth Förster-Nietzsche. Briefwechsel 1904–1937, herausgegeben von Steffen
+                    Dietzsch und Gert Theile. Basel/Berlin: Schwabe Verlag, 2024.
+                    https://doi.org/10.31267/978-3-7574-0154-2.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="1"
+                xml:id="letter-0261-eb56-32cb9516ed">
+                <correspAction xml:id="sender-2fb6-d2b6-a052134f9e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1904-10-27">27. Oktober 1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9453-e8f2-6fe4d81c09" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="2"
+                xml:id="letter-4cf7-e257-6cb28713a4">
+                <correspAction xml:id="sender-54fb-4295-81b32745ed" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1906-06-06">6. Juni 1906</date>
+                </correspAction>
+                <correspAction xml:id="addressee-29f6-083f-4f37ad6be1" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="3"
+                xml:id="letter-e03f-2be6-bdce295173">
+                <correspAction xml:id="sender-32c9-389f-64258e09ca" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1906-06-30">30. Juni 1906</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d0c3-f192-9b7ade08c1" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="4"
+                xml:id="letter-42b1-c5a1-a3071e28d4">
+                <correspAction xml:id="sender-d1b9-945a-d59c73e02b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1906-07-08">8. Juli 1906</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fbd5-1576-6ac45e8d72" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="5"
+                xml:id="letter-7b82-a302-45732ec698">
+                <correspAction xml:id="sender-bf16-6e40-69371dcbea" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1908-07-27">27. Juli 1908</date>
+                </correspAction>
+                <correspAction xml:id="addressee-15bd-c9b3-d6f18a0c24" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="6"
+                xml:id="letter-03d2-20b9-d1384657ab">
+                <correspAction xml:id="sender-5a6b-dfe6-d641ab92e3" type="sent">
+                    <orgName ref="https://d-nb.info/gnd/2120904-2">Nietzsche-Archiv</orgName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1908-06-07">07. Juni 1908</date>
+                </correspAction>
+                <correspAction xml:id="addressee-60fc-60e5-ce829605b1" type="received">
+                    <persName>Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="7"
+                xml:id="letter-5af1-f926-24a3b859ef">
+                <correspAction xml:id="sender-a349-0edb-7fb45e8c9a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1908-07-12">12. Juli 1908</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4105-5846-0cd34e9b78" type="received">
+                    <persName ref="https://d-nb.info/gnd/118537725">Peter Gast</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="8"
+                xml:id="letter-713b-8d30-2f5bc4160d">
+                <correspAction xml:id="sender-4a7d-fcd1-47a36892ef" type="sent">
+                    <persName ref="https://d-nb.info/gnd/127212612">Thomas Common</persName>
+                    <placeName ref="https://www.geonames.org/2652311">Corstorphine /
+                        Scotland</placeName>
+                    <date when="1908-07-10">10. Juli 1908</date>
+                </correspAction>
+                <correspAction xml:id="addressee-107c-90d5-f5016c2b9a" type="received">
+                    <persName ref="https://d-nb.info/gnd/118537725">Peter Gast</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="9"
+                xml:id="letter-951b-617a-0feb8ac724">
+                <correspAction xml:id="sender-f42e-ca74-a52364179b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1908-07-27">27. Juli 1908</date>
+                </correspAction>
+                <correspAction xml:id="addressee-db69-cb78-efd8310c94" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="10"
+                xml:id="letter-50db-87f0-a3849c76ef">
+                <correspAction xml:id="sender-ba28-df90-594af13062" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1908-08-01">01. August 1908</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3f61-b8f5-41a0e6b28f" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="11"
+                xml:id="letter-6a1f-d47e-a0c85f12b4">
+                <correspAction xml:id="sender-8e9f-2db5-c850f96b31" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1908-08-20">20. August 1908</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7c02-e928-016b57dac2" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="12"
+                xml:id="letter-b723-5187-0fd51ba9e8">
+                <correspAction xml:id="sender-978d-da91-e5d0a348f1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/3164603">Venedig</placeName>
+                    <date when="1908-09-08">8. September 1908</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8f62-1695-53a61de7f8" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="13"
+                xml:id="letter-93ae-5bed-5984f27a0c">
+                <correspAction xml:id="sender-0127-74ca-4bc7e36da0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1908-09-20">20. September 1908</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7b59-d81e-fa6d108593" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="14"
+                xml:id="letter-3cd2-47cd-2bd8c4536e">
+                <correspAction xml:id="sender-8619-1679-2ea4806951" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1908-09-25">25. September 1908</date>
+                </correspAction>
+                <correspAction xml:id="addressee-17c4-d291-d654c097fe" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="16"
+                xml:id="letter-c6fd-d0bf-e3bd592ca1">
+                <correspAction xml:id="sender-9d4e-c25d-2af98e4056" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1908-12-14">14. Dezember 1908</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6b8e-b485-90317e5d2f" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="17"
+                xml:id="letter-7e49-45b1-0574619f8b">
+                <correspAction xml:id="sender-8df1-7e59-de571fc2b8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1909-02-27">27. Februar 1909</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7564-07a2-c0dba9e56f" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="18"
+                xml:id="letter-cbad-bf38-4ce760829d">
+                <correspAction xml:id="sender-0389-8420-8a407fc215" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1909-03-28">28. März 1909</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fa8c-9a24-85417296db" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="19"
+                xml:id="letter-c896-45b8-329a40fbd5">
+                <correspAction xml:id="sender-9a1f-763f-6f897043dc" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1909-05-25">25. Mai 1909</date>
+                </correspAction>
+                <correspAction xml:id="addressee-64c1-8ad4-8906fa4bc7" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="20"
+                xml:id="letter-381a-dcb9-a1f52c9d38">
+                <correspAction xml:id="sender-5704-a9b0-58e7da0c2f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1909-05-27">27. Mai 1909</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5829-8ab0-3cde0f1b75" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="21"
+                xml:id="letter-3416-cd40-ce91325af8">
+                <correspAction xml:id="sender-712a-5d7c-a1732c6def" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1909-05-29">29. Mai 1909</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f108-4d67-e671b54c2d" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="22"
+                xml:id="letter-2f84-ae3f-817e5b0f9c">
+                <correspAction xml:id="sender-1208-e9d1-8e3fdca107" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2867714">München</placeName>
+                    <date when="1909-06-07">7. Juni 1909</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d8e5-7283-1092d3a856" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="23"
+                xml:id="letter-b8c7-d1f7-7ea9c20bdf">
+                <correspAction xml:id="sender-728d-2d74-1542d3f8b0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/3071024">Marienbad</placeName>
+                    <date when="1909-06-22">22. Juni 1909</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9be3-b368-e36d79254f" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="24"
+                xml:id="letter-9e73-8764-28146ce39a">
+                <correspAction xml:id="sender-7edc-670a-db6cfa3751" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1909-06-27">27. Juni 1909</date>
+                </correspAction>
+                <correspAction xml:id="addressee-be02-5a04-26cb498e73" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="25"
+                xml:id="letter-162f-9451-09e24815cd">
+                <correspAction xml:id="sender-a7e6-bfd7-c0be51fad3" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1909-06-27">27. Juni 1909</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b748-12fc-0128f3b9d5" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="26"
+                xml:id="letter-e3d6-2518-1e5d062fb4">
+                <correspAction xml:id="sender-d418-81f6-0fca7eb254" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1909-06-29">29. Juni 1909</date>
+                </correspAction>
+                <correspAction xml:id="addressee-04a8-45c8-f251c4378b" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="27"
+                xml:id="letter-9f6e-c20a-23615fe7dc">
+                <correspAction xml:id="sender-f1e2-4327-4fb605cea1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1909-07-07">7. Juli 1909</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b62c-c072-71342be9a5" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="28"
+                xml:id="letter-9740-edab-095d2e8abf">
+                <correspAction xml:id="sender-d864-7ebf-59d8402ebf" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1909-07-26">26. Juli 1909</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0a49-cea4-b4d5918a37" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="29"
+                xml:id="letter-8c5d-f2be-46b71a3f9c">
+                <correspAction xml:id="sender-295c-3852-102876d534" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1909-07-31">31. Juli 1909</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1fcb-03ea-61fae49d30" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="30"
+                xml:id="letter-27db-5bd3-3fb61a7e98">
+                <correspAction xml:id="sender-ad26-d94e-80369bde2f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1909-08-11">11. August 1909</date>
+                </correspAction>
+                <correspAction xml:id="addressee-590f-dae5-1643f7ac5b" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="31"
+                xml:id="letter-9fb2-1f74-63840d195e">
+                <correspAction xml:id="sender-7ed1-684a-26d7fc4b05" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2654710">Brighton</placeName>
+                    <date when="1909-08-29">29. August 1909</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9360-9c16-32c10b756a" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="32"
+                xml:id="letter-3b15-560d-6821ea4d90">
+                <correspAction xml:id="sender-03ab-769d-4f376cd28b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1909-11-28">28. November 1909</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f0c2-b5c2-760f2d3c18" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="33"
+                xml:id="letter-d510-b061-83b659fe0a">
+                <correspAction xml:id="sender-ec78-cf58-74215ca0e9" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1909-12-22">22. Dezember 1909</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3fe1-aec6-57bf48e03c" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="34"
+                xml:id="letter-7d9f-db08-c48a1e56f9">
+                <correspAction xml:id="sender-04f8-8e6b-c3ef20ad95" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1909-12-26">26. Dezember 1909</date>
+                </correspAction>
+                <correspAction xml:id="addressee-08c6-9862-53671e028d" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="35"
+                xml:id="letter-4ca3-987c-a194320d6b">
+                <correspAction xml:id="sender-1729-04b7-18f20da763" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1910-02-15">15. Februar 1910</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ca38-e905-4082fe916c" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="36"
+                xml:id="letter-adc4-1587-1adb4fe758">
+                <correspAction xml:id="sender-e4db-a534-52c8607fea" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <persName ref="https://d-nb.info/gnd/117281328">Anthony M. Ludovici</persName>
+                    <placeName ref="https://www.geonames.org/281184">Jerusalem</placeName>
+                    <date when="1910-02-26">26. Februar 1910</date>
+                </correspAction>
+                <correspAction xml:id="addressee-187d-a91c-723ef5b1cd" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="37"
+                xml:id="letter-a35d-754c-75c19f283b">
+                <correspAction xml:id="sender-d5ca-05f4-e2b6854c0d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/281184">Jerusalem</placeName>
+                    <date when="1910-02-27">27. Februar 1910</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c13b-085f-471aeb52df" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="38"
+                xml:id="letter-3f7d-405f-b80aed13f5">
+                <correspAction xml:id="sender-b1f7-98de-c3fad756b1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1910-10-15">15. Oktober 1910</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ea32-fb2e-f430598e7b" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="39"
+                xml:id="letter-598c-6879-684fcd0573">
+                <correspAction xml:id="sender-765d-a62b-ef87b263a9" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1910-10-20">20. Oktober 1910</date>
+                </correspAction>
+                <correspAction xml:id="addressee-249c-5e69-be2d781645" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="40"
+                xml:id="letter-b31c-60d8-a975f04812">
+                <correspAction xml:id="sender-af2d-0d17-9560ac3b8e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1910-10-24">24. Oktober 1910</date>
+                </correspAction>
+                <correspAction xml:id="addressee-874c-195c-1e3d62897c" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="41"
+                xml:id="letter-e83c-96ac-83c7bad5e2">
+                <correspAction xml:id="sender-905c-a09c-9216d7c8ae" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1910-11-10">10. November 1910</date>
+                </correspAction>
+                <correspAction xml:id="addressee-47fd-0619-49b72c0fd6" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="42"
+                xml:id="letter-610e-3fe8-7894c362bf">
+                <correspAction xml:id="sender-cdb3-cefa-79458dcf0e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1910-11-20">20. November 1910</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3d64-b54a-e314d0af25" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="43"
+                xml:id="letter-2a41-b536-be814d563a">
+                <correspAction xml:id="sender-af62-a79d-9ef4a38510" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1910-12-02">2. Dezember 1910</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ec3d-f0b2-d1359f46ec" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="44"
+                xml:id="letter-1b4f-c954-e3167cbda9">
+                <correspAction xml:id="sender-0a7c-0124-5493bdce01" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1910-12-12">12. Dezember 1910</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5bfc-c0a7-fe9a7314db" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="45"
+                xml:id="letter-f52a-b036-a42568b370">
+                <correspAction xml:id="sender-de5a-a391-c182064395" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1911-01-19">19. Januar 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1649-f039-792c8ef5da" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="46"
+                xml:id="letter-81c2-0684-08fbc75ae1">
+                <correspAction xml:id="sender-18d3-1ac5-f69b18e240" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1911-01-25">25. Januar 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-387b-1eac-801deb7a65" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="47"
+                xml:id="letter-1b9a-07df-821694735f">
+                <correspAction xml:id="sender-8fed-6893-42e9caf7b8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1911-01-30">30. Januar 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b68a-c57a-92a078d351" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="48"
+                xml:id="letter-0a23-b793-d749ceba65">
+                <correspAction xml:id="sender-f3b9-3c85-dc83fba790" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1911-02-01">1. Februar 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d06b-b485-72d53c4b90" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="49"
+                xml:id="letter-928a-3874-32195f0c87">
+                <correspAction xml:id="sender-f819-62ca-8ec7423605" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2994497">Menton</placeName>
+                    <date when="1911-02-13">13. Februar 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6e0f-a189-7195f40db8" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="50"
+                xml:id="letter-2d75-d437-1d98365fec">
+                <correspAction xml:id="sender-50e8-3a2b-0baf695d87" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1911-02-17">17. Februar 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-da52-67ae-e7c8d53a21" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="51"
+                xml:id="letter-8dc6-9ebd-3426bca18f">
+                <correspAction xml:id="sender-2b4c-648d-7863541e0f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2994497">Menton</placeName>
+                    <date when="1911-02-21">21. Februar 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-48d2-c9f0-2453ba86de" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="52"
+                xml:id="letter-ea01-10b2-52fec7634b">
+                <correspAction xml:id="sender-b2a3-4b6d-4690efb352" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2994497">Menton</placeName>
+                    <date when="1911-02-23">23. Februar 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4521-792c-560478cae2" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="53"
+                xml:id="letter-139e-7192-cbf249735e">
+                <correspAction xml:id="sender-41b2-4e6b-eb38124d05" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1911-04-05">5. April 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1879-926d-f52bcd367e" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="54"
+                xml:id="letter-9a28-01d6-ed1296354c">
+                <correspAction xml:id="sender-9ce8-80f7-a068d2e397" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1911-04-15">15. April 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c6d1-0791-fc83a957d1" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="55"
+                xml:id="letter-f62e-3168-634edb9f8a">
+                <correspAction xml:id="sender-43bf-8e37-bda690513f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1911-04-19">19. April 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-73d2-9eaf-23d416f0ae" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="56"
+                xml:id="letter-23d6-a364-c56071d2e9">
+                <correspAction xml:id="sender-ba97-4726-f4c397e082" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1911-04-21">21. April 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ce83-a27c-9d61354b0c" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="57"
+                xml:id="letter-7c63-7dfa-acdeb79628">
+                <correspAction xml:id="sender-cd4a-3e42-a459c2e173" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1911-05-06">6. Mai 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8ad3-431d-630c287aed" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="58"
+                xml:id="letter-0a62-3170-d24b7a956c">
+                <correspAction xml:id="sender-927b-7cb0-0b27c4fd5e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1911-05-22">22. Mai 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8169-8cae-be2f834750" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="59"
+                xml:id="letter-08f4-968e-124dfa9e8c">
+                <correspAction xml:id="sender-7d4b-f69d-42d5b308e7" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1911-06-02">2. Juni 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b2ec-6efa-2e4037a198" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="60"
+                xml:id="letter-23d1-65e1-b6fa9138cd">
+                <correspAction xml:id="sender-735e-a365-36c49a72b8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1911-06-09">9. Juni 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8401-c92a-c9364af520" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="61"
+                xml:id="letter-9ad1-a08c-dae539c216">
+                <correspAction xml:id="sender-ad48-af06-81b6543a7f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1911-06-14">14. Juni 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-430e-c01d-23d1b8a59c" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="62"
+                xml:id="letter-1b27-fa42-4378ecf602">
+                <correspAction xml:id="sender-ce52-68f4-290bae7c3d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1911-09-23">23. September 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7b6e-6274-918ea302c6" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="63"
+                xml:id="letter-8e01-9fa3-0f275ce861">
+                <correspAction xml:id="sender-541e-93e2-01a387b652" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1911-09-26">26. September 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-dc3f-c430-b51a2ed7c9" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="64"
+                xml:id="letter-65a1-36bd-4ca1f8b927">
+                <correspAction xml:id="sender-cd79-364d-dfc9086734" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1911-10-05">5. Oktober 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d4c5-306b-17c6e23fb9" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="65"
+                xml:id="letter-82b3-61f8-3720ed1a68">
+                <correspAction xml:id="sender-0d7f-ac4e-4f601e3a82" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1911-10-08">8. Oktober 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d7bf-05f4-5a1be38dc7" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="66"
+                xml:id="letter-5ab6-e6b4-ca61f0328d">
+                <correspAction xml:id="sender-682c-480f-1259703c6e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1911-10-25">25. Oktober 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1c09-8372-3605a81d29" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="67"
+                xml:id="letter-d4c5-985f-70582feb41">
+                <correspAction xml:id="sender-a09e-6d3c-92de13a7fc" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1911-10-27">27. Oktober 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-374d-9dc0-f0c1d8567a" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="68"
+                xml:id="letter-e50c-4c3b-f17b45e39a">
+                <correspAction xml:id="sender-bea2-4563-dfce320697" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1911-10-31">31. Oktober 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9dbf-705f-e452b918a7" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="69"
+                xml:id="letter-ec35-31b5-06cfb51ed8">
+                <correspAction xml:id="sender-4c70-783a-71926ec8df" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1911-10-31">31. Oktober 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-02df-7428-ef0a7916c4" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="70"
+                xml:id="letter-15bf-c0b5-1c3db95268">
+                <correspAction xml:id="sender-38bd-78af-c952047ed3" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1911-11-02">2. November 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1be4-f03c-159d70fb8c" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="71"
+                xml:id="letter-147e-619f-adc0e26513">
+                <correspAction xml:id="sender-6594-5246-2cef306741" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1911-11-04">4. November 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0be6-482a-f649ad5e31" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="72"
+                xml:id="letter-60d1-49f6-b23ce0758a">
+                <correspAction xml:id="sender-2ae5-25fd-416ca8fd29" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1911-11-06">6. November 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6d3e-91b5-d29cf8b5e0" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="73"
+                xml:id="letter-bf25-d08e-6d970a2c4f">
+                <correspAction xml:id="sender-9f78-5cd2-87305f21ec" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2918752">Gotha</placeName>
+                    <date when="1911-11-08">8. November 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a493-1c5e-6feb95387a" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="74"
+                xml:id="letter-4c1e-e17d-14763d02cb">
+                <correspAction xml:id="sender-f175-a7e4-f6c9a37bd8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1911-11-13">13. November 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-32ea-eb84-e12c697435" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="75"
+                xml:id="letter-c84b-9ea2-3c617402bf">
+                <correspAction xml:id="sender-57a0-403c-261a5b94d3" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1911-11-14">14. November 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1b5f-0879-b73c26df54" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="76"
+                xml:id="letter-3a58-c2a8-1a486bec90">
+                <correspAction xml:id="sender-e83a-1fe4-6ec7b9f35d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1911-11-17">17. November 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-72b5-268c-2549fd6e3c" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="77"
+                xml:id="letter-d69e-540b-2f8ba67c0e">
+                <correspAction xml:id="sender-b4f5-bec5-039d6452e1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1911-11-18">18. November 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3d5c-fc6b-f79321eb48" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="78"
+                xml:id="letter-3fb6-a08c-4316d0cb82">
+                <correspAction xml:id="sender-4a58-d95b-1cb80df576" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1911-11-22">22. November 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7594-a241-65d97b43c8" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="79"
+                xml:id="letter-f16a-7158-ba1487650c">
+                <correspAction xml:id="sender-97db-c1d2-ec7492b0a5" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1911-11-27">27. November 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a9de-d2e5-32a107698c" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="80"
+                xml:id="letter-ea05-d129-f29518dc6a">
+                <correspAction xml:id="sender-acf0-5629-ef2dc38604" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date>29./30. November 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c428-8b3d-83ab570de2" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="81"
+                xml:id="letter-2961-ace7-4b8d1f9506">
+                <correspAction xml:id="sender-4601-cd09-5783c62daf" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1911-12-05">5. Dezember 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-bd21-ba06-f2a7c1b630" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="82"
+                xml:id="letter-01ed-db9c-7d650b8249">
+                <correspAction xml:id="sender-f631-73b2-604382cfe1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1911-12-06">6. Dezember 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a102-8296-710f6e8b9a" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="83"
+                xml:id="letter-95dc-d3c9-04dc83765e">
+                <correspAction xml:id="sender-ac45-9c8f-b7214aed86" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1911-12-07">7. Dezember 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-03fb-2edb-87a062c4b3" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="84"
+                xml:id="letter-49a7-20ae-f4719c3da0">
+                <correspAction xml:id="sender-608a-7ed5-465123eac0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1911-12-07">7. Dezember 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-70eb-c85b-2e960c1df3" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="85"
+                xml:id="letter-b6f3-7214-f87abe6319">
+                <correspAction xml:id="sender-b81a-2603-47380edc5b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1911-12-12">12. Dezember 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c971-46ef-a5e2b036d1" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="86"
+                xml:id="letter-d97c-15f7-7c1a95e8f4">
+                <correspAction xml:id="sender-7b8a-e982-236bec10d4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1911-12-18">18. Dezember 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f605-b421-43b58ae6c0" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="87"
+                xml:id="letter-daf9-413e-4b5ce23609">
+                <correspAction xml:id="sender-592f-42be-81b094f57c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1911-12-20">20. Dezember 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-517e-95b1-9214f6ca3d" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="88"
+                xml:id="letter-62a4-41d7-c173af2ed0">
+                <correspAction xml:id="sender-f2a4-6538-9f40ac7e26" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1911-12-21">21. Dezember 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-cb48-c80a-3af206e59d" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="89"
+                xml:id="letter-759c-fa2d-ae40db36f8">
+                <correspAction xml:id="sender-0cae-519c-e03279dab6" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1911-12-28">28. Dezember 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b83f-605e-9c5048ea36" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="90"
+                xml:id="letter-e2c1-f2e0-1b05d43e9c">
+                <correspAction xml:id="sender-9c6b-ac41-590146f7da" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1911-12-29">29. Dezember 1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-eafd-fc0e-597eb83a04" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="91"
+                xml:id="letter-1a0e-7e9b-a0bd71452f">
+                <correspAction xml:id="sender-bd97-fca6-1fa725e60c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1912-01-02">2. Januar 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7e9d-0b87-5db046187c" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="92"
+                xml:id="letter-d9ca-79c2-49fc81abd6">
+                <correspAction xml:id="sender-50a7-d579-cfea26398d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1912-01-07">7. Januar 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-510d-927b-d53e61ab78" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="93"
+                xml:id="letter-f0bc-231a-1950a8de62">
+                <correspAction xml:id="sender-8769-07c6-cbef85973a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1912-01-09">9. Januar 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e587-8ea0-19b843fca2" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="94"
+                xml:id="letter-79e0-9a2b-98e425a70d">
+                <correspAction xml:id="sender-e50c-7315-b73c061ef4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1912-01-09">9. Januar 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ba6d-21e7-49f360218a" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="95"
+                xml:id="letter-eca3-b28f-3ce2ad5467">
+                <correspAction xml:id="sender-b957-b793-1bfd86529c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1912-01-10">10. Januar 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a1c7-28b1-7a0953128c" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="96"
+                xml:id="letter-8704-193f-cf127ba96d">
+                <correspAction xml:id="sender-0b83-4f2e-fc469e3150" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1912-01-13">13. Januar 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-94b3-e721-f0d1c92546" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="97"
+                xml:id="letter-3cd7-dc04-4b1e9d5a6f">
+                <correspAction xml:id="sender-1bea-fb5e-97ba06582e" type="sent">
+                    <persName ref="https://d-nb.info/gnd/136355307">William Heinemann</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1912-01-13">13. Januar 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a862-9c8f-bcf95d73a1" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="98"
+                xml:id="letter-e0b6-5cd4-10a6ced478">
+                <correspAction xml:id="sender-765f-06f8-5d947a0ecb" type="sent">
+                    <persName>Frieda Brauer</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1912-01-21">21. Januar 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ec98-7936-fe2541d7ba" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="99"
+                xml:id="letter-ce83-cae8-18bfc75e6a">
+                <correspAction xml:id="sender-b12e-58d7-b06e582adf" type="sent">
+                    <persName>Frieda Brauer</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1912-01-22">22. Januar 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2135-30db-5b4c620de8" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="100"
+                xml:id="letter-b6ca-a5d3-06cf5e3174">
+                <correspAction xml:id="sender-d1cf-9f3b-2e6f743901" type="sent">
+                    <persName>Frieda Brauer</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1912-01-24">24. Januar 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-379e-cf45-148cf695bd" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="101"
+                xml:id="letter-06b4-10bf-93cd761eb0">
+                <correspAction xml:id="sender-4a2d-51ec-7682590caf" type="sent">
+                    <persName>Frieda Brauer</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1912-01-30">30. Januar 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e2da-93b2-d08ae6b372" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="102"
+                xml:id="letter-da30-37ca-38cb01e746">
+                <correspAction xml:id="sender-6394-c761-b86f02d51a" type="sent">
+                    <persName>Frieda Brauer</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1912-02-02">2. Februar 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-45f7-3d5a-ef5b710638" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="103"
+                xml:id="letter-e374-e9b2-af8679bd03">
+                <correspAction xml:id="sender-4126-3db4-02415ad7e6" type="sent">
+                    <persName>Frieda Brauer</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1912-02-06">6. Februar 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7d45-09ca-a07e592b8c" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="104"
+                xml:id="letter-5c26-35cd-dc8036bfa7">
+                <correspAction xml:id="sender-738e-486c-a7eb9d5801" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/3028808">Cannes</placeName>
+                    <date when="1912-02-19">19. Februar 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7846-0714-b3029c1f78" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="105"
+                xml:id="letter-3bad-1c64-9437a28d1b">
+                <correspAction xml:id="sender-cd69-389a-1a0f2873e6" type="sent">
+                    <persName>Frieda Brauer</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1912-02-24">24. Februar 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-adfc-b3e5-4820fd61c5" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="106"
+                xml:id="letter-e238-65fb-027bcea813">
+                <correspAction xml:id="sender-fa14-5efa-d02c6f5a4b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1912-04-26">26. April 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9642-9643-3e2a075f61" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="107"
+                xml:id="letter-9683-38fd-9107d82fb5">
+                <correspAction xml:id="sender-56d9-3689-1a56ceb042" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1912-05-24">24. Mai 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-82ac-7852-cde19b50a4" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="108"
+                xml:id="letter-1bda-fab0-176502b9fc">
+                <correspAction xml:id="sender-df67-2640-25a6e9b37c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1912-07-16">16. Juli 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2761-01ec-e43a981062" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="109"
+                xml:id="letter-3210-bd65-672d5b930f">
+                <correspAction xml:id="sender-f23b-d0ac-8ce63dab92" type="sent">
+                    <persName ref="https://d-nb.info/gnd/127212612">Thomas Common</persName>
+                    <placeName ref="https://www.geonames.org/2652311">Corstorphine</placeName>
+                    <date when="1912-08-29">29. August 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d750-74f0-d4e1f5207b" type="received">
+                    <orgName ref="https://d-nb.info/gnd/2120904-2">das Nietzsche-Archiv</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="110"
+                xml:id="letter-6359-b9d4-a19fc063d8">
+                <correspAction xml:id="sender-d5fc-5698-2c4d813a79" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1912-10-02">2. Oktober 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-03bd-e34d-924b3581d6" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="111"
+                xml:id="letter-54cd-a56e-561ea8db40">
+                <correspAction xml:id="sender-1de2-3e20-9053ae26fc" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1912-10-05">5. Oktober 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2bdf-7c43-513f798024" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="112"
+                xml:id="letter-28ac-0a16-819eca2675">
+                <correspAction xml:id="sender-8d67-a8f5-654c28faeb" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1912-10-12">12. Oktober 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-395e-a86f-9fed26bc50" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="113"
+                xml:id="letter-fb54-37c2-0c2f41eb87">
+                <correspAction xml:id="sender-b546-168d-9b2650a17f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1912-09-05">5. September 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5dce-87bc-4fb06251ea" type="received">
+                    <persName ref="https://d-nb.info/gnd/127212612">Thomas Common</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="114"
+                xml:id="letter-94a8-a796-c5b0a1f49e">
+                <correspAction xml:id="sender-2347-2f74-28376abd45" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1912-10-07">7. Oktober 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9624-8bf2-a4783190b5" type="received">
+                    <persName ref="https://d-nb.info/gnd/127212612">Thomas Common</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="115"
+                xml:id="letter-e890-a8bd-e183769fd2">
+                <correspAction xml:id="sender-2df7-6081-b78ea04f35" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1912-10-17">17. Oktober 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0e87-db85-a78d12b0e6" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="116"
+                xml:id="letter-89f5-9b10-b9180c54f6">
+                <correspAction xml:id="sender-42f3-af39-7d9cf43b05" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1913-01-30">30. Januar 1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4c13-9b72-648f7ac2eb" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="117"
+                xml:id="letter-c601-867a-04d96f5ec7">
+                <correspAction xml:id="sender-be29-6de1-c5a7eb3d92" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2993458">Monaco</placeName>
+                    <date when="1913-02-03">03. Februar 1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9bd1-7d04-78d90fb236" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="118"
+                xml:id="letter-4fb1-9fce-73bc5209ed">
+                <correspAction xml:id="sender-4b18-d9e7-dcae805273" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1913-02-17">17. Februar 1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6cf3-b812-053fb7de18" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="119"
+                xml:id="letter-6d52-4c9d-10f86245d3">
+                <correspAction xml:id="sender-3615-02e4-56e832ab9c" type="sent">
+                    <persName>William August Haussmann</persName>
+                    <date when="1912-12-30">30. Dezember 1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3d09-36bf-9cead1608b" type="received">
+                    <persName ref="https://d-nb.info/gnd/119158604">Adalbert Oehler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="120"
+                xml:id="letter-8ae4-3650-59fbe7c362">
+                <correspAction xml:id="sender-30fb-18af-58037249fe" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2992741">Monte Carlo</placeName>
+                    <date>Casino, 27. Februar 1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0168-915b-6a7405b981" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="121"
+                xml:id="letter-f6e4-bf97-8e76cd195b">
+                <correspAction xml:id="sender-fed4-ab24-047e8bfad5" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/3173435">Mailand</placeName>
+                    <date when="1913-03-11">11. März 1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8dc5-c4b0-139a2fb074" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="122"
+                xml:id="letter-7b83-e681-9312acb78f">
+                <correspAction xml:id="sender-fc23-ae27-ae039bf571" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1913-03-12">12. März 1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0627-32a7-95361bec24" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="123"
+                xml:id="letter-59af-518c-3d129e574f">
+                <correspAction xml:id="sender-851d-042e-4dfba3c809" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2867714">München</placeName>
+                    <date>Grand Hotel Leinfelder, 18. März 1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-56df-45d2-1d8a47b2e5" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="124"
+                xml:id="letter-13fd-f30e-64ceb892d7">
+                <correspAction xml:id="sender-3c0f-c617-2104c36859" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1913-03-21">21. März 1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b28c-dec7-90eb47ac1d" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="125"
+                xml:id="letter-7d48-a4c8-0368cb5f24">
+                <correspAction xml:id="sender-cb4d-efa1-6924a51ef8" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1913-03-23">23. März 1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-18ca-6b0d-1c5f6427be" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="126"
+                xml:id="letter-bfcd-039f-ab8d793c52">
+                <correspAction xml:id="sender-281d-b51d-68f053aeb9" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1913-04-29">29. April 1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e59a-8a29-5673eb2cf9" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="127"
+                xml:id="letter-3c81-8052-6782a5ebfc">
+                <correspAction xml:id="sender-f8cd-cae7-c8a16f5092" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1913-05-01">1. Mai 1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-478f-eac9-06945bae1f" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="128"
+                xml:id="letter-2e0b-574c-c60eb59d81">
+                <correspAction xml:id="sender-10a2-e547-0243cb56ea" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1913-07-02">2. Juli 1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2f74-c063-72d9ca50bf" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="129"
+                xml:id="letter-1e6c-f825-507d89eb1c">
+                <correspAction xml:id="sender-c45a-a7bd-56cfb42719" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1913-07-24">24. Juli 1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c4bd-8964-4ebf8629d5" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="130"
+                xml:id="letter-19fd-14af-cb6da98e70">
+                <correspAction xml:id="sender-3df6-7e58-6d3fa0e741" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1913-07-31">31. Juli 1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-54c0-4370-94c85026fd" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="131"
+                xml:id="letter-e8fa-92fe-27346ba058">
+                <correspAction xml:id="sender-386f-680c-981be235da" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1913-11-20">20. November 1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-edfc-30cb-f0725ce91d" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="132"
+                xml:id="letter-398e-a6d8-3ca4d2e8b5">
+                <correspAction xml:id="sender-f470-f1ba-cf609d7ab5" type="sent">
+                    <persName ref="https://d-nb.info/gnd/136355307">William Heinemann</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1913-11-19">19. November 1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-056f-d236-ba9731f26d" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="133"
+                xml:id="letter-0fbe-8159-427c5aebf9">
+                <correspAction xml:id="sender-270f-9b28-170ca2f38b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2935022">Dresden</placeName>
+                    <date>undatiert</date>
+                </correspAction>
+                <correspAction xml:id="addressee-41c9-d6ef-39810b5ca2" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="134"
+                xml:id="letter-16fe-b8c5-4bd279816e">
+                <correspAction xml:id="sender-5be6-c40a-cbf9025638" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2944783">Breitbrunn am
+                        Ammersee</placeName>
+                    <date when="1913-12-12">12. Dezember 1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7582-d810-863fe97ba0" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="135"
+                xml:id="letter-e964-9da8-71dac3b8f6">
+                <correspAction xml:id="sender-5e1f-5ba0-761df35ba9" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1913-12-16">16. Dezember 1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1605-c032-f3a2486e1b" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="136"
+                xml:id="letter-bae3-ef7d-a632d90b5e">
+                <correspAction xml:id="sender-37ce-74bf-b45d0f6e7a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1913-12-16">16. Dezember 1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-30e5-d25b-134c8ea967" type="received">
+                    <persName ref="https://d-nb.info/gnd/117098086">Richard Oehler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="137"
+                xml:id="letter-016b-6ed2-369c4028ef">
+                <correspAction xml:id="sender-134f-e24f-ea28f1d5c7" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1914-01-01">1. Januar 1914</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6c32-9fb5-d297a38cfb" type="received">
+                    <persName ref="https://d-nb.info/gnd/117098086">Richard Oehler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="138"
+                xml:id="letter-7485-c9d5-ab43d59ec1">
+                <correspAction xml:id="sender-fb31-d38c-1e93f826d5" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117098086">Richard Oehler</persName>
+                    <placeName ref="https://www.geonames.org/2946447">Bonn</placeName>
+                    <date when="1914-01-04">4. Januar 1914</date>
+                </correspAction>
+                <correspAction xml:id="addressee-850e-b9ef-30928d1cfb" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="139"
+                xml:id="letter-37ae-f620-97fbd28a01">
+                <correspAction xml:id="sender-a07c-6043-8319520f4d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2944783">Breitbrunn am
+                        Ammersee</placeName>
+                    <date when="1914-01-21">21. Januar 1914</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0a7e-c5d2-8f20436ba5" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="140"
+                xml:id="letter-2795-803e-d2a0417f9b">
+                <correspAction xml:id="sender-8f76-71fa-9803ce24f1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1914-01-26">26. Januar 1914</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5ac4-f7d2-05bfa76edc" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="141"
+                xml:id="letter-5981-973c-c08e4352db">
+                <correspAction xml:id="sender-cd1e-037e-d25ce6f918" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117098086">Richard Oehler</persName>
+                    <placeName ref="https://www.geonames.org/2946447">Bonn</placeName>
+                    <date when="1914-02-16">16. Februar 1914</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ed7a-641b-7e2df5a189" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="142"
+                xml:id="letter-2b98-5ab1-27fcd06a91">
+                <correspAction xml:id="sender-13f4-ad82-9e58a3d041" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/3167595">Santa Margherita</placeName>
+                    <date when="1914-02-20">20. Februar 1914</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2541-05db-9f87a56320" type="received">
+                    <persName ref="https://d-nb.info/gnd/117098086">Richard Oehler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="143"
+                xml:id="letter-506d-9d62-4375fcb061">
+                <correspAction xml:id="sender-b285-d3a8-65cb3f890d" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117098086">Richard Oehler</persName>
+                    <placeName ref="https://www.geonames.org/2946447">Bonn</placeName>
+                    <date when="1914-02-27">27. Februar 1914</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3416-87e1-451ba7e30f" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="144"
+                xml:id="letter-6af5-3a0c-58d32609cf">
+                <correspAction xml:id="sender-1a23-c4b9-f86e51b4a7" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1914-03-29">29. März 1914</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ad86-376e-b5cf870de4" type="received">
+                    <persName ref="https://d-nb.info/gnd/117098086">Richard Oehler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="145"
+                xml:id="letter-9dc8-e5b9-9b76a28cd4">
+                <correspAction xml:id="sender-249f-f5e6-b92e0c36df" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117098086">Richard Oehler</persName>
+                    <placeName ref="https://www.geonames.org/2946447">Bonn</placeName>
+                    <date when="1914-03-31">31. März 1914</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c02e-71a6-1e8d42b6af" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="146"
+                xml:id="letter-ec9f-6f5a-0b9a761284">
+                <correspAction xml:id="sender-3a25-23ed-df6c82ba13" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1914-05-11">11. Mai 1914</date>
+                </correspAction>
+                <correspAction xml:id="addressee-436d-30bd-9c70bd1a84" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="147"
+                xml:id="letter-5f04-dcf1-2476f1c0ba">
+                <correspAction xml:id="sender-df41-2f50-0e6a493718" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1914-05-13">13. Mai 1914</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f138-fc2b-7a61dcef92" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="148"
+                xml:id="letter-a538-4192-fe63c2b9da">
+                <correspAction xml:id="sender-b517-534d-3c02f57d86" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1914-05-16">16. Mai 1914</date>
+                </correspAction>
+                <correspAction xml:id="addressee-891f-07d6-dbf312076e" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="149"
+                xml:id="letter-f2a7-07e5-74cbd69382">
+                <correspAction xml:id="sender-178b-d075-ad9bfe4726" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1914-11-12">12. November 1914</date>
+                </correspAction>
+                <correspAction xml:id="addressee-39fc-e9db-b52a96fd34" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="150"
+                xml:id="letter-7de9-03df-0735184fea">
+                <correspAction xml:id="sender-a908-a4b7-e3fd96a5c1" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1914-12-10">10. Dezember 1914</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2637-5896-d082c37fb9" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="151"
+                xml:id="letter-36c9-b792-78b236c09f">
+                <correspAction xml:id="sender-415b-746b-90c4a1d63b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1914-12-25">25. Dezember 1914</date>
+                </correspAction>
+                <correspAction xml:id="addressee-27c5-49bc-843e5af19d" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="152"
+                xml:id="letter-b951-362a-47b86e2c5a">
+                <correspAction xml:id="sender-b01f-cb4f-a2b746f19c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2660646">Genf</placeName>
+                    <date when="1915-11-15">15. November 1915</date>
+                </correspAction>
+                <correspAction xml:id="addressee-46ea-b538-b4af21573d" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="153"
+                xml:id="letter-2fb6-f65c-90245cedb8">
+                <correspAction xml:id="sender-2e87-914b-05ebf64398" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date>undatiert</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c35b-869a-b9c706de23" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="154"
+                xml:id="letter-ca41-2f3a-34271e68bf">
+                <correspAction xml:id="sender-b590-8e53-ad675381e0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1915-12-03">3. Dezember 1915</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6cf0-394e-fb21407c38" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="155"
+                xml:id="letter-4ac6-7af6-921ef6bca4">
+                <correspAction xml:id="sender-692b-9a3b-6d50ce3217" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2660646">Genf</placeName>
+                    <date when="1915-12-28">28. Dezember 1915</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e8ab-302f-ca8f6e70b4" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="156"
+                xml:id="letter-2f10-d6ae-8dfb956c4a">
+                <correspAction xml:id="sender-075c-f60a-6b521a07e3" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/7670401">Sils-Baselgia</placeName>
+                    <date when="1916-02-02">2. Februar 1916</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d615-451d-a3d981b67e" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="157"
+                xml:id="letter-132d-3ca0-715f2c89ea">
+                <correspAction xml:id="sender-b3d4-42f6-6fd518b0c9" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2660646">Genf</placeName>
+                    <date when="1916-07-10">10. Juli 1916</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1eac-cf1e-ed7951c362" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="158"
+                xml:id="letter-9e35-8cd9-6395af48cb">
+                <correspAction xml:id="sender-97ce-0782-78f1e5d460" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1920-06-30">30. Juni 1920</date>
+                </correspAction>
+                <correspAction xml:id="addressee-58ed-624a-43a1826e7d" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="159"
+                xml:id="letter-0d6a-c245-ebf38d1054">
+                <correspAction xml:id="sender-2bdf-f7c2-3edca02157" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1920-07-03">3. Juli 1920</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6b74-e6b9-2b3c86efd7" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="160"
+                xml:id="letter-38a7-523e-7f9365e1c0">
+                <correspAction xml:id="sender-ab58-502a-d945273e1a" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1920-07-13">13. Juli 1920</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d145-3981-274a3fedbc" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="161"
+                xml:id="letter-fa39-91c4-d89fce51a7">
+                <correspAction xml:id="sender-04c2-fe40-eaf51d89c0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1920-07-20">20. Juli 1920</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1ea7-4513-0a245386ec" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="162"
+                xml:id="letter-bae3-a6b9-2e3f187db0">
+                <correspAction xml:id="sender-8d2b-9a18-b8da6f5e29" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1920-09-09">9. September 1920</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f8d5-eba8-7f8a0b54e6" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="163"
+                xml:id="letter-7e63-5a1d-756b0c849e">
+                <correspAction xml:id="sender-214b-4e36-61a3fc90de" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1920-09-13">13. September 1920</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ed8c-f4e8-dc7820b3a1" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="164"
+                xml:id="letter-7f46-2af8-14e5bf907c">
+                <correspAction xml:id="sender-7b90-3c24-8365edcfb7" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1920-10-09">9. Oktober 1920</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8fa1-7854-b9f03e2148" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="165"
+                xml:id="letter-ce18-618a-9b8af1de23">
+                <correspAction xml:id="sender-421e-d9b2-0fe726415b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1920-10-23">23. Oktober 1920</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ec49-eda6-c2e09bd63a" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="166"
+                xml:id="letter-5bf9-f06d-dca3ef8061">
+                <correspAction xml:id="sender-ef28-6e18-d0139f52b4" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1921-03-20">20. März 1921</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1bf5-c240-c601eb8a35" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="167"
+                xml:id="letter-5910-6de5-415c3a2d09">
+                <correspAction xml:id="sender-9df7-21d0-a38d7fb501" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1921-05-11">12. Mai 1921</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b9e6-819e-6e81c0d59f" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="168"
+                xml:id="letter-9743-32e6-8c74f256ea">
+                <correspAction xml:id="sender-1f04-2de8-5486dae92f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1921-05-18">18. Mai 1921</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fe46-3d81-831c69e0bd" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="169"
+                xml:id="letter-81fa-e12c-9b65e7ac83">
+                <correspAction xml:id="sender-2d17-7f9a-6af4bc3789" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/3209887">Cliftonville</placeName>
+                    <date when="1921-06-06">6. Juni 1921</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e298-81a6-fc43a0b268" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="170"
+                xml:id="letter-4d0a-4c0a-73154bd6f2">
+                <correspAction xml:id="sender-afc7-f140-b84c625edf" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1921-07-02">2. Juli 1921</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6851-f684-63f902851e" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="171"
+                xml:id="letter-a67e-58f1-47ce5adb03">
+                <correspAction xml:id="sender-52b9-49fc-641e9f20dc" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1922-01-26">26. Januar 1922</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8ac6-12d5-4ea28b9df3" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="172"
+                xml:id="letter-f185-a213-bcd140f325">
+                <correspAction xml:id="sender-45ba-a178-a45397260c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2809346">Wiesbaden</placeName>
+                    <date when="1922-02-06">6. Februar 1922</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c53f-c082-57028de391" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="173"
+                xml:id="letter-b629-e730-073216cfa9">
+                <correspAction xml:id="sender-245d-e36c-896245ec3b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2809346">Wiesbaden</placeName>
+                    <date when="1922-03-05">5. März 1922</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1afd-f5e7-1e475cbfa6" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="174"
+                xml:id="letter-ec75-f10a-4fbed90586">
+                <correspAction xml:id="sender-5486-68ad-b7cd9e0568" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1922-04-26">26. April 1922</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1fb7-0579-2a7b4d3fc9" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="175"
+                xml:id="letter-178e-1fb2-f17cea35b2">
+                <correspAction xml:id="sender-a6b8-c793-3a452d9ce0" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2809346">Wiesbaden</placeName>
+                    <date when="1922-05-07">07. Mai 1922</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8951-3a5e-b76f821de3" type="received">
+                    <persName ref="https://d-nb.info/gnd/117097942">Max Oehler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="176"
+                xml:id="letter-5de2-a7d2-87ad65cbf3">
+                <correspAction xml:id="sender-b016-6894-6853974fdb" type="sent">
+                    <persName ref="https://d-nb.info/gnd/117097942">Max Oehler</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1922-07-05">05. Juli 1922</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4752-cd05-fb680c34ad" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="177"
+                xml:id="letter-76da-8b6d-d70cfea958">
+                <correspAction xml:id="sender-e7ab-1dc4-e2b0df1453" type="sent">
+                    <persName>Thomas Noble Foulis</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1923-08-20">20. August 1923</date>
+                </correspAction>
+                <correspAction xml:id="addressee-26f7-c9ba-4309b6d271" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="178"
+                xml:id="letter-57b4-ac56-07f134cde5">
+                <correspAction xml:id="sender-e04c-53c4-4e9681d5fa" type="sent">
+                    <persName>Thomas Noble Foulis</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1923-09-21">21. September 1923</date>
+                </correspAction>
+                <correspAction xml:id="addressee-51fd-0ceb-3e2a18764c" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="179"
+                xml:id="letter-e459-61c0-abfc573180">
+                <correspAction xml:id="sender-b8f2-1d67-d724e0b6f3" type="sent">
+                    <persName>Thomas Noble Foulis</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1923-12-06">6. Dezember 1923</date>
+                </correspAction>
+                <correspAction xml:id="addressee-179c-c9ad-4e9b356187" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="180"
+                xml:id="letter-3a6d-2d19-0723954fe8">
+                <correspAction xml:id="sender-7523-4793-472c03efb1" type="sent">
+                    <persName>Thomas Noble Foulis</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1923-12-20">20. Dezember 1923</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8bf9-48a5-4b9d1ce530" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="181"
+                xml:id="letter-2075-4bd7-491c3a78bf">
+                <correspAction xml:id="sender-2456-460b-6c18025bf7" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2809346">Wiesbaden</placeName>
+                    <date when="1923-12-27">27. Dezember 1923</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9cf0-3e0c-684d290b3e" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="182"
+                xml:id="letter-638a-423a-3b78542d9f">
+                <correspAction xml:id="sender-4807-dea3-d78a325b9f" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1923-12-30">30. Dezember 1923</date>
+                </correspAction>
+                <correspAction xml:id="addressee-291f-a9d6-9c638dbf42" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="183"
+                xml:id="letter-c78b-f807-fcd5042e1b">
+                <correspAction xml:id="sender-1706-12a4-a7f4e15823" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2809346">Wiesbaden</placeName>
+                    <date when="1924-01-06">6. Januar 1924</date>
+                </correspAction>
+                <correspAction xml:id="addressee-38f1-cd0e-03b617de9a" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="184"
+                xml:id="letter-d792-8fde-7429f5e61b">
+                <correspAction xml:id="sender-0e38-6ae5-bc8d70f543" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1924-01-08">8. Januar 1924</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ec2a-e760-243f95d8a6" type="received">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="185"
+                xml:id="letter-470f-70d8-f12478369b">
+                <correspAction xml:id="sender-9e03-ce41-cfe5892473" type="sent">
+                    <persName ref="https://d-nb.info/gnd/118763814">Stanley Unwin</persName>
+                    <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <date when="1924-01-21">21. Januar 1924</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fe68-c2f3-7e63a854d1" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="186"
+                xml:id="letter-2b3f-69b0-4e2dfa916b">
+                <correspAction xml:id="sender-7c86-4dac-fa1b7d36e2" type="sent">
+                    <persName>Albert Heß</persName>
+                    <placeName ref="https://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1924-01-28">28. Januar 1924</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3fae-e8df-c3d7a921e4" type="received">
+                    <persName ref="https://d-nb.info/gnd/119158604">Adalbert Oehler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="187"
+                xml:id="letter-9125-064c-81ca53de07">
+                <correspAction xml:id="sender-7532-1240-f361d9e4bc" type="sent">
+                    <persName ref="https://d-nb.info/gnd/1077314493">Max Guttmann</persName>
+                    <placeName ref="https://www.geonames.org/2809346">Wiesbaden</placeName>
+                    <date when="1924-02-05">5. Februar 1924</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1e3d-8ab7-82e1fd95a4" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="188"
+                xml:id="letter-95c8-4fd3-e274bca589">
+                <correspAction xml:id="sender-980a-0b38-f5c80a3be9" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1924-02-13">13. Februar 1924</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2854-f40e-e65f29d804" type="received">
+                    <persName ref="https://d-nb.info/gnd/1077314493">Max Guttmann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="189"
+                xml:id="letter-e598-3ae8-a7cb953826">
+                <correspAction xml:id="sender-fb73-cefb-0a38b2c457" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                    <placeName ref="https://www.geonames.org/2990611">Neuilly s. Seine</placeName>
+                    <date when="1924-04-17">17. April 1924</date>
+                </correspAction>
+                <correspAction xml:id="addressee-201d-18fa-e1720baf96" type="received">
+                    <persName>Thomas Noble Foulis</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="190"
+                xml:id="letter-4d82-3e9b-c682a79e0d">
+                <correspAction xml:id="sender-602a-0681-8b5cf234ad" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1924-06-04">4. Juni 1924</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5c46-a0d7-56ad147fb2" type="received">
+                    <persName>Thomas Noble Foulis</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="191"
+                xml:id="letter-c673-89f6-4df5c0e6a2">
+                <correspAction xml:id="sender-b598-9a8d-0ae29db71c" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1924-06-07">7. Juni 1924]</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c701-7cb8-b236ad018f" type="received">
+                    <persName>Unbekannt [US-amerikanischer Adressat]</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="192"
+                xml:id="letter-b09e-27ce-014e75fb82">
+                <correspAction xml:id="sender-927c-1b8d-c3964e8b10" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1924-06-24">24. Juni 1924]</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c9a3-576f-79be82306a" type="received">
+                    <persName>Unbekannt [US-amerikanischer Adressat]</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="193"
+                xml:id="letter-789e-c4e1-a5760fce4b">
+                <correspAction xml:id="sender-d249-e38f-4e903217a6" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116968664">Oscar Levy</persName>
+                </correspAction>
+                <correspAction xml:id="addressee-65a1-e31f-c5a69473e0" type="received">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e1c449a8-854d-4ecd-98fa-33725a54eb2a" key="194"
+                xml:id="letter-3a60-a608-a610ed254f">
+                <correspAction xml:id="sender-046c-129d-ad2405936b" type="sent">
+                    <persName ref="https://d-nb.info/gnd/11853419X">Elisabeth
+                        Förster-Nietzsche</persName>
+                    <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1929-05-28">28. Mai 1929</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a461-23c7-b9047edc28" type="received">
+                    <persName ref="https://d-nb.info/gnd/118612093">Leopold Schwarzschild</persName>
+                    <persName ref="https://d-nb.info/gnd/124395694">Josef Bornstein</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
