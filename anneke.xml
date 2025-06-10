@@ -1,0 +1,837 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefkorrespondenz von Mathilde Franziska Anneke</title>
+                <editor>Marthe Küster<email>mkuester@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2025-06-07T15:01:56.284-02:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="d7664a6b-62c4-4965-9fc9-354bd9e93267">Radikale Beziehungen : Die Briefkorrespondenz der Mathilde Franziska Anneke zur Zeit des amerikanischen Bürgerkriegs, herausgegeben von Viktorija Bilic und Alison Clark Efford, Franz Steiner Verlag, 2023</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[1] S. 34">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1366515358">Mary Booth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5263045">Milwaukee</placeName>
+                    <date evidence="conjecture" when="1859-02-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Jane Corss</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[2] S. 36">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1366515358">Mary Booth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5263045">Milwaukee</placeName>
+                    <date evidence="conjecture" when="1859-03-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Adeline Corss</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[3] S. 39">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4990729">Detroit</placeName>
+                    <date evidence="conjecture" when="1859-05-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[4] S. 40">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5263045">Milwaukee</placeName>
+                    <date evidence="conjecture" when="1859-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[5] S. 41">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5263045">Milwaukee</placeName>
+                    <date to="1859-07" evidence="conjecture" from="1859-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[6] S. 43">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5263045">Milwaukee</placeName>
+                    <date evidence="conjecture" when="1859-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[7] S. 48">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5263045">Milwaukee</placeName>
+                    <date to="1859-07" from="1859-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[8] S. 49">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1859-07-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[10] S. 55">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1366515358">Mary Booth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5263045">Milwaukee</placeName>
+                    <date evidence="conjecture" when="1859-07-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Adeline Corss</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[11] S. 56">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5263045">Milwaukee</placeName>
+                    <date to="1859-07-18" evidence="conjecture" from="1859-07-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[11] S. 62">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1366515358">Mary Booth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5263045">Milwaukee</placeName>
+                    <date evidence="conjecture" when="1859-07-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Adeline Corss</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[12] S. 64">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2658846">Samedan</placeName>
+                    <date evidence="conjecture" when="1859-07-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[13] S. 65">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1366515358">Mary Booth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5263045">Milwaukee</placeName>
+                    <date evidence="conjecture" when="1859-08-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Adeline Corss</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[14] S. 66">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5263045">Milwaukee</placeName>
+                    <date to="1859-08-17" evidence="conjecture" from="1859-08-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[15] S. 71">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1859-09-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[16] S. 72">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5263045">Milwaukee</placeName>
+                    <date evidence="conjecture" when="1859-09-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[17] S. 75">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1366515358">Mary Booth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5263045">Milwaukee</placeName>
+                    <date evidence="conjecture" when="1859-10-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Ella Booth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[18] S. 78">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5263045">Milwaukee</placeName>
+                    <date evidence="conjecture" when="1859-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[19] S. 81">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1366515358">Mary Booth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5263045">Milwaukee</placeName>
+                    <date evidence="conjecture" when="1859-12-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Ella Booth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[20] S. 82">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5263045">Milwaukee</placeName>
+                    <date to="1860-02-25" evidence="conjecture" from="1860-02-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[21] S. 86">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1366515358">Mary Booth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5263045">Milwaukee</placeName>
+                    <date evidence="conjecture" when="1860-03-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Adeline Corss</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[22] S. 87">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5263045">Milwaukee</placeName>
+                    <date to="1860-03-20" evidence="conjecture" from="1860-03-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[23] S. 92">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5263045">Milwaukee</placeName>
+                    <date evidence="conjecture" when="1860-07-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[24] S. 97">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5101798">Newark</placeName>
+                    <date evidence="conjecture" when="1860-08-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1366515358">Mary Booth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[25] S. 99">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1366515358">Mary Booth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date evidence="conjecture" when="1860-08-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Ella Booth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[26] S. 102">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2944388">Bremen</placeName>
+                    <date evidence="conjecture" when="1860-08-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[27] S. 104">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1861-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Elisabeth Giesler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[28] S. 110">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1366515358">Mary Booth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1861-08-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Ella Booth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[29] S. 111">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date when="1861-09-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[30] S. 112">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date when="1861-10-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[31] S. 115">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1861-11-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[32] S. 118">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1366515358">Mary Booth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1861-11-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Adeline Corss</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[33] S. 120">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1861-12-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[34] S. 121">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1862-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Elisabeth Giesler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[35] S. 125">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1862-02-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[36] S. 126">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date to="1862-03-15" evidence="conjecture" from="1862-03-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[37] S. 130">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date to="1862-03-31" evidence="conjecture" from="1862-03-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[38] S. 133">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1862-04-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[39] S. 137">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1366515358">Mary Booth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1862-06-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[40] S. 138">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1862-09-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[41] S. 142">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date when="1862-09-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Elisabeth Giesler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[42] S. 147">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1862-09-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[43] S. 152">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1862-11-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[44] S. 155">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1366515358">Mary Booth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1862"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[45] S. 155">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1366515358">Mary Booth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1862-12-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[46] S. 157">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1862-12-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[47] S. 161">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1863-02-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[48] S. 164">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4288362">Columbus</placeName>
+                    <date evidence="conjecture" when="1863-04-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture">Elisabeth Giesler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[49] S. 165">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4288362">Columbus</placeName>
+                    <date evidence="conjecture" when="1863-04-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">George E. Warning Jr.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[50] S. 166">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4288362">Columbus</placeName>
+                    <date evidence="conjecture" when="1863-05-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">John A. Garrett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[51] S. 167">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1863-05-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[52] S. 169">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1863-07-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[53] S. 173">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1366515358">Mary Booth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1863-07-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Ella Booth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[54] S. 174">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4288362">Columbus</placeName>
+                    <date evidence="conjecture" when="1863-07-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[55] S. 179">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1366515358">Mary Booth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2658085">Vulpera</placeName>
+                    <date evidence="conjecture" when="1863-08-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[56] S. 180">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                    <placeName cert="low">Fort Halleck</placeName>
+                    <date evidence="conjecture" when="1863-08-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/14356546X">Edwin Stanton</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[57] S. 185">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1863-09-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[58] S. 188">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4288362">Columbus</placeName>
+                    <date evidence="conjecture" when="1863-09-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[59] S. 189">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1863-09-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[60] S. 192">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="http://viaf.org/viaf/68199141">Generaladjutantsassistent Jas. A. Hardie</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4140963">Washington</placeName>
+                    <date evidence="conjecture" when="1863-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[61] S. 194">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1864-02-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[62] S. 197">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1864-04-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[63] S. 199">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4998830">Lansing</placeName>
+                    <date to="1864-05-02" evidence="conjecture" from="1864-04-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[64] S. 201">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1864-06-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[65] S. 202">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1864"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1366515358">Mary Booth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[66] S. 203">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1864-07-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Lili Booth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[67] S. 204">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1366515358">Mary Booth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date evidence="conjecture" when="1864-08-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[68] S. 204">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1366515358">Mary Booth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date evidence="conjecture" when="1864-08-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[69] S. 206">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date to="1864-09-12" evidence="conjecture" from="1864-09-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[70] S. 209">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1082552356">Cäcilie Kapp</persName>
+                    <date evidence="conjecture" when="1864"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[71] S. 209">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1082552356">Cäcilie Kapp</persName>
+                    <date evidence="conjecture" when="1864-09-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[72] S. 210">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/4407066">St. Louis</placeName>
+                    <date evidence="conjecture" when="1864-12-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[73] S. 211">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date evidence="conjecture" when="1865-01-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[74] S. 217">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date evidence="conjecture" when="1865-02-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[75] S. 219">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date evidence="conjecture" when="1865-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[76] S. 222">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/1366515358">Mary Booth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5101798">Newark</placeName>
+                    <date to="1865-03-04" evidence="conjecture" from="1865-03-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[77] S. 224">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date evidence="conjecture" when="1865-03-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Johanna Weiskirch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[78] S. 227">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date evidence="conjecture" when="1865-04-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[79] S. 229">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date evidence="conjecture" when="1865-05-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[80] S. 231">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <date evidence="conjecture" when="1865-06-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d7664a6b-62c4-4965-9fc9-354bd9e93267" key="[81] S. 234">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118503200">Mathilde Franziska Anneke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5263045">Milwaukee</placeName>
+                    <date evidence="conjecture" when="1865-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118649523">Fritz Anneke</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
