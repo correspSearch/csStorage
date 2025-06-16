@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cs="http://www.bbaw.de/telota/correspSearch">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cs="http://www.bbaw.de/telota/correspSearch">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -13,7 +13,7 @@
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
                 </availability>
-                <date when="2025-05-29"/>
+                <date when="2025-06-15"/>
                 <idno type="url">https://correspsearch.net/storage/soemmerring/1787-1792.xml</idno>
             </publicationStmt>
             <sourceDesc>
@@ -28,7 +28,7 @@
                     <date when="1787-01-14">14.1.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="bd8ad49c-6d1b-4f6f-a914-f4cfbfcb953e" key="423" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="507">
@@ -38,7 +38,7 @@
                     <date from="1787-01-19" to="1787-01-21">19.-21.1.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="b968f23c-a0da-46ec-ad14-1db5647dc434" key="424" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="510">
@@ -48,7 +48,7 @@
                     <date when="1787-02-18">18.2.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="d1ee627d-3e82-4782-b57f-b179ecc0a7b9" key="425" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="512">
@@ -58,12 +58,12 @@
                     <date when="1787-02-19">19.2.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="c6d7b110-ec15-4d09-b57c-fa6dd5ea9645" key="426" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="515">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <date when="1787-02-22">22.2.1787</date>
                 </correspAction>
                 <correspAction type="received">
@@ -77,7 +77,7 @@
                     <date when="1787-03-15">15.3.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="dea09008-32cd-4769-bd64-3c3648970e24" key="428" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="519">
@@ -87,7 +87,7 @@
                     <date when="1787-03-20">20.3.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="d25435e4-6fbd-428d-b01e-bcd01a06c719" key="429" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="520">
@@ -97,7 +97,7 @@
                     <date when="1787-03-22">22.3.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="b8517f9d-a04f-49dd-9e3c-f12890aa9de4" key="430" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="522">
@@ -107,12 +107,12 @@
                     <date when="1787-03-25">25.3.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="f149e506-a53e-426d-ba54-791c23c5ef61" key="431" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="523">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date from="1787-03-01" to="1787-04-30">März/April 1787</date>
                 </correspAction>
@@ -127,7 +127,7 @@
                     <date when="1787-03-26">26.3.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="e1398c9b-0ee6-4871-93c5-36c09cf5a974" key="433" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="532">
@@ -137,7 +137,7 @@
                     <date when="1787-04-05">5.4.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="d92d1d95-44d9-4e75-b6d9-00a7d4d1d792" key="434" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="537">
@@ -147,7 +147,7 @@
                     <date when="1787-04-09">9.4.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="b33e64ef-16b0-4d3c-86f1-d3bc5403dd9c" key="435" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="537">
@@ -156,7 +156,7 @@
                     <date when="1787-04-12">12.4.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="d4a40ebd-6757-4cc0-9764-ce1fe13451da" key="436" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="538">
@@ -166,7 +166,7 @@
                     <date when="1787-04-14">14.4.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="c8f79acd-826f-4026-adec-43a8ee108868" key="437" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="539">
@@ -175,7 +175,7 @@
                     <date when="1787-04-24">24.4.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="dec11cf7-59f9-489c-b222-a94a305741e9" key="438" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="540">
@@ -185,7 +185,7 @@
                     <date when="1787-04-25">25.4.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="ee334c91-3e84-4832-bde8-8d2184a7f941" key="439" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="541">
@@ -195,12 +195,12 @@
                     <date when="1787-05-02">2.5.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="fd92f2c3-2795-4b2b-a3e8-1447cd303975" key="440" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="542">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <date when="1787-05-02">2.5.1787</date>
                 </correspAction>
                 <correspAction type="received">
@@ -213,12 +213,12 @@
                     <date when="1787-05-03">3.5.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="ac1a4b73-8295-41ac-8b96-2609aa4ee1dd" key="442" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="544">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-05-06">6.5.1787</date>
                 </correspAction>
@@ -233,7 +233,7 @@
                     <date when="1787-05-13">13.5.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="db6c1dc3-d2f8-4042-ac82-23a852996cab" key="444" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="548">
@@ -243,7 +243,7 @@
                     <date when="1787-05-14">14.5.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="e4d2f39f-89dc-45ea-b650-c09c346effa9" key="445" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="550">
@@ -253,7 +253,7 @@
                     <date when="1787-05-31">31.5.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="fc2ea15e-f67c-4035-b7cb-501c18560254" key="446" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="552">
@@ -263,12 +263,12 @@
                     <date when="1787-06-04">4.6.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="dfcee3a4-45f5-43ac-9e7c-e1a88ffd646c" key="447" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="554">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <date when="1787-06-13">13.6.1787</date>
                 </correspAction>
                 <correspAction type="received">
@@ -282,12 +282,12 @@
                     <date when="1787-06-17">17.6.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="af982ee1-23a3-4283-8fd2-0d0b6bc26a83" key="449" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="561">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-06-22">22.6.1787</date>
                 </correspAction>
@@ -297,7 +297,7 @@
             </correspDesc>
             <correspDesc xml:id="c5128ff6-1d11-471c-aca4-1d61eea24787" key="450" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="565">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-06-23">23.6.1787</date>
                 </correspAction>
@@ -307,7 +307,7 @@
             </correspDesc>
             <correspDesc xml:id="cacea5b1-68f6-441c-b190-f9f8c35b8c14" key="451" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="566">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <date when="1787-06">Juni 1787</date>
                 </correspAction>
                 <correspAction type="received">
@@ -320,12 +320,12 @@
                     <date when="1787-06-24">24.6.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="bfd510a3-673b-43ac-b948-d167663ffd4c" key="453" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="567">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-06-30">30.6.1787</date>
                 </correspAction>
@@ -335,7 +335,7 @@
             </correspDesc>
             <correspDesc xml:id="ba8fe719-c16e-4e6b-a813-c50e271ed770" key="454" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="573">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-07-07">7.7.1787</date>
                 </correspAction>
@@ -350,7 +350,7 @@
                     <date when="1787-07-08">8.7.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="ae33e02e-d8df-41b9-8cca-d40372e7132e" key="456" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="577">
@@ -360,7 +360,7 @@
                     <date when="1787-07-15">15.7.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="decfb6ed-78a2-4fc4-a16c-1d8473cb16c3" key="457" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="578">
@@ -370,12 +370,12 @@
                     <date when="1787-07-22">22.7.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="dd8397f6-dec0-4feb-b534-b6c81fc95a29" key="458" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="585">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <date notAfter="1787-07-24">(vor) 24.7.1787</date>
                 </correspAction>
                 <correspAction type="received">
@@ -390,7 +390,7 @@
                     <date when="1787-07-23">23.7.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="a84b4d15-60eb-446d-b7b7-f7e74da4dcbd" key="460" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="589">
@@ -400,7 +400,7 @@
                     <date when="1787-07-24">24.7.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="fd2f63ac-e7f3-4937-be9a-270c5c6ad913" key="461" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="590">
@@ -410,12 +410,12 @@
                     <date when="1787-07-27">27.7.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="d7d5cc76-7601-49cd-b4ef-d112115cc2fe" key="462" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="591">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-07-29">29.7.1787</date>
                 </correspAction>
@@ -431,12 +431,12 @@
                     <date when="1787-08-16">16.8.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="b30192af-b700-4054-ab2f-2933a2501266" key="464" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="594">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-08-21">21.8.1787</date>
                 </correspAction>
@@ -451,7 +451,7 @@
                     <date when="1787-09-02">2.9.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="d14b0e9b-d0d9-41e9-a684-cf64f4d1ac7e" key="466" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="600">
@@ -461,12 +461,12 @@
                     <date when="1787-09-10">10.9.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="f6193923-d171-47dd-a421-0861bad141d8" key="467" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="602">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-09-18">18.9.1787</date>
                 </correspAction>
@@ -476,7 +476,7 @@
             </correspDesc>
             <correspDesc xml:id="a7124cb4-904e-496f-ac2a-afd752314ae7" key="468" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="604">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-09-22">22.9.1787</date>
                 </correspAction>
@@ -491,7 +491,7 @@
                     <date when="1787-09-23">23.9.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="a0f773f4-2852-46e1-9a1d-5c307d15ee8e" key="470" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="609">
@@ -501,12 +501,12 @@
                     <date when="1787-09-27">27.9.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="df9c8a0a-d579-4444-9206-766b7b71f63e" key="471" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="612">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-09-29">29.9.1787</date>
                 </correspAction>
@@ -521,12 +521,12 @@
                     <date when="1787-09-30">30.9.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="a5e9bb2a-bbd1-47ba-ba0d-511e7fe3bd53" key="473" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="616">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-10-05">5.10.1787</date>
                 </correspAction>
@@ -536,7 +536,7 @@
             </correspDesc>
             <correspDesc xml:id="f72a1387-41c3-4a27-bb6a-6b31362e8fa5" key="474" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="618">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-10-10">10.10.1787</date>
                 </correspAction>
@@ -551,12 +551,12 @@
                     <date when="1787-10-12">12.10.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="e0f55afd-e0e4-44bc-9a1d-ce6b873ea079" key="476" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="624">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <date when="1787-10-17">17.10.1787</date>
                 </correspAction>
                 <correspAction type="received">
@@ -571,12 +571,12 @@
                     <date when="1787-10-17">17.10.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="b23640e4-8985-4828-b8a2-9e07f1dcb6ee" key="478" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="630">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-10-19">19.10.1787</date>
                 </correspAction>
@@ -586,7 +586,7 @@
             </correspDesc>
             <correspDesc xml:id="e47774df-ef03-4d3f-bc82-d9337a12d1d6" key="479" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="632">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-10-19">19.10.1787</date>
                 </correspAction>
@@ -601,12 +601,12 @@
                     <date from="1787-10-23" to="1787-10-24">23.-24.10.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="ae53009e-45a1-44ca-8e82-f9ed0bec34a4" key="481" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="636">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-10-26">26.10.1787</date>
                 </correspAction>
@@ -616,7 +616,7 @@
             </correspDesc>
             <correspDesc xml:id="c234eecc-456b-4845-aae6-75596c45c191" key="482" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="639">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <date notBefore="1787-10-24">(nach) 24.10.1787</date>
                 </correspAction>
                 <correspAction type="received">
@@ -630,12 +630,12 @@
                     <date when="1787-11-04">4.11.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="f19774fd-8b39-4d00-99f9-dc56069f846b" key="484" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="646">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-11-05">5.11.1787</date>
                 </correspAction>
@@ -650,12 +650,12 @@
                     <date when="1787-11-09">9.11.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="c05b9845-ca9f-43ae-ba00-34d1048a94f7" key="486" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="650">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-11-13">13.11.1787</date>
                 </correspAction>
@@ -665,7 +665,7 @@
             </correspDesc>
             <correspDesc xml:id="aabfa231-3e84-4b56-84e0-c42fcdd6cd28" key="487" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="652">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-11-17">17.11.1787</date>
                 </correspAction>
@@ -680,12 +680,12 @@
                     <date when="1787-11-18">18.11.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="de6fc03b-ad4b-4e19-a8f6-f2d7350f1841" key="489" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="656">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-11-23">23.11.1787</date>
                 </correspAction>
@@ -700,7 +700,7 @@
                     <date when="1787-11-24">24.11.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="e7a7f869-c822-4856-b4a9-b28584f7099f" key="491" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="663">
@@ -709,12 +709,12 @@
                     <date when="1787-11-25">25.11.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="a94df565-bc32-4788-b795-8ba672445cee" key="492" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="663">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-11-30">30.11.1787</date>
                 </correspAction>
@@ -724,7 +724,7 @@
             </correspDesc>
             <correspDesc xml:id="ef0d8028-8cc0-46fd-b2c4-07e2ff87b35b" key="493" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="665">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-12-01">1.12.1787</date>
                 </correspAction>
@@ -735,7 +735,7 @@
             </correspDesc>
             <correspDesc xml:id="e8353c0b-ffbe-4718-8317-cac959b1e031" key="494" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="667">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-12-01">1.12.1787</date>
                 </correspAction>
@@ -750,12 +750,12 @@
                     <date when="1787-12-07">7.12.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="a5c5773e-e3f0-4c59-9ca7-7864652ad765" key="496" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="671">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-12-11">11.12.1787</date>
                 </correspAction>
@@ -771,12 +771,12 @@
                     <date when="1787-12-12">12.12.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="ea77023f-59d2-4b5d-bc0e-ddf43da071e5" key="498" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="675">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-12-13">13.12.1787</date>
                 </correspAction>
@@ -786,7 +786,7 @@
             </correspDesc>
             <correspDesc xml:id="ab3176a3-941c-4622-b11f-00b6b8ffb3e7" key="499" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="678">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-12-13">13.12.1787</date>
                 </correspAction>
@@ -801,12 +801,12 @@
                     <date when="1787-12-19">19.12.1787</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="fed14a79-03cc-4598-8124-53b3e940c4e8" key="501" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="680">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-12-21">21.12.1787</date>
                 </correspAction>
@@ -816,7 +816,7 @@
             </correspDesc>
             <correspDesc xml:id="cabd3973-b16d-4f3e-830f-9dbcbb06dcba" key="502" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="682">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1787-12-21">21.12.1787</date>
                 </correspAction>
@@ -831,12 +831,12 @@
                     <date when="1788-01-02">2.1.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="fb3ec8ea-eec9-4ce3-82d7-81ba4f0489eb" key="504" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="684">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <date when="1788-01-05">5.1.1788</date>
                 </correspAction>
                 <correspAction type="received">
@@ -845,7 +845,7 @@
             </correspDesc>
             <correspDesc xml:id="f7cc5ebb-cb10-4cd6-8652-dcfc1901358b" key="505" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="686">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1788-01-07">7.1.1788</date>
                 </correspAction>
@@ -860,7 +860,7 @@
                     <date when="1788-01-07">7.1.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="b8ebbee6-fab1-448a-bb01-e44c42cc6c2e" key="507" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="689">
@@ -870,12 +870,12 @@
                     <date when="1788-01-10">10.1.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="f3a78981-2a6b-4646-8ace-2f50bbd4c242" key="508" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="690">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1788-01-12">12.1.1788</date>
                 </correspAction>
@@ -890,12 +890,12 @@
                     <date when="1788-01-16">16.1.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="c2acd701-fec5-4356-8a64-9debcde22eaf" key="510" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="695">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1788-01-26">26.1.1788</date>
                 </correspAction>
@@ -910,12 +910,12 @@
                     <date when="1788-01-27">27.1.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="fac9bc81-b187-4fc3-b023-4ad6032a7e9c" key="512" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="699">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1788-02-05">5.2.1788</date>
                 </correspAction>
@@ -925,7 +925,7 @@
             </correspDesc>
             <correspDesc xml:id="a5d3fab2-4902-46a0-8d0d-563a292c38c2" key="513" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="700">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1788-02-12">12.2.1788</date>
                 </correspAction>
@@ -935,7 +935,7 @@
             </correspDesc>
             <correspDesc xml:id="cf472d5a-6bb0-4c8b-a448-8e2af0d7bf33" key="514" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="702">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1788-02-22">22.2.1788</date>
                 </correspAction>
@@ -950,7 +950,7 @@
                     <date when="1788-02-22">22.2.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="f072365e-7f27-48d9-9127-860c30f1b866" key="516" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="705">
@@ -960,12 +960,12 @@
                     <date when="1788-03-16">16.3.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="ce1fe45e-592e-4e64-aa7e-c1f9498e7b88" key="517" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="708">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1788-03-21">21.3.1788</date>
                 </correspAction>
@@ -975,7 +975,7 @@
             </correspDesc>
             <correspDesc xml:id="e7daebf1-1d8a-4cc1-828e-aa2b817738a0" key="518" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="712">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1788-05-10">10.5.1788</date>
                 </correspAction>
@@ -990,12 +990,12 @@
                     <date when="1788-05-12">12.5.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="da1df519-89a9-4b1f-9e7e-6c5231a0dc1e" key="520" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="715">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1788-05-13">13.5.1788</date>
                 </correspAction>
@@ -1010,12 +1010,12 @@
                     <date when="1788-05-13">13.5.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="e793ac1f-f229-47f6-b9ed-d2edfd859283" key="522" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="718">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <date when="1788-05">Mai 1788</date>
                 </correspAction>
                 <correspAction type="received">
@@ -1030,12 +1030,12 @@
                     <date when="1788-05-18">18.5.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="daac5d10-2882-4c2f-ac6d-527f7932a458" key="524" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="722">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <date when="1788-05-24">24.5.1788</date>
                 </correspAction>
                 <correspAction type="received">
@@ -1049,12 +1049,12 @@
                     <date when="1788-05-24">24.5.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="e1923122-8c96-4724-8c3a-bdaaa639f66e" key="526" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="724">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <date when="1788">31.5. (?) 1788</date>
                 </correspAction>
                 <correspAction type="received">
@@ -1063,7 +1063,7 @@
             </correspDesc>
             <correspDesc xml:id="e7d8e9c2-7137-4795-83ab-b19da4700985" key="527" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="724">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <date when="1788-06">Juni 1788</date>
                 </correspAction>
                 <correspAction type="received">
@@ -1077,12 +1077,12 @@
                     <date when="1788-06-08">8.6.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="a20ce4e1-1e70-42ae-a90f-13468fd86c9d" key="529" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="726">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1788-06-12">12.6.1788</date>
                 </correspAction>
@@ -1092,7 +1092,7 @@
             </correspDesc>
             <correspDesc xml:id="d0c4a329-33d5-4efc-b424-fd2beccb2379" key="530" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="728">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1788-06-20">20.6.1788</date>
                 </correspAction>
@@ -1107,12 +1107,12 @@
                     <date when="1788-06-20">20.6.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="d3ac90ab-5164-409c-baa7-f57c6f24ebf8" key="532" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="731">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1788-06-30">30.6.1788</date>
                 </correspAction>
@@ -1127,12 +1127,12 @@
                     <date when="1788-07-09">9.7.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="b941972d-c08b-4cd2-8706-d664fd00f841" key="534" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="735">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <date when="1788-07-11">11.7.1788</date>
                 </correspAction>
                 <correspAction type="received">
@@ -1146,7 +1146,7 @@
                     <date when="1788-07-18">18.7.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="d5931986-a465-4a6c-857e-406a60a674f6" key="536" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="740">
@@ -1156,12 +1156,12 @@
                     <date when="1788-07-22">22.7.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="a714ec93-cc2e-4708-9bd9-4f0e81fb7f19" key="537" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="741">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1788-07-26">26.7.1788</date>
                 </correspAction>
@@ -1171,7 +1171,7 @@
             </correspDesc>
             <correspDesc xml:id="ec8da8d8-6ea4-4cd4-86d9-ba9e921f7246" key="538" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="743">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1788-08-02">2.8.1788</date>
                 </correspAction>
@@ -1181,7 +1181,7 @@
             </correspDesc>
             <correspDesc xml:id="fbf41873-5b4e-4f66-9848-0b8d1c6adf48" key="539" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="746">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1788-08-07">7.8.1788</date>
                 </correspAction>
@@ -1196,7 +1196,7 @@
                     <date when="1788-08-07">7.8.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="d3ad1747-75d4-4ae4-845d-e9f1cc9b4fd9" key="541" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="749">
@@ -1206,7 +1206,7 @@
                     <date when="1788-08-08">8.8.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="b8ea0498-ad07-415b-a8e1-e7231e4b058a" key="542" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="750">
@@ -1215,12 +1215,12 @@
                     <date notAfter="1788-08-15">(vor) 15.8.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="b764824e-5b25-4ca7-a645-9c940f789c8d" key="543" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="750">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1788-08-15">15.8.1788</date>
                 </correspAction>
@@ -1235,7 +1235,7 @@
                     <date when="1788-08-20">20.8.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="ab178504-965e-4ae0-8e7e-8cb5df795a4a" key="545" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="755">
@@ -1245,12 +1245,12 @@
                     <date when="1788-08-24">24.8.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="d83f8df4-19bd-4d17-be77-5bed5778bef1" key="546" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="757">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1788-08-25">25.8.1788</date>
                 </correspAction>
@@ -1261,7 +1261,7 @@
             </correspDesc>
             <correspDesc xml:id="eeb39a30-19e7-4f5c-92fa-96392dfe0bf9" key="547" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="759">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1788-08-30">30.8.1788</date>
                 </correspAction>
@@ -1276,12 +1276,12 @@
                     <date when="1788-09-05">5.9.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="eeeb1226-a996-4f04-a665-3e3fd93a28bb" key="549" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="762">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1788-09-06">6.9.1788</date>
                 </correspAction>
@@ -1296,7 +1296,7 @@
                     <date when="1788-09-16">16.9.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="b2e8d7e9-a3fa-4378-80a8-ccfce1d84e57" key="551" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="764">
@@ -1306,7 +1306,7 @@
                     <date when="1788-09-19">19.9.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="bd3bc785-05cf-41e0-a06a-ce5be27a889d" key="552" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="765">
@@ -1316,7 +1316,7 @@
                     <date when="1788-09-29">29.9.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="fcc2295c-1efc-4904-bc3a-8fba019282d3" key="553" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="766">
@@ -1325,7 +1325,7 @@
                     <date when="1788-11-09">9.11.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
                 <!-- Anderer Brief eingeschlossen -->
             </correspDesc>
@@ -1336,7 +1336,7 @@
                     <date when="1788-11-19">19.11.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="b00f339b-7ef3-4f66-a2ef-588c7c57025b" key="555" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="771">
@@ -1346,7 +1346,7 @@
                     <date when="1788-12-19">19.12.1788</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="f7744192-51e2-4b8f-98fd-a48b663ea6af" key="556" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="774">
@@ -1355,7 +1355,7 @@
                     <date when="1789-01-04">4.1.1789</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="e89534c5-8892-498e-b3d0-56dcc6cf80f3" key="557" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="775">
@@ -1365,7 +1365,7 @@
                     <date when="1789-01-25">25.1.1789</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="d0d17a1d-604a-4a94-8dd1-1b4918606624" key="558" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="776">
@@ -1375,7 +1375,7 @@
                     <date when="1789-02-11">11.2.1789</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="f2625e02-fe87-40c3-8ce6-09beb7127684" key="559" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="777">
@@ -1385,12 +1385,12 @@
                     <date when="1789-05-04">4.5.1789</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="cb9e09eb-1b28-4da0-915b-0e6aedb5ee24" key="560" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="779">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1789-06-05">5.6.1789</date>
                 </correspAction>
@@ -1405,7 +1405,7 @@
                     <date when="1789-06-08">8.6.1789</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="dc7982b2-8b02-462d-80eb-520a12fc4c95" key="562" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="782">
@@ -1415,7 +1415,7 @@
                     <date when="1789-06-12">12.6.1789</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="a80d10db-486c-4076-812f-8a94677ef0fc" key="563" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="783">
@@ -1425,7 +1425,7 @@
                     <date when="1789-07-03">3.7.1789</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="d4057921-b1de-43a7-9e24-a588527384bc" key="564" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="784">
@@ -1434,7 +1434,7 @@
                     <date when="1789-07-07">7.7.1789</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="f7f8ca9b-b144-48a7-89b9-21b2a93b47f9" key="565" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="784">
@@ -1444,7 +1444,7 @@
                     <date when="1789-09-20">20.9.1789</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="b42e48e1-7c4b-4621-954e-424d601f79bd" key="566" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="785">
@@ -1454,12 +1454,12 @@
                     <date when="1789-11-29">29.11.1789</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="d5f798b3-50f6-499c-9d4b-722fc9597368" key="567" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="786">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1790-01-09">9.1.1790</date>
                 </correspAction>
@@ -1474,12 +1474,12 @@
                     <date when="1790-01-24">24.1.1790</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="e17455e4-3f36-4b7f-b8f4-c35de9d231fa" key="569" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="788">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1790-03-25">25.3.1790</date>
                 </correspAction>
@@ -1494,12 +1494,12 @@
                     <date when="1790-04-04">4.4.1790</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="c4383b51-372b-4ef6-94b1-15013cb6bdad" key="571" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="794">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1790-04-05">5.4.1790</date>
                 </correspAction>
@@ -1514,12 +1514,12 @@
                     <date when="1790-05-04">4.5.1790</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="ba05b361-83db-47a5-bafe-619231f0945e" key="573" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="800">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1790-05-14">14.5.1790</date>
                 </correspAction>
@@ -1529,7 +1529,7 @@
             </correspDesc>
             <correspDesc xml:id="f7d9a917-bf0a-40e3-a4dd-564e517b3c10" key="574" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="802">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1790-08-17">17.8.1790</date>
                 </correspAction>
@@ -1543,12 +1543,12 @@
                     <date from="1790-10-04" to="1790-10-08">4.-8.10.1790</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="f8a7a2f5-e56a-490f-b62f-92fd98ccb959" key="576" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="806">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/3247449">Aachen</placeName>
                     <date when="1790-10">Oktober 1790</date>
                 </correspAction>
@@ -1563,7 +1563,7 @@
                     <date when="1790-10-09">9.10.1790</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="a01d98e0-0871-4448-9d5c-63dc24478429" key="578" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="810">
@@ -1572,12 +1572,12 @@
                     <date when="1790-10-09">9.10.1790</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="afd23ba4-a714-42da-b53e-70d1a71efb06" key="579" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="811">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/11258605">Pempelfort</placeName>
                     <date when="1790-10-11">11.10.1790</date>
                 </correspAction>
@@ -1587,7 +1587,7 @@
             </correspDesc>
             <correspDesc xml:id="f8e04522-8138-4aa0-b601-5a578ad1f45b" key="580" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="813">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/11258605">Pempelfort</placeName>
                     <date when="1790-10-13">13.10.1790</date>
                 </correspAction>
@@ -1597,7 +1597,7 @@
             </correspDesc>
             <correspDesc xml:id="d45951ed-62d8-4661-b587-c4b8e127bb5c" key="581" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="815">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
                     <date when="1790-10-19">19.10.1790</date>
                 </correspAction>
@@ -1612,7 +1612,7 @@
                     <date when="1790-12-22">22.12.1790</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="e48b4d98-a095-4b0f-89cd-c98f5a7e8297" key="583" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="817">
@@ -1622,7 +1622,7 @@
                     <date when="1790-12-28">28.12.1790</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="c5ceba21-8b93-4984-820d-3351ae80741b" key="584" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="820">
@@ -1632,7 +1632,7 @@
                     <date when="1791-01-17">17.1.1791</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="e1cf0c68-777d-4d0d-8b28-2a1d914c7934" key="585" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="821">
@@ -1642,7 +1642,7 @@
                     <date when="1791-01-18">18.1.1791</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="c5419984-05b0-4c12-ac27-267d4312ba88" key="586" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="824">
@@ -1652,7 +1652,7 @@
                     <date from="1791-01-28" to="1791-02-20">28.1.-20.2.1791</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
                 <note>
                     <ref type="https://lod.academy/cmif/vocab/terms#seeAlso" target="https://edition-humboldt.de/H0002656"/>
@@ -1661,7 +1661,7 @@
             </correspDesc>
             <correspDesc xml:id="a1c9afb2-005e-4fce-9374-9e651bc68d84" key="587" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="828">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <date when="1791-03-10">10.3.1791</date>
                 </correspAction>
                 <correspAction type="received">
@@ -1675,12 +1675,12 @@
                     <date when="1791-03-14">14.3.1791</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="f816363c-1e0c-4f4e-b133-2ed5052a6292" key="589" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="831">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1791-04-01">1.4.1791</date>
                 </correspAction>
@@ -1690,7 +1690,7 @@
             </correspDesc>
             <correspDesc xml:id="fc3efee7-1cb2-45dd-bbe0-0dd1d86c1f98" key="590" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="833">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1791-04-11">11.4.1791</date>
                 </correspAction>
@@ -1705,7 +1705,7 @@
                     <date when="1791-04-15">15.4.1791</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
                 <!-- Adresse: Mainz "frey Stuttgart" -->
             </correspDesc>
@@ -1716,7 +1716,7 @@
                     <date when="1791-04-17">17.4.1791</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
                 <!-- Adresse Mainz -->
             </correspDesc>
@@ -1727,12 +1727,12 @@
                     <date when="1791-04-20">20.4.1791</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="db6b4298-50e3-4220-a7cc-3a2a7512ebbc" key="594" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="840">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1791-04-25">25.4.1791</date>
                 </correspAction>
@@ -1742,7 +1742,7 @@
             </correspDesc>
             <correspDesc xml:id="dfdcddd0-abf0-47aa-a4d3-b19eec199584" key="595" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="842">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <date when="1791-05-09">9.5.1791</date>
                 </correspAction>
                 <correspAction type="received">
@@ -1751,7 +1751,7 @@
             </correspDesc>
             <correspDesc xml:id="c1ac1bbe-b880-444f-820a-d8b86dcb06e9" key="596" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="843">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1791-05-20">20.5.1791</date>
                 </correspAction>
@@ -1766,7 +1766,7 @@
                     <date when="1791-05-31">31.5.1791</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="aa270fc4-491b-410c-8dff-8edfa2d61fd5" key="598" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="846">
@@ -1776,7 +1776,7 @@
                     <date when="1791-06-09">9.6.1791</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="a4015eeb-6ea7-48f5-866a-c94ee3aed541" key="599" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="847">
@@ -1786,7 +1786,7 @@
                     <date when="1791-06-17">17.6.1791</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="e2e24ff1-e94f-450f-b53d-d677241cea70" key="600" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="848">
@@ -1796,7 +1796,7 @@
                     <date when="1791-06-26">26.6.1791</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="f367d085-be85-41a7-9b8b-1033254225a9" key="601" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="848">
@@ -1806,12 +1806,12 @@
                     <date when="1791-07-01">1.7.1791</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="ec19f42a-4a86-46a6-b1c6-ffa4bb7b2376" key="602" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="850">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1791-08-08">8.8.1791</date>
                 </correspAction>
@@ -1826,7 +1826,7 @@
                     <date when="1791-08-20">20.8.1791</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="d10a5edc-9ff3-4490-94c0-7ddb786895bc" key="604" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="853">
@@ -1836,12 +1836,12 @@
                     <date when="1791-08-21">21.8.1791</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="d8fb9fb8-d6fa-47ad-bf18-1cc38471e468" key="605" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="853">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1791-08-29">29.8.1791</date>
                 </correspAction>
@@ -1852,7 +1852,7 @@
             </correspDesc>
             <correspDesc xml:id="ec0fc70f-7ea6-4dc2-b75f-405334c352ac" key="606" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="854">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1791-09-20">20.9.1791</date>
                 </correspAction>
@@ -1867,12 +1867,12 @@
                     <date when="1791-10-12">12.10.1791</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="bb4fc668-d77c-4f19-b8b0-dcee5686195a" key="608" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="855">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1791-11-13">13.11.1791</date>
                 </correspAction>
@@ -1888,7 +1888,7 @@
                     <date when="1791-11-24">24.11.1791</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="ad8fbd65-46e4-4fe1-9ae1-2d107748d88b" key="610" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="858">
@@ -1898,12 +1898,12 @@
                     <date when="1791-12-25">25.12.1791</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="bcb8e7a4-cb97-470e-961a-824fa1e6d46b" key="611" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="859">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
                     <date when="1791-12-27">27.12.1791</date>
                 </correspAction>
@@ -1918,7 +1918,7 @@
                     <date when="1791-12-30">30.12.1791</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="cbf8e2ac-bf8e-4d7d-a7a0-d808fb3b5675" key="613" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="862">
@@ -1927,12 +1927,12 @@
                     <date when="1791-12-30">30.12.1791</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="ecab79c3-f29a-4e89-8741-e363a58f0c18" key="614" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="863">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1792-02-02">2.2.1792</date>
                 </correspAction>
@@ -1942,7 +1942,7 @@
             </correspDesc>
             <correspDesc xml:id="f640f3e7-75a2-4aad-a700-c484e9334747" key="615" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="865">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
                     <date when="1792-02-14">14.2.1792</date>
                 </correspAction>
@@ -1956,7 +1956,7 @@
                     <date when="1792-02">Januar/Februar 1792</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="da69da3d-7015-4c54-a3a0-86a1aba17f48" key="617" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="866">
@@ -1966,13 +1966,13 @@
                     <date when="1792-05-11">11.5.1792</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
                 <!-- H: AdWMainz -->
             </correspDesc>
             <correspDesc xml:id="f6d6fe12-7a42-4e25-80af-5683461a5f8f" key="618" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="868">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1792-05-13">13.5.1792</date>
                 </correspAction>
@@ -1987,7 +1987,7 @@
                     <date when="1792-05-23">23.5.1792</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="b22e15fe-9ab4-4229-9a58-91dca8edfc50" key="620" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="870">
@@ -1997,7 +1997,7 @@
                     <date when="1792-05-27">27.5.1792</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="fe197943-351d-48e7-b7b6-f440bed080c1" key="621" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="872">
@@ -2007,7 +2007,7 @@
                     <date when="1792-05-27">27.5.1792</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="c4f1dda5-d979-4257-afdc-9c3b71eea3f8" key="622" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="873">
@@ -2017,7 +2017,7 @@
                     <date when="1792-07-02">2.7.1792</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="e5f0e167-a750-4c08-8347-976ef17782ad" key="623" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="876">
@@ -2027,12 +2027,12 @@
                     <date when="1792-08-17">17.8.1792</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="abe77693-a1c5-4a12-9493-e498772212c6" key="624" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="877">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
                     <date when="1792-08-26">26.8.1792</date>
                 </correspAction>
@@ -2048,7 +2048,7 @@
                     <date when="1792-08-27">27.8.1792</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="d8c86d10-0794-4c14-a7fe-4ec4caa134e8" key="626" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="879">
@@ -2058,12 +2058,12 @@
                     <date when="1792-10-06">6.10.1792</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc xml:id="f5d3fb63-71bb-453e-a98d-548ee5421d3f" key="627" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="882">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
                     <date when="1792-10-14">14.10.1792</date>
                 </correspAction>
@@ -2073,7 +2073,7 @@
             </correspDesc>
             <correspDesc xml:id="bdfd49b4-f27d-482e-ac5e-be016e983603" key="628" source="#ae941640-6c1a-4d85-8bb9-de3df86e3388" cs:page="886">
                 <correspAction type="sent">
-                    <persName ref="http://viaf.org/viaf/7429975">Samuel Thomas von Soemmerring</persName>
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
                     <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
                     <date when="1792-10-21">21.10.1792</date>
                 </correspAction>
