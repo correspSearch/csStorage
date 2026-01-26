@@ -16,7 +16,7 @@
                         >CC0</licence>
                 </availability>
                 <idno type="url">https://correspsearch.net/storage/lasker-schueler/band7.xml</idno>
-                <date when="2025-09-19T13:52:01.488-02:00"/>
+                <date when="2026-01-26T12:27:01.488-01:00"/>
             </publicationStmt>
             <sourceDesc>
                 <bibl type="print" xml:id="rd2d3be2-7a07-4b02-af2a-c804813dd325">Else
@@ -1854,7 +1854,7 @@
                         1916</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Elisabeth Wolff</persName>
+                    <persName ref="https://d-nb.info/gnd/1072483041">Elisabeth Wolff</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="180">
@@ -1874,7 +1874,7 @@
                     <date when="1916-06-03"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Elisabeth Wolff</persName>
+                    <persName ref="https://d-nb.info/gnd/1072483041">Elisabeth Wolff</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="182">
@@ -3256,7 +3256,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118569880">Else Lasker-Schüler</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-                    <date notBefore="1918-01-01" notAfter="1920-12-31">Um 1919</date>
+                    <date notBefore="1918" notAfter="1920">Um 1919</date>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118547143">Raoul Hausmann</persName>
@@ -3842,7 +3842,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118569880">Else Lasker-Schüler</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-                    <date notBefore="1919-01-01" notAfter="1921-12-31">vermutlich um 1920</date>
+                    <date notBefore="1919" notAfter="1921">vermutlich um 1920</date>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/11727805X">Margarete Weisgerber</persName>
@@ -3946,7 +3946,7 @@
                     <date when="1920-11-14"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Sidonie Fürst</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q115173048">Sidonie Fürst</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="385">
@@ -4321,7 +4321,7 @@
                     <date cert="low" when="1921-07-07">07.(?) 07.1921</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName>Kommission der Nationalgalerie Berlin</orgName>
+                    <orgName ref="https://d-nb.info/gnd/16038427-8">Kommission der Nationalgalerie Berlin</orgName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="422">
@@ -4472,7 +4472,7 @@
                     <date when="1921-10-28"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="437">
@@ -4493,7 +4493,7 @@
                     <date when="1921-11-02"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="439">
@@ -4503,7 +4503,7 @@
                     <date when="1921-11-05"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="440">
@@ -4513,7 +4513,7 @@
                     <date when="1921-11-05"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="441">
@@ -4523,7 +4523,7 @@
                     <date when="1921-11-09"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="442">
@@ -4533,7 +4533,7 @@
                     <date notBefore="1921-11-10">vermutlich kurz nach dem 09.11.1921</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="443">
@@ -4543,7 +4543,7 @@
                     <date notBefore="1921-11-10">vermutlich kurz nach dem 09.11.1921</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="444">
@@ -4553,7 +4553,7 @@
                     <date when="1921-11-15"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                     <persName ref="https://d-nb.info/gnd/142745413">Klaus Gebhard</persName>
                 </correspAction>
             </correspDesc>
@@ -4564,7 +4564,7 @@
                     <date when="1921-11-24"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="446">
@@ -4624,7 +4624,7 @@
                     <date notAfter="1921-12-24">kurz vor dem 25.12.1921</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="452">
@@ -4685,7 +4685,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/142745413">Klaus Gebhard</persName>
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="458">
@@ -4736,7 +4736,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/142745413">Klaus Gebhard</persName>
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="463">
@@ -4828,7 +4828,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/142745413">Klaus Gebhard</persName>
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="472">
@@ -4859,7 +4859,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/142745413">Klaus Gebhard</persName>
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="475">
@@ -4954,7 +4954,7 @@
                     <date when="1922-10-27"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                     <persName ref="https://d-nb.info/gnd/142745413">Klaus Gebhard</persName>
                 </correspAction>
             </correspDesc>
@@ -5038,7 +5038,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/142745413">Klaus Gebhard</persName>
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="492">
@@ -5048,7 +5048,7 @@
                     <date when="1922-12-08"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                     <persName ref="https://d-nb.info/gnd/142745413">Klaus Gebhard</persName>
                 </correspAction>
             </correspDesc>
@@ -5069,7 +5069,7 @@
                     <date when="1922-12-28"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/116361239">Louis Asher</persName>
+                    <persName>Louis Asher</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="495">
@@ -5101,7 +5101,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/142745413">Klaus Gebhard</persName>
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="498">
@@ -5111,7 +5111,7 @@
                     <date cert="low" when="1923-01-23">wahrscheinlich 20.01.1923</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="499">
@@ -5153,7 +5153,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/142745413">Klaus Gebhard</persName>
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="503">
@@ -5164,7 +5164,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/142745413">Klaus Gebhard</persName>
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="504">
@@ -5175,7 +5175,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/142745413">Klaus Gebhard</persName>
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="505">
@@ -5228,7 +5228,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/142745413">Klaus Gebhard</persName>
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="510">
@@ -5239,7 +5239,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/142745413">Klaus Gebhard</persName>
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="511">
@@ -5322,7 +5322,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/142745413">Klaus Gebhard</persName>
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="519">
@@ -5503,7 +5503,7 @@
                     <date when="1923-10-01"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="537">
@@ -5524,7 +5524,7 @@
                         1923</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                     <persName ref="https://d-nb.info/gnd/142745413">Klaus Gebhard</persName>
                 </correspAction>
             </correspDesc>
@@ -5537,7 +5537,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/142745413">Klaus Gebhard</persName>
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="540">
@@ -5560,7 +5560,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/142745413">Klaus Gebhard</persName>
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="542">
@@ -5572,7 +5572,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/142745413">Klaus Gebhard</persName>
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="543">
@@ -5584,7 +5584,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/142745413">Klaus Gebhard</persName>
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="545">
@@ -5624,7 +5624,7 @@
                     <date when="1923-11-01"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                     <persName ref="https://d-nb.info/gnd/142745413">Klaus Gebhard</persName>
                 </correspAction>
             </correspDesc>
@@ -5657,7 +5657,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/142745413">Klaus Gebhard</persName>
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="551">
@@ -5687,7 +5687,7 @@
                     <date when="1923-11-27"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="554">
@@ -5778,7 +5778,7 @@
                     <date when="1924-01-05"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="563">
@@ -6031,7 +6031,7 @@
                     <date when="1924-03-30"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="588">
@@ -6112,7 +6112,7 @@
                     <date notBefore="1924-04-12">kurz nach dem 11.04.1924</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="596">
@@ -6164,7 +6164,7 @@
                     <date when="1924-05-14"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="601">
@@ -6174,7 +6174,7 @@
                     <date when="1924-05-20"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="602">
@@ -6204,7 +6204,7 @@
                     <date when="1924-05-28"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="605">
@@ -6214,7 +6214,7 @@
                     <date when="1924-06-03"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="606">
@@ -6224,7 +6224,7 @@
                     <date when="1924-06-03"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="607">
@@ -6234,7 +6234,7 @@
                     <date notBefore="1924-06-01" notAfter="1924-06-30">vielleicht Juni 1924</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Carl Krall</persName>
+                    <persName ref="http://www.wikidata.org/entity/Q137896118">Carl Krall d. J.</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#rd2d3be2-7a07-4b02-af2a-c804813dd325" key="608">
