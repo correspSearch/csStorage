@@ -14,7 +14,7 @@
                     <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
                 </availability>
                 <idno type="url">http://correspsearch.bbaw.de/storage/soemmerring/1792-1805.xml</idno>
-                <date when="2025-06-01"/>
+                <date when="2026-02-18"/>
             </publicationStmt>
             <sourceDesc>
                 <bibl xml:id="fd7700b8-ead0-4228-81cd-1b4ce4bbff8f" type="print">Samuel Thomas Soemmerring. Briefwechsel November 1792 – April 1805. Hrsg. u. erl. v. Franz Dumont. Basel
@@ -732,7 +732,7 @@
             <correspDesc xml:id="a3818795-01b9-4b38-b792-fdc81ad808a5" key="698" source="#fd7700b8-ead0-4228-81cd-1b4ce4bbff8f">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/129733199">Friedrich Varrentrapp</persName>
-                    <persName ref="http://viaf.org/viaf/225082503">Konrad Wenner</persName>
+                    <persName ref="http://d-nb.info/gnd/1037496485">Konrad Wenner</persName>
                     <date notBefore="1794-04-20" notAfter="1794-04-30">Ende April 1794</date>
                 </correspAction>
                 <correspAction type="received">
