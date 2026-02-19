@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefe Heinrich Mann an Waldemar Bonsels und Tilly Wedekind</title>
+                <editor>Ariane Martin<email>a.martin@uni-mainz.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.martin.germanistik.uni-mainz.de/">Ariane Martin</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY
+                        4.0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/hmann/Bonsels_Wedekind.xml</idno>
+                <date when="2026-02-16T11:27:21.886-01:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="db0970fb-574d-4550-b3bc-a395165148b4">Ariane Martin:
+                    Münchner Momente. Heinrich Mann zum 150. Geburtstag. In: Jahrbuch der Freunde
+                    der Monacensia 2021, S. 45-64.
+                    <ref target="https://jahrbuch-monacensia.ub.lmu.de/index.php/mona/article/view/350/332">https://jahrbuch-monacensia.ub.lmu.de/index.php/mona/article/view/350/332</ref></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#db0970fb-574d-4550-b3bc-a395165148b4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2844691">Roßholzen</placeName>
+                    <date when="1905-08-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118661620">Waldemar Bonsels</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
+                        >München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#db0970fb-574d-4550-b3bc-a395165148b4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1907-01-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118661620">Waldemar Bonsels</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
+                        >München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#db0970fb-574d-4550-b3bc-a395165148b4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3170050">Possagno</placeName>
+                    <date when="1907-06-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118661620">Waldemar Bonsels</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
+                        >München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#db0970fb-574d-4550-b3bc-a395165148b4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/5368361">Los Angeles</placeName>
+                    <date when="1946-04-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116995157">Tilly Wedekind</persName>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

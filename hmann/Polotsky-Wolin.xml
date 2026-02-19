@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefe Adele Polotsky-Wolin an Heinrich Mann</title>
+                <editor>Ariane Martin<email>a.martin@uni-mainz.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.martin.germanistik.uni-mainz.de/">Ariane Martin</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY
+                        4.0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/hmann/Polotsky-Wolin.xml</idno>
+                <date when="2026-02-16T13:08:01.184-01:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="m07ce0a5-a935-4ad7-bf2b-dbfa13d435e4">Briefe der
+                    russischen Übersetzerin Adele Polotsky-Wolin an Heinrich Mann. In: Ariane
+                    Martin: Heinrich Mann: Der Untertan 1906 bis 1918. Entstehung und Überlieferung.
+                    Im Anhang: Briefe der russischen Übersetzerin Adele Polotsky-Wolin an Heinrich
+                    Mann. Bielefeld: Aisthesis Verlag 2021, S. 136-155.</bibl>
+                <bibl type="print" xml:id="n28d5056-56f6-46c1-8874-832c9eec741e">Heinrich Mann
+                    1871-1950. Werk und Leben in Dokumenten und Bildern. Mit unveröffentlichten
+                    Manuskripten und Briefen aus dem Nachlaß. Hg. von Sigrid Anger. Berlin, Weimar:
+                    Aufbau-Verlag 1971.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#m07ce0a5-a935-4ad7-bf2b-dbfa13d435e4" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1245888641">Adele Polotsky-Wolin</persName>
+                    <placeName ref="http://www.geonames.org/498817">Sankt Petersburg</placeName>
+                    <date evidence="conjecture" when="1913-04-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m07ce0a5-a935-4ad7-bf2b-dbfa13d435e4" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1245888641">Adele Polotsky-Wolin</persName>
+                    <placeName ref="http://www.geonames.org/498817">Sankt Petersburg</placeName>
+                    <date evidence="conjecture" when="1913-05-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m07ce0a5-a935-4ad7-bf2b-dbfa13d435e4" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1245888641">Adele Polotsky-Wolin</persName>
+                    <placeName ref="http://www.geonames.org/498817">Sankt Petersburg</placeName>
+                    <date evidence="conjecture" when="1913-05-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m07ce0a5-a935-4ad7-bf2b-dbfa13d435e4" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1245888641">Adele Polotsky-Wolin</persName>
+                    <placeName ref="http://www.geonames.org/498817">Sankt Petersburg</placeName>
+                    <date evidence="conjecture" when="1913-08-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m07ce0a5-a935-4ad7-bf2b-dbfa13d435e4" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1245888641">Adele Polotsky-Wolin</persName>
+                    <placeName ref="http://www.geonames.org/498817">Sankt Petersburg</placeName>
+                    <date evidence="conjecture" when="1913-09-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2820692">Tutzing</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m07ce0a5-a935-4ad7-bf2b-dbfa13d435e4" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1245888641">Adele Polotsky-Wolin</persName>
+                    <placeName ref="http://www.geonames.org/498817">Sankt Petersburg</placeName>
+                    <date evidence="conjecture" when="1914-05-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m07ce0a5-a935-4ad7-bf2b-dbfa13d435e4" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1245888641">Adele Polotsky-Wolin</persName>
+                    <placeName ref="http://www.geonames.org/498817">Sankt Petersburg</placeName>
+                    <date evidence="conjecture" when="1911-02-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

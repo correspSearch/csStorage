@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefe Irmgard Keun an Heinrich Mann</title>
+                <editor>Ariane Martin<email>a.martin@uni-mainz.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.martin.germanistik.uni-mainz.de/">Ariane Martin</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY
+                        4.0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/hmann/Keun.xml</idno>
+                <date when="2026-02-16T12:02:07.222-01:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="aac12d93-568c-4476-87e2-aae368fa69d2">Irmgard Keun an
+                    Heinrich Mann. Zwei Briefe (1947/48). In: Irmgard Keun 1905 / 2005. Deutungen
+                    und Dokumente. Hg. von Stefanie Arend und Ariane Martin. Bielefeld: Aisthesis
+                    2005, S. 302-308.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#aac12d93-568c-4476-87e2-aae368fa69d2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118722123">Irmgard Keun</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1947-11-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/5368361">Los Angeles</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#aac12d93-568c-4476-87e2-aae368fa69d2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118722123">Irmgard Keun</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1948-06-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/5368361">Los Angeles</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

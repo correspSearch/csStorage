@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief Heinrich Mann an Ludwig Jacobowski</title>
+                <editor>Ariane Martin<email>a.martin@uni-mainz.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.martin.germanistik.uni-mainz.de/">Ariane Martin</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY
+                        4.0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/hmann/Jacobowski.xml</idno>
+                <date when="2026-02-16T13:06:41.752-01:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="ye828a74-672a-4b55-a661-02cb5cf2fb1e">Ariane Martin:
+                    Heinrich Mann und die „antinaturalistische Richtung“. Bemerkungen zu einem wenig
+                    bekannten Brief des jungen Autors an Ludwig Jacobowski. In: Heinrich
+                    Mann-Jahrbuch 16 (1998), S. 133-144.</bibl>
+                <bibl type="print" xml:id="y277a2d8-2edb-42d6-9c61-f49be6e4cb20">Auftakt zur
+                    Literatur des 20. Jahrhunderts. Briefe aus dem Nachlaß von Ludwig Jacobowski.
+                    Band 1. Die Briefe. Hg. von Fred B. Stern. Heidelberg: Verlag Lambert Schneider
+                    1974. Brief Nr. 151. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#ye828a74-672a-4b55-a661-02cb5cf2fb1e">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1891-03-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118711148">Ludwig Jacobowski</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

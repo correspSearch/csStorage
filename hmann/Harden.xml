@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefwechsel Heinrich Mann mit Maximilian Harden</title>
+                <editor>Ariane Martin<email>a.martin@uni-mainz.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.martin.germanistik.uni-mainz.de/">Ariane Martin</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY
+                        4.0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/hmann/Harden.xml</idno>
+                <date when="2026-02-16T12:53:11.958-01:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="j1b78615-0329-483e-94ea-09e6511a3ed2">Briefwechsel
+                    Heinrich Mann – Maximilian Harden 1904-1921. In: Frank Wedekind, Thomas Mann,
+                    Heinrich Mann – Briefwechsel mit Maximilian Harden. Hg., kommentiert und mit
+                    einem einleitenden Essay von Ariane Martin. Darmstadt: Verlag Jürgen Häusser
+                    1996 (= Pharus V), S. 165-190.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#j1b78615-0329-483e-94ea-09e6511a3ed2" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3169272">Riva</placeName>
+                    <date evidence="conjecture" when="1904-10-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1b78615-0329-483e-94ea-09e6511a3ed2" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+                    <date evidence="conjecture" when="1904-03-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1b78615-0329-483e-94ea-09e6511a3ed2" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1906-03-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1b78615-0329-483e-94ea-09e6511a3ed2" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date evidence="conjecture" when="1906-04-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1b78615-0329-483e-94ea-09e6511a3ed2" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1908-10-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1b78615-0329-483e-94ea-09e6511a3ed2" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2990440">Nizza</placeName>
+                    <date when="1910-01-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1b78615-0329-483e-94ea-09e6511a3ed2" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date evidence="conjecture" when="1910-12-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1b78615-0329-483e-94ea-09e6511a3ed2" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName ref="http://www.geonames.org/2749813">Noordwijk aan Zee</placeName>
+                    <date when="1908-09-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1b78615-0329-483e-94ea-09e6511a3ed2" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1912-10-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName ref="http://www.geonames.org/2749813">Noordwijk aan Zee</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1b78615-0329-483e-94ea-09e6511a3ed2" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1913-06-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1b78615-0329-483e-94ea-09e6511a3ed2" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1916-01-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1b78615-0329-483e-94ea-09e6511a3ed2" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1916-01-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1b78615-0329-483e-94ea-09e6511a3ed2" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1916-07-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1b78615-0329-483e-94ea-09e6511a3ed2" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1916-07-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1b78615-0329-483e-94ea-09e6511a3ed2" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1917-07-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1b78615-0329-483e-94ea-09e6511a3ed2" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1917-10-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1b78615-0329-483e-94ea-09e6511a3ed2" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1917-12-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1b78615-0329-483e-94ea-09e6511a3ed2" key="18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1919-08-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1b78615-0329-483e-94ea-09e6511a3ed2" key="19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1921-03-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1b78615-0329-483e-94ea-09e6511a3ed2" key="20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1921-03-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1b78615-0329-483e-94ea-09e6511a3ed2" key="21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <persName ref="https://d-nb.info/gnd/118677101">Richard Nikolaus
+                        Coudenhove-Kalergi</persName>
+                    <persName ref="https://d-nb.info/gnd/116057513">Ida Roland</persName>
+                    <placeName ref="http://www.geonames.org/2782058">Bad Gastein</placeName>
+                    <date evidence="conjecture" when="1921-07-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1b78615-0329-483e-94ea-09e6511a3ed2" key="22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1921-09-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1b78615-0329-483e-94ea-09e6511a3ed2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1921-09-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119239175">Erich Reiß</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j1b78615-0329-483e-94ea-09e6511a3ed2" key="23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1921-11-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

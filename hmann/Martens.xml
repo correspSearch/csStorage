@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefe Heinrich Mann an Kurt Martens</title>
+                <editor>Ariane Martin<email>a.martin@uni-mainz.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.martin.germanistik.uni-mainz.de/">Ariane Martin</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY
+                        4.0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/hmann/Martens.xml</idno>
+                <date when="2026-02-16T11:08:39.97-01:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="qeb5337c-4d04-444a-9079-1bdc095000ce">Ariane Martin:
+                    Heinrich Manns Briefe an Kurt Martens. Münchner Momente eines politischen
+                    Schriftstellers (zum 75. Todestag). In: Jahrbuch der Freunde der Monacensia
+                    2025, S. 29-46.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#qeb5337c-4d04-444a-9079-1bdc095000ce">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1917-02-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116800992">Kurt Martens</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#qeb5337c-4d04-444a-9079-1bdc095000ce">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1917-02-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116800992">Kurt Martens</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#qeb5337c-4d04-444a-9079-1bdc095000ce">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1917-03-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116800992">Kurt Martens</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#qeb5337c-4d04-444a-9079-1bdc095000ce">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1918-01-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116800992">Kurt Martens</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
+                        >München</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
