@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefwechsel Thomas Mann mit Maximilian Harden</title>
+                <editor>Ariane Martin<email>a.martin@uni-mainz.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.martin.germanistik.uni-mainz.de/">Ariane Martin</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY
+                        4.0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/tmann-harden.xml</idno>
+                <date when="2026-02-24T10:17:53.243-01:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="m66fc863-5440-4b63-b262-271c370daba1">Briefwechsel Thomas
+                    Mann – Maximilian Harden 1902-1921. In: Frank Wedekind, Thomas Mann, Heinrich
+                    Mann – Briefwechsel mit Maximilian Harden. Hg., kommentiert und mit einem
+                    einleitenden Essay von Ariane Martin. Darmstadt: Verlag Jürgen Häusser 1996 (=
+                    Pharus V), S. 143-163.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#m66fc863-5440-4b63-b262-271c370daba1" key="1">
+                <correspAction type="sent">
+                    <persName>Thomas Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1902-11-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m66fc863-5440-4b63-b262-271c370daba1" key="2">
+                <correspAction type="sent">
+                    <persName>Thomas Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1905-11-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m66fc863-5440-4b63-b262-271c370daba1" key="3">
+                <correspAction type="sent">
+                    <persName>Thomas Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1906-03-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m66fc863-5440-4b63-b262-271c370daba1" key="4">
+                <correspAction type="sent">
+                    <persName>Thomas Mann</persName>
+                    <placeName>München</placeName>
+                    <date when="1908-01-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m66fc863-5440-4b63-b262-271c370daba1" key="5">
+                <correspAction type="sent">
+                    <persName>Thomas Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1910-06-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m66fc863-5440-4b63-b262-271c370daba1" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName>Berlin</placeName>
+                    <date when="1910-07-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577166">Thomas Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m66fc863-5440-4b63-b262-271c370daba1" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577166">Thomas Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1910-07-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m66fc863-5440-4b63-b262-271c370daba1" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577166">Thomas Mann</persName>
+                    <placeName ref="http://www.geonames.org/2953324">Bad Tölz</placeName>
+                    <date when="1910-08-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m66fc863-5440-4b63-b262-271c370daba1" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577166">Thomas Mann</persName>
+                    <placeName ref="http://www.geonames.org/2953324">Bad Tölz</placeName>
+                    <date when="1910-08-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m66fc863-5440-4b63-b262-271c370daba1" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577166">Thomas Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1912-12-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m66fc863-5440-4b63-b262-271c370daba1" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577166">Thomas Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1913-01-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m66fc863-5440-4b63-b262-271c370daba1" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577166">Thomas Mann</persName>
+                    <date notAfter="1913-07-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName>Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m66fc863-5440-4b63-b262-271c370daba1" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577166">Thomas Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1916-01-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m66fc863-5440-4b63-b262-271c370daba1" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577166">Thomas Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1921-11-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118545892">Maximilian Harden</persName>
+                    <placeName evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

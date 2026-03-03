@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefe Irmgard Keun an Hermann Kesten</title>
+                <editor>Ariane Martin<email>a.martin@uni-mainz.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.martin.germanistik.uni-mainz.de/">Ariane Martin</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY
+                        4.0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/keun-kesten.xml</idno>
+                <date when="2026-02-23T18:48:26.628-01:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="hd703d6d-2f10-4e25-ae6f-1af97bb1916a">Irmgard Keun an
+                    Hermann Kesten. Zehn Briefe (1946-1975). In: Irmgard Keun 1905 / 2005. Deutungen
+                    und Dokumente. Hg. von Stefanie Arend und Ariane Martin. Bielefeld: Aisthesis
+                    Verlag 2005, S. 273-302.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#hd703d6d-2f10-4e25-ae6f-1af97bb1916a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118722123">Irmgard Keun</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1946-10-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118561715">Hermann Kesten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#hd703d6d-2f10-4e25-ae6f-1af97bb1916a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118722123">Irmgard Keun</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date notBefore="1946-12-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118561715">Hermann Kesten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#hd703d6d-2f10-4e25-ae6f-1af97bb1916a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118722123">Irmgard Keun</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1947-02-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118561715">Hermann Kesten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#hd703d6d-2f10-4e25-ae6f-1af97bb1916a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118722123">Irmgard Keun</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1947-04-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118561715">Hermann Kesten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#hd703d6d-2f10-4e25-ae6f-1af97bb1916a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118722123">Irmgard Keun</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1947-08-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118561715">Hermann Kesten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#hd703d6d-2f10-4e25-ae6f-1af97bb1916a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118722123">Irmgard Keun</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1948-05-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118561715">Hermann Kesten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#hd703d6d-2f10-4e25-ae6f-1af97bb1916a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118722123">Irmgard Keun</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1949-11-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118561715">Hermann Kesten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#hd703d6d-2f10-4e25-ae6f-1af97bb1916a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118722123">Irmgard Keun</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1949-12-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118561715">Hermann Kesten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#hd703d6d-2f10-4e25-ae6f-1af97bb1916a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118722123">Irmgard Keun</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date notBefore="1951-07-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118561715">Hermann Kesten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#hd703d6d-2f10-4e25-ae6f-1af97bb1916a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118722123">Irmgard Keun</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1953-11-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118561715">Hermann Kesten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#hd703d6d-2f10-4e25-ae6f-1af97bb1916a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118722123">Irmgard Keun</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date when="1975-03-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118561715">Hermann Kesten</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

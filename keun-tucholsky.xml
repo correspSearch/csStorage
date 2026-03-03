@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefwechsel Irmgard Keun mit Kurt Tucholsky</title>
+                <editor>Ariane Martin<email>a.martin@uni-mainz.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.martin.germanistik.uni-mainz.de/">Ariane Martin</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY
+                        4.0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/keun-tucholsky.xml</idno>
+                <date when="2026-02-23T18:34:22.656-01:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="f361cbcc-e098-4a50-8ca8-65cf0c9c6cca">Irmgard Keun und
+                    Kurt Tucholsky – und Robert Neumann. Vier Briefe (1932) und ein Rückblick
+                    (1966/68). In: Irmgard Keun 1905 / 2005. Deutungen und Dokumente. Hg. von
+                    Stefanie Arend und Ariane Martin. Bielefeld: Aisthesis Verlag 2005, S.
+                    131-136.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#f361cbcc-e098-4a50-8ca8-65cf0c9c6cca">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118722123">Irmgard Keun</persName>
+                    <placeName ref="http://www.geonames.org/2869076">Moselkern</placeName>
+                    <date when="1932-07-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11862444X">Kurt Tucholsky</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f361cbcc-e098-4a50-8ca8-65cf0c9c6cca">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11862444X">Kurt Tucholsky</persName>
+                    <date when="1932-07-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118722123">Irmgard Keun</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f361cbcc-e098-4a50-8ca8-65cf0c9c6cca">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11862444X">Kurt Tucholsky</persName>
+                    <date when="1932-08-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118722123">Irmgard Keun</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

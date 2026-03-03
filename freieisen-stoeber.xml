@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief Johann Christoph Freieisen an August Stoeber</title>
+                <editor>Ariane Martin<email>a.martin@uni-mainz.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.martin.germanistik.uni-mainz.de/">Ariane Martin</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/freieisen-stoeber.xml</idno>
+                <date when="2026-02-23T18:27:35.268-01:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="q968f389-b31d-431c-adc6-e01d1af01da1">Johann Christoph Freieisens Brief an August Stoeber vom 8. März 1839. Spuren eines Romans über J. M. R. Lenz in einem Dokument der Lenz-Rezeption im Umkreis Georg Büchners. In: Lenz-Jahrbuch. Literatur – Kultur – Medien 1750−1800, Jg. 27 (2020), S. 87-97.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#q968f389-b31d-431c-adc6-e01d1af01da1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/104260084">Johann Christoph Freieisen</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1839-03-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119059010">August Stoeber</persName>
+                    <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
+                    <date evidence="conjecture" when="1839-03-12"/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
