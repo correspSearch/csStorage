@@ -1,0 +1,877 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefwechsel Heinrich Mann mit Inés Schmied, Teil 1</title>
+                <editor>Ariane Martin<email>a.martin@uni-mainz.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.martin.germanistik.uni-mainz.de/">Ariane Martin</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY
+                        4.0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/hmann/Schmied-1.xml</idno>
+                <date when="2026-03-09T15:03:27.288-01:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="jca8b701-9863-46ca-86a9-3bb3b9dcb172">Briefe einer Liebe.
+                    Heinrich Mann und Inés Schmied 1905 bis 1909. Hg. von Günter Berg, Anke
+                    Lindemann-Stark und Ariane Martin. Teil 1: 1905 bis 1906. In: Heinrich
+                    Mann-Jahrbuch 17 (1999), S. 145-231.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3176959"
+                        cert="low">Florenz</placeName>
+                    <date notBefore="1905-02-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3176959" cert="low">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName ref="http://www.geonames.org/3176959" cert="low">Florenz</placeName>
+                    <date notBefore="1905-02-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3176959" cert="low">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName ref="http://www.geonames.org/3173435">Mailand</placeName>
+                    <date evidence="conjecture" when="1905-04-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3176959"
+                        >Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+                    <date when="1905-04-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3173435"
+                        >Mailand</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3176959"
+                        >Florenz</placeName>
+                    <date when="1905-04-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3176959"
+                        >Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116794577">Rudolf Schmied</persName>
+                    <persName>Fritz Euh</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3176959"
+                        >Florenz</placeName>
+                    <date evidence="conjecture" when="1905-04-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3176959"
+                        >Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3176959"
+                        >Florenz</placeName>
+                    <date notBefore="1905-04-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3176959"
+                        >Florenz</placeName>
+                    <date notBefore="1905-04-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3176959"
+                        >Florenz</placeName>
+                    <date notBefore="1905-04-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3176959"
+                        >Florenz</placeName>
+                    <date notBefore="1905-04-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116794577">Rudolf Schmied</persName>
+                    <placeName ref="http://www.geonames.org/3169272">Riva</placeName>
+                    <date when="1905-05-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName ref="http://www.geonames.org/3165524">Turin</placeName>
+                    <date evidence="conjecture" when="1905-05-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+                    <date when="1905-06-30"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172"
+                key="13 [im Druck ohne Briefanfang, der nun datiert aufgefunden]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3169272">Riva</placeName>
+                    <date when="1905-06-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3169272">Riva</placeName>
+                    <date when="1905-06-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+                    <date when="1905-06-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3169272">Riva</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172"
+                key="16 [im Druck ohne Briefanfang, der nun datiert aufgefunden]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3169272">Riva</placeName>
+                    <date when="1905-06-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName ref="http://www.geonames.org/3177019">Fiesole</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3169272">Riva</placeName>
+                    <date when="1905-06-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName ref="http://www.geonames.org/3177019">Fiesole</placeName>
+                    <date when="1905-06-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3169272">Riva</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3169272">Riva</placeName>
+                    <date when="1905-06-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3177019"
+                        >Fiesole</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+                    <date when="1905-06-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3169272">Riva</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3169272">Riva</placeName>
+                    <date when="1905-06-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3177019"
+                        >Fiesole</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName ref="http://www.geonames.org/3177019">Fiesole</placeName>
+                    <date when="1905-07-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3169272">Riva</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1905-07-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName ref="http://www.geonames.org/3177019">Fiesole</placeName>
+                    <date when="1905-07-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2844691">Roßholzen</placeName>
+                    <date notBefore="1905-07-22"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2844691">Roßholzen</placeName>
+                    <date when="1905-07-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3177019"
+                        >Fiesole</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName ref="http://www.geonames.org/3177019">Fiesole</placeName>
+                    <date when="1905-07-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2844691">Roßholzen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2844691">Roßholzen</placeName>
+                    <date notBefore="1905-07-30" notAfter="1905-08-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName ref="http://www.geonames.org/3177019">Fiesole</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName ref="http://www.geonames.org/3177019">Fiesole</placeName>
+                    <date when="1905-08-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2844691">Roßholzen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2861599">Nußdorf</placeName>
+                    <date when="1905-08-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3177019"
+                        >Fiesole</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3177019"
+                        >Fiesole</placeName>
+                    <date evidence="conjecture" when="1905-08-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2844691">Roßholzen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3177019"
+                        >Fiesole</placeName>
+                    <date notAfter="1905-08-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2844691">Roßholzen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3177019"
+                        >Fiesole</placeName>
+                    <date evidence="conjecture" when="1905-08-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2844691">Roßholzen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <persName>Piero Rigacci</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3177019"
+                        >Fiesole</placeName>
+                    <date evidence="conjecture" when="1905-08-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2844691">Roßholzen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName ref="http://www.geonames.org/3177019">Fiesole</placeName>
+                    <date when="1905-09-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2954172">Augsburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3176959"
+                        >Florenz</placeName>
+                    <date notAfter="1905-11-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116794577">Rudolf Schmied</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="36">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3176959"
+                        >Florenz</placeName>
+                    <date notBefore="1905-11-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3176959"
+                        >Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+                    <date notBefore="1905-11-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3176959"
+                        >Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1906-01-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date evidence="conjecture" when="1906-01-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="40">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notAfter="1906-02-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="41">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <persName>Rosa Poser</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date evidence="conjecture" when="1906-02-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="42">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <persName>Rosa Poser</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date evidence="conjecture" when="1906-02-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="43">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date evidence="conjecture" when="1906-02-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <persName>Rosa Poser</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date notAfter="1906-02-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+                    <date evidence="conjecture" when="1906-02-27"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1906-03-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1906-03-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3169272">Riva</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1906-03-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3169272">Riva</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="49">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1906-04-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="50">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1906-04-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="51">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date notBefore="1906-04-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="52">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName ref="http://www.geonames.org/2829513">Stapelburg</placeName>
+                    <date when="1906-07-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2861422">Oberammergau</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="53">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName ref="http://www.geonames.org/2829513">Stapelburg</placeName>
+                    <date when="1906-07-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2861422">Oberammergau</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="54">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName ref="http://www.geonames.org/2829513">Stapelburg</placeName>
+                    <date evidence="conjecture" when="1906-07-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2861422">Oberammergau</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="55">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2943991">Brocken
+                        im Harz</placeName>
+                    <date notAfter="1906-07-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2861422">Oberammergau</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="56">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2829513"
+                        >Stapelburg</placeName>
+                    <date evidence="conjecture" when="1906-08-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2861422">Oberammergau</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="57">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2829513"
+                        >Stapelburg</placeName>
+                    <date evidence="conjecture" when="1906-08-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2861422">Oberammergau</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="58">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2829513"
+                        >Stapelburg</placeName>
+                    <date evidence="conjecture" when="1906-08-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2861422">Oberammergau</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="59">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2829513"
+                        >Stapelburg</placeName>
+                    <date evidence="conjecture" when="1906-08-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2861422">Oberammergau</placeName>
+                    <date evidence="conjecture" when="1906-08-27"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="60">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date notAfter="1906-09-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2861422">Oberammergau</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="61">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date evidence="conjecture" when="1906-09-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2861422">Oberammergau</placeName>
+                    <date evidence="conjecture" when="1906-09-08"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="62">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2940187"
+                        >Charlottenburg</placeName>
+                    <date evidence="conjecture" when="1906-09-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
+                        >München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="64">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2940187"
+                        >Charlottenburg</placeName>
+                    <date when="1906-09-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date evidence="conjecture" when="1906-09-24"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="65">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2940187"
+                        >Charlottenburg</placeName>
+                    <date evidence="conjecture" when="1906-09-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="66">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2651048"
+                        >Dover</placeName>
+                    <date evidence="conjecture" when="1906-12-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
+                        >München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="67">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2651048"
+                        >Dover</placeName>
+                    <date evidence="conjecture" when="1906-12-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
+                        >München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="68">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3119841">La
+                        Coruña</placeName>
+                    <date notAfter="1906-12-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
+                        >München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="69">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <date notAfter="1906-12-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
+                        >München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="70">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2511174"
+                        >Teneriffa</placeName>
+                    <date notAfter="1906-12-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
+                        >München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172"
+                key="71 [im Druck irrtümlich 1906 datiert]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123012368">Inés Schmied</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
+                        >München</placeName>
+                    <date when="1908-12-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3173577">Meran</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="48">
+                <correspAction type="sent">
+                    <persName>Pauline Schmied</persName>
+                    <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+                    <date when="1906-03-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jca8b701-9863-46ca-86a9-3bb3b9dcb172" key="63">
+                <correspAction type="sent">
+                    <persName>Pauline Schmied</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1906-09-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
