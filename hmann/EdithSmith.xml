@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefe von Edith Smith an Heinrich Mann, 1901-1904</title>
+                <editor>Paul Whitehead<email>pwhitehe@uni-mainz.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.germanistik.uni-mainz.de/dr-paul-whitehead/">Paul
+                        Whitehead</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY
+                        4.0</licence>
+                </availability>
+                <date when="2026-04-30T10:43:31.976-02:00"/>
+                <idno type="url">https://correspsearch.net/storage/hmann/EdithSmith.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="bee9bcec-5123-439d-a7da-2ad309388ff5">Paul Whitehead: "I
+                    really do think the English ideas are best". Acht Briefe von Edith Smith an
+                    Heinrich Mann, 1901-1904. In: Heinrich Mann-Jahrbuch 35 (2017), S.
+                    125-150.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#bee9bcec-5123-439d-a7da-2ad309388ff5" key="1">
+                <correspAction type="sent">
+                    <persName>Edith Smith</persName>
+                    <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+                    <date when="1901-06-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bee9bcec-5123-439d-a7da-2ad309388ff5" key="2">
+                <correspAction type="sent">
+                    <persName>Edith Smith</persName>
+                    <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+                    <date when="1901-07-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bee9bcec-5123-439d-a7da-2ad309388ff5" key="3">
+                <correspAction type="sent">
+                    <persName>Edith Smith</persName>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                    <date when="1901-12-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bee9bcec-5123-439d-a7da-2ad309388ff5" key="4">
+                <correspAction type="sent">
+                    <persName>Edith Smith</persName>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                    <date when="1902-02-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bee9bcec-5123-439d-a7da-2ad309388ff5" key="5">
+                <correspAction type="sent">
+                    <persName>Edith Smith</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1902-05-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bee9bcec-5123-439d-a7da-2ad309388ff5" key="6">
+                <correspAction type="sent">
+                    <persName>Edith Smith</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1902-12-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bee9bcec-5123-439d-a7da-2ad309388ff5" key="7">
+                <correspAction type="sent">
+                    <persName>Edith Smith</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date to="1904-07-24" from="1902-12-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bee9bcec-5123-439d-a7da-2ad309388ff5" key="8">
+                <correspAction type="sent">
+                    <persName>Edith Smith</persName>
+                    <placeName ref="http://www.geonames.org/2654588">Bromley</placeName>
+                    <date when="1904-07-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Heinrich Mann</persName>
+                    <placeName ref="http://www.geonames.org/3167357">Ulten</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
