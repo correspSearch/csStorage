@@ -11,148 +11,182 @@
                     <ref target="https://orcid.org/0000-0003-1236-471X">Paweł Zarychta</ref>
                 </publisher>
                 <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY
+                        4.0</licence>
                 </availability>
                 <idno type="url">https://correspsearch.net/storage/assing/band2.xml</idno>
-                <date when="2026-06-24T12:45:07.682-02:00"/>
+                <date when="2026-06-24T12:55:07.682-02:00"/>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="print" xml:id="xbd8f6ea-018c-4948-8a99-edbf0dd52518">Paweł Zarychta: Selbstinszenierung und Gedächtnisbildung. Rosa Maria Assing in Briefen und Lebenszeugnissen aus der Sammlung Varnhagen. Edition und Kommentar. Teil II. 1823–1840, Berlin: Peter Lang 2022. DOI: https://doi.org/10.3726/b19005</bibl>
+                <bibl type="print" xml:id="xbd8f6ea-018c-4948-8a99-edbf0dd52518">Paweł Zarychta:
+                    Selbstinszenierung und Gedächtnisbildung. Rosa Maria Assing in Briefen und
+                    Lebenszeugnissen aus der Sammlung Varnhagen. Edition und Kommentar. Teil II.
+                    1823–1840, Berlin: Peter Lang 2022. DOI: <ref target="https://doi.org/10.3726/b19005">https://doi.org/10.3726/b19005</ref></bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="174; S. 12-13">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                     <date when="1823-08-29"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="176; S. 17-18">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1823-09-17"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="177; S. 18">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1823-11-04"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/116908327">Friedrich Wilhelm Gubitz</persName>
+                    <persName ref="https://d-nb.info/gnd/116908327">Friedrich Wilhelm
+                        Gubitz</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="179; S. 23-24">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1823-12-05"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="181; S. 28-29">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1824-01-30"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118626167">Karl
+                        August Varnhagen von Ense</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="183; S. 33-35">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1824-07-10"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="185; S. 44">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1825-02-11"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118885235" cert="low">Johann Friedrich Kind</persName>
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118885235" cert="low"
+                        >Johann Friedrich Kind</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="187; S. 48-51">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1825-04-05"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="189; S. 61-66">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1825-12-12"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="191; S. 72-74">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1826-05-26"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="193; S. 76-77">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1826-08-15"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="194; S. 77-83">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1826-09-07"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="195; S. 83-84">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1826-09-07"/>
                 </correspAction>
@@ -163,29 +197,36 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="197; S. 88-92">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1827-02-24"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="198; S. 92-93">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                     <date notBefore="1827-03-01" notAfter="1827-03-31"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://d-nb.info/gnd/1162281944">Fanny Hertz, geb. Bacher</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298" cert="low">Hamburg</placeName>
+                    <persName ref="http://d-nb.info/gnd/1162281944">Fanny Hertz, geb.
+                        Bacher</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        cert="low">Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="199; S. 93-95">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1827-03-30"/>
                 </correspAction>
@@ -195,108 +236,130 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="202; S. 106-108">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                     <date when="1827-09-03"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="204; S. 116-120">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1828-01-25"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                     <persName ref="https://d-nb.info/gnd/118626175">Rahel Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="206; S. 128-129">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1828-11-21"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="208; S. 131-137">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date notBefore="1829-01-20" notAfter="1829-02-10"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="210; S. 139-142">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1829-05-15"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="212; S. 143-144">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1829-11-04"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="215; S. 147-148">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1830-06-02"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="216.1; S. 149-150">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2852228">Premslin</placeName>
                     <date when="1830-06-05"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="216.2; S. 150-151">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1830-06-08"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="216.3; S. 151">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1830-06-12"/>
                 </correspAction>
@@ -307,7 +370,8 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="216.4; S. 152-156">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date to="1830-06-15" from="1830-06-12"/>
                 </correspAction>
@@ -318,73 +382,86 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="216.5; S. 156-158">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date to="1830-06-19" from="1830-06-17"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="216.6; S. 158-159">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date to="1830-06-22" from="1830-06-20"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="216.7; S. 159-161">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date to="1830-06-26" from="1830-06-24"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="216.8; S. 161">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1830-06-28"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="216.9; S. 161-162">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1830-06-30"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="216.10; S. 162">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1830-07-05"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="216.11; S. 162-163">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2882161">Kyritz</placeName>
                     <date when="1830-07-07"/>
                 </correspAction>
@@ -394,98 +471,119 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="218; S. 165-166">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1830-07-13"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                     <persName ref="https://d-nb.info/gnd/118626175">Rahel Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="220; S. 169-172">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1830-09-10"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="222; S. 175-178">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1830-09-29"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                     <persName ref="https://d-nb.info/gnd/118626175">Rahel Varnhagen</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="224; S. 183">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1831-04-22"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="225; S. 184-186">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1831-05-13"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="226; S. 187-190">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1831-06-17"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="228; S. 198-201">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1831-09-06"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="229; S. 201-205">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1831-11-10"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="232; S. 206-209">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1832-03-14"/>
@@ -496,7 +594,8 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="233; S. 209-215">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
                     <persName ref="https://d-nb.info/gnd/116211342">Ottilie Assing</persName>
                     <persName ref="https://d-nb.info/gnd/119376377">Ludmilla Assing</persName>
@@ -504,57 +603,72 @@
                     <date to="1832-07-17" from="1832-07-14"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="234; S. 215-216">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1832-09-13"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="236; S. 217-222">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date to="1833-01-21" from="1833-01-19"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="238; S. 225">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1833-03-11"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="239; S. 226-227">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1833-03-15"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="241; S. 229-231">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1833-05-04"/>
                 </correspAction>
@@ -564,29 +678,35 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="242; S. 231-233">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1833-05-14"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="243; S. 233-236">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
                     <date when="1833-06-06"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118561545">Justinus Kerner</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2812158">Weinsberg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2812158"
+                        >Weinsberg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="244.1; S. 236-237">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
                     <date to="1833-05-28" from="1833-05-27"/>
                 </correspAction>
@@ -597,7 +717,8 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="244.2; S. 238-241">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
                     <date to="1833-06-02" from="1833-05-31"/>
                 </correspAction>
@@ -608,7 +729,8 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="244.3; S. 242-243">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName evidence="conjecture" ref="http://d-nb.info/gnd/116371641">Rosa Maria
+                        Assing, geb. Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
                     <date to="1833-06-10" from="1833-06-05"/>
                 </correspAction>
@@ -619,7 +741,8 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="244.4; S. 243-247">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
                     <date to="1833-06-17" from="1833-06-13"/>
                 </correspAction>
@@ -630,7 +753,8 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="244.5; S.247-248">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
                     <date when="1833-06-18"/>
                 </correspAction>
@@ -641,7 +765,8 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="244.6; S. 248-249">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2953504">Baden</placeName>
                     <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
                     <date to="1833-06-28" from="1833-06-25"/>
@@ -653,7 +778,8 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="244.7; S. 250-251">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
                     <date to="1833-07-02" from="1833-07-01"/>
                 </correspAction>
@@ -664,7 +790,8 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="244.8; S. 251-253">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
                     <date to="1833-07-07" from="1833-07-05"/>
                 </correspAction>
@@ -675,18 +802,21 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="244.9; S. 253-256">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
                     <date to="1833-07-16" from="1833-07-15"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="244.10; S. 256-260">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
                     <date to="1833-07-21" from="1833-07-18"/>
                 </correspAction>
@@ -697,29 +827,34 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="244.11; S. 260-264">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2812158">Weinsberg</placeName>
                     <date to="1833-07-28" from="1833-07-25"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="244.12; S. 265-268">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2812158">Weinsberg</placeName>
                     <date to="1833-08-07" from="1833-08-03"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="244.13; S. 268-269">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2812158">Weinsberg</placeName>
                     <date when="1833-08-12"/>
                 </correspAction>
@@ -730,41 +865,49 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="244.14; S. 269-271">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
                     <date when="1833-08-17"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="246; S. 272-273">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1833-10-09"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118561545">Justinus Kerner</persName>
-                    <persName ref="http://d-nb.info/gnd/116413832">Friederike Kerner, geb. Ehmann</persName>
+                    <persName ref="http://d-nb.info/gnd/116413832">Friederike Kerner, geb.
+                        Ehmann</persName>
                     <placeName ref="http://www.geonames.org/2812158">Weinsberg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="247; S. 273-287">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1833-11-06"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="248; S. 287-288">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1834-02-12"/>
                 </correspAction>
@@ -774,18 +917,21 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="249; S. 288-292">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1834-02-26"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="250; S. 293-294">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1834-02-26"/>
                 </correspAction>
@@ -795,96 +941,117 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="251; S. 294-295">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1834-05-09"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="252; S. 295-300">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1834-09-18"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="253; S. 300-303">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1834-12-11"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="254; S. 304-305">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1834-12-22"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="255; S. 305">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                     <date when="1835-02-21"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="256; S. 305-309">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1835-04-12"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="257; S. 309-310">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1835-05-26"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1835-09-18"/>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="258.1; S. 310-311">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
                     <date when="1835-05-31"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="258.2; S. 313">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
                     <date when="1835-06-04"/>
                 </correspAction>
@@ -895,41 +1062,49 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="258.3, S. 313-314">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
                     <date when="1835-06-07"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="259; S. 315">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
                     <date when="1835-06-11"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118561545">Justinus Kerner</persName>
-                    <persName ref="http://d-nb.info/gnd/116413832">Friederike Kerner, geb. Ehmann</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2812158">Weinsberg</placeName>
+                    <persName ref="http://d-nb.info/gnd/116413832">Friederike Kerner, geb.
+                        Ehmann</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2812158"
+                        >Weinsberg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="258.4; S. 315-316">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
                     <date when="1835-06-13"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="258.5; S. 316-320">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
                     <date to="1835-06-19" from="1835-06-16"/>
                 </correspAction>
@@ -946,18 +1121,21 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="258.7; S. 324-328">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
                     <date when="1835-06-28"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="258.8; S. 328-331">
@@ -978,7 +1156,8 @@
                     <date when="1835-06-30"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
                 </correspAction>
             </correspDesc>
@@ -1001,23 +1180,27 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="258.11; S. 340-344">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
                     <date to="1835-07-06" from="1835-07-02"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="258.12; S. 344-350">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
                     <date to="1835-07-13" from="1835-07-10"/>
                 </correspAction>
@@ -1034,12 +1217,14 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="258.14; S. 351-353">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116211342">Ottilie Assing</persName>
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116211342">Ottilie
+                        Assing</persName>
                     <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
                     <date to="1835-07-13" from="1835-07-10"/>
                 </correspAction>
@@ -1050,7 +1235,8 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="258.15; S. 353-355">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
                     <date to="1835-07-18" from="1835-07-14"/>
                 </correspAction>
@@ -1067,7 +1253,8 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="258.17; S. 356-357">
@@ -1083,7 +1270,8 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="258.18; S. 357-360">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
                     <date to="1835-07-27" from="1835-07-24"/>
                 </correspAction>
@@ -1100,7 +1288,8 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="258.20; S. 361-362">
@@ -1111,7 +1300,8 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="258.21; S. 362">
@@ -1127,13 +1317,15 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="258.22; S. 363-367">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
                     <date to="1835-08-06" from="1835-08-04"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="258.23; S. 367-368">
@@ -1144,40 +1336,47 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="258.24; S. 368-372">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2812158">Weinsberg</placeName>
                     <date to="1835-08-18" from="1835-08-14"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="258.25; S. 373">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/119376377">Ludmilla Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2812158">Weinsberg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2812158"
+                        >Weinsberg</placeName>
                     <date to="1835-08-15" from="1835-08-14"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="258.26; S. 373-374">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2812158">Weinsberg</placeName>
                     <date to="1835-08-21" from="1835-08-20"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="258.27; S. 374-375">
@@ -1199,19 +1398,22 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="258.29; S. 377-378">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2812158">Weinsberg</placeName>
                     <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
                     <date to="1835-08-28" from="1835-08-24"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="258.30; S. 379">
@@ -1238,83 +1440,102 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="258.32; S. 380">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2918632">Hanöversch Minden</placeName>
                     <date when="1835-08-31"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="261; S. 380-383">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1835-09-12"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="262; S. 383-385">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1835-11-30"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118561545">Justinus Kerner</persName>
-                    <persName ref="http://d-nb.info/gnd/116413832">Friederike Kerner, geb. Ehmann</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2812158">Weinsberg</placeName>
+                    <persName ref="http://d-nb.info/gnd/116413832">Friederike Kerner, geb.
+                        Ehmann</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2812158"
+                        >Weinsberg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="263; S. 385-388">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1836-01-07"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="264; S. 389-393">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1836-01-25"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://d-nb.info/gnd/11861049X">Amalia Schoppe, geb. Weise</persName>
+                    <persName ref="http://d-nb.info/gnd/11861049X">Amalia Schoppe, geb.
+                        Weise</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="265; S. 389-393">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date to="1836-02-22" from="1836-02-21"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="266; S. 393-394">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date notBefore="1836-03-15" notAfter="1836-04-30"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://d-nb.info/gnd/117326682">Sophie Schwab, geb. Gmelin</persName>
+                    <persName ref="http://d-nb.info/gnd/117326682">Sophie Schwab, geb.
+                        Gmelin</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="267; S. 394-396">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1836-05-02"/>
                 </correspAction>
@@ -1325,7 +1546,8 @@
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="268; S. 396-397">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date to="1836-06-14" from="1836-06-13"/>
                 </correspAction>
@@ -1335,62 +1557,77 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="269; S. 398">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1836-06-13"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="270; S. 399-402">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1836-07-26"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="271; S. 402-404">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date notBefore="1836-09-01" notAfter="1836-09-15"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://d-nb.info/gnd/117041645">Bianca Mojon, geb. Milesi</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <persName ref="http://d-nb.info/gnd/117041645">Bianca Mojon, geb.
+                        Milesi</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2988507"
+                        >Paris</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="272; S. 405-408">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date notBefore="1836-09-01" notAfter="1836-09-15"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118548018">Heinrich Heine</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2988507"
+                        >Paris</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="273; S. 408-412">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date to="1836-09-21" from="1836-09-15"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="274; S. 412-413">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1836-09-24"/>
                 </correspAction>
@@ -1400,50 +1637,62 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="275; S. 413">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                     <date notBefore="1836-12-01" notAfter="1836-12-31"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Varnhagen von Ense, Karl August</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Varnhagen von Ense, Karl
+                        August</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="277; S. 416-418">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1837-03-29"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="278; S. 418">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1837-06-28"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://d-nb.info/gnd/11861049X">Amalia Schoppe, geb. Weise</persName>
+                    <persName ref="http://d-nb.info/gnd/11861049X">Amalia Schoppe, geb.
+                        Weise</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="279; S. 419-426">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date to="1837-07-10" from="1837-06-26"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="280; S. 426">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                     <date when="1837-07-09"/>
                 </correspAction>
                 <correspAction type="received">
@@ -1452,53 +1701,66 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="281; S. 426-428">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1837-07-19"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="282; S. 428-429">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1837-07-22"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118561545">Justinus Kerner</persName>
-                    <persName ref="http://d-nb.info/gnd/116413832">Friederike Kerner, geb. Ehmann</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2812158">Weinsberg</placeName>
+                    <persName ref="http://d-nb.info/gnd/116413832">Friederike Kerner, geb.
+                        Ehmann</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2812158"
+                        >Weinsberg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="283; S. 429-431">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <persName ref="https://d-nb.info/gnd/102182094">David Assur Assing</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1837-08-04"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="285; S. 434-436">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1837-08-31"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="287; S. 440-441">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1837-10-03"/>
                 </correspAction>
@@ -1508,18 +1770,22 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="288; S. 441-443">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1837-11-11"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="289; S. 444-447">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1837-11-12"/>
                 </correspAction>
@@ -1530,8 +1796,10 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="291; S. 450">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                     <date when="1837-12-11"/>
                 </correspAction>
                 <correspAction type="received">
@@ -1541,29 +1809,36 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="293; S. 453-456">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1837-12-21"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="294; S. 456-457">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1837-12-25"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="295; S. 458">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1837-12-25"/>
                 </correspAction>
@@ -1573,29 +1848,36 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="297; S. 460-466">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1838-04-05"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="298; S. 466-470">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1838-06-11"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="299; S. 470-473">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                     <date when="1838-06-11"/>
                 </correspAction>
                 <correspAction type="received">
@@ -1605,18 +1887,22 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="301; S. 479-483">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1838-09-04"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="302; S. 483-487">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1838-09-27"/>
                 </correspAction>
@@ -1626,7 +1912,8 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="304; S. 488-492">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1838-10-20"/>
                 </correspAction>
@@ -1637,7 +1924,8 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="305; S. 492-493">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1838-11-09"/>
                 </correspAction>
@@ -1648,29 +1936,35 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="306; S. 493-494">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1838-12-27"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118735225">Theodor Mundt</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="307; S. 494-498">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1839-01-11"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="308; S. 498-500">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1839-01-19"/>
                 </correspAction>
@@ -1680,7 +1974,8 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="310; S. 501-503">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1839-03-22"/>
                 </correspAction>
@@ -1691,18 +1986,22 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="311; S. 505-510">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1839-04-17"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="312; S. 510-513">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1839-04-23"/>
                 </correspAction>
@@ -1712,8 +2011,10 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="313; S. 513-514">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                     <date when="1839-05-30"/>
                 </correspAction>
                 <correspAction type="received">
@@ -1722,28 +2023,34 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="314; S. 514-517">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                     <date when="1839-06-26"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://d-nb.info/gnd/117326682">Sophie Schwab, geb. Gmelin</persName>
+                    <persName ref="http://d-nb.info/gnd/117326682">Sophie Schwab, geb.
+                        Gmelin</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="315; S. 517-520">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1839-07-02"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="316; S. 521-522">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1839-07-15"/>
                 </correspAction>
@@ -1754,8 +2061,10 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="317; S. 522-525">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                     <date when="1839-09-16"/>
                 </correspAction>
                 <correspAction type="received">
@@ -1765,13 +2074,17 @@
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="318; S. 527-529">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb. Varnhagen</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <persName ref="http://d-nb.info/gnd/116371641">Rosa Maria Assing, geb.
+                        Varnhagen</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                     <date when="1839-11-16"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="319; S. 530-531">
@@ -1781,19 +2094,24 @@
                     <date when="1840-01-12"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="320; S. 531">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/119376377">Ludmilla Assing</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2911298"
+                        >Hamburg</placeName>
                     <date when="1840-01-13"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#xbd8f6ea-018c-4948-8a99-edbf0dd52518" key="321; S. 531-533">
@@ -1805,7 +2123,8 @@
                     <date when="1840-01-23"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+                    <persName ref="https://d-nb.info/gnd/118626167">Karl August Varnhagen von
+                        Ense</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
