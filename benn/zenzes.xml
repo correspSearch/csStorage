@@ -1,0 +1,2215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gottfried Benn - Gertrud Zenzes: Briefwechsel</title>
+                <editor>Franziska Keller<email>franziska.keller@stud-mail.uni-wuerzburg.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.germanistik.uni-wuerzburg.de/prof-ndl/team/kraft/"
+                        >Stephan Kraft</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY
+                        4.0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/benn/zenzes.xml</idno>
+                <date when="2026-07-11T19:07:33.494-02:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="wac2435f-4873-4045-8ad4-277f49703dd7">Gottfried Benn –
+                    Gertrud Zenzes: Briefwechsel. Kommentierte Digitaledition, hg. v. Holger Hof und
+                    Stephan Kraft unter Mitarbeit von Samuel Müller, Deutsche Schillergesellschaft
+                    e.V., Marbach am Neckar 2023, EdView Version 1.0.0 (Dezember 2023). <ref
+                        target="https://edview.dla-marbach.de/?project=BNGZSGBA"
+                        >https://edview.dla-marbach.de/?project=BNGZSGBA</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326119"
+                key="1 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1921-12-01" notAfter="1921-12-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326121"
+                key="2 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1921-12-01" notAfter="1921-12-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326123"
+                key="3 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date notBefore="1921-12-01" notAfter="1921-12-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326127"
+                key="4 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1921-12-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326129"
+                key="5 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1921-12-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326087"
+                key="6 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1921-12-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326131"
+                key="7 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1921-12-31">wohl Ende 1921</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326173"
+                key="8 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date notBefore="1922-01-01" notAfter="1922-01-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326177"
+                key="9 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1922-01-02" notAfter="1922-12-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326187"
+                key="10 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1922-01-02" notAfter="1922-12-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326175"
+                key="11 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date notBefore="1922-01-02" notAfter="1922-12-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326179"
+                key="12 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date notBefore="1922-01-02" notAfter="1922-12-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326095"
+                key="13 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date evidence="conjecture" when="1922-03-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326097"
+                key="14 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1922-03-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326099"
+                key="15 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1922-03-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326181"
+                key="16 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1922-04-10" notAfter="1922-04-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326101"
+                key="17 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1922-04-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326103"
+                key="18 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1922-04-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326105"
+                key="19 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1922-05-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326107"
+                key="20 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1922-05-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326183"
+                key="21 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1922-05-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326109"
+                key="22 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1922-06-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7" key="23 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1922-07-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326115"
+                key="24 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1922-07-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326189"
+                key="25 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1922-08-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326191"
+                key="26 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1922-08-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326194"
+                key="27 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1922-08-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326196"
+                key="28 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1922-09-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326198"
+                key="29 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1922-09-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326200"
+                key="30 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1922-11-20" notAfter="1922-11-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326202"
+                key="31 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1922-12-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326204"
+                key="32 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1922-12-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326206"
+                key="33 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date evidence="conjecture" when="1923-01-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326208"
+                key="34 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1924-04-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326210"
+                key="35 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1924-07-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2871928"
+                        >Menkin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326212"
+                key="36 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1924-11-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326214."
+                key="37 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1925-08-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2865223"
+                        >Neuhardenberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326220"
+                key="38 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1925-10-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326224"
+                key="39 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1926-02-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326226"
+                key="40 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1926-02-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326230"
+                key="41 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1926-03-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326234"
+                key="42 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date notBefore="1926-03-02" notAfter="1926-03-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326117"
+                key="43 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1926-09-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2871928"
+                        >Menkin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326236"
+                key="44 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1926-11-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3097257"
+                        >Hirschberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326242"
+                key="46 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1928-08-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326244"
+                key="47 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1929-02-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5391959">San
+                        Francisco</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326250"
+                key="48 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1933-09-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5391959">San Francisco</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326240"
+                key="49 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5391959">San
+                        Francisco</placeName>
+                    <date when="1933-10-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326256"
+                key="50 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                    <date when="1935-09-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326258"
+                key="51 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2910831"
+                        >Hannover</placeName>
+                    <date when="1935-09-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326260"
+                key="52 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                    <date when="1935-09-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326815"
+                key="53 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5393212">Santa Monica</placeName>
+                    <date notBefore="1936-12-01" notAfter="1936-12-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326262"
+                key="54 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1937-12-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5393212">Santa
+                        Monica</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326264"
+                key="55 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1938-01-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5393212">Santa
+                        Monica</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326266"
+                key="56 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1946-10-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326270"
+                key="57 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1946-11-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326625"
+                key="58 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date evidence="conjecture" when="1947-01-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326274"
+                key="59 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1947-01-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326631"
+                key="60 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1947-01-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326775"
+                key="61 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1947-02-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326294"
+                key="62 - Benn - Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1947-03-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326314"
+                key="63 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1947-04-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326771"
+                key="64 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1947-04-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326324"
+                key="65 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1947-05-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326635"
+                key="66 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1947-05-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326334"
+                key="67 - Ilse Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1947-05-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326643"
+                key="68 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date to="1947-06-07" from="1947-06-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326344"
+                key="69 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1947-06-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326362"
+                key="70 - Ilse Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1947-07-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326649"
+                key="71 - Zenzes an Ilse Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1947-07-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326374"
+                key="72 - Ilse Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1947-07-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326653"
+                key="73 - Zenzes an Ilse Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date to="1947-08-26" from="1947-08-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326382"
+                key="74 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1947-09-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326386"
+                key="75 - Ilse Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1947-09-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326655"
+                key="76 - Ilse Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date notBefore="1947-09-23" notAfter="1947-10-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326406"
+                key="77 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1947-11-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326657"
+                key="78 - Zenzes an Ilse Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1947-11-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326661"
+                key="79 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date to="1947-12-02" from="1947-12-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326412"
+                key="80 - Ilse Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1947-12-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326817"
+                key="81 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1948-01-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326418"
+                key="82 - Ilse Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1948-02-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326663"
+                key="83 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1948-02-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326424"
+                key="84 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1948-03-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326665"
+                key="85 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                    <date when="1948-05-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326667"
+                key="86 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                    <date when="1948-06-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116121041">Ilse
+                        Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326669"
+                key="87 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1948-07-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326829"
+                key="88 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1948-07-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326671"
+                key="89 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1948-07-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326440"
+                key="90 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1948-08-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2925533">Frankfurt
+                        am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326452"
+                key="91 - Benn an Heinz Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1948-08-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Heinrich Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326477"
+                key="92 - Ilse Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1948-09-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326479"
+                key="93 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1948-09-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326677"
+                key="94 - Zenzes an Ilse Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                    <date when="1948-10-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326679"
+                key="95 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                    <date when="1948-10-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326487"
+                key="96 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1948-11-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326681"
+                key="97 - Ilse Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1948-12-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326683"
+                key="98 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1948-12-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326493"
+                key="99 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1948-12-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326499"
+                key="100 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-01-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326501"
+                key="101 - Ilse Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-01-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326689"
+                key="102 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date to="1949-01-19" from="1949-01-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326505"
+                key="103 - Ilse Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-01-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326513"
+                key="104 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-02-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326517"
+                key="105 - Ilse Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-03-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326697"
+                key="106 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1949-04-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326701"
+                key="107 - Ilse Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-06-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326537"
+                key="108 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-06-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326705"
+                key="109 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <persName ref="https://d-nb.info/gnd/117050989">Hürsch</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1949-07-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-07-27"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326707"
+                key="110- Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5391959">San Francisco</placeName>
+                    <date when="1949-08-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date evidence="conjecture" when="1949-08-18"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326709"
+                key="111 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5493811">Taos</placeName>
+                    <date when="1949-08-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1949-08-30"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326547"
+                key="112 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried
+                        Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date evidence="conjecture" when="1949-09-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116982209">Gertrud
+                        Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326711"
+                key="113 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/3993179">Pátzcuaro</placeName>
+                    <date when="1949-09-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326549"
+                key="114 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-11-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326715"
+                key="115 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                    <date when="1949-12-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326553"
+                key="116 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-12-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326555"
+                key="117 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1950-01-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326717"
+                key="118 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1950-03-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1950-03-11"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326721"
+                key="119 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1950-04-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326559"
+                key="120 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1950-04-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326723"
+                key="121 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1950-06-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date evidence="conjecture" when="1950-06-16"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326725"
+                key="122 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/3530597">Mexiko-Stadt</placeName>
+                    <date when="1950-07-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326563"
+                key="123 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1950-12-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326727"
+                key="124 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1951-01-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326567"
+                key="125 - Ilse Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-01-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326083"
+                key="126 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-01-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326579"
+                key="127 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1951-04-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326581"
+                key="129 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1951-04-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2809346">Wiesbaden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326731"
+                key="129 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2809346">Wiesbaden</placeName>
+                    <date when="1951-05-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326763"
+                key="130 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date to="1951-05-27" evidence="conjecture" from="1951-05-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1951-05-30"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326583"
+                key="131 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1951-06-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326585"
+                key="132 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-06-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326587"
+                key="133 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1951-07-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1951-07-27"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326589"
+                key="134 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-07-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2886242"
+                        >Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326755"
+                key="135 - Ilse Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-09-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326753"
+                key="136 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <persName ref="https://d-nb.info/gnd/118734806">Max Niedermayer</persName>
+                    <placeName ref="http://www.geonames.org/2809346">Wiesbaden</placeName>
+                    <date notBefore="1951-09-11" notAfter="1951-09-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326759"
+                key="137 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2886242"
+                        >Köln</placeName>
+                    <date when="1951-09-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1951-10-03"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326761"
+                key="138 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2886242"
+                        >Köln</placeName>
+                    <date when="1951-11-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326597"
+                key="139 - Ilse Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-12-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326749"
+                key="140 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1952-04-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326599"
+                key="141 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-12-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326745"
+                key="142 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1952-12-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326743"
+                key="143 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                    <date when="1953-04-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326601"
+                key="144 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1953-12-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326741"
+                key="145 - Ilse Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-02-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326607"
+                key="146 - Zenzes an Ilse Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date when="1954-08-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-19"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326739"
+                key="147 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2657896"
+                        >Zürich</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326767"
+                key="148 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                    <date when="1954-12-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326645"
+                key="149 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1955-01-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1955-01-05"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326609."
+                key="150 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326769"
+                key="151 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1955-12-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1955-12-24"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326611"
+                key="152 - Ilse Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-12-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New
+                        York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326615"
+                key="153 - Zenzes an Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date notBefore="1956-04-01" notAfter="1956-05-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326691"
+                key="154 - Zenzes an Ilse Benn">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1956-07-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326787"
+                key="155 - Zenzes an Niedermayer">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1957-03-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118734806">Max Niedermayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2925533">Frankfurt
+                        am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326789"
+                key="155 - Zenzes an Niedermayer">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                    <date when="1957-04-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118734806">Max Niedermayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2925533">Frankfurt
+                        am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#wac2435f-4873-4045-8ad4-277f49703dd7"
+                ref="https://edview.dla-marbach.de/?project=BNGZSGBA&amp;=326238"
+                key="45 - Benn an Zenzes">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
+                        >Berlin</placeName>
+                    <date when="1923-05-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2865223"
+                        >Neuhardenberg</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
