@@ -925,7 +925,7 @@
             <correspDesc source="#e1e7187d-050f-44aa-9cdc-f60aaaa998d0" key="90">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
-                    <date notAfter="1833-09-10" notBefore="1833-09-01">wohl Anfang Septmeber 1933</date>
+                    <date notAfter="1833-09-10" notBefore="1833-09-01">wohl Anfang September 1833</date>
                     <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
                 </correspAction>
                 <correspAction type="received">
@@ -1132,7 +1132,7 @@
             <correspDesc source="#e1e7187d-050f-44aa-9cdc-f60aaaa998d0" key="110">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
-                    <date notAfter="1934-12-31" notBefore="1834-01-01">wohl 1834</date>
+                    <date notAfter="1834-12-31" notBefore="1834-01-01">wohl 1834</date>
                     <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
                 </correspAction>
                 <correspAction type="received">
@@ -2945,7 +2945,7 @@
             <correspDesc source="#e1e7187d-050f-44aa-9cdc-f60aaaa998d0" key="288">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
-                    <date cert="low" from="1845-06-01" evidence="conjecture" to="1845-06-30">wohl Juni 1945</date>
+                    <date cert="low" from="1845-06-01" evidence="conjecture" to="1845-06-30">wohl Juni 1845</date>
                     <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
                 </correspAction>
                 <correspAction type="received">
