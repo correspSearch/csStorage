@@ -1,0 +1,1413 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Briefverzeichnis zu Johannes Kepler, Gesammelte Werke, Band XIII: Briefe
+          1590–1599</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Nicht angegeben</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under
+            the terms of the Creative Commons License CC-BY 4.0</licence>
+        </availability>
+        <date when="2026-09-18T10:00:00Z">2026-09-18T10:00:00Z</date>
+        <idno type="url">https://correspsearch.net/storage/kepler_band1.xml</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="print" xml:id="bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">Johannes Kepler:
+          Gesammelte Werke. Band XIII: Briefe 1590–1599. Herausgegeben von Max Caspar. München: C.
+          H. Beck, 1945. <ref target="http://publikationen.badw.de/de/002334747">[Digitalisat]</ref></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc key="1" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <orgName>Bürgermeister und Rat von Weil</orgName>
+          <placeName ref="http://www.geonames.org/2812625">Weil</placeName>
+          <date when="1590-05-22"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName>Universitat Tübingen</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="2" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1590-06"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName>Rektor der Universität Tübingen</orgName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="3" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName>Universitat Tübingen</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1591-11-04"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName>Bürgermeister und Rat von Weil</orgName>
+          <placeName ref="http://www.geonames.org/2812625">Weil</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="4" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <orgName>Biirgermeister und Rat von Weil</orgName>
+          <placeName ref="http://www.geonames.org/2812625">Weil</placeName>
+          <date when="1591-12-17"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName>Universitat Tübingen</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="5" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/1055570977">Melchior Scharer</persName>
+          <placeName ref="http://www.geonames.org/2809718">Widdern</placeName>
+          <date when="1593-01-27"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="6" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName>Matthias Kollin</persName>
+          <placeName ref="http://www.geonames.org/6558505">Blaubeuren</placeName>
+          <date when="1593-02-12"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="7" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2878695">Leonberg</placeName>
+          <date when="1593-07-24"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName>seinen Großvater</persName>
+          <placeName>Weil</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="8" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1594-02-28"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName>Theologische Fakultät der Universitat Tübingen</orgName>
+          <placeName>Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="9" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1594-04-08"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName>Schulinspektoren</orgName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="10" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1594-08-01"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName>Stände</orgName>
+          <placeName>Steiermark</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="11" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1594-08"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName>Hofkriegsräte von Steiermark</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="12" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1594-08"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName>Anonymer Adliger</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="13" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date to="1594-10-29" from="1594-10-19"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116587512">Stephan Gerlach</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="14" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2940383">Calw</placeName>
+          <date when="1594-11-14"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="15" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/116369922">Matthias Hafenreffer</persName>
+          <placeName ref="http://www.geonames.org/2940383">Calw</placeName>
+          <date when="1594-11-14"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="16" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date to="1595-01-18" from="1595-01-08"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2940383">Calw</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="17" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date to="1595-01-18" from="1595-01-08"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="18" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date to="1595-05-17" from="1595-05-17"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="19" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName>Konrad Vischses</persName>
+          <date to="1595-05-24" from="1595-05-14"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="20" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName>Christoph Ortholph</persName>
+          <placeName ref="http://www.geonames.org/2903815">Hirsau</placeName>
+          <date when="1595-06-20"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="21" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1595-08-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="22" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1595-09-14"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="23" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1595-10-03"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="24" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date to="1595-10-30" from="1595-10-20"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="25" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName>Georg Erasmus Baron von Tschernembl</persName>
+          <placeName ref="http://www.geonames.org/2765347">Schwertberg</placeName>
+          <date when="1595-11-01"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="26" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1595-11-15"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118837087">Raimarus Ursus</persName>
+          <placeName ref="http://www.geonames.org/3067696">Prag</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="27" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1595-12-13"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName>Verordneten der Landschaft Steyr</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="28" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+          <date when="1596-02-17"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118535862">Herzog Friedrich von Württemberg</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="29" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1596-02-27"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="30" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+          <date when="1596-02-29"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118535862">Herzog Friedrich von Württemberg</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="31" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1596-03-12"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118535862">Herzog Friedrich von Württemberg</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="32" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+          <date when="1596-03"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="33" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11955111X">Lukas Osiander</persName>
+          <placeName ref="http://www.geonames.org/2919054">Goppingen</placeName>
+          <date when="1596-03-22"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="34" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+          <date to="1596-03-30" from="1596-03-20"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118535862">Herzog Friedrich von Württemberg</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="35" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+          <date when="1596-04-01"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="36" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+          <date when="1596-04-03"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="37" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1596-04-11"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="38" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+          <date when="1596-04-13"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="39" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+          <date when="1596-04-15"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="40" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1596-05-01"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName>Universi tat Tübingen</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="41" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/122440625">Johannes Papius</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1596-05-17"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="42" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+          <date when="1596-05-28"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118535862">Herzog Friedrich von Württemberg</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="43" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1596-05"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName>den Prorektor der Universitat Tübingen</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="44" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/116369922">Matthias Hafenreffer</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1596-06-06"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="45" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/122440625">Johannes Papius</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1596-06-07"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="46" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118677446">Martin Crusius</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1596-06-09"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="47" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+          <date when="1596-06-11"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mistlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="48" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/116369922">Matthias Hafenreffer</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1596-06-14"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="49" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+          <date when="1596-06-27"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118535862">Herzog Friedrich von Württemberg</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="50" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+          <date when="1596-07-03"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118535862">Herzog Friedrich von Württemberg</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="51" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1596-09-11"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName>Verordneten der Landschaft Steyr</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="52" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date to="1596-11-15" from="1596-11-15"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="53" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/116877049">Christoph Leibfrid</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1596-12-24"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="54" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/116877049">Christoph Leibfrid</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1596"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="55" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118535862">Herzog Friedrich von Württemberg</persName>
+          <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+          <date when="1596-12-28"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="56" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1597-01-07"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="57" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1597-01"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName>das Kirchenministerium</orgName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="58" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1597-01-10"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="59" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1597-01-27"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118535862">Herzog Friedrich von Wurttemberg</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="60" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1597-02-10"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="61" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118535862">Herzog Friedrich von Wurttemberg</persName>
+          <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+          <date when="1597-02-01"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="62" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Ma~tlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1597-02-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="63" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1597-03-09"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="64" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1597-04-09"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="65" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1597-04-12"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName>Stande von Steiermark</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="66" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118677446">Martin Crusius</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1597-04-03"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="67" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1597-04-27"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="68" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName>Helisaus Raslin</persName>
+          <placeName ref="http://www.geonames.org/3014078">Hagenau</placeName>
+          <date to="1597-05-14" from="1597-05-04"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/100357946">Herwart von Hohenburg</persName>
+          <placeName ref="http://www.geonames.org/2867714">München</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="69" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118837087">Raimarus Ursus</persName>
+          <placeName ref="http://www.geonames.org/3067696">Prag</placeName>
+          <date when="1597-05-29"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="70" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1597-06-30"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName>Schulinspektoren</orgName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="71" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1597-07-11"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="72" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName>Helisiius Roslin</persName>
+          <placeName ref="http://www.geonames.org/3014078">Hagenau</placeName>
+          <date to="1597-07-30" from="1597-07-20"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/100357946">Herwart von Hohenburg</persName>
+          <placeName ref="http://www.geonames.org/2867714">München</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="73" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118537229">Galilei</persName>
+          <placeName ref="http://www.geonames.org/3171728">Padua</placeName>
+          <date when="1597-08-04"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="74" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1597-09-12"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/100357946">Herwart von Hohenburg</persName>
+          <placeName ref="http://www.geonames.org/2867714">München</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="75" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1597-10"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="76" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1597-10-13"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118537229">Galilei</persName>
+          <placeName ref="http://www.geonames.org/3171728">Padua</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="77" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName>Helisaus Roslin</persName>
+          <placeName ref="http://www.geonames.org/3014078">Hagenau</placeName>
+          <date to="1597-10-14" from="1597-10-04"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/100357946">Herwart von Hohenburg</persName>
+          <placeName ref="http://www.geonames.org/2867714">Munchen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="78" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/100357946">Herwart von Hohenburg</persName>
+          <placeName ref="http://www.geonames.org/2867714">München</placeName>
+          <date when="1597-10-24"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="79" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118687069">J ohann Baptist FickIer</persName>
+          <placeName ref="http://www.geonames.org/2867714">München</placeName>
+          <date when="1597-11-04"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="80" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1597-10-30"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="81" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1597-12-01"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName>Matthias Vochtmann</persName>
+          <placeName ref="http://www.geonames.org/2781371">Bruck</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="82" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1597-12-13"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118514237">Tycho Brahe</persName>
+          <placeName ref="http://www.geonames.org/2911285">Wandsbek</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="83" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1597-12-24"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/100357946">Herwart von Hohenburg</persName>
+          <placeName ref="http://www.geonames.org/2867714">Mlinchen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="84" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName>Johannes Pleuring</persName>
+          <placeName>Burgstein</placeName>
+          <date when="1597"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="85" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1598-01-06"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="86" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/119169002">Johannes Prätorius</persName>
+          <placeName ref="http://www.geonames.org/2958024">Altorf</placeName>
+          <date to="1598-02-24" from="1598-02-14"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/100357946">Herwart von Hohenburg</persName>
+          <placeName ref="http://www.geonames.org/2867714">Munchen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="87" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/100357946">Herwart von Hohenburg</persName>
+          <placeName ref="http://www.geonames.org/2867714">München</placeName>
+          <date when="1598-03-10"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="88" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/100357946">Herwart von Hohenburg</persName>
+          <placeName ref="http://www.geonames.org/2867714">München</placeName>
+          <date when="1598-03-12"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="89" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1598-03-15"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="90" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118535862">Herzog Friedrich von Württemberg</persName>
+          <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+          <date when="1598-03-11"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="91" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1598-03-26"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/100357946">Herwart von Hohenburg</persName>
+          <placeName ref="http://www.geonames.org/2867714">München</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="92" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118514237">Tycho Brahe</persName>
+          <placeName ref="http://www.geonames.org/2911285">Wandsbek</placeName>
+          <date when="1598-04-01"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="93" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/116369922">Matthias Hafenreffer</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1598-04-12"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="94" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118514237">Tycho Brahe</persName>
+          <placeName ref="http://www.geonames.org/2911285">Wandsbek</placeName>
+          <date when="1598-04-21"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="95" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/119169002">Johannes Pratorius</persName>
+          <placeName ref="http://www.geonames.org/2958024">Altorf</placeName>
+          <date when="1598-04-23"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/100357946">Herwart von Hohenburg</persName>
+          <placeName ref="http://www.geonames.org/2867714">München</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="96" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/122363590">Georg Limnaus</persName>
+          <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
+          <date when="1598-04-24"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="97" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1598-05-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="98" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/119169002">Johannes Pratorius</persName>
+          <placeName ref="http://www.geonames.org/2958024">Altorf</placeName>
+          <date when="1598-05-07"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/100357946">Herwart von Hohenburg</persName>
+          <placeName ref="http://www.geonames.org/2867714">München</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="99" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName>Graz)</placeName>
+          <date when="1598-06-11"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="100" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1598-07-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="101" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1598-07-04"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="102" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/116369922">Matthias Hafenreffer</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1598-08-06"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="103" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName>Baierdorf bei Graz</placeName>
+          <date when="1598-08-12"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="104" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/100357946">Herwart von Hohenburg</persName>
+          <placeName ref="http://www.geonames.org/2867714">München</placeName>
+          <date when="1598-10-15"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="105" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName>Colmann Zehentmair</persName>
+          <placeName>Guttenhag</placeName>
+          <date when="1598-11-15"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="106" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1598-12-08"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="107" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1598-12-16"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/100357946">Herwart von Hohenburg</persName>
+          <placeName ref="http://www.geonames.org/2867714">München</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="108" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName>Colmann Zehentmair</persName>
+          <placeName>Guttenhag</placeName>
+          <date when="1598-12-24"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="109" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/100357946">Herwart von Hohenburg</persName>
+          <placeName ref="http://www.geonames.org/2867714">Munchen</placeName>
+          <date when="1599-01-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="110" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date to="1599-01-12" from="1599-01-11"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="111" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1599-01-29"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/100357946">Herwart von Hohenburg</persName>
+          <placeName ref="http://www.geonames.org/2867714">Munchen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="112" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1599-02-19"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118514237">Tycho Brahe</persName>
+          <placeName>Wittenberg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="113" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date to="1599-02-26" from="1599-02-16"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="114" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/100357946">Herwart von Hohenburg</persName>
+          <placeName ref="http://www.geonames.org/2867714">München</placeName>
+          <date when="1599"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="115" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName>Colmann Zehentmair</persName>
+          <placeName>Guttenhag</placeName>
+          <date when="1599-03-23"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="116" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName>Colmann Zehentmair</persName>
+          <placeName>Guttenhag</placeName>
+          <date when="1599-04-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="117" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date to="1599-04-10" from="1599-04-09"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/100357946">Herwart von Hohenburg</persName>
+          <placeName ref="http://www.geonames.org/2867714">München</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="118" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName>Colmann Zehentmair</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1599-04-20"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="119" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Tübingen</placeName>
+          <date when="1599-04-12"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="120" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName>Colmann Zehentmair</persName>
+          <placeName>Guttenhag</placeName>
+          <date when="1599-04-26"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="121" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/100357946">Herwart von Hohenburg</persName>
+          <placeName ref="http://www.geonames.org/2867714">München</placeName>
+          <date when="1599-05-16"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="122" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName>Colmann Zehentmair</persName>
+          <placeName>Guttenhag</placeName>
+          <date when="1599-05-24"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="123" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+          <date when="1599-05-30"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/100357946">Herwart von Hohenburg</persName>
+          <placeName ref="http://www.geonames.org/2867714">München</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="124" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName>Colmann Zehentmair</persName>
+          <placeName>Guttenhag</placeName>
+          <date when="1599-06-12"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="125" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName>Colmann Zehentmair</persName>
+          <placeName>Guttenhag</placeName>
+          <date when="1599-06-23"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="126" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/119211637">Michael Mästlin</persName>
+          <placeName ref="http://www.geonames.org/2820860">Ttibingen</placeName>
+          <date when="1599-06-17"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="127" source="#bibl-ba9e7eda-5de4-4329-8ac0-cd2cb7f379c6">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/122440625">Johannes Papius</persName>
+          <placeName ref="http://www.geonames.org/2955936">Ansbach</placeName>
+          <date when="1599-06-25"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118561448">Johannes Kepler</persName>
+          <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p/>
+    </body>
+  </text>
+</TEI>
