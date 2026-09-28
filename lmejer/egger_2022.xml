@@ -1,0 +1,805 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Luise Mejer. Briefe 1778 bis 1786</title>
+        <editor>correspSearch<email>correspSearch@bbaw.de</email></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under
+            the terms of the Creative Commons License CC-BY 4.0</licence>
+        </availability>
+        <date when="2026-09-28T13:40:04Z"/>
+        <idno type="url">https://correspsearch.net/lmejer/egger_2022.xml</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="online" xml:id="f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">Egger, Johanna: Luise
+          Mejer. Briefe 1778 bis 1786. Dissertation, Georg-August-Universität Göttingen,
+          Philologische Fakultät, Göttingen 2022. <ref
+            target="https://doi.org/10.53846/goediss-10776">DOI: 10.53846/goediss-10776</ref></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc key="1" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2910831">Hannover</placeName>
+          <date when="1778-04-10"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="2" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2910831">Hannover</placeName>
+          <date when="1778-04-12"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="3" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2910831">Hannover</placeName>
+          <date notBefore="1778-06-22">nach dem 21. Juni 1778</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118798316">Anton Matthias Sprickmann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="4" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2910831">Hannover</placeName>
+          <date when="1778-11-26"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11623346X">Ernestine Voß</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="5" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2910831">Hannover</placeName>
+          <date when="1779-01-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="6" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2910831">Hannover</placeName>
+          <date when="1779-01-06"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="7" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2910831">Hannover</placeName>
+          <date notBefore="1779-01-07" notAfter="1779-01-10">nach dem 6. und vor dem 11. Januar
+            1779</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="8" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2910831">Hannover</placeName>
+          <date when="1779-08-12"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="9" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2910831">Hannover</placeName>
+          <date when="1779-08-15"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="10" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2910831">Hannover</placeName>
+          <date when="1779-08-18"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="11" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2910831">Hannover</placeName>
+          <date when="1779-08-21"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="12" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2910831">Hannover</placeName>
+          <date when="1779-08-25"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="13" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2910831">Hannover</placeName>
+          <date when="1780-04-14"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116150874">Johann Christian Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="14" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2910831">Hannover</placeName>
+          <date when="1780-04-15"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116150874">Johann Christian Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="15" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2910831">Hannover</placeName>
+          <date when="1781-01-31"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11623346X">Ernestine Voß</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="16" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2910831">Hannover</placeName>
+          <date when="1781-04-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118798316">Anton Matthias Sprickmann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="17" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1781-10-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="18" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1781-10-09"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="19" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1781-10-20"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="20" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1781-11-05"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="21" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1781-11-15"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="22" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1781-12-26"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="23" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1782-01-10"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="24" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1782-01-25"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="25" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1782-02-10"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="26" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1782-02-21"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="27" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1782-03-07"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="28" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1782-04-09"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="29" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1782-05-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="30" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1782-05-06"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11623346X">Ernestine Voß</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="31" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1782-05-16"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="32" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1782-05-26"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="33" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1782-06-16"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="34" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1782-06-23"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="35" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1782-09-12"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="36" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1782-09-22"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="37" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1782-10-03"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="38" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1782-11-10"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="39" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1782-12-08"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="40" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <date notBefore="1783-01-01" notAfter="1783-02-28">Ende Januar / Anfang Februar
+            1783</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118798316">Anton Matthias Sprickmann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="41" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1783-02-11"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="42" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1783-05-28"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="43" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1783-10-16"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116150874">Johann Christian Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="44" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1783-10-19"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116150874">Johann Christian Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="45" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1783-10-26"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="46" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1783-10-26"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116150874">Johann Christian Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="47" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1783-11-06"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116150874">Johann Christian Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="48" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1783-11-16"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="49" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2821342">Tremsbüttel</placeName>
+          <date when="1783-12-25"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11623346X">Ernestine Voß</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="50" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2821342">Tremsbüttel</placeName>
+          <date when="1784-01-26"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118627910">Johann Heinrich Voß</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="51" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2856405">Osterode</placeName>
+          <date when="1784-07-19"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116233435">Christian Rudolf Boie</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="52" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1784-08-27"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="53" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1784-10-21"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="54" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1784-11-07"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="55" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1785-01-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="56" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1785-01-13"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116150874">Johann Christian Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="57" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date notBefore="1785-02-01" notAfter="1785-02-28">Februar 1785</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="58" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1785-02-25"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="59" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date from="1785-03-03" to="1785-03-06">3. und 6. März 1785</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="60" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1785-03-27"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="61" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1785-04-05"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName>Reinhold Boie</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="62" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1785-04-12"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116233435">Christian Rudolf Boie</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="63" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1785-04-21"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="64" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1785-05-07"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="65" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Mejer</persName>
+          <placeName ref="https://www.geonames.org/2940213">Celle</placeName>
+          <date when="1785-06-09"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+          <persName ref="http://d-nb.info/gnd/116150874">Johann Christian Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="66" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Boie</persName>
+          <placeName ref="https://www.geonames.org/2872100">Meldorf</placeName>
+          <date when="1785-07-21"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116233451">Engel Catharina Boie</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="67" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Boie</persName>
+          <placeName ref="https://www.geonames.org/2872100">Meldorf</placeName>
+          <date when="1785-08-13"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116233435">Christian Rudolf Boie</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="68" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Boie</persName>
+          <placeName ref="https://www.geonames.org/2872100">Meldorf</placeName>
+          <date when="1785-09-11"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116233435">Christian Rudolf Boie</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="69" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Boie</persName>
+          <placeName ref="https://www.geonames.org/2872100">Meldorf</placeName>
+          <date when="1785-11-27"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116233435">Christian Rudolf Boie</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="70" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Boie</persName>
+          <placeName ref="https://www.geonames.org/2872100">Meldorf</placeName>
+          <date when="1786-01-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116233435">Christian Rudolf Boie</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="71" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Boie</persName>
+          <placeName ref="https://www.geonames.org/2872100">Meldorf</placeName>
+          <date from="1786-01-22" to="1786-01-23">22. und 23. Januar 1786</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="72" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Boie</persName>
+          <placeName ref="https://www.geonames.org/2872100">Meldorf</placeName>
+          <date when="1786-02-18"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116233451">Engel Catharina Boie</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="73" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Boie</persName>
+          <placeName ref="https://www.geonames.org/2872100">Meldorf</placeName>
+          <date when="1786-03-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116233435">Christian Rudolf Boie</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="74" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Boie</persName>
+          <placeName ref="https://www.geonames.org/2872100">Meldorf</placeName>
+          <date when="1786-04-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116233451">Engel Catharina Boie</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="75" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Boie</persName>
+          <placeName ref="https://www.geonames.org/2872100">Meldorf</placeName>
+          <date when="1786-05-08"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116233451">Engel Catharina Boie</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="76" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Boie</persName>
+          <placeName ref="https://www.geonames.org/2872100">Meldorf</placeName>
+          <date when="1786-05-18"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116233435">Christian Rudolf Boie</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="77" source="#f9b3b3c4-7829-4c4d-9c33-f832cb5efc4e">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11894553X">Luise Boie</persName>
+          <placeName ref="https://www.geonames.org/2872100">Meldorf</placeName>
+          <date notBefore="1786-06-01" notAfter="1786-06-30">Mitte Juni 1786</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116233435">Christian Rudolf Boie</persName>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p/>
+    </body>
+  </text>
+</TEI>
