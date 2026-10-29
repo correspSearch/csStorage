@@ -1,0 +1,1198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefwechsel Lou Andreas-Salomé und Ellen Key</title>
+                <editor>Ursula Welsch<email>info@medienedition.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://medienedition.de">MedienEdition Welsch</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY
+                        4.0</licence>
+                </availability>
+                <date when="2026-09-04T18:25:54.655-02:00"/>
+                <idno type="url">https://correspsearch.net/storage/andreas-salome/ellen-key.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="cef5647f-becc-4f29-9aee-7eb80f6bc94d">Lou Andreas-Salomé:
+                    "du Liebe, Leichtsinnige, Faule Lou". Briefwechsel mit Ellen Key (1898-1920),
+                    hg. von Heinz Kulas und Edith Hanke, Taching am See: MedienEdition Welsch
+                    2026</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName>Berlin</placeName>
+                    <date notAfter="1898-05-04">[vor 4.5.1898]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <date evidence="conjecture" when="1898-05-04">"Mittwoch" [4.5.1898]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2838009"
+                        >Berlin-Schmargendorf</placeName>
+                    <date when="1898-05-10">"Freitag" 10.5.1898 (PS)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin S.W.</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin S.W.</placeName>
+                    <date when="1898-06-09">"Donnerstag" 9.6.1898 (PS)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2838009"
+                        >Berlin-Schmargendorf</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2818207">Soiensaß Post
+                        Urfeld</placeName>
+                    <date when="1898-07-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2838009"
+                        >Berlin-Schmargendorf</placeName>
+                    <date evidence="conjecture" when="1898-08-01">1.8.[1898]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2673730">Stockholm</placeName>
+                    <date when="1898-09-25">25.9.1898</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2838009"
+                        >Berlin-Schmargendorf</placeName>
+                    <date when="1898-09-30">30.9.1898</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2673730">Stockholm</placeName>
+                    <date when="1899-10-25">25.10.1899</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2838009"
+                        >Berlin-Schmargendorf</placeName>
+                    <date when="1899-10-29">29.10.1899</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2673730">Stockholm</placeName>
+                    <date when="1900-04-16">16.4.1900</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2838009"
+                        >Berlin-Schmargendorf</placeName>
+                    <date when="1900-04-22">22.4.1900</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date notBefore="1901-06-17" notAfter="1901-06-25">[zwischen 17. bis
+                        25.6.1901]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1901-06-28">28.6.1901 (PS)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2838009"
+                        >Berlin-Schmargendorf</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2838009"
+                        >Berlin-Schmargendorf</placeName>
+                    <date when="1901-06-29">29.6.1901 (PS)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin W.</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2618425">Kopenhagen</placeName>
+                    <date when="1901-07-10">10.7.1901 (PS)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2838009"
+                        >Berlin-Schmargendorf</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2711537">Göteborg</placeName>
+                    <date when="1901-08-09">9.8.1901</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2619956">Gammelskagen</placeName>
+                    <date notAfter="1901-08-21">[vor 21.8.1901]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2673730">Schweden</placeName>
+                    <date when="1901-08-21">21.8.1901</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2619956">Gammelskagen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2673730">Stockholm</placeName>
+                    <date when="1903-01-18">18.1.1903</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2838009"
+                        >Berlin-Schmargendorf</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2838009"
+                        >Berlin-Schmargendorf</placeName>
+                    <date when="1903-01-20">20.1.1903</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1303597713">Lizzie Gibson</persName>
+                    <placeName ref="http://www.geonames.org/2702949">Jonsered</placeName>
+                    <date when="1905-01-15">15.1.1905 (PS)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1905-04-16">16.4.1905</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2747373">Den Haag</placeName>
+                    <date when="1905-05-04">4.5.1905</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <date when="1905-05-06">6.5.1905</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1905-06-15">15.6.1905</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2702949">Jonsered</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName ref="http://www.geonames.org/3029374">Paris</placeName>
+                    <date when="1906-05-27">27.5.1906</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1906-08-01">1.8.1906</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/11608804">Ambach</placeName>
+                    <date evidence="conjecture" when="1906-09-03">3.9.[1906]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/498817">St. Petersburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2953507">Ems</placeName>
+                    <date evidence="conjecture" when="1908-07-28">28.7.[1908] </date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <date when="1908-07-31">31.7.1908 (PS)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2953507">Ems</placeName>
+                    <date when="1908-08-01">1.8.1908 (PS)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin W.</placeName>
+                    <date when="1908-08-14">14.8.1908</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2660074">St. Legier</placeName>
+                    <date when="1908-11-20">20.11.1908</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1104283085">Therese Krüger</persName>
+                    <placeName ref="http://www.geonames.org/2623087">Damgaard</placeName>
+                    <date notAfter="1905-10">[vor Okt 1905]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="36">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1908-11-23">23.11.1908</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <date notAfter="1908-12-22">[vor 22.12.1908]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2660074">St. Legier</placeName>
+                    <date evidence="conjecture" when="1908-12-22">22.12.[1908]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1243983396">Sissy Frerichs</persName>
+                    <placeName ref="http://www.geonames.org/13347997">Haus Sielbeck am
+                        Uklei</placeName>
+                    <date when="1908-12-29">29.12.1908</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="40">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1908-12-31">31.12.[1908] „Silvester 1908“</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="41">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2660074">St. Legier</placeName>
+                    <date when="1909-01-11">11.1.1909 (PS)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="42">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/3166101">Stresa</placeName>
+                    <date evidence="conjecture" when="1909-02-01">1.2.[1909]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="43">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/3171478">Paraggi</placeName>
+                    <date evidence="conjecture" when="1909-03-20">20.3.[1909]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/3171478">Paraggi</placeName>
+                    <date when="1909-03-25">25.3.1909 (PS)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/3170092">Portofino</placeName>
+                    <date when="1909-04-03">3.4.1909 (PS)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/3171478">Paraggi</placeName>
+                    <date when="1909-04-11">11.4.1909 (PS) „Osterabend 1909“</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2990440">Nizza</placeName>
+                    <date when="1909-04-20">20.4.1909 (PS)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="48">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2990440">Nizza</placeName>
+                    <date when="1909-04-28">28.4.1909 (PS)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="49">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/3029374">Paris</placeName>
+                    <date when="1909-06-13">13.6.1909 (PS)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="50">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2912621">Hagen</placeName>
+                    <date when="1909-06-23">23.6.1909 (PS)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="51">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <date evidence="conjecture" when="1909-06-24">[24.6.1909]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="52">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2808679">Wilhelmshöhe</placeName>
+                    <date when="1909-06-25">25.6.1909 (PS)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="53">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1909-07-02">2.7.1909 (PS)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin C.</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="54">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1909-07-04">4.7.1909 (PS)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin C.</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="55">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <persName ref="https://d-nb.info/gnd/1243983396">Sissy Frerichs</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1909-07-05">5.7.1909 </date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="56">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2841333">Sassnitz</placeName>
+                    <date when="1909-07-16">16.7.1909 (PS)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="57a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <date when="1909-07-20">20.7.1909</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="57b">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1243983396">Sissy Frerichs</persName>
+                    <date notAfter="1909-07-20">[vor 20.7.1909]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="58">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1909-07-27">27.7.1909</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="59">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2702949">Jonsered</placeName>
+                    <date when="1909-07-31">31.7.1909</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="60">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2673730">Stockholm</placeName>
+                    <date evidence="conjecture" when="1909-08-27">27.8.[1909]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="61">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date notBefore="1909-08-31" notAfter="1909-09-30">[September 1909]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="62">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <date notAfter="1909-11-12">[vor 12.11.1909]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="63">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2702949">Jonsered</placeName>
+                    <date evidence="conjecture" when="1909-11-12">12.11.[1909]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="64">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1909-12-10">10.12.1909 (PS)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2702949">Jonsered</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="65">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2702949">Jonsered</placeName>
+                    <date when="1910-01-15">15.1.1910</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="66">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1910-01-22">22.1.1910</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="67">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <date notBefore="1910-01-22">[nach 22.1.1910]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="68">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2702949">Jonsered</placeName>
+                    <date evidence="conjecture" when="1910-03-23">23.3.[1910]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="69">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <date when="1910-04-26">26.4.1910</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="70">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date notBefore="1910-04-26">[nach 26.4.1910]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2707265">Hästholmen</placeName>
+                    <date when="1910-07-30">30.7.1910 (PS)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="72">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <date notBefore="1910-07-30">[nach 30.7.1910]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="73">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2726336">Alvastra</placeName>
+                    <date when="1910-08-17">17.8.1910</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="74">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2726336">Alvastra</placeName>
+                    <date when="1910-10-19">19.10.1910 (PS)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="75">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date notBefore="1910-11-26">[nach 26.11.1910]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="76">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date notAfter="1911-08">[vor Mitte August 1911]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="77">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2673730">Stockholm</placeName>
+                    <date when="1911-09-08">8.9.1911</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="78">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <date to="1911-11-30" from="1911-11-15">[2. Nov.hälfte 1911]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="79">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2726336">Alvastra</placeName>
+                    <date when="1911-12-01">1.12.1911</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="80">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1911-12-07">7.12.1911</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="81">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date notAfter="1912-10-15">[vor Mitte Okt. 1912]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="82">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date notBefore="1912-10-25">[nach 25.10.1912]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="83">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2726336">Alvastra</placeName>
+                    <date when="1912-12-21">21.12.1912</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="84">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1913-01-02">2.1.1913</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="85">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date to="1913-07-21" from="1913-07-09">[zwischen 9.–21.7.1913]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="86">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <date when="1913-08-07">7.8.1913</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="87">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date notAfter="1913-10-05">[vor 5.10.1913]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="88">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2726336">Alvastra</placeName>
+                    <date when="1914-01-28">28.1.1914</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="89">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1914-05-13">13.5.1914</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="90">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2726336">Alvastra</placeName>
+                    <date when="1914-05-13">13.5.1914</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="91">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1914-05-20">20.5.1914</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="92">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1914-07-21">21.7.1914 (PS)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="93">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2726336">Alvastra</placeName>
+                    <date when="1914-07-28">28.7.1914 (PS)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="94">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1914-09-13">13.9.1914 (PS Göttingen) </date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2726336">Alvastra</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="95">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2726336">Alvastra</placeName>
+                    <date when="1914-09-13">13.9.1914 (PS Göttingen) </date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="96">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1914-11-02">2.11.1914</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="97">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2726336">Alvastra</placeName>
+                    <date when="1914-12-21">21.12.1914</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="98">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2726336">Alvastra</placeName>
+                    <date when="1915-01-20">20.1.1915</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="99">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1915-01-31">31.1.1915</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="100">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date to="1915-03-31" from="1915-03-19">[zwischen 19. und 31.3.1915]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="101">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <persName ref="https://d-nb.info/gnd/1303597713">Lizzie Gibson</persName>
+                    <placeName ref="http://www.geonames.org/2702949">Jonsered</placeName>
+                    <date when="1915-04-05">5.4.1915 „zweiten Ostertag“</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714"
+                        >München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="102">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <persName ref="https://d-nb.info/gnd/118689924">Emil von Gebsattel</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1915-04-22">22.4.1915</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="103">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1916-10-21">21.10.1916</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="104">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2726336">Alvastra</placeName>
+                    <date when="1916-11-04">4.11.1916</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="105">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1917-01-01">1.1.1917</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="106">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2726336">Alvastra</placeName>
+                    <date when="1917-07-30">30.7.1917</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="107">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1917-08-10">10.8.1917</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="108">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1919-11-07">7.11.1919</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="109">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                    <placeName ref="http://www.geonames.org/2726336">Alvastra</placeName>
+                    <date when="1920-01-17">17.1.1920</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#cef5647f-becc-4f29-9aee-7eb80f6bc94d" key="110">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118502921">Lou Andreas-Salomé</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1920-11-02">2.11.1920</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11893449X">Ellen Key</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
