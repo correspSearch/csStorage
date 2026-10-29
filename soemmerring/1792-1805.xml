@@ -1020,18 +1020,21 @@
                     <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc xml:id="f1422efc-0a35-42d5-bcf9-e935cd3a24d3" key="724" source="#fd7700b8-ead0-4228-81cd-1b4ce4bbff8f">
+            <correspDesc xml:id="f1422efc-0a35-42d5-bcf9-e935cd3a24d3" key="724" 
+                source="#fd7700b8-ead0-4228-81cd-1b4ce4bbff8f">
                 <correspAction type="sent">
-                    <persName ref="http://d-nb.info/gnd/118554700">Alexander vom Humboldt</persName>
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
                     <placeName ref="http://www.geonames.org/2951825">Bayreuth</placeName>
-                    <date when="1795-06-07">7.6.1795</date>
+                    <date when="1795-06-07"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
                 </correspAction>
                 <note>
-                    <ref type="https://lod.academy/cmif/vocab/terms#seeAlso" target="https://edition-humboldt.de/H0002729"/>
-                    <ref type="https://lod.academy/cmif/vocab/terms#isEditionOf" target="http://kalliope-verbund.info/DE-611-HS-461603" />
+                    <ref type="https://lod.academy/cmif/vocab/terms#seeAlso" 
+                        target="https://edition-humboldt.de/H0002729"/>
+                    <ref type="https://lod.academy/cmif/vocab/terms#isEditionOf" 
+                        target="http://kalliope-verbund.info/DE-611-HS-461603" />
                 </note>
             </correspDesc>
             <correspDesc xml:id="bf07a831-3e2f-4f08-b48e-e4c16b6391e0" key="725" source="#fd7700b8-ead0-4228-81cd-1b4ce4bbff8f">
